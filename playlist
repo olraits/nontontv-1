@@ -959,12 +959,14 @@ http://tvn.x10.bz/channel/master-7.m3u8
 http://tvn.x10.bz/channel/master-8.m3u8
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion4
 http://tvn.x10.bz/channel/master-17.m3u8
+
 #EXTINF:-1  tvg-logo="https://bit.ly/3b0w4i8" group-title="SPORTS",Champion1
 http://tvnid.wapgem.com/vidio/7.m3u8
 #EXTINF:-1  tvg-logo="https://bit.ly/3G5WH3L" group-title="SPORTS",Champion2
 http://tvnid.wapgem.com/vidio/8.m3u8
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion3
 http://tvnid.wapgem.com/vidio/9.m3u8
+
 #EXTINF:-1  tvg-logo="https://bit.ly/3b0w4i8" group-title="SPORTS",Champion1
 https://etus.link/champ1roll?xc.m3u8
 #https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
@@ -973,6 +975,23 @@ https://etus.link/champ2roll?t.m3u8
 #https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion3
 https://etus.link/champ3roll?t.m3u8
+
+#EXTINF: -1 tvg-logo="https://bit.ly/3dhdWCQ" group-title="SPORTS", Champions TV 1 HD
+http://akudandia.xyz/man-prem/c1.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/3tioUNU" group-title="SPORTS", Champions TV 2 HD
+http://akudandia.xyz/man-prem/c2.m3u8
+#EXTINF: -1 tvg-logo="https://bit.ly/3AiE1tf" group-title="SPORTS", Champions TV 3 HD
+http://akudandia.xyz/man-prem/c3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",UseeSport1(Khoerul)
+https://goldenlivektv.com/zzz/useesport.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",UseeSport2(Khoerul)
+https://goldenlivektv.com/zzz/useesports2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",UnifiSport1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="SPORTS",UnifiSport2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 #EXTINF:-1 tvg-ID="FSP" tvg-name="Fox Sports" tvg-logo="http://img.miptv.ws/Fox_Sports_HD.png" group-title="SPORTS",SPOTV
 https://wopep.com/02_foxsport_720p/chunklist.m3u8
