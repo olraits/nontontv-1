@@ -885,20 +885,29 @@ http://playlist.urfan.web.id/uq2663/h/h18/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_paramount_big.png" group-title="MOVIES", Paramount Channel
 https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-mycinema_small.png" group-title="MOVIES", My Cinema
+http://rr.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
 http://210.210.155.35:80/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="MOVIES", My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
 http://210.210.155.35:80/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="MOVIES", My Family Channel
+http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 http://210.210.155.35:80/uq2663/h/h194/index.m3u8
 
 
 ///// ENTERTAINMENT & LIFESTYLE /////
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ENTERTAINMENT & LIFESTYLE",DUNIA_HANTU
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ENTERTAINMENT & LIFESTYLE",DUNIA LAIN
 http://goldenlivektv.com/useetv/Khoerul_Television.m3u8?id=dunialain
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1024px-TV_Asahi_Logo.svg.png" group-title="ENTERTAINMENT & LIFESTYLE", TV Asahi
 http://main2.mov3.co/hls/main.m3u8
+
+#EXTINF:-1 tv-name="Rock Entertainment" tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280", group-title="ENTERTAINMENT & LIFESTYLE", Rock Entertainment
+http://210.210.155.35:80/session/231b7a38-66a6-11ec-ae85-b82a72d63267/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tv-name="Rock Extreme" tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280", group-title="ENTERTAINMENT & LIFESTYLE", Rock Extreme
+http://210.210.155.35:80/session/3bc829b4-66a6-11ec-ae85-b82a72d63267/dr9445/h/h15/01.m3u8
+
 #EXTINF:0 tvg-id="wavve|S01" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="ENTERTAINMENT & LIFESTYLE",SBS
 http://itskoi.dothome.co.kr/sbs.php?id=S01
 #EXTINF:-1 group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://i.imgur.com/Ovc4Dj0.png",KOCOWA
