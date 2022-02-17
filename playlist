@@ -2120,3 +2120,134 @@ http://shareext@urtv.cc:80/live/titi3/titi3/7237.ts?Shareext.ts
 http://shareext@urtv.cc:80/live/titi3/titi3/7259.ts?Shareext.ts
 #EXTINF:-1 tvg-id="" tvg-name="FS 1" tvg-logo="http://tvmalaysia.cc:80/images/b4b42aee84ec26d35dc2b750d2b29b86.png" group-title="SHAREEXT@LIVE|SPORTS",FS 1
 http://shareext@urtv.cc:80/live/titi3/titi3/9003.ts?Shareext.ts
+
+////Extra Premium////
+
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  &PRIVE HD-Rs 19
+http://59.103.231.214:8000/play/a055
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  &flix HD-Rs19
+http://59.103.231.214:8000/play/a04m
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  &pictures HD -Rs19
+http://59.103.231.214:8000/play/a04z
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  1280-14
+http://59.103.231.214:8000/play/a031
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  ANIMAL PLAN HD-Rs3
+http://59.103.231.214:8000/play/a04t
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  CARTOON-Rs4.25
+http://59.103.231.214:8000/play/a045
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Colors HD-Rs 19
+http://59.103.231.214:8000/play/a04l
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  DISCOVERY K-Rs3
+http://59.103.231.214:8000/play/a04f
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Discovery HD-Rs6
+http://59.103.231.214:8000/play/a03v
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Discovery S-Rs1
+http://59.103.231.214:8000/play/a057
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Discovery T-Rs1
+http://59.103.231.214:8000/play/a058
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Disney Chan-Rs8
+http://59.103.231.214:8000/play/a047
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Disney Jr.-Rs 4
+http://59.103.231.214:8000/play/a04a
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  EuroSports HD-Rs 6
+http://59.103.231.214:8000/play/a04o
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  FOX Life HD-Rs1
+http://59.103.231.214:8000/play/a05e
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  HISTORY TV18 HD-Rs7
+http://59.103.231.214:8000/play/a04v
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Investigation Discovery-Rs1
+http://59.103.231.214:8000/play/a03l
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  MAX HD -Rs 17
+http://59.103.231.214:8000/play/a03j
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  MN+ HD-Rs 10
+http://59.103.231.214:8000/play/a03r
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  MTV - Rs 3
+http://59.103.231.214:8000/play/a04d
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  MTV Beats- 10p
+http://59.103.231.214:8000/play/a04g
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Movies Active HD- Rs 64
+http://59.103.231.214:8000/play/a03o
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Music Active Masala- Rs 40
+http://59.103.231.214:8000/play/a049
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  NAT Geo Wild HD-Rs 5
+http://59.103.231.214:8000/play/a03k
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  National G HD-Rs10
+http://59.103.231.214:8000/play/a03u
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Nick Jr. - Rs1
+http://59.103.231.214:8000/play/a04e
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  PIX HD - Rs 15
+http://59.103.231.214:8000/play/a04y
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Pogo - Rs 4.25
+http://59.103.231.214:8000/play/a04c
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  SET HD - Rs 19
+http://59.103.231.214:8000/play/a04n
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  SIX HD - Rs 19
+http://59.103.231.214:8000/play/a03h
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  SONIC- Rs 2
+http://59.103.231.214:8000/play/a04b
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  SONY MAX 2 - Rs 1
+http://59.103.231.214:8000/play/a05d
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  STAR BHARAT HD-Rs19
+http://59.103.231.214:8000/play/a04s
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  STAR MOV HD-Rs 19
+http://59.103.231.214:8000/play/a03s
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  STAR WOR P HD-Rs9
+http://59.103.231.214:8000/play/a03c
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  STAR WORLD HD -Rs9
+http://59.103.231.214:8000/play/a03d
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Sony BBC EarHD-Rs10
+http://59.103.231.214:8000/play/a04x
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Sony Ten 1 HD- Rs 19
+http://59.103.231.214:8000/play/a03g
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Sony Ten 2 HD- Rs 17
+http://59.103.231.214:8000/play/a052
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Sony Ten 3 HD- Rs 17
+http://59.103.231.214:8000/play/a03m
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Sony Ten 4 - Rs 17
+http://59.103.231.214:8000/play/a044
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Star GOLD HD -Rs10
+http://59.103.231.214:8000/play/a04u
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Star Gold 2- Rs 1
+http://59.103.231.214:8000/play/a05b
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Star Gold SelHD-Rs10
+http://59.103.231.214:8000/play/a04w
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Star Plus HD -Rs19
+http://59.103.231.214:8000/play/a04j
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Star S Hin 1 HD- Rs19
+http://59.103.231.214:8000/play/a03i
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Star Spo 1 HD-Rs19
+http://59.103.231.214:8000/play/a03e
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Star Spo 2 HD- Rs19
+http://59.103.231.214:8000/play/a03f
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Star Sports S 1 HD-Rs19
+http://59.103.231.214:8000/play/a050
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Star Sports S 2 HD-Rs10
+http://59.103.231.214:8000/play/a051
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  StarMov S HD-Rs 10
+http://59.103.231.214:8000/play/a03t
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  TLC HD- Rs3
+http://59.103.231.214:8000/play/a03p
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  UTV ACTION-Rs 2
+http://59.103.231.214:8000/play/a05a
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  UTV MOVIES-Rs 2
+http://59.103.231.214:8000/play/a059
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  ZEE BOLLYWO-Rs2
+http://59.103.231.214:8000/play/a05c
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  ZEE CINEMA HD-Rs19
+http://59.103.231.214:8000/play/a04r
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  ZEE Cafe H-Rs19
+http://59.103.231.214:8000/play/a03q
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  &pictures HD -Rs19
+http://59.103.231.214:8000/play/a04z
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  1280-14
+http://59.103.231.214:8000/play/a031
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  ANIMAL PLAN HD-Rs3
+http://59.103.231.214:8000/play/a04t
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  CARTOON-Rs4.25
+http://59.103.231.214:8000/play/a045
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  Colors HD-Rs 19
+http://59.103.231.214:8000/play/a04l
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  nick - Rs 6
+http://59.103.231.214:8000/play/a048
+#EXTINF:-1 tvg-logo="https://www.pramji.com/wp-content/uploads/picture-808-1437511648.png" group-title="Extra Channel Premium",  nick HD+- Rs 10
+http://59.103.231.214:8000/play/a054
