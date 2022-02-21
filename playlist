@@ -1,34 +1,5 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
 
-#EXTM3U url-tvg="http://epg.urfan.web.id" x-tvg-url="https://i.mjh.nz/PlutoTV/all.xml.gz"
-
-#EXTM3U url-tvg="http://epg.urfan.web.id"
-
-#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
-#EXTM3U url-tvg="https://epg.kampung.xyz/"
-
-#EXTM3U url-tvg="https://link.zozotv.xyz/epgtvku.xml"
-
-#EXTM3U url-tvg="https://github.com/apollo2000/TVGuide/raw/master/utc.xml.gz"
-
-#EXTM3U url-tvg="http://epg.it999.ru/epg.xml.gz"
-
-#EXTM3U url-tvg="https://i.mjh.nz/nz/epg.xml"
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/weareblahs/epg/main/astro.xml"
-
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/vidio.com.guide.xml"
-
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/mncvision.id.guide.xml"
-
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-
-#EXTM3U url-tvg="http://tvku.live:8888/xmltv.php?username=epg&password=epg"
-
-#EXTM3U url-tvg="https://macan.tv/xmltv.php?username=epg&password=epg"
-
-#EXTM3U url-tvg="http://epg.greatiptv.cc/iptv.xml.gz"
-http://i.mjh.nz/nzau/epg.xml.gz
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -924,6 +895,17 @@ http://urtv.cc:80/kl570/kl570/6726
 http://freelive.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.png" group-title="ENTERTAINMENT & LIFESTYLE",PPTV
 http://freelive2.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0GYF1Dzw0Wa-Bwbd79f8-v1-IU035DoB-dg&usqp=CAU" group-title="ENTERTAINMENT & LIFESTYLE",FTV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0GYF1Dzw0Wa-Bwbd79f8-v1-IU035DoB-dg&usqp=CAU" group-title="ENTERTAINMENT & LIFESTYLE",FTV PARIS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0GYF1Dzw0Wa-Bwbd79f8-v1-IU035DoB-dg&usqp=CAU" group-title="ENTERTAINMENT & LIFESTYLE",FTV MIDNITE 1
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0GYF1Dzw0Wa-Bwbd79f8-v1-IU035DoB-dg&usqp=CAU" group-title="ENTERTAINMENT & LIFESTYLE",FTV MIDNITE 2 (Backup)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0GYF1Dzw0Wa-Bwbd79f8-v1-IU035DoB-dg&usqp=CAU" group-title="ENTERTAINMENT & LIFESTYLE",FTV TOP MODEL
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 
 
 ///// USEETV /////
