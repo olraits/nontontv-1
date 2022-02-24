@@ -885,13 +885,17 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
 ///// MOVIES /////
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="MOVIE",ANIPLUS
+http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8
+
 #EXTINF:-1 tvg-id="CITRADRAMA.id" tvg-logo="https://i.postimg.cc/Qxg3HpkS/citra-bioskop-logo.png" group-title="MOVIES", Citra Bioskop
-http://tvn.x10.bz/channel/master-1.m3u8
+http://tvn.x10.bz/vidio/master-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/C5nj097R/flik.png" group-title="MOVIES", Flik
 http://live.netcoffee.id:25005/test/bisaoffkapanaja/734
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="MOVIES",Cinema Europe
+http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_paramount_big.png" group-title="MOVIES", Paramount Channel
@@ -915,35 +919,20 @@ http://210.210.155.35:80/uq2663/h/h194/index.m3u8
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/manifest.mpd
 
 #EXTINF:-1  tvg-id="ext" group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://i.imgur.com/rGTHbAM.png",GEM
+http://group1-swiftservehd-1.dens.tv/h/h19/01.m3u8
 http://210.210.155.35/session/8d789368-3130-11eb-8016-b82a72d63267/uq2663/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280" group-title="ENTERTAINMENT & LIFESTYLE",Rock_Extreme
+http://group2-swiftservehd-1.dens.tv/h/h15/01.m3u8
+http://210.210.155.35:80/session/3bc829b4-66a6-11ec-ae85-b82a72d63267/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280" group-title="ENTERTAINMENT & LIFESTYLE",Rock_Enter
+http://group2-swiftservehd-1.dens.tv/h/h16/01.m3u8
+http://210.210.155.35:80/session/231b7a38-66a6-11ec-ae85-b82a72d63267/dr9445/h/h16/01.m3u8
 
 #EXTINF:-1 tvg-id="wakuwaku" tvg-logo="https://i.postimg.cc/cJd73kkL/logo-wakuwaku-big.png" group-title="ENTERTAINMENT & LIFESTYLE",WAKU WAKU JAPAN
 https://lnk.ec/waku2?shareext.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="ENTERTAINMENT & LIFESTYLE",DUNIA LAIN
-http://goldenlivektv.com/useetv/Khoerul_Television.m3u8?id=dunialain
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/1024px-TV_Asahi_Logo.svg.png" group-title="ENTERTAINMENT & LIFESTYLE", TV Asahi
 http://main2.mov3.co/hls/main.m3u8
-
-#EXTINF:-1 tv-name="Rock Entertainment" tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280", group-title="ENTERTAINMENT & LIFESTYLE", Rock Entertainment
-http://210.210.155.35:80/session/231b7a38-66a6-11ec-ae85-b82a72d63267/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tv-name="Rock Extreme" tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280", group-title="ENTERTAINMENT & LIFESTYLE", Rock Extreme
-http://210.210.155.35:80/session/3bc829b4-66a6-11ec-ae85-b82a72d63267/dr9445/h/h15/01.m3u8
-
-#EXTINF:0 tvg-id="wavve|S01" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="ENTERTAINMENT & LIFESTYLE",SBS
-http://itskoi.dothome.co.kr/sbs.php?id=S01
-#EXTINF:-1 group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://i.imgur.com/Ovc4Dj0.png",KOCOWA
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukocowa/CDN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z5t6cCe.jpg" group-title="ENTERTAINMENT & LIFESTYLE", New K-ID
-https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8
-#EXTINF:-1 group-title="ENTERTAINMENT & LIFESTYLE" tvg-logo="https://www.ohk-tv.com/img/logo.png",Oh!K 
-http://urtv.cc:80/kl570/kl570/6726
-
-#EXTINF:-1  tvg-logo="https://true4u.com/images/logo.png" group-title="ENTERTAINMENT & LIFESTYLE",true4u
-http://freelive.inwstream.com:1935/freelive-edge/true4u/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/pp/pptv-hd-36-th.png" group-title="ENTERTAINMENT & LIFESTYLE",PPTV
-http://freelive2.inwstream.com:1935/freelive-edge/pptvhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="ENTERTAINMENT & LIFESTYLE" tvg-id="Fashion TV Midnight Secrets" tvg-name="Fashion TV HD", Fashion TV Midnight Secrets HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
@@ -1436,7 +1425,7 @@ http://tvnid.wapgem.com/vidio/10.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="VIDIO",CitraDangdut(tvn_id)
 http://tvnid.wapgem.com/vidio/11.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="VIDIO",CitraEntertainment(tvn_id)
-http://tvnid.wapgem.com/vidio/12.m3u8
+http://tvnid.wapgem.com/vidio/12.m3u8 
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HaB__LuM-aaHQCpBWId_G9_fzJg=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/1558241/b5798a.jpg" group-title="VIDIO",Indosiar
 https://iptv.mwafa.net/vidio/205/index.m3u8?token=3394
@@ -1509,7 +1498,7 @@ https://iptv.mwafa.net/vidio/6898/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sDHvjYg7/image.jpg" group-title="VIDIO"", MUSICA
 https://iptv.mwafa.net/vidio/7619/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYx2hPRP/logo200.jpg" group-title="VIDIO"", MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8 *//
 
 
 ///// RADIO /////
