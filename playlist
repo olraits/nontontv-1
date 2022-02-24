@@ -1572,27 +1572,37 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 ///// RADIO /////
 
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
-https://iptv.mwafa.net/vidio/7004/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7004/index.m3u8?token=3394
+http://onlineradiobox.com/json/id/prambors/play
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="RADIO",Ardan FM
-https://iptv.mwafa.net/vidio/7184/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7184/index.m3u8?token=3394
+http://onlineradiobox.com/json/id/ardan/play
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="RADIO",MGTRADIO
 https://iptv.mwafa.net/vidio/7188/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="RADIO",Elshinta FM
-https://iptv.mwafa.net/vidio/7166/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7166/index.m3u8?token=3394
+http://onlineradiobox.com/json/id/elshinta/play
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="RADIO",I Radio
-https://iptv.mwafa.net/vidio/7057/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7057/index.m3u8?token=3394
+http://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="RADIO",Trax FM
-https://iptv.mwafa.net/vidio/7055/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7055/index.m3u8?token=3394
+http://onlineradiobox.com/json/id/trax/play
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="RADIO",Cosmopolitan FM
-https://iptv.mwafa.net/vidio/7056/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7056/index.m3u8?token=3394
+http://n02.radiojar.com/u7d8heq3bnzuv
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="RADIO",V RADIO
+http://202.147.199.100:8000/;stream.nsv
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="RADIO",Brava FM
 https://iptv.mwafa.net/vidio/7054/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="RADIO",Hard Rock FM
 https://iptv.mwafa.net/vidio/7053/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="RADIO",Female FM
-https://iptv.mwafa.net/vidio/7130/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7130/index.m3u8?token=3394
+http://onlineradiobox.com/json/id/female/play
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="RADIO",Delta FM
-https://iptv.mwafa.net/vidio/7092/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7092/index.m3u8?token=3394
+http://onlineradiobox.com/json/id/deltafm/play
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="RADIO",Bahana FM
 https://iptv.mwafa.net/vidio/7091/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7218.jpg" group-title="RADIO",Sushi Radio
@@ -1602,7 +1612,8 @@ https://iptv.mwafa.net/vidio/7170/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="RADIO",Elgangga FM
 https://iptv.mwafa.net/vidio/7169/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="RADIO",Geronimo FM
-https://iptv.mwafa.net/vidio/7216/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7216/index.m3u8?token=3394
+http://live2.indostreamserver.com:8018/;
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7242.jpg" group-title="RADIO",Dahlia FM
 https://iptv.mwafa.net/vidio/7242/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7248.jpg" group-title="RADIO",Swaragama Fm
@@ -1616,19 +1627,28 @@ https://iptv.mwafa.net/vidio/7284/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7297.jpg" group-title="RADIO",Radio Cakra
 https://iptv.mwafa.net/vidio/7297/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM
-https://iptv.mwafa.net/vidio/7443/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7443/index.m3u8?token=3394
+http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM 103.1
 https://iptv.mwafa.net/vidio/7446/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/klyuqqlwew3kzb4/Hot_fm_jkt.png?dl=1" group-title="RADIO",HOT FM
 https://iptv.mwafa.net/vidio/7448/index.m3u8?token=3394
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="RADIO",JAK FM
-https://iptv.mwafa.net/vidio/7449/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7449/index.m3u8?token=3394
+http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="RADIO",SLOW FM
+http://onlineradiobox.com/json/id/slow/play
+#EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="RADIO",KIS ROCK
+http://onlineradiobox.com/json/id/kisrock/play
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1" group-title="RADIO",KIS FM
-https://iptv.mwafa.net/vidio/7445/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7445/index.m3u8?token=3394
+http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="RADIO",MOST RADIO
-https://iptv.mwafa.net/vidio/7450/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7450/index.m3u8?token=3394
+http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
-https://iptv.mwafa.net/vidio/7447/index.m3u8?token=3394
+#https://iptv.mwafa.net/vidio/7447/index.m3u8?token=3394
+http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
 
 ///// TRANVISION /////
