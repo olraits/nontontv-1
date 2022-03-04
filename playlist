@@ -1197,78 +1197,68 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 ///// VIDIO /////
 
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Indosiar liga 1 & 2
-http://tvn.x10.bz/xchannel/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Citra Bioskop
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/h4HA0ano6axInD4t4JKYrB-ZjQU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6684/61417f.png" group-title="VIDIO", Citra Bioskop 
 http://tvn.x10.bz/xchannel/master-1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Citra Drama
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/DM7OCNvYsQEIq5fJ2uW-M8vynaM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6401/5b4d40.png" group-title="VIDIO", Citra Drama
 http://tvn.x10.bz/xchannel/master-2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",LiverpoolTV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/WNbrafkmcf64UM-5pniUG-xObcI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7916/1439f9.png" group-title="VIDIO", LiverpoolTV
 http://tvn.x10.bz/xchannel/master-3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Hip Hip horee (Kids)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/EOkH5JDfHzAnCeGKEXiY12G36Qw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7052/63032e.png" group-title="VIDIO", Hip Hip horee (Kids)
 http://tvn.x10.bz/xchannel/master-4.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Horee (Kids)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/lfyNbk-BG70u8ahFpO9I0HhV3bM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6397/d422cd.png" group-title="VIDIO", Horee (Kids)
 http://tvn.x10.bz/xchannel/master-5.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Champions 1 PRO LIGA
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/uPRFvIIkgDkbWnzmPaUTTEBdbQU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png" group-title="VIDIO", Champions 1 PRO LIGA
 http://tvn.x10.bz/xchannel/master-6.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Champions 2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/czBGyoVEbdU5E64ZH88sgEfmWXg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png" group-title="VIDIO", Champions 2
 http://tvn.x10.bz/xchannel/master-7.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Champions 3
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/RoE6gTfzYNnm1APnwvK_Bi7j_-Y=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png" group-title="VIDIO", Champions 3
 http://tvn.x10.bz/xchannel/master-8.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Citra Muslim
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/D4GTpWPusVe1PG-5HGUIdusQJEE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6678/154a43.png" group-title="VIDIO", Citra Muslim
 http://tvn.x10.bz/xchannel/master-9.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Citra Dangdut
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/gsBHScMlFr9Qjcyst7nIXpN0NRY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6587/8742fe.png" group-title="VIDIO", Citra Dangdut
 http://tvn.x10.bz/xchannel/master-10.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Citra Entertainment
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/UUZI9Ih5jMJPQ-xhdAkjSwlxOjE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6402/ff0f7a.png" group-title="VIDIO", Citra Entertainment
 http://tvn.x10.bz/xchannel/master-11.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",ANTV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/IRVkD3QGRzroJ4IZzXBpS-0MRls=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" group-title="VIDIO", ANTV
 http://tvn.x10.bz/xchannel/master-12.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",TV ONE
+#EXTINF:-1 tvg-logo="https://i0.wp.com/ytimg.googleusercontent.com/vi/UbfEb2wNylY/hqdefault.jpg" group-title="VIDIO", TV ONE
 http://tvn.x10.bz/xchannel/master-13.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",AJWA TV(MUSLIM
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/GydAc8ocolWIwQ2A_1xFv0iQ3GM=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7464/e69965.png" group-title="VIDIO", AJWA TV(MUSLIM
 http://tvn.x10.bz/xchannel/master-14.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Zee Bioskop
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/qLM_eiSoObcMQdjBbDMf98BT-0A=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/84f7c4.png" group-title="VIDIO", Zee Bioskop
 http://tvn.x10.bz/xchannel/master-15.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",TVN
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/TjMKXqjCDGF1uqycTxG-Os7E87E=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png" group-title="VIDIO", TVN 
 http://tvn.x10.bz/xchannel/master-16.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",CHAMPIONS 4
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/UOL9NQc5v1QfYm28MNjdngCEb-A=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7953/448640.png" group-title="VIDIO", CHAMPIONS 4
 http://tvn.x10.bz/xchannel/master-17.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",OCHANNEL support Liga & 2
+#EXTINF:-1 tvg-id="Ochannel.id" tvg-logo="https://thumbor.prod.vid.id/Oi4K0Zef5RaOK9DF2_eiiYDtOtE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/67385c.png" group-title="VIDIO", O Channel liga 1
 http://tvn.x10.bz/xchannel/master-18.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",KOMPAS TV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="VIDIO", KOMPAS TV
 http://tvn.x10.bz/xchannel/master-19.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",RTV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="VIDIO", RTV
 http://tvn.x10.bz/xchannel/master-20.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",RANS ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/U_IGCAIYKlWKqw2F-KpF_z5BS4U=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg" group-title="VIDIO", RANS ENTERTAINMENT
 http://tvn.x10.bz/xchannel/master-21.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",MENTARI TV (KIDS)
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="VIDIO", MENTARI TV (KIDS)
 http://tvn.x10.bz/xchannel/master-22.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",METRO TV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="VIDIO", METRO TV
 http://tvn.x10.bz/xchannel/master-23.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",SCTV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/kH-K9J4cROqL0TZrAyQhw7P5pBk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" group-title="VIDIO", SCTV 
 http://tvn.x10.bz/xchannel/master-24.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",ZooMoo
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/vQdbJZqHtzPPXckjO0Hy8yy-3_0=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6533/f6c9c0.png" group-title="VIDIO", ZooMoo
 http://tvn.x10.bz/xchannel/master-25.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Musica
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title="VIDIO", Musica 
 http://tvn.x10.bz/xchannel/master-26.m3u8
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Tempo TV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/h4_liAs26AgQ4JyYNzN1iBUeAsA=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7946/9e2b5e.jpg" group-title="VIDIO", Tempo Tv
 http://tvn.x10.bz/xchannel/master-27.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HaB__LuM-aaHQCpBWId_G9_fzJg=/372x211/filters:quality(75)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/1558241/b5798a.jpg" group-title="VIDIO",Indosiar
-https://iptv.mwafa.net/vidio/205/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8P6g5XNGCjXrde94MaCMuZGPnTo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-94c811.jpg" group-title="VIDIO",O Channel
-https://iptv.mwafa.net/vidio/206/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aHHdz-Y50b34HI_WD-w8t4JdQQw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg" group-title="VIDIO",Kompas TV
-https://iptv.mwafa.net/vidio/874/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/7ZrWP74ibpJs000uBOz_wGIxVf4=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" group-title="VIDIO",Berita Satu News
-https://iptv.mwafa.net/vidio/6165/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UvM8FunoJC8v-KmlMOxJ7yFE7qw=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/777/metro-tv-461c64.jpg" group-title="VIDIO",Metro TV
-https://iptv.mwafa.net/vidio/777/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfQYBP49/105261-logo-tvone-665-374.jpg" group-title="VIDIO"", TVONE
-https://iptv.mwafa.net/dm/k2uDgtBgdyXR1AoH4XD/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="VIDIO"", SCTV
-https://iptv.mwafa.net/vidio/204/index.m3u8?token=3394
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/zoTQ5koMRNQ7fPGNohERuI7n2nc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8638/3ec1bf.jpg" group-title="VIDIO", Radio Tmn Nagaswara 
+http://tvn.x10.bz/xchannel/master-28.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/sxf8qFMVElTkCFqM1DxBTGPOrhk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7684/761fe4.jpg" group-title="VIDIO", Rama Fm Bandung
+http://tvn.x10.bz/xchannel/master-29.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="VIDIO", Trans 7
+http://tvn.x10.bz/xchannel/master-30.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="VIDIO", Trans TV
+http://tvn.x10.bz/xchannel/master-31.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="VIDIO",RCTI_plus(dec=native)
 https://lnk.ec/RCTIplus?shareext.m3u8
@@ -1278,55 +1268,6 @@ https://lnk.ec/MNCTVplus?shareext.m3u8
 https://lnk.ec/INEWSplus?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="VIDIO",GTV_plus(dec=native)
 https://lnk.ec/GTVplus?shareext.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg" group-title="VIDIO",NET
-https://iptv.mwafa.net/vidio/875/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png" group-title="VIDIO",Trans TV
-https://iptv.mwafa.net/vidio/733/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VIDIO",TVRI Nasional
-https://iptv.mwafa.net/vidio/6441/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="VIDIO",Trans 7
-https://iptv.mwafa.net/vidio/734/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="VIDIO",Jak TV
-https://iptv.mwafa.net/vidio/5415/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jZKlBJan7aUwou-SkFXSfCFI12k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg" group-title="VIDIO",RTV
-https://iptv.mwafa.net/vidio/1561/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/UTu4NFGKxozt5F7ogi4zvMsbupg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg" group-title="VIDIO",O Shop
-https://iptv.mwafa.net/vidio/6166/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/mzCjJY7TqiT-BYLhrRRDcuSGMCk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" group-title="VIDIO",My TV
-https://iptv.mwafa.net/vidio/6711/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wFa6E97z_6ct1wyr_HbZ72Ua9BQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" group-title="VIDIO",Nusantara TV
-https://iptv.mwafa.net/vidio/7432/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/jk44WQnNzvfmY9Q_1AIgX0RKI-A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" group-title="VIDIO",DAAI TV
-https://iptv.mwafa.net/vidio/6482/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="" group-title="VIDIO",Rans Channel
-https://iptv.mwafa.net/vidio/8241/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/CjN9Xxo8VbEF-D3bK8Xxpiy4c_A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" group-title="VIDIO",Magna TV
-https://iptv.mwafa.net/vidio/7230/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/ulsQWVw0_57XBtqbVw3K959Y1Ik=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="VIDIO",Musica
-https://iptv.mwafa.net/vidio/7619/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tMZ6YAboVlZD99mMxnel8JkNImQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-dbc808.jpg" group-title="VIDIO",DW English
-https://iptv.mwafa.net/vidio/5075/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/v-hZdaXDn7d7UmjI_flX3Ioyeuk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7687/sea-today-509fab.jpg" group-title="VIDIO",SEA Today
-https://iptv.mwafa.net/vidio/7687/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/5E-nAhqyUlmRlAHGkvRPqmNJvfk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7946/tv-tempo-ed7796.jpg" group-title="VIDIO",TV Tempo
-https://iptv.mwafa.net/vidio/7946/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/zp9phmPEu8payPGM0WL3Mq16XO0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" group-title="VIDIO",Mentari TV
-https://iptv.mwafa.net/vidio/8237/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/WFa9oSDmsFEyS_r83FxehBO_uog=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" group-title="VIDIO",TV Edukasi
-https://iptv.mwafa.net/vidio/6838/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gSSRDf6Bszz7uI7Fgo5a-92-kis=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" group-title="VIDIO",Ajwa TV
-https://iptv.mwafa.net/vidio/7464/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/2kI2TwwD8z9v5QAmscAVwSUyVDo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="VIDIO",Quran TV
-https://iptv.mwafa.net/vidio/6852/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/tVC5TV-WSPeETBb9g-uXfuKIH0A=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg" group-title="VIDIO",Reformed 21 TV
-https://iptv.mwafa.net/vidio/6853/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/aHbjE9dQtOi83nt0ic86GUkxHAk=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" group-title="VIDIO",UChannel
-https://iptv.mwafa.net/vidio/6898/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sDHvjYg7/image.jpg" group-title="VIDIO"", MUSICA
-https://iptv.mwafa.net/vidio/7619/index.m3u8?token=3394
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYx2hPRP/logo200.jpg" group-title="VIDIO"", MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
 ///// RADIO /////
@@ -1412,7 +1353,6 @@ http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
 
 ///// TRANVISION /////
-
 
 
 ///// DENS TV /////
