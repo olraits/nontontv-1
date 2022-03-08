@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg"  refresh="3600"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
 
 
 ///// NATIONAL TV /////
@@ -827,6 +827,16 @@ http://live.netcoffee.id:25005/test/bisaoffkapanaja/599
 
 ///// FILM /////
 
+#EXTINF:0 tvg-id="HBOHD" tvg-name="HBOHD" tvg-logo="http://dusktill.masuk.web.id/img/hbo.png" group-title="FILM",HBOHD
+https://ppmk.my.id/hbo/hbo.m3u8?id=hbohd
+#EXTINF:0 tvg-id="HBOSignatureHD" tvg-name="HBOSignatureHD" tvg-logo="http://dusktill.masuk.web.id/img/hbosig.png" group-title="FILM",HBOSignatureHD
+https://ppmk.my.id/hbo/hbo.m3u8?id=sighd
+#EXTINF:0 tvg-id="HBOHitsHD" tvg-name="HBOHitsHD" tvg-logo="http://dusktill.masuk.web.id/img/hbohits.png" group-title="FILM",HBOHitsHD
+https://ppmk.my.id/hbo/hbo.m3u8?id=hitshd
+#EXTINF:0 tvg-id="HBOFamilyHD" tvg-name="HBOFamilyHD" tvg-logo="http://dusktill.masuk.web.id/img/hbofamily.png" group-title="FILM",HBOFamilyHD
+https://ppmk.my.id/hbo/hbo.m3u8?id=famhd
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" tvg-id="CINEMAX" tvg-name="CINEMAX" group-title="FILM",CINEMAX
+https://ppmk.my.id/hbo/hbo.m3u8?id=maxhd
 
 
 ///// MUSIC /////
@@ -1363,8 +1373,58 @@ http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
 
-///// TRANVISION /////
+///// KOREA /////
 
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",A channel
+http://ppmk.my.id/korea/kor.m3u8?id=achannel
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS DRAMA
+http://ppmk.my.id/korea/kor.m3u8?id=kbsdrama
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS1
+http://ppmk.my.id/korea/kor.m3u8?id=kbs1
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS2
+http://ppmk.my.id/korea/kor.m3u8?id=kbs2
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS JOY
+http://ppmk.my.id/korea/kor.m3u8?id=kbsjoy
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS KIDS
+http://ppmk.my.id/korea/kor.m3u8?id=kbskids
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS LIFE
+http://ppmk.my.id/korea/kor.m3u8?id=kbslife
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS STORY
+http://ppmk.my.id/korea/kor.m3u8?id=kbsstory
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS WORLD
+http://ppmk.my.id/korea/kor.m3u8?id=kbsworld
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-1
+http://ppmk.my.id/korea/kor.m3u8?id=mbc1
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-2
+http://ppmk.my.id/korea/kor.m3u8?id=mbc2
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-3
+http://ppmk.my.id/korea/kor.m3u8?id=mbc3
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-4
+http://ppmk.my.id/korea/kor.m3u8?id=mbc4
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-5
+http://ppmk.my.id/korea/kor.m3u8?id=mbc5
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-6
+http://ppmk.my.id/korea/kor.m3u8?id=mbc6
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-7
+http://ppmk.my.id/korea/kor.m3u8?id=mbc7
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC NET
+http://ppmk.my.id/korea/kor.m3u8?id=mbcnet
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBN
+http://ppmk.my.id/korea/kor.m3u8?id=mbn
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS
+http://ppmk.my.id/korea/kor.m3u8?id=sbs
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS-2
+http://ppmk.my.id/korea/kor.m3u8?id=sbs2
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS BIZ
+http://ppmk.my.id/korea/kor.m3u8?id=sbsbiz
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS FUNE
+http://ppmk.my.id/korea/kor.m3u8?id=sbsfune
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS GOLF
+http://ppmk.my.id/korea/kor.m3u8?id=sbsgolf
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS PLUS
+http://ppmk.my.id/korea/kor.m3u8?id=sbsplus
+#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",The Kpop
+http://ppmk.my.id/korea/kor.m3u8?id=thekpop
 
 
 ///// DENS TV /////
