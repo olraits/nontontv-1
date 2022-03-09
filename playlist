@@ -1145,31 +1145,31 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4
 
 ///// USEETV /////
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",C.DRAMA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",C.DRAMA
 https://indositusx.com/link/use.m3u8?id=cdrama
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",MY_CINEMA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",MY_CINEMA
 https://indositusx.com/link/use.m3u8?id=mycinema
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",MY_CINEMA_ASIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",MY_CINEMA_ASIA
 https://indositusx.com/link/use.m3u8?id=mycinemaasia
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",GALAXY
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",GALAXY
 https://indositusx.com/link/use.m3u8?id=galaxy
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",GALAXY_PREMIUM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",GALAXY_PREMIUM
 https://indositusx.com/link/use.m3u8?id=galaxypremium
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",SCM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",SCM
 https://indositusx.com/link/use.m3u8?id=scm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",ROCK_EXTREME
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",ROCK_EXTREME
 https://indositusx.com/link/use.m3u8?id=rockextreme
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",TECHSTRORM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",TECHSTRORM
 https://indositusx.com/link/use.m3u8?id=techstorm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",ROCK_ENTERTAIND
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",ROCK_ENTERTAIND
 https://indositusx.com/link/use.m3u8?id=rock
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",DUNIA_ANAK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",DUNIA_ANAK
 https://indositusx.com/link/use.m3u8?id=duniaanak
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",DREAMWORK
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",DREAMWORK
 https://indositusx.com/link/use.m3u8?id=dreamworks
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",HOREE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",HOREE
 https://indositusx.com/link/use.m3u8?id=horee
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",IMC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",IMC
 https://indositusx.com/link/use.m3u8?id=imc
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="USEETV",RuangTrampil_USEETV 
