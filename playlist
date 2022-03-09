@@ -533,7 +533,7 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_18.jpg",Star Chinese Movies South East Asia
-https://lnk.ec/SCM?shareext.m3u8
+https://indositusx.com/link/use.m3u8?id=scm
 
 
 ///// MUSIC /////
@@ -711,7 +711,10 @@ http://tvn.x10.bz/xchannel/master-24.m3u8
 
 ///// MOVIES /////
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="MOVIE",ANIPLUS
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN FOX MOVIES " tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png" group-title="MOVIES",FOX_MOVIES
+http://channelstv.online:8080/medo2021/medo2022/117169
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="MOVIES",ANIPLUS
 http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-id="CITRADRAMA.id" tvg-logo="https://i.postimg.cc/Qxg3HpkS/citra-bioskop-logo.png" group-title="MOVIES", Citra Bioskop
@@ -722,9 +725,11 @@ http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-mycinema_small.png" group-title="MOVIES", My Cinema
+https://indositusx.com/link/use.m3u8?id=mycinema
 http://rr.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
 http://210.210.155.35:80/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="MOVIES", My Cinema Asia
+https://indositusx.com/link/use.m3u8?id=mycinemaasia
 http://rr.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
 http://210.210.155.35:80/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="MOVIES", My Family Channel
@@ -827,26 +832,19 @@ http://live.netcoffee.id:25005/test/bisaoffkapanaja/599
 
 ///// FILM /////
 
-#EXTINF:0 tvg-id="HBOHD" tvg-name="HBOHD" tvg-logo="http://dusktill.masuk.web.id/img/hbo.png" group-title="FILM",HBOHD
-https://ppmk.my.id/hbo/hbo.m3u8?id=hbohd
-#EXTINF:0 tvg-id="HBOSignatureHD" tvg-name="HBOSignatureHD" tvg-logo="http://dusktill.masuk.web.id/img/hbosig.png" group-title="FILM",HBOSignatureHD
-https://ppmk.my.id/hbo/hbo.m3u8?id=sighd
-#EXTINF:0 tvg-id="HBOHitsHD" tvg-name="HBOHitsHD" tvg-logo="http://dusktill.masuk.web.id/img/hbohits.png" group-title="FILM",HBOHitsHD
-https://ppmk.my.id/hbo/hbo.m3u8?id=hitshd
-#EXTINF:0 tvg-id="HBOFamilyHD" tvg-name="HBOFamilyHD" tvg-logo="http://dusktill.masuk.web.id/img/hbofamily.png" group-title="FILM",HBOFamilyHD
-https://ppmk.my.id/hbo/hbo.m3u8?id=famhd
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" tvg-id="CINEMAX" tvg-name="CINEMAX" group-title="FILM",CINEMAX
-https://ppmk.my.id/hbo/hbo.m3u8?id=maxhd
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-logo="http://dusktill.masuk.web.id/img/hbo.png" group-title="FILM",  HBOHD
+https://hehe.ppmk.my.id/hbohd.m3u8
+#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-logo="http://dusktill.masuk.web.id/img/hbosig.png" group-title="FILM",  HBOSignatureHD
+https://hehe.ppmk.my.id/sighd.m3u8
+#EXTINF:-1 tvg-id="HBOHitsAsia.us" tvg-logo="http://dusktill.masuk.web.id/img/hbohits.png" group-title="FILM",  HBOHitsHD
+https://hehe.ppmk.my.id/hitshd.m3u8
+#EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-logo="http://dusktill.masuk.web.id/img/hbofamily.png" group-title="FILM",  HBOFamilyHD
+https://hehe.ppmk.my.id/famhd.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="FILM",  CINEMAX
+https://hehe.ppmk.my.id/maxhd.m3u8
 
 
 ///// MUSIC /////
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MkFsM39.png" group-title="MUSIC", 1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f1krDIF.png" group-title="MUSIC", 8X music
-http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IEwWaEN.png" group-title="MUSIC", 9X Music
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -1147,6 +1145,33 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4
 
 ///// USEETV /////
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",C.DRAMA
+https://indositusx.com/link/use.m3u8?id=cdrama
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",MY_CINEMA
+https://indositusx.com/link/use.m3u8?id=mycinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",MY_CINEMA_ASIA
+https://indositusx.com/link/use.m3u8?id=mycinemaasia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",GALAXY
+https://indositusx.com/link/use.m3u8?id=galaxy
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",GALAXY_PREMIUM
+https://indositusx.com/link/use.m3u8?id=galaxypremium
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",SCM
+https://indositusx.com/link/use.m3u8?id=scm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",ROCK_EXTREME
+https://indositusx.com/link/use.m3u8?id=rockextreme
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",TECHSTRORM
+https://indositusx.com/link/use.m3u8?id=techstorm
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",ROCK_ENTERTAIND
+https://indositusx.com/link/use.m3u8?id=rock
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",DUNIA_ANAK
+https://indositusx.com/link/use.m3u8?id=duniaanak
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",DREAMWORK
+https://indositusx.com/link/use.m3u8?id=dreamworks
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",HOREE
+https://indositusx.com/link/use.m3u8?id=horee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="USEETV",IMC
+https://indositusx.com/link/use.m3u8?id=imc
+
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="USEETV",RuangTrampil_USEETV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b5268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useephoto_big.png?v=2.0.0.13" group-title="USEETV",UseePhoto_USEETV 
@@ -1294,6 +1319,65 @@ http://tvn.x10.bz/xchannel/master-30.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="VIDIO", Trans TV
 http://tvn.x10.bz/xchannel/master-31.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"[CODAY] SCTV _VIDIO" group-title="VIDIO",SCTV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/FpGpG_N1noubGtSI38Ek1bo0pf8=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/782/e1af8b.png" tvg-id=".SHINTA" tvg-name"[CODAY] ANTV _VIDIO" group-title="VIDIO",ANTV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/1gl_OViRhInfE1_Scn6ve40g7FY=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" tvg-id=".SHINTA" tvg-name"[CODAY] Indosiar _VIDIO" group-title="VIDIO",Indosiar_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/GR_UBfQpa8xxCbFYptSZ3egm-kU=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/cfcc85.png" tvg-id=".SHINTA" tvg-name"[CODAY] NET TV _VIDIO" group-title="VIDIO",NET_TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/LbunykRPWkmRYi-RN4xt9EMf9_E=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/d658d0.png" tvg-id=".SHINTA" tvg-name"[CODAY] TVOne _VIDIO" group-title="VIDIO",TVOne_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/I5QlX5A46bifAC7ib269aQhzP3Q=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" tvg-id=".SHINTA" tvg-name"[CODAY] TRANS TV _VIDIO" group-title="VIDIO",TRANS_TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/ksy91mCjoKvOD2anneLgskaBLRA=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" tvg-id=".SHINTA" tvg-name"[CODAY] Trans7 _VIDIO" group-title="VIDIO",Trans7_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/SxXl0u9ZB4a2sj63W-PaDtqmMNA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Kabar Misteri _VIDIO" group-title="VIDIO",JAK_TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/ydRJrj3WJ-ycS2KJw19CZn6XQkg=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" tvg-id=".SHINTA" tvg-name"[CODAY] Metro TV _VIDIO" group-title="VIDIO",MetroTV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f1c1592588411002af340cbaedd6fc33446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/0qrOZySm_gYRMK5VNsh9RKQAzzc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/874/kompas-tv-a3cbc6.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Indonesia Update _VIDIO" group-title="VIDIO",KOMPAS_TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/q2tpT2-AjDqonv5M-q5SxihUuDw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Klik Indonesia Malam _VIDIO" group-title="VIDIO",TVRI_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/My9mYFmho6-FO2QdNmslYUbEH7k=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" tvg-id=".SHINTA" tvg-name"[CODAY] RTV _VIDIO" group-title="VIDIO",RTV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/uzRqOU9N2dIrniO-0LJpDkbBUEk=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6165/beritasatu-5fa119.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Connect 360 _VIDIO" group-title="VIDIO",BERITA_SATU_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=36452e720502e4da486d2f9f6b48a7bb446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/wxGl9W6CSExkpP07PKDkY2xyZKg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6711/mytv-tv-stream-a36d9f.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] TBA _VIDIO" group-title="VIDIO",MY_TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=50982fb2f2cfa186d335310461dfa2be446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/uVFSoTESS5e1aejpa34oI2a8a_g=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6166/oshop-tv-stream-c16bc3.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] OShop _VIDIO" group-title="VIDIO",OShop_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4249a84bdaf63c34332d1988244fb089446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] MUSICA _VIDIO" group-title="VIDIO",MUSICA_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/J2XyRjB9l6ZpDQGkdWPBSYn1-5s=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8241/rans-channel-2a6db6.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] RANS Channel _VIDIO" group-title="VIDIO",RANS_Channel_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=1e00746ce7635c403c2d4f9767893f00446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/z2gl2uUHI4OzdAWuUYEruLNzux4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-c3b724.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Magna TV _VIDIO" group-title="VIDIO",Magna_TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f0b76267fbe12b936bd65e203dc675c1446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/lXR0RNo_sOsVOxIs_3bKHkY9KyY=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8237/mentari-tv-b64c27.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Samufly _VIDIO" group-title="VIDIO",MENTARI_TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/8Uruoktf9WtjEmoF2vFgyuC9paM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6838/tv-edukasi-1c7fd8.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Kursus _VIDIO" group-title="VIDIO",TV_EDUKASI_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/i2UHtnLoP9ZY-p91ZPIS1SNp4Sc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7968/nhk-hls-test-6bc2ee.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] NHK Newsline _VIDIO" group-title="VIDIO",NHK_Newsline_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9dd30287dc5ffcfb4efb1e0521c3c8f8446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/IQFqKIbeyevKjC8dXu8FXht94HQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5075/dw-english-dbc808.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] DW News _VIDIO" group-title="VIDIO",DW_News_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=23685a2431acad7789c1e3d43ea1522c446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/D1OrDJQmT6WqfzeDFHGAQoUbJ68=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7946/tv-tempo-ed7796.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] TV Tempo _VIDIO" group-title="VIDIO",TV_Tempo_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=5d188b044333b4c62676e0d4f53dade7446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cqM8vf1xK3YG5E3XF4DiuQ6LxR0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6898/u-channel-tv-cd4f34.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Positive Hits _VIDIO" group-title="VIDIO",U_Channel_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=76383b34503afb0508f8364787c55800446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/lx7oUbYJydZuOl0kpvxEbnTzT6o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6482/daai-tv-stream-6dc185.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] TBA _VIDIO" group-title="VIDIO",DAAI_TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/z4x2PkBTzTivB-VIK84936zZZVU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Movie _VIDIO" group-title="VIDIO",NUSANTARA_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/zFF27-zkkhoh0pah3JqUjG8ItDM=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] 30 Hari 30 Juz _VIDIO" group-title="VIDIO",AJWA_TV_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7bd66825e9a97424ffe5645549270832446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/uyQ4DSnHtTWmJQD9OTs5liQDeBs=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Al Quran Al Kareem TV _VIDIO" group-title="VIDIO",AlQuran_AlKareem_TV _VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e96be832cf8bc6b35a956e8fb66c76a446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/hoS6Jo9rM8wie723mTleODvZjCo=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg" tvg-id=".SHINTA" tvg-name"[CODAY] Khotbah _VIDIO" group-title="VIDIO",REFORMED_21_VIDIO
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=f26ecc6e3bc7f5e9c8cf23a7c7a315dd446503011668def857b1c03bafabba51
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="VIDIO",RCTI_plus(dec=native)
 https://lnk.ec/RCTIplus?shareext.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg" group-title="VIDIO",MNCTV_plus(dec=native)
@@ -1371,60 +1455,6 @@ http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
 http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
-
-
-///// KOREA /////
-
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",A channel
-http://ppmk.my.id/korea/kor.m3u8?id=achannel
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS DRAMA
-http://ppmk.my.id/korea/kor.m3u8?id=kbsdrama
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS1
-http://ppmk.my.id/korea/kor.m3u8?id=kbs1
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS2
-http://ppmk.my.id/korea/kor.m3u8?id=kbs2
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS JOY
-http://ppmk.my.id/korea/kor.m3u8?id=kbsjoy
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS KIDS
-http://ppmk.my.id/korea/kor.m3u8?id=kbskids
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS LIFE
-http://ppmk.my.id/korea/kor.m3u8?id=kbslife
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS STORY
-http://ppmk.my.id/korea/kor.m3u8?id=kbsstory
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",KBS WORLD
-http://ppmk.my.id/korea/kor.m3u8?id=kbsworld
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-1
-http://ppmk.my.id/korea/kor.m3u8?id=mbc1
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-2
-http://ppmk.my.id/korea/kor.m3u8?id=mbc2
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-3
-http://ppmk.my.id/korea/kor.m3u8?id=mbc3
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-4
-http://ppmk.my.id/korea/kor.m3u8?id=mbc4
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-5
-http://ppmk.my.id/korea/kor.m3u8?id=mbc5
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-6
-http://ppmk.my.id/korea/kor.m3u8?id=mbc6
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC-7
-http://ppmk.my.id/korea/kor.m3u8?id=mbc7
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBC NET
-http://ppmk.my.id/korea/kor.m3u8?id=mbcnet
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",MBN
-http://ppmk.my.id/korea/kor.m3u8?id=mbn
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS
-http://ppmk.my.id/korea/kor.m3u8?id=sbs
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS-2
-http://ppmk.my.id/korea/kor.m3u8?id=sbs2
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS BIZ
-http://ppmk.my.id/korea/kor.m3u8?id=sbsbiz
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS FUNE
-http://ppmk.my.id/korea/kor.m3u8?id=sbsfune
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS GOLF
-http://ppmk.my.id/korea/kor.m3u8?id=sbsgolf
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",SBS PLUS
-http://ppmk.my.id/korea/kor.m3u8?id=sbsplus
-#EXTINF:-1 tvg-logo="" tvg-id="SBS" tvg-name="SBS" group-title="KOREA",The Kpop
-http://ppmk.my.id/korea/kor.m3u8?id=thekpop
 
 
 ///// DENS TV /////
@@ -1573,147 +1603,121 @@ http://rr1.dens.tv/h/h03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 
 ///// MANDARIN CINEMA /////
 
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES01(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8022366
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES02(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8022040
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES03(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8020381
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES04(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8020331
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES05(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8020382
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES06(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8031710
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES07(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8031706
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES08(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8031620
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES09(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8031623
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES10(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8028239
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES11(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8031587
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES12(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8031580
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES13(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8027873
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES14(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8031574
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES15(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8020409
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES16(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8020410
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES17(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8020408
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES18(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8035190
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",MMOVIES19(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8031577
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",Douyu204
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",小叮噹
-https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/672651/live_7981914_1286387.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",經典2
-http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",經典5
-http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",喜剧联盟
-http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",古天乐影院
-http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",成龙作品集
-http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",郭富城影院
-http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",张国荣影院
-http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",高分影院
-http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",周润发影院
-http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",怀旧老片
-http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",周星驰影院
-http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",午夜失眠剧场
-http://117.148.179.141/PLTV/88888888/224/3221231516/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",吴京作品集
-http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",云上电影院
-http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",每日科幻电影
-http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",葛优作品集
-http://117.148.179.139/PLTV/88888888/224/3221231754/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",刘德华影院
-http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",僵尸剧场
-http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",刘亦菲影视展播
-http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",TVB剧场
-http://117.148.179.157/PLTV/88888888/224/3221231733/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",金庸频道
-http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",新片放映厅
-http://117.148.179.160/PLTV/88888888/224/3221231640/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",盗墓方法论
-http://117.148.179.164/PLTV/88888888/224/3221231652/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",试胆大会
-http://117.148.179.166/PLTV/88888888/224/3221231672/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",高能烧脑时刻
-http://117.148.179.169/PLTV/88888888/224/3221231504/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",杨幂作品集
-http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",4K剧场
-http://117.148.179.161/PLTV/88888888/224/3221231624/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",爱情公寓
-http://117.148.179.160/PLTV/88888888/224/3221231583/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",军旅剧场
-http://117.148.179.145/PLTV/88888888/224/3221231585/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",剧场公演
-http://117.148.179.139/PLTV/88888888/224/3221231622/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",红色谍战剧场
-http://117.148.179.169/PLTV/88888888/224/3221231627/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",少林剧场
-http://117.148.179.160/PLTV/88888888/224/3221231628/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",神探狄仁杰
-http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",黄金剧场
-http://117.148.179.183/PLTV/88888888/224/3221231637/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",追剧少女
-http://117.148.179.179/PLTV/88888888/224/3221231643/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",古龙作品集
-http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",经典贺岁片
-http://117.148.179.159/PLTV/88888888/224/3221231679/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",每日荐影
-http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",武侠剧场
-http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",经典好剧
-http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",科幻怪兽
-http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",喜剧电影
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",邵氏老电影
+https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",喜剧电影
 http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",女神影院
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",女神影院
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",斗鱼_电影5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",开心影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",科幻怪兽
+http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",进击の神乐
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",斗鱼电影
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",斗鱼_电影6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",經典1
+http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",經典2
+http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+
+
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA", Douyu Movie 3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA", Douyu Movie 5
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA", Douyu Movie 6
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",一起看萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",一起看进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",一起看少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",一起看进击の神
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",进击の神乐
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES12(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8031580
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES13(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8027873
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES14(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8031574
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES15(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8020409
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES16(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8020410
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES17(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8020408
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES18(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8035190
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES19(dec=auto)
+http://dl.zhoujie218.top/dl/youku.php?id=8031577
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",Douyu204
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",小叮噹
+https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/672651/live_7981914_1286387.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",經典2
+http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",經典5
+http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",DouyuMovie1
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",DouyuMovie2
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",DouyuMovie3
+http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",一起看萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",一起看进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",一起看少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",一起看进击の神
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",萌小鬼
+http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",进击的神乐
+http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",少女可乐橙
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",进击の神乐
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",经典好剧
+http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",科幻怪兽
+http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",喜剧电影
+http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",女神影院
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",斗鱼_电影5
+http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",斗鱼_电影6
 http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",斗鱼_电影8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",斗鱼_电影8
 http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",斗鱼_电影14
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",斗鱼_电影14
 http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",斗鱼_电影16
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",斗鱼_电影16
 http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",斗鱼_电影18
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",斗鱼_电影18
 http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-#EXTINF:-1 group-title="MANDARIN CINEMA" tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png",斗鱼_电影21
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png"group-title="MANDARIN CINEMA",斗鱼_电影21
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 
 
@@ -1791,6 +1795,70 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m
 
 #EXTINF:-1 tvg-id="astroceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="http://tvmalaysia.cc:80/images/49204e1ccb905c3231dac0998b55b704.png" group-title="MALAYSIA",ASTRO Ceria HD
 http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
+
+
+///// BEIN ENTERTAINMENT /////
+
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN STAR MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_movies.png" group-title="BEIN ENTERTAINMENT",BEIN_STARMOVIES HD
+http://channelstv.online:8080/medo2021/medo2022/117153
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN STAR WORLD HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_world_hk.png" group-title="BEIN ENTERTAINMENT",BEIN_STARWORLD HD
+http://channelstv.online:8080/medo2021/medo2022/117154
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN Movies 1 PREMIERE HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-1-qa.png" group-title="BEIN ENTERTAINMENT",BEIN_Movies1 PREMIERE HD
+http://channelstv.online:8080/medo2021/medo2022/117155
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN Movies 2 ACTION HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-action-2-qa-tr.png" group-title="BEIN ENTERTAINMENT",BEIN_Movies2 ACTION HD
+http://channelstv.online:8080/medo2021/medo2022/117156
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN Movies 3 DRAMA HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-3-qa.png" group-title="BEIN ENTERTAINMENT",BEIN_Movies3 DRAMA HD
+http://channelstv.online:8080/medo2021/medo2022/117157
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN Movies 4 FAMILY HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-movies-family-qa-tr.png" group-title="BEIN ENTERTAINMENT",BEIN_Movies4 FAMILY HD
+http://channelstv.online:8080/medo2021/medo2022/117158
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN SERIES 1 HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-series-1-qa.png" group-title="BEIN ENTERTAINMENT",BEIN_SERIES 1 HD
+http://channelstv.online:8080/medo2021/medo2022/117160
+#EXTINF:-1 tvg-id="" tvg-name="BE:  BEIN  series 2  HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-series-2-qa.png" group-title="BEIN ENTERTAINMENT",BEIN _series 2  HD
+http://channelstv.online:8080/medo2021/medo2022/117161
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN FOX ACTION MOVIES HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_action.png" group-title="BEIN ENTERTAINMENT",FOX_ACTION_MOVIES HD
+http://channelstv.online:8080/medo2021/medo2022/117164
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN FOX REWAYAT HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-rewayat-us.png" group-title="BEIN ENTERTAINMENT",FOX_REWAYAT HD
+http://channelstv.online:8080/medo2021/medo2022/117165
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN FOX CRIME HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_crime_global.png" group-title="BEIN ENTERTAINMENT",FOX_CRIME HD
+http://channelstv.online:8080/medo2021/medo2022/117166
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN  FOX LIFE FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox-life-us.png" group-title="BEIN ENTERTAINMENT",FOX_LIFE FHD
+http://channelstv.online:8080/medo2021/medo2022/117167
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN BBC EARTH HD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bbc_earth_uk.png" group-title="BEIN ENTERTAINMENT",BBC_EARTH HD
+http://channelstv.online:8080/medo2021/medo2022/117168
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN FOX MOVIES " tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png" group-title="BEIN ENTERTAINMENT",FOX_MOVIES
+http://channelstv.online:8080/medo2021/medo2022/117169
+#EXTINF:-1 tvg-id="" tvg-name="BE:  BEIN Discovery ID HD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="BEIN ENTERTAINMENT",Discovery_ID HD
+http://channelstv.online:8080/medo2021/medo2022/117170
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN NATGEO WILD FHD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-wild-us.png" group-title="BEIN ENTERTAINMENT",NATGEO_WILD FHD
+http://channelstv.online:8080/medo2021/medo2022/117171
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN national geographic HD" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nat_geo_us.png" group-title="BEIN ENTERTAINMENT",national_geographic HD
+http://channelstv.online:8080/medo2021/medo2022/117172
+#EXTINF:-1 tvg-id="" tvg-name="BE:  BEIN History" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history_tv18.png" group-title="BEIN ENTERTAINMENT",History
+http://channelstv.online:8080/medo2021/medo2022/117173
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN DISCOVERY Showcase FHD" tvg-logo="https://www.lyngsat.com/logo/tv/ii/investigation-discovery-us.png" group-title="BEIN ENTERTAINMENT",DISCOVERY Showcase FHD
+http://channelstv.online:8080/medo2021/medo2022/117174
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN animal planet HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" group-title="BEIN ENTERTAINMENT",animal planet HD
+http://channelstv.online:8080/medo2021/medo2022/117175
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN HGTV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hgtv_us.png" group-title="BEIN ENTERTAINMENT",HGTV
+http://channelstv.online:8080/medo2021/medo2022/117180
+#EXTINF:-1 tvg-id="" tvg-name="BE:  BEIN  FOX FAMILY MOVIES  HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_family.png" group-title="BEIN ENTERTAINMENT",FOX_FAMILY_MOVIES  HD
+http://channelstv.online:8080/medo2021/medo2022/117181
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN  FATAFEAT HD" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fatafeat-eg-ae.png" group-title="BEIN ENTERTAINMENT",FATAFEAT HD
+http://channelstv.online:8080/medo2021/medo2022/117184
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN JEEM FHD" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jeem_tv_qa.png" group-title="BEIN ENTERTAINMENT",JEEM FHD
+http://channelstv.online:8080/medo2021/medo2022/117187
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN HISTORY 2 HD" tvg-logo="https://www.lyngsat.com/logo/tv/hh/h2-latinoamerica-us.png" group-title="BEIN ENTERTAINMENT",HISTORY 2 HD
+http://channelstv.online:8080/medo2021/medo2022/117188
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN OUTDOOR HD" tvg-logo="https://www.lyngsat.com/logo/tv/oo/outdoor-channel-us.png" group-title="BEIN ENTERTAINMENT",OUTDOOR HD
+http://channelstv.online:8080/medo2021/medo2022/117189
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN  DREAM WORKS FHD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dreamworks-tv-us.png" group-title="BEIN ENTERTAINMENT",DREAM WORKS FHD
+http://channelstv.online:8080/medo2021/medo2022/117190
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN AMC " tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc_us.png" group-title="BEIN ENTERTAINMENT",AMC 
+http://channelstv.online:8080/medo2021/medo2022/117194
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN DTX" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us_xtra.png" group-title="BEIN ENTERTAINMENT",DTX
+http://channelstv.online:8080/medo2021/medo2022/117195
+#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN GOURMET FHD" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-gourmet-qa.png" group-title="BEIN ENTERTAINMENT",GOURMET FHD
+http://channelstv.online:8080/medo2021/medo2022/117197
 
 
 ///// NETFLIX /////
