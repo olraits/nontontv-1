@@ -711,9 +711,6 @@ http://tvn.x10.bz/xchannel/master-24.m3u8
 
 ///// MOVIES /////
 
-#EXTINF:-1 tvg-id="" tvg-name="BE: BEIN FOX MOVIES " tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_us.png" group-title="MOVIES",FOX_MOVIES
-http://channelstv.online:8080/medo2021/medo2022/117169
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="MOVIES",ANIPLUS
 http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8
 
@@ -725,11 +722,9 @@ http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h18/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-mycinema_small.png" group-title="MOVIES", My Cinema
-https://indositusx.com/link/use.m3u8?id=mycinema
 http://rr.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
 http://210.210.155.35:80/uq2663/h/h90/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="MOVIES", My Cinema Asia
-https://indositusx.com/link/use.m3u8?id=mycinemaasia
 http://rr.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
 http://210.210.155.35:80/uq2663/h/h193/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="MOVIES", My Family Channel
@@ -790,9 +785,9 @@ https://lnk.ec/shareext@juara2
 https://lnk.ec/shareext@juara3
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion4
 https://lnk.ec/shareext@juara4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",U.sports(Opt1)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",U.sports(Opt1)
 https://lnk.ec/shareext@useesport
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",U.sports_2(Opt1)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",U.sports_2(Opt1)
 https://lnk.ec/shareext@useesports2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Spotv_1*
 https://lnk.ec/shareext@spotv
@@ -1804,43 +1799,43 @@ http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 
 
-/////
+///// English Movie Premium /////
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_1
 http://f4.tvxweb.net:8082/24263/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_2
 http://f4.tvxweb.net:8082/24264/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_3
 http://f4.tvxweb.net:8082/24265/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_4
 http://f4.tvxweb.net:8082/24266/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_5
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_5
 http://f4.tvxweb.net:8082/24267/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_6
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_6
 http://f4.tvxweb.net:8082/24268/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_7
 http://f4.tvxweb.net:8082/24269/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_8
 http://f4.tvxweb.net:8082/24270/index.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_9
 http://f4.tvxweb.net:8082/24271/index.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_10
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_10
 http://f4.tvxweb.net:8082/24272/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_11
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_11
 http://f4.tvxweb.net:8082/24273/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_12
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_12
 http://f4.tvxweb.net:8082/24316/playlist.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_13
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_13
 http://f4.tvxweb.net:8082/35970/video.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_14
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_14
 http://f4.tvxweb.net:8082/35974/video.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_15
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_15
 http://f4.tvxweb.net:8082/35975/video.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_16
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_16
 http://f4.tvxweb.net:8082/35976/video.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_17
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_17
 http://f4.tvxweb.net:8082/35977/video.m3u8?shareext.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_18
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="English Movie Premium", Movie_premium_18
 http://f4.tvxweb.net:8082/35979/video.m3u8?shareext.ts
 
 
