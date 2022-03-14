@@ -782,6 +782,23 @@ http://tvn.x10.bz/xchannel/master-8.m3u8
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion4
 http://tvn.x10.bz/xchannel/master-17.m3u8
 
+#EXTINF:-1  tvg-logo="https://bit.ly/3b0w4i8" group-title="SPORTS",Champion1
+https://lnk.ec/shareext@juara1
+#EXTINF:-1  tvg-logo="https://bit.ly/3G5WH3L" group-title="SPORTS",Champion2
+https://lnk.ec/shareext@juara2
+#EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion3
+https://lnk.ec/shareext@juara3
+#EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion4
+https://lnk.ec/shareext@juara4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",U.sports(Opt1)
+https://lnk.ec/shareext@useesport
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",U.sports_2(Opt1)
+https://lnk.ec/shareext@useesports2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Spotv_1*
+https://lnk.ec/shareext@spotv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Spotv_2*
+https://lnk.ec/shareext@spotv2
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",INDOSIAR_LIGA1&2
 http://108.136.37.52/m3u8/vid_Indosiar.m3u8?shareext.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",LIGA1&2
@@ -802,6 +819,11 @@ https://indositusx.com/link/use.m3u8?id=spotv2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motors_TV_old.svg/1112px-Motors_TV_old.svg.png" group-title="SPORTS",Motorvision
 http://playlist.urfan.web.id/uq2663/h/h09/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Astro_Arena
+https://lnk.ec/shareext@arena1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Astro_Arena_2
+https://lnk.ec/shareext@arena2
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",UnifiSport1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -832,16 +854,104 @@ http://live.netcoffee.id:25005/test/bisaoffkapanaja/599
 
 ///// FILM /////
 
-#EXTINF:-1 tvg-id="HBOAsia.us" tvg-logo="http://dusktill.masuk.web.id/img/hbo.png" group-title="FILM",  HBOHD
-https://hehe.ppmk.my.id/hbohd.m3u8
-#EXTINF:-1 tvg-id="HBOSignatureAsia.us" tvg-logo="http://dusktill.masuk.web.id/img/hbosig.png" group-title="FILM",  HBOSignatureHD
-https://hehe.ppmk.my.id/sighd.m3u8
-#EXTINF:-1 tvg-id="HBOHitsAsia.us" tvg-logo="http://dusktill.masuk.web.id/img/hbohits.png" group-title="FILM",  HBOHitsHD
-https://hehe.ppmk.my.id/hitshd.m3u8
-#EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-logo="http://dusktill.masuk.web.id/img/hbofamily.png" group-title="FILM",  HBOFamilyHD
-https://hehe.ppmk.my.id/famhd.m3u8
-#EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="FILM",  CINEMAX
-https://hehe.ppmk.my.id/maxhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID028:HBO" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",HBO
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60473
+#EXTINF:-1 tvg-id="" tvg-name="ID029:HBO Family" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",HBO Family
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60474
+#EXTINF:-1 tvg-id="" tvg-name="ID030:HBO Hits" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",HBO Hits
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60458
+#EXTINF:-1 tvg-id="" tvg-name="ID031:HBO Signature" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",HBO Signature
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60456
+#EXTINF:-1 tvg-id="" tvg-name="ID032:Hits Movies" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",Hits_Movies
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60457
+#EXTINF:-1 tvg-id="" tvg-name="ID033:MNC Entertainment " tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",MNC Entertainment
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60466
+#EXTINF:-1 tvg-id="" tvg-name="ID001:AXN" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",AXN
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60464
+#EXTINF:-1 tvg-id="" tvg-name="ID013:Cinema World" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",Cinema_World
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60480
+#EXTINF:-1 tvg-id="" tvg-name="ID014:Cinemax" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",Cinemax
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60459
+#EXTINF:-1 tvg-id="" tvg-name="ID040:ZBioskop" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",ZBioskop
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60349
+#EXTINF:-1 tvg-id="" tvg-name="ID041:KiX" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",KiX
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60350
+#EXTINF:-1 tvg-id="" tvg-name="ID057:Thrill" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",Thrill
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60276
+#EXTINF:-1 tvg-id="" tvg-name="ID062:TvN" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",TvN
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60281
+#EXTINF:-1 tvg-id="" tvg-name="ID063:TVN Movies" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",TVN_Movies
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60282
+#EXTINF:-1 tvg-id="" tvg-name="ID067:Vision Prime" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",Vision_Prime
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60291
+#EXTINF:-1 tvg-id="" tvg-name="MY007:QUAN JIA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",QUAN_JIA
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1728
+#EXTINF:-1 tvg-id="" tvg-name="MY008:SHUANG XING" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",SHUANG_XING
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1727
+#EXTINF:-1 tvg-id="" tvg-name="MY009:Wah Lai Toi" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",Wah_Lai_Toi
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1726
+#EXTINF:-1 tvg-id="" tvg-name="MY010:HUA HEE DAI" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",HUA_HEE_DAI
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1725
+#EXTINF:-1 tvg-id="" tvg-name="MY012:AEC" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",AEC
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1723
+#EXTINF:-1 tvg-id="" tvg-name="MY017:CELESTIAL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",CELESTIAL_Movie
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1718
+#EXTINF:-1 tvg-id="" tvg-name="MY020:Star Chinese Channel" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",Star_Chinese_Channel
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1715
+#EXTINF:-1 tvg-id="" tvg-name="MY021:XIAO TAI YANG" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",XIAO_TAI_YANG
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1714
+#EXTINF:-1 tvg-id="" tvg-name="MY022:SCM Legend" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",SCM_Legend
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1713
+#EXTINF:-1 tvg-id="" tvg-name="MY023:TVB CLASSIC" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",TVB_CLASSIC
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1712
+#EXTINF:-1 tvg-id="" tvg-name="MY029:WARNA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",WARNA
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1706
+#EXTINF:-1 tvg-id="" tvg-name="MY030:RIA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",RIA
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1705
+#EXTINF:-1 tvg-id="" tvg-name="MY031:AWANI" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",AWANI
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1704
+#EXTINF:-1 tvg-id="" tvg-name="MY034:OASIS" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",OASIS
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1701
+#EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",BOO
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/1697
+#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO PRIMA HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",ASTRO_PRIMA_HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71020
+#EXTINF:-1 tvg-id="" tvg-name="MY053:ADITHYA" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",ADITHYA
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71031
+#EXTINF:-1 tvg-id="" tvg-name="MY054:ZEE Tamil HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",ZEE_Tamil HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71032
+#EXTINF:-1 tvg-id="" tvg-name="MY055:VINMEEN HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",VINMEEN_HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71033
+#EXTINF:-1 tvg-id="" tvg-name="MY056:STAR VIJAY HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",STAR_VIJAY HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71034
+#EXTINF:-1 tvg-id="" tvg-name="MY057:COLORS TAMIL" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",COLORS_TAMIL
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71035
+#EXTINF:-1 tvg-id="" tvg-name="MY059:BOLLYONE HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",BOLLYONE_HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71037
+#EXTINF:-1 tvg-id="" tvg-name="MY060:iQIYI HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",iQIYI HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71038
+#EXTINF:-1 tvg-id="" tvg-name="MY071:TVB XING HE HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",TVB_XING_HE HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71044
+#EXTINF:-1 tvg-id="" tvg-name="MY073:CCM" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",CCM
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71046
+#EXTINF:-1 tvg-id="" tvg-name="MY077:AOD 353 HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",AOD 353 HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71049
+#EXTINF:-1 tvg-id="" tvg-name="MY079:AOD 355 HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",AOD 355 HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71051
+#EXTINF:-1 tvg-id="" tvg-name="MY080:KBS World HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",KBS_World HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71052
+#EXTINF:-1 tvg-id="" tvg-name="MY081:ONE HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",ONE_HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71053
+#EXTINF:-1 tvg-id="" tvg-name="MY082:Oh!K HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",Oh!K HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71054
+#EXTINF:-1 tvg-id="" tvg-name="MY084:HITS MOVIES HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",HITS_MOVIES HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71056
+#EXTINF:-1 tvg-id="" tvg-name="MY085:HBO HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",HBO_HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71057
+#EXTINF:-1 tvg-id="" tvg-name="MY086:CINEMAX HD" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",CINEMAX _HD
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71058
+#EXTINF:-1 tvg-id="" tvg-name="MY087:tvN Movies" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILM",tvN_Movies
+http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71059
 
 
 ///// MUSIC /////
@@ -1144,33 +1254,6 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4
 
 
 ///// USEETV /////
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",C.DRAMA
-https://indositusx.com/link/use.m3u8?id=cdrama
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",MY_CINEMA
-https://indositusx.com/link/use.m3u8?id=mycinema
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",MY_CINEMA_ASIA
-https://indositusx.com/link/use.m3u8?id=mycinemaasia
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",GALAXY
-https://indositusx.com/link/use.m3u8?id=galaxy
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",GALAXY_PREMIUM
-https://indositusx.com/link/use.m3u8?id=galaxypremium
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",SCM
-https://indositusx.com/link/use.m3u8?id=scm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",ROCK_EXTREME
-https://indositusx.com/link/use.m3u8?id=rockextreme
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",TECHSTRORM
-https://indositusx.com/link/use.m3u8?id=techstorm
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",ROCK_ENTERTAIND
-https://indositusx.com/link/use.m3u8?id=rock
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",DUNIA_ANAK
-https://indositusx.com/link/use.m3u8?id=duniaanak
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",DREAMWORK
-https://indositusx.com/link/use.m3u8?id=dreamworks
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",HOREE
-https://indositusx.com/link/use.m3u8?id=horee
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",IMC
-https://indositusx.com/link/use.m3u8?id=imc
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="USEETV",RuangTrampil_USEETV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b5268ef7e5a44f541a7cbde7626ef57566
@@ -1719,6 +1802,46 @@ http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
 http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",斗鱼_电影21
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+
+
+/////
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_1
+http://f4.tvxweb.net:8082/24263/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_2
+http://f4.tvxweb.net:8082/24264/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_3
+http://f4.tvxweb.net:8082/24265/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_4
+http://f4.tvxweb.net:8082/24266/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_5
+http://f4.tvxweb.net:8082/24267/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_6
+http://f4.tvxweb.net:8082/24268/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_7
+http://f4.tvxweb.net:8082/24269/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_8
+http://f4.tvxweb.net:8082/24270/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_9
+http://f4.tvxweb.net:8082/24271/index.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_10
+http://f4.tvxweb.net:8082/24272/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_11
+http://f4.tvxweb.net:8082/24273/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_12
+http://f4.tvxweb.net:8082/24316/playlist.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_13
+http://f4.tvxweb.net:8082/35970/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_14
+http://f4.tvxweb.net:8082/35974/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_15
+http://f4.tvxweb.net:8082/35975/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_16
+http://f4.tvxweb.net:8082/35976/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_17
+http://f4.tvxweb.net:8082/35977/video.m3u8?shareext.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg"group-title="English Movie Premium",Movie_premium_18
+http://f4.tvxweb.net:8082/35979/video.m3u8?shareext.ts
 
 
 ///// MALAYSIA /////
