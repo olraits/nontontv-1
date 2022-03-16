@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml, https://macan.tv/xmltv.php?username=epg&password=epg, http://ppmk.my.id/epg/epg.xml"  refresh="3600"
 
 
-///// NATIONAL TV /////
+===========================NATIONAL TV===========================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -115,7 +115,7 @@ https://on-load.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 https://liveanevia.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 
-///// NEWS /////
+===========================NEWS===========================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -208,7 +208,7 @@ https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 https://on-load.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 
 
-///// ENTERTAINMENT & LIFESTYLE /////
+===========================ENTERTAINMENT & LIFESTYLE===========================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -314,7 +314,7 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 
-///// KNOWLEDGE /////
+===========================KNOWLEDGE===========================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -369,7 +369,7 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 https://on-load.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 
-///// KIDS /////
+===========================KIDS===========================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -412,7 +412,7 @@ https://liveanevia.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 
 
-///// MOVIES /////
+===========================MOVIES===========================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -536,7 +536,7 @@ https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 https://indositusx.com/link/use.m3u8?id=scm
 
 
-///// MUSIC /////
+===========================MUSIC===========================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -544,7 +544,7 @@ https://indositusx.com/link/use.m3u8?id=scm
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 
-///// SPORTS /////
+===========================SPORTS===========================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -596,7 +596,7 @@ https://on-load.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD
 
 
 
-///// RELIGI /////
+===========================RELIGI===========================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -639,7 +639,7 @@ https://liveanevia.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 https://liveanevia.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 
 
-///// FREE TO AIR /////
+===========================FREE TO AIR===========================
 
 #EXTINF:-1 group-title="FREE TO AIR" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
 https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7.m3u8
@@ -701,7 +701,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 
-///// NATIONAL TV /////
+===========================NATIONAL TV===========================
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="NATIONAL TV", Indosiar
 http://tvn.x10.bz/xchannel/master.m3u8
@@ -709,7 +709,7 @@ http://tvn.x10.bz/xchannel/master.m3u8
 http://tvn.x10.bz/xchannel/master-24.m3u8
 
 
-///// MOVIES /////
+===========================MOVIES===========================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="MOVIES",ANIPLUS
 http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8
@@ -733,7 +733,7 @@ http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 http://210.210.155.35:80/uq2663/h/h194/index.m3u8
 
 
-///// ENTERTAINMENT & LIFESTYLE /////
+===========================ENTERTAINMENT & LIFESTYLE===========================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Xqf12P/Kplus.png?v=1.0.0.1" group-title="ENTERTAINMENT & LIFESTYLE" tvg-id="K-Plus HD" tvg-name="K-Plus HD", Kplus
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6278b166-9632-42c3-b6e9-226edc1d3da6)/manifest.mpd
@@ -757,7 +757,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
 
 
-///// KNOWLEDGE /////
+===========================KNOWLEDGE===========================
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE", LOVE NATURE 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -766,7 +766,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
-///// SPORTS /////
+===========================SPORTS===========================
 
 #EXTINF:-1  tvg-logo="https://bit.ly/3b0w4i8" group-title="SPORTS",Champion1
 http://tvn.x10.bz/xchannel/master-6.m3u8
@@ -830,7 +830,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
-///// NEWS /////
+===========================NEWS===========================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxMLn71/Aljazeera.png" group-title="NEWS",Al Jazeera Arabic
 http://45.126.83.51/qwr9ew/s/s16/01.m3u8
@@ -845,13 +845,13 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 
-///// KIDS /////
+===========================KIDS===========================
 
 #EXTINF:-1 tvg-id="dreamwork" tvg-logo="https://i.ibb.co/37m5R58/dreamwork.png" group-title="KIDS",DreamWorks
 http://live.netcoffee.id:25005/test/bisaoffkapanaja/599
 
 
-///// INA&MLY TV /////
+===========================INA&MLY TV===========================
 
 #EXTINF:-1 tvg-id="" tvg-name="ID028:HBO" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INA&MLY TV",HBO
 http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/60473
@@ -1011,7 +1011,7 @@ http://ky-iptv.com:80/nicholas/123456789/1400653.ts
 http://ky-iptv.com:80/nicholas/123456789/1400654.ts
 
 
-///// BEIN TV /////
+===========================BEIN TV===========================
 
 #EXTINF:-1 tvg-id="bein.movies.1.premiere.ae" tvg-name="BN014:BeIN Movies 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/BN/BN014BeINMovies1.png" group-title="BEIN TV",BeIN_Movies_1
 http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2128
@@ -1035,7 +1035,7 @@ http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2116
 http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/2115
 
 
-///// MUSIC /////
+===========================MUSIC===========================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
@@ -1088,7 +1088,7 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
 
 
-///// TV INDONESIA /////
+===========================TV INDONESIA===========================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="TV INDONESIA",TVRI SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
@@ -1228,7 +1228,7 @@ https://h1.intechmedia.net/intech/ch9.m3u8
 https://h1.intechmedia.net/intech/ch10.m3u8
 
 
-//// TVRI /////
+===========================TVRI===========================
 
 #EXTINF:-1 tvg-country="ID" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI NASIONAL
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
@@ -1284,7 +1284,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
 
-///// MAXSTREAM /////
+===========================MAXSTREAM===========================
 
 #EXTINF:-1 group-title="MAXSTREAM",Magna Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
@@ -1334,7 +1334,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(62c29969-78fa-4754-bf97-6cfcb1d29f81)/manifest.mpd
 
 
-///// USEETV /////
+===========================USEETV===========================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="USEETV",MYCINEMA_ASIA
 https://filmkita.online/00/useehls.m3u8?id=mycinemaasia
@@ -1449,7 +1449,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6c8349cc7260ae62e3b1396831a8398fdfdded94c48ea6229c48edefa9ec1c9f
 
 
-///// VIDIO /////
+===========================VIDIO===========================
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/h4HA0ano6axInD4t4JKYrB-ZjQU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6684/61417f.png" group-title="VIDIO", Citra Bioskop 
 http://tvn.x10.bz/xchannel/master-1.m3u8
@@ -1583,7 +1583,7 @@ https://lnk.ec/INEWSplus?shareext.m3u8
 https://lnk.ec/GTVplus?shareext.m3u8
 
 
-///// RADIO /////
+===========================RADIO===========================
 
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
 http://onlineradiobox.com/json/id/prambors/play
@@ -1652,7 +1652,7 @@ http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
 
-///// DENS TV /////
+===========================DENS TV===========================
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="DENS TV" tvg-logo="", Live Streaming 1
 http://rr3.dens.tv/s/s100/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
@@ -1796,7 +1796,7 @@ http://rr.dens.tv/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341h
 http://rr1.dens.tv/h/h03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Bloomberg_Television_HD
 
 
-///// MANDARIN CINEMA /////
+===========================MANDARIN CINEMA===========================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",邵氏老电影
 https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
@@ -1916,7 +1916,7 @@ http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
 http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
 
 
-///// ENGLISH MOVIE PREMIUM /////
+===========================ENGLISH MOVIE PREMIUM===========================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="ENGLISH MOVIE PREMIUM", Movie_premium_1
 http://f4.tvxweb.net:8082/24263/playlist.m3u8?shareext.ts
@@ -1956,7 +1956,7 @@ http://f4.tvxweb.net:8082/35977/video.m3u8?shareext.ts
 http://f4.tvxweb.net:8082/35979/video.m3u8?shareext.ts
 
 
-///// MALAYSIA /////
+===========================MALAYSIA===========================
 
 #EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
@@ -2032,7 +2032,7 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m
 http://iptv.tvmalaysia.cc:80/penang189/penang189/6715
 
 
-///// NETFLIX /////
+===========================NETFLIX===========================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png" group-title="NETFLIX",Netflix1
 http://red.ipfox.org:8080/1234/12345678/31918
