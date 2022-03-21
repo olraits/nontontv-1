@@ -777,23 +777,6 @@ http://tvn.x10.bz/xchannel/master-8.m3u8
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion4
 http://tvn.x10.bz/xchannel/master-17.m3u8
 
-#EXTINF:-1  tvg-logo="https://bit.ly/3b0w4i8" group-title="SPORTS",Champion1
-https://lnk.ec/shareext@juara1
-#EXTINF:-1  tvg-logo="https://bit.ly/3G5WH3L" group-title="SPORTS",Champion2
-https://lnk.ec/shareext@juara2
-#EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion3
-https://lnk.ec/shareext@juara3
-#EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion4
-https://lnk.ec/shareext@juara4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",U.sports(Opt1)
-https://lnk.ec/shareext@useesport
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",U.sports_2(Opt1)
-https://lnk.ec/shareext@useesports2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Spotv_1*
-https://lnk.ec/shareext@spotv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Spotv_2*
-https://lnk.ec/shareext@spotv2
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",LIGA1&2
 http://tvn.x10.bz/xchannel/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",indosiar_back1
@@ -811,10 +794,6 @@ http://4digital.ddns.net:11222/ts/0
 http://nontonbola.my.id/hustv/useesport1.m3u8?punyanya=gasss
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",USEESPORT2(gaess)
 http://nontonbola.my.id/hustv/useesport2.m3u8?punyanya=gasss
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",SpotV
-https://indositusx.com/link/use.m3u8?id=spotv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",SpotV2
-https://indositusx.com/link/use.m3u8?id=spotv2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motors_TV_old.svg/1112px-Motors_TV_old.svg.png" group-title="SPORTS",Motorvision
 http://playlist.urfan.web.id/uq2663/h/h09/index.m3u8
