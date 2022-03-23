@@ -595,7 +595,6 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 https://on-load.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 
 
-
 ===========================RELIGI===========================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -931,63 +930,6 @@ http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71057
 http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71058
 #EXTINF:-1 tvg-id="" tvg-name="MY087:tvN Movies" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="INA&MLY TV",tvN_Movies
 http://mvu03.wanicelife.com:8880/SWFAF143575/VD6UF9EX/71059
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_HBO_Family
-http://ky-iptv.com:80/nicholas/123456789/1344047.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_HGTV
-http://ky-iptv.com:80/nicholas/123456789/1806262.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_TVN
-http://ky-iptv.com:80/nicholas/123456789/1806316.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_AXN
-http://ky-iptv.com:80/nicholas/123456789/1806222.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_Celestial Movies
-http://ky-iptv.com:80/nicholas/123456789/1806233.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_Cinema World
-http://ky-iptv.com:80/nicholas/123456789/1806237.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_Cinemax
-http://ky-iptv.com:80/nicholas/123456789/1806238.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_FOX
-http://ky-iptv.com:80/nicholas/123456789/1806251.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_Fox_Family_Movies
-http://ky-iptv.com:80/nicholas/123456789/1344036.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_Fox_Movies_Premium
-http://ky-iptv.com:80/nicholas/123456789/1806253.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_KIX
-http://ky-iptv.com:80/nicholas/123456789/1806275.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_Shanghai_Dragon TV
-http://ky-iptv.com:80/nicholas/123456789/1806304.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_Sony_ONE
-http://ky-iptv.com:80/nicholas/123456789/1806305.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_Thrill
-http://ky-iptv.com:80/nicholas/123456789/1806307.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_TVN_Movies
-http://ky-iptv.com:80/nicholas/123456789/1806317.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_Xing_Kong TV
-http://ky-iptv.com:80/nicholas/123456789/1806321.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_HBO
-http://ky-iptv.com:80/nicholas/123456789/1806259.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_HBO_Hits
-http://ky-iptv.com:80/nicholas/123456789/1806260.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_Hits
-http://ky-iptv.com:80/nicholas/123456789/1806264.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",ID_HITS_Movies
-http://ky-iptv.com:80/nicholas/123456789/1806265.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",MY_OASIS HD
-http://ky-iptv.com:80/nicholas/123456789/1400691.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",MY_ONE HD
-http://ky-iptv.com:80/nicholas/123456789/1400693.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",MY_PRIMA HD
-http://ky-iptv.com:80/nicholas/123456789/1400701.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",MY_TVN
-http://ky-iptv.com:80/nicholas/123456789/1019707.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",MY_Astro_Oh!K HD
-http://ky-iptv.com:80/nicholas/123456789/1350411.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",MY_Astro_Ceria
-http://ky-iptv.com:80/nicholas/123456789/1400568.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",MY_Hits_Movies
-http://ky-iptv.com:80/nicholas/123456789/1400653.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="INA&MLY TV",MY_HITS HD
-http://ky-iptv.com:80/nicholas/123456789/1400654.ts
 
 
 ===========================BEIN TV===========================
@@ -1935,6 +1877,122 @@ http://f4.tvxweb.net:8082/35977/video.m3u8?shareext.ts
 http://f4.tvxweb.net:8082/35979/video.m3u8?shareext.ts
 
 
+===========================BOX OFFICE CHANNELS===========================
+
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX ANIME 1" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_ANIME_1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120358
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX ANIME 2" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_ANIME_2
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120359
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX ANIME 3" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_ANIME_3
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120360
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX ANIME 4" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_ANIME_4
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120361
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX MOVIES 1" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_MOVIES_1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95274
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX MOVIES 2" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_MOVIES_2
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95275
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX MOVIES 3" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_MOVIES_3
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95286
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX MOVIES 4" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_MOVIES_4
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95287
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX MOVIES 5" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_MOVIES_5
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120362
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX MOVIES 6" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_MOVIES_6
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120363
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX MOVIES 7" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_MOVIES_7
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120364
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX MOVIES 8" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_MOVIES_8
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120365
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX MOVIES 9" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_MOVIES_9
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120366
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX MOVIES 10" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_MOVIES_10
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120367
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX PLUS BOX OFFICE 1" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_PLUS_BOX OFFICE 1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95300
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX PLUS BOX OFFICE 2" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_PLUS BOX_OFFICE 2
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95301
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX PLUS BOX OFFICE 3" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_PLUS BOX_OFFICE 3
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95302
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX PLUS BOX OFFICE 4" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_PLUS BOX_OFFICE 4
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95303
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX PLUS BOX OFFICE 5" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_PLUS BOX_OFFICE 5
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95304
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX PLUS BOX OFFICE 6" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_PLUS BOX_OFFICE 6
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95305
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX PLUS BOX OFFICE 7" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_PLUS BOX_OFFICE 7
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95306
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX PLUS BOX OFFICE 8" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_PLUS BOX_OFFICE 8
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95307
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX PLUS BOX OFFICE 9" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_PLUS BOX_OFFICE 9
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95308
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX PLUS BOX OFFICE 10" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_PLUS BOX_OFFICE 10
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95309
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX BOX OFFICE 11" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_BOX_OFFICE 11
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95299
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX BOX OFFICE 12" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_BOX_OFFICE 12
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95288
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX BOX OFFICE 13" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_BOX_OFFICE 13
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95270
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX BOX OFFICE 14" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_BOX_OFFICE 14
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95271
+#EXTINF:-1 tvg-ID="" tvg-name="SKYFLIX BOX OFFICE 15" tvg-logo="http://portal.maxtviptv.com:80/images/ae56947c87a3fde890044542fb6ab74f.png" group-title="BOX OFFICE CHANNELS",SKYFLIX_BOX_OFFICE 15
+http://shareext@hahaiptv.net:8880/1111177777/55556666/95273
+#EXTINF:-1 tvg-ID="" tvg-name="iflix Entertainment 1" tvg-logo="http://portal.maxtviptv.com:80/images/30827c9f4efdfc740313d68b4c56c0d9.png" group-title="BOX OFFICE CHANNELS",iflix_Entertainment 1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120415
+#EXTINF:-1 tvg-ID="" tvg-name="iflix Entertainment 2" tvg-logo="http://portal.maxtviptv.com:80/images/30827c9f4efdfc740313d68b4c56c0d9.png" group-title="BOX OFFICE CHANNELS",iflix_Entertainment 2
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120416
+#EXTINF:-1 tvg-ID="" tvg-name="iflix Action 1" tvg-logo="http://portal.maxtviptv.com:80/images/c7804d09d1e69594b9762836b9f56845.png" group-title="BOX OFFICE CHANNELS",iflix_Action 1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120422
+#EXTINF:-1 tvg-ID="" tvg-name="iflix Action 2" tvg-logo="http://portal.maxtviptv.com:80/images/c7804d09d1e69594b9762836b9f56845.png" group-title="BOX OFFICE CHANNELS",iflix_Action 2
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120423
+#EXTINF:-1 tvg-ID="" tvg-name="iflix ANIMEX 1" tvg-logo="http://portal.maxtviptv.com/logos-rafi/iflix.ANIMEX.png" group-title="BOX OFFICE CHANNELS",iflix_ANIMEX 1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120424
+#EXTINF:-1 tvg-ID="" tvg-name="iflix ANIMEX 2" tvg-logo="http://portal.maxtviptv.com:80/images/50fa7910f1a3a641327c3593ed994f58.png" group-title="BOX OFFICE CHANNELS",iflix_ANIMEX 2
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120425
+#EXTINF:-1 tvg-ID="" tvg-name="iflix MARVEL STUDIOS 1" tvg-logo="http://portal.maxtviptv.com:80/images/6a9a408f3dfa8116526a225a39c8dc69.png" group-title="BOX OFFICE CHANNELS",iflix_MARVEL STUDIOS 1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120430
+#EXTINF:-1 tvg-ID="" tvg-name="iflix MARVEL STUDIOS 2" tvg-logo="http://portal.maxtviptv.com:80/images/6a9a408f3dfa8116526a225a39c8dc69.png" group-title="BOX OFFICE CHANNELS",iflix_MARVEL STUDIOS 2
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120431
+#EXTINF:-1 tvg-ID="" tvg-name="iflix BOX OFFICE 1" tvg-logo="http://portal.maxtviptv.com:80/images/bd2049787e6abb03028009de3f664209.png" group-title="BOX OFFICE CHANNELS",iflix_BOX_OFFICE 1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120432
+#EXTINF:-1 tvg-ID="" tvg-name="iflix BOX OFFICE 2" tvg-logo="http://portal.maxtviptv.com/logos-rafi/iflix.boxoffice.png" group-title="BOX OFFICE CHANNELS",iflix_BOX_OFFICE 2
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120433
+#EXTINF:-1 tvg-ID="" tvg-name="iflix BOX OFFICE 3" tvg-logo="http://portal.maxtviptv.com:80/images/bd2049787e6abb03028009de3f664209.png" group-title="BOX OFFICE CHANNELS",iflix_BOX_OFFICE 3
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120434
+#EXTINF:-1 tvg-ID="" tvg-name="iflix BOX OFFICE 4" tvg-logo="http://portal.maxtviptv.com:80/images/bd2049787e6abb03028009de3f664209.png" group-title="BOX OFFICE CHANNELS",iflix_BOX_OFFICE 4
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120435
+#EXTINF:-1 tvg-ID="" tvg-name="iflix BOX OFFICE 5" tvg-logo="http://portal.maxtviptv.com:80/images/bd2049787e6abb03028009de3f664209.png" group-title="BOX OFFICE CHANNELS",iflix_BOX_OFFICE 5
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120436
+#EXTINF:-1 tvg-ID="" tvg-name="iflix BOX OFFICE 6" tvg-logo="http://portal.maxtviptv.com:80/images/bd2049787e6abb03028009de3f664209.png" group-title="BOX OFFICE CHANNELS",iflix_BOX_OFFICE 6
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120437
+#EXTINF:-1 tvg-ID="" tvg-name="iflix cinema 1" tvg-logo="http://portal.maxtviptv.com:80/images/f0a80f57b75b5fc9ee7e9fa273ab2b8c.png" group-title="BOX OFFICE CHANNELS",iflix_cinema 1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120438
+#EXTINF:-1 tvg-ID="" tvg-name="iflix cinema 2" tvg-logo="http://portal.maxtviptv.com:80/images/da8023f3d9642e8d66a7cf48313420bc.png" group-title="BOX OFFICE CHANNELS",iflix_cinema 2
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120439
+#EXTINF:-1 tvg-ID="" tvg-name="iflix cinema 3" tvg-logo="http://portal.maxtviptv.com:80/images/da8023f3d9642e8d66a7cf48313420bc.png" group-title="BOX OFFICE CHANNELS",iflix_cinema 3
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120440
+#EXTINF:-1 tvg-ID="" tvg-name="iflix cinema 4" tvg-logo="http://portal.maxtviptv.com:80/images/da8023f3d9642e8d66a7cf48313420bc.png" group-title="BOX OFFICE CHANNELS",iflix_cinema 4
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120441
+#EXTINF:-1 tvg-ID="" tvg-name="iflix cinema 5" tvg-logo="http://portal.maxtviptv.com:80/images/da8023f3d9642e8d66a7cf48313420bc.png" group-title="BOX OFFICE CHANNELS",iflix_cinema 5
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120442
+#EXTINF:-1 tvg-ID="" tvg-name="iflix CINEMA+ 1" tvg-logo="http://portal.maxtviptv.com/logos-rafi/IFLIX.CINEMA.plus.png" group-title="BOX OFFICE CHANNELS",iflix_CINEMA+ 1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120443
+#EXTINF:-1 tvg-ID="" tvg-name="iflix CINEMA+ 2" tvg-logo="http://portal.maxtviptv.com/logos-rafi/IFLIX.CINEMA.plus.png" group-title="BOX OFFICE CHANNELS",iflix_CINEMA+ 2
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120444
+#EXTINF:-1 tvg-ID="" tvg-name="iflix CINEMA+ 3" tvg-logo="http://portal.maxtviptv.com/logos-rafi/IFLIX.CINEMA.plus.png" group-title="BOX OFFICE CHANNELS",iflix_CINEMA+ 3
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120445
+#EXTINF:-1 tvg-ID="" tvg-name="iflix CINEMA+ 4" tvg-logo="http://portal.maxtviptv.com/logos-rafi/IFLIX.CINEMA.plus.png" group-title="BOX OFFICE CHANNELS",iflix_CINEMA+ 4
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120446
+#EXTINF:-1 tvg-ID="" tvg-name="iflix CINEMA+ 5" tvg-logo="http://portal.maxtviptv.com:80/images/881666842698cb52c991531b9c5b3d5d.png" group-title="BOX OFFICE CHANNELS",iflix_CINEMA+ 5
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120447
+#EXTINF:-1 tvg-ID="" tvg-name="iflix Horror 1" tvg-logo="http://portal.maxtviptv.com:80/images/5ecfa8a93d7996be728b54bc616b14a0.png" group-title="BOX OFFICE CHANNELS",iflix_Horror 1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120454
+#EXTINF:-1 tvg-ID="" tvg-name="iflix Thrillers 1" tvg-logo="http://portal.maxtviptv.com:80/images/4764ff16955bfb6870d7b8e9001fef81.png" group-title="BOX OFFICE CHANNELS",iflix_Thrillers 1
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120457
+#EXTINF:-1 tvg-ID="" tvg-name="iflix Thrillers 2" tvg-logo="http://portal.maxtviptv.com:80/images/4764ff16955bfb6870d7b8e9001fef81.png" group-title="BOX OFFICE CHANNELS",iflix_Thrillers 2
+http://shareext@hahaiptv.net:8880/1111177777/55556666/120458
+
+
 ===========================MALAYSIA===========================
 
 #EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
@@ -2051,3 +2109,24 @@ http://red.ipfox.org:8080/1234/12345678/31902
 http://red.ipfox.org:8080/1234/12345678/31901
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9fR8jbQt/Netflix-Share-Ext-Group.png" group-title="NETFLIX",NetflixHorror 2
 http://red.ipfox.org:8080/1234/12345678/31900
+
+
+===========================FILMS===========================
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",RedBox Movie 1
+https://rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",RedBox Movie 2
+https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Movies Comedy
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="FILMS",Eng_movie
+http://211.21.12.236:11935/live/cs27.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="FILMS",Movie_1
+http://211.21.12.236:11935/live/cs21.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="FILMS",Movie_2
+http://211.21.12.236:11935/live/cs22.stream/playlist.m3u8?shareext.ts
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/7L4pHGMW/Japan-TVshareext-reborn.jpg" group-title="FILMS",ANIMAX
+http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8?shareext.ts
