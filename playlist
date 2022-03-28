@@ -710,11 +710,22 @@ http://tvn.x10.bz/xchannel/master-24.m3u8
 
 ===========================MOVIES===========================
 
+#EXTINF:-1 tvg-id="PARAMOUNT.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Paramount_Plus.svg/640px-Paramount_Plus.svg.png" group-title="MOVIES", PARAMOUNT
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=,https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="MOVIES",ANIPLUS
 http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-id="CITRADRAMA.id" tvg-logo="https://i.postimg.cc/Qxg3HpkS/citra-bioskop-logo.png" group-title="MOVIES", Citra Bioskop
 http://tvn.x10.bz/xchannel/master-1.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EX7AKlL.png" group-title="MOVIES",Bioskop Indonesia
+http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="MOVIES",Flik
+https://nonton.site:8443/Thopani/Haidir/29592
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2015/04/My-Cinema-Europe.jpg" group-title="MOVIES",Cinema Europe
 http://group1-swiftservehd-1.dens.tv/h/h18/01.m3u8
@@ -788,6 +799,12 @@ http://tvn.x10.bz/xchannel/master-18.m3u8
 https://akudandia.xyz//locs/akudandia-206.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",(true)BeinSport(rolling)
 http://4digital.ddns.net:11222/ts/0
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEIN EXTRA
+https://bit.ly/BeinXtra
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",USEESPORT1(gaess)
 http://nontonbola.my.id/hustv/useesport1.m3u8?punyanya=gasss
@@ -1002,6 +1019,13 @@ https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF:-1 tvg-logo="https://www.camtel.com/wp-content/uploads/2020/08/Stingray_Music_Vert_RGB-1.png" group-title="MUSIC",Steelbird Music 720p
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIC",POP MUSIK
+https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",KUGO 1
+http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
+#EXTINF:-1, tvg-logo="http://cdn.ninmedia.net/channel/1638930639400916991.jpeg" group-title="MUSIC", Dangdut Tivi
+http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -1434,6 +1458,18 @@ http://tvn.x10.bz/xchannel/master-29.m3u8
 http://tvn.x10.bz/xchannel/master-30.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="VIDIO", Trans TV
 http://tvn.x10.bz/xchannel/master-31.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mncnow.id/images/channel/d49864e6-404.png" group-title="VIDIO",  CNN Indonesia
+http://tvn.x10.bz/xchannel/master-32.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/200px-CNBC_Indonesia.png" group-title="VIDIO",  CNBC Indonesia
+http://tvn.x10.bz/xchannel/master-33.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title="VIDIO",  RCTI +
+http://tvn.x10.bz/xchannel/master-34.m3u8
+#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.mncnow.id/images/channel/ef3eed68/040d.png" group-title="VIDIO", GTV +
+http://tvn.x10.bz/xchannel/master-35.m3u8
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.mncnow.id/images/channel/99cf87f4/d2c2.png" group-title="VIDIO",  MNCTV +
+http://tvn.x10.bz/xchannel/master-36.m3u8
+#EXTINF:-1 tvg-id="INEWS.id" tvg-logo="https://static.mncnow.id/images/channel/182d1c3d/c6f1.png" group-title="VIDIO",  INEWS +
+http://tvn.x10.bz/xchannel/master-37.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"[CODAY] SCTV _VIDIO" group-title="VIDIO",SCTV_VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
