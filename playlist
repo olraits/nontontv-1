@@ -771,6 +771,14 @@ https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE", LOVE NATURE 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KNOWLEDGE",IN WILD
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",Wild Earth
+https://wildearth-roku.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",XPLORE
+https://xplore-roku.amagi.tv/playlist720-p.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SHAREEXT@THAiLandTv",Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="KNOWLEDGE",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -808,17 +816,36 @@ http://4digital.ddns.net:11222/ts/0
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV(opt-1)
+http://15.235.142.241:8080/live/tvnid/tvnidmaster/8057.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV2
+http://15.235.142.241:8080/live/tvnid/tvnidmaster/8058.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEIN 1
+http://15.235.142.241:8080/live/tvnid/tvnidmaster/8059.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEIN 3
+http://15.235.142.241:8080/live/tvnid/tvnidmaster/8060.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",BEIN EXTRA
 https://bit.ly/BeinXtra
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",SN
+http://15.235.142.241:8080/live/tvnid/tvnidmaster/8061.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",USEESPORT1(gaess)
 http://nontonbola.my.id/hustv/useesport1.m3u8?punyanya=gasss
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",USEESPORT1(opt-1)
+http://15.235.142.241:8080/live/tvnid/tvnidmaster/8055.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",USEESPORT2(gaess)
 http://nontonbola.my.id/hustv/useesport2.m3u8?punyanya=gasss
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",USEESPORT2(opt-1)
+http://15.235.142.241:8080/live/tvnid/tvnidmaster/8056.m3u8
+
+#EXTINF:-1   group-title="SPORTS",Fox Sport 
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motors_TV_old.svg/1112px-Motors_TV_old.svg.png" group-title="SPORTS",Motorvision
 http://playlist.urfan.web.id/uq2663/h/h09/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motors_TV_old.svg/1112px-Motors_TV_old.svg.png" group-title="SPORTS",Motorvision
+https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",Astro_Arena
 https://lnk.ec/shareext@arena1
@@ -834,17 +861,21 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 ===========================NEWS===========================
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxMLn71/Aljazeera.png" group-title="NEWS",Al Jazeera Arabic
+http://rr2.dens.tv/s/s16/index.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Al_Jazeera_Arabic
 http://45.126.83.51/qwr9ew/s/s16/01.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/zGSNswnB/NBC-News-Now.png " group-title="NEWS", NBC NEWS NOW
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo=" https://i.postimg.cc/Gm4CpGQm/News-NOW-from-FOX.png" group-title="NEWS ",NewsNOW from FOX
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0143g7Y/NEWSMAX.png " group-title="NEWS ", Newsmax
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/N0143g7Y/NEWSMAX.png " group-title="NEWS", Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="NEWS ", ABC News
+#EXTINF:-1 tvg-logo=" https://i.postimg.cc/XvXRXTSd/ABC-NEWS.png" group-title="NEWS", ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="NEWS",Expo Channel
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
 
 ===========================KIDS===========================
 
@@ -1025,6 +1056,9 @@ https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
 https://ott-linear-channels.stingray.com/hls/stirr/190.m3u8
 #EXTINF:-1 tvg-logo="https://www.camtel.com/wp-content/uploads/2020/08/Stingray_Music_Vert_RGB-1.png" group-title="MUSIC",Steelbird Music 720p
 http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",K Pop Channel
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIC",POP MUSIK
 https://bravo.kugo.id/popmusik/udp.stream_360p/chunklist_w1507975135.m3u8
