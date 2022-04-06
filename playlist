@@ -1228,7 +1228,7 @@ http://begaltvku.site/ventidos/master-14.m3u8
 http://begaltvku.site/ventidos/master-15.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/TjMKXqjCDGF1uqycTxG-Os7E87E=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6362/dcd434.png" group-title="VIDIO", TVN 
 http://begaltvku.site/ventidos/master-16.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/UOL9NQc5v1QfYm28MNjdngCEb-A=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7953/448640.png" group-title="VIDIO", CHAMPIONS 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f2/Logo_tvedukasi_baru.png" group-title="VIDIO", Tv Edukasi
 http://begaltvku.site/ventidos/master-17.m3u8
 #EXTINF:-1 tvg-id="Ochannel.id" tvg-logo="https://thumbor.prod.vid.id/Oi4K0Zef5RaOK9DF2_eiiYDtOtE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/67385c.png" group-title="VIDIO", O Channel liga 1
 http://begaltvku.site/ventidos/master-18.m3u8
@@ -1236,7 +1236,7 @@ http://begaltvku.site/ventidos/master-18.m3u8
 http://begaltvku.site/ventidos/master-19.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cStgoV5oqj2Om_6NMOzK0AFY-sg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png" group-title="VIDIO", RTV
 http://begaltvku.site/ventidos/master-20.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/U_IGCAIYKlWKqw2F-KpF_z5BS4U=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg" group-title="VIDIO", RANS ENTERTAINMENT
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/b9b6e2a5-29c.png" group-title="VIDIO", Beritasatu
 http://begaltvku.site/ventidos/master-21.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/59CZO-IVdps6hUK6gEQqn-w-bCw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8237/18585d.png" group-title="VIDIO", MENTARI TV (KIDS)
 http://begaltvku.site/ventidos/master-22.m3u8
@@ -1254,22 +1254,12 @@ http://begaltvku.site/ventidos/master-27.m3u8
 http://begaltvku.site/ventidos/master-28.m3u8
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/sxf8qFMVElTkCFqM1DxBTGPOrhk=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7684/761fe4.jpg" group-title="VIDIO", Rama Fm Bandung
 http://begaltvku.site/ventidos/master-29.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/-MEB2a6J4sB6SvBDimCb7JYP6WY=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/734/131514.png" group-title="VIDIO", Trans 7
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/RWktI4SubmFfkMh6A_tS5A_x0DE=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7150/78163f.png" group-title="VIDIO", ABC Australia
 http://begaltvku.site/ventidos/master-30.m3u8
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/__j35q7LPpcS2EgkR7v8GpE4USQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/ecaa60.png" group-title="VIDIO", Trans TV
-http://begaltvku.site/ventidos/master-31.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mncnow.id/images/channel/d49864e6-404.png" group-title="VIDIO",  CNN Indonesia
-http://begaltvku.site/ventidos/master-32.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/35/CNBC_Indonesia.png/200px-CNBC_Indonesia.png" group-title="VIDIO",  CNBC Indonesia
-http://begaltvku.site/ventidos/master-33.m3u8
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://static.mncnow.id/images/channel/928ba7e3/38c2.png" group-title="VIDIO",  RCTI +
-http://begaltvku.site/ventidos/master-34.m3u8
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://static.mncnow.id/images/channel/ef3eed68/040d.png" group-title="VIDIO", GTV +
-http://begaltvku.site/ventidos/master-35.m3u8
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://static.mncnow.id/images/channel/99cf87f4/d2c2.png" group-title="VIDIO",  MNCTV +
-http://begaltvku.site/ventidos/master-36.m3u8
-#EXTINF:-1 tvg-id="INEWS.id" tvg-logo="https://static.mncnow.id/images/channel/182d1c3d/c6f1.png" group-title="VIDIO",  INEWS +
-http://begaltvku.site/ventidos/master-37.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/U_IGCAIYKlWKqw2F-KpF_z5BS4U=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8241/2d8b11.jpg" group-title="VIDIO", Rans Entertainment
+http://tvn.x10.bz/TvN_ID/master-31.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/HZP_9_UlToeHix6Xmj-aTk87hWg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8558/15f712.jpg" group-title="VIDIO", Citra Kuliner & Travel
+http://begaltvku.site/ventidos/k.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"[CODAY] SCTV _VIDIO" group-title="VIDIO",SCTV_VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
