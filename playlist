@@ -807,6 +807,7 @@ http://tvn.x10.bz/TvN_ID/master-34.m3u8
 http://tvn.x10.bz/TvN_ID/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",indosiar_back1
 https://akudandia.xyz//locs/akudandia-205.m3u8
+https://zz@akudandia.xyz//locs/akudandia-205.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",O_channel
 http://tvn.x10.bz/TvN_ID/master-18.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",O_channel_(back1)
@@ -814,8 +815,12 @@ https://akudandia.xyz//locs/akudandia-206.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",(true)BeinSport(rolling)
 http://4digital.ddns.net:11222/ts/0
 
+#EXTINF:-1 group-title="SPORTS",RCTI_+
+https://zz@vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+https://zz@bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",SPOTV_usee
 http://ott-navigator.my.id/usee/index.m3u8?live=spotv&type=url&streamtype=hls
@@ -824,6 +829,12 @@ http://ott-navigator.my.id/usee/index.m3u8?live=spotv2&type=url&streamtype=hls
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",BEIN EXTRA
 https://bit.ly/BeinXtra
+#EXTINF:-1 group-title="SPORTS",BeinSport1
+http://zz@141.95.206.174:8080/ar-s/bein-afc-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",BeinSport2
+http://zz@141.95.206.174:8080/ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="SPORTS",BeinSport3
+http://zz@141.95.206.174:8080/ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",USEESPORT1(gaess)
 http://nontonbola.my.id/hustv/useesport1.m3u8?punyanya=gasss
@@ -876,12 +887,6 @@ http://iptv12k.com:35461/8022022301/468985/2079
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",  i konser
 https://nonton.site:8443/live/1842273725/9237641816/29594.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",  MTV LIVE HD
-https://nonton.site:8443/live/1842273725/9237641816/9110.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",  MTV Music
-https://nonton.site:8443/live/1842273725/9237641816/286.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",  NRJ Hits TV
-https://nonton.site:8443/live/1842273725/9237641816/29836.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",  ONE African TV
 https://nonton.site:8443/live/1842273725/9237641816/1731.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",  Prambors TV
@@ -942,6 +947,12 @@ http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 tvg-id="now80s.uk" tvg-name="UK: NOW 80s" tvg-logo="https://img.ip-passthru.xyz/repo/now80s.png" group-title="MUSIC",UK: NOW 80s
+http://jt-info.xyz:80/brian.tiernan3@mail.dcu.ie/8747434445/81738
+#EXTINF:-1 tvg-id="now90s.uk" tvg-name="UK: NOW 90s" tvg-logo="https://img.ip-passthru.xyz/repo/now90s.png" group-title="MUSIC",UK: NOW 90s
+http://jt-info.xyz:80/brian.tiernan3@mail.dcu.ie/8747434445/81739
+
 
 #EXTINF:0 tvg-logo="" group-title="MUSIC", Iheart rock
 https://iheart-iheartclassicrock-1-us.roku.wurl.tv/playlist.m3u8
