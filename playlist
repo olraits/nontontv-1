@@ -1931,122 +1931,280 @@ http://rr1.dens.tv/h/h03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 
 ===========================MANDARIN CINEMA===========================
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",邵氏老电影
-https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",喜剧电影
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",女神影院
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",开心影院
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 1 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231585/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 2 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231621/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 3 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231733/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 4 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231477/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 5 (C.)
+http://117.148.179.134/PLTV/88888888/224/3221231640/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 6 (P)
+http://117.148.179.134/PLTV/88888888/224/3221231699/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 7 (C.)
+http://117.148.179.134/PLTV/88888888/224/3221231645/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 8 (C.J)
+http://117.148.179.134/PLTV/88888888/224/3221231687/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 9 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231688/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 10 (C.)
+http://117.148.179.134/PLTV/88888888/224/3221231790/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 11 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231568/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU4K 12 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231624/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 13 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231516/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 14 (C.H)
+http://117.148.179.134/PLTV/88888888/224/3221231513/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 15 (C.S)
+http://117.148.179.134/PLTV/88888888/224/3221231562/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 16 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231564/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 17 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231709/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 18 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231754/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 19 (C.)
+http://117.148.179.134/PLTV/88888888/224/3221231757/index.m3u8
+
+#EXTINF:-1 group-title=" C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 20 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231742/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 21 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231787/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.it/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 22 (P)
+http://117.148.179.134/PLTV/88888888/224/3221231652/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 23 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231672/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 24 (P)
+http://117.148.179.134/PLTV/88888888/224/3221231504/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 25 (P)
+http://117.148.179.134/PLTV/88888888/224/3221231556/index.m3u8
+
+#EXTINF:-1 group-title="C.MOVIES" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg",MIGU 26 (C)
+http://117.148.179.134/PLTV/88888888/224/3221231570/index.m3u8
+
+#EXTINF:-1 tvg-name="MIGU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES",MIGU (31)
+http://iptv.tvfix.org/hls/mydy2.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES",MOVIES GROUP 1 (C)
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES",MOVIES GROUP 2 (C)
+https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES",MOVIES GROUP 3 (P)
+http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES",MOVIES GROUP 4 (P)
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",科幻怪兽
-http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",少女可乐橙
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",进击の神乐
-http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",斗鱼电影
-http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",萌小鬼
-http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",进击的神乐
-http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",經典1
-http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",經典2
-http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES",MOVIES GROUP 5 (C)
+http://tx2play1.douyucdn.cn/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES",MOVIES GROUP 6 (C)
+https://cn-lnsy-cu-live-01.bilivideo.com/live-bvc/992495/live_22989278_9714011.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES",MOVIES GROUP 7 (C)
+http://tx2play1.douyucdn.cn/20415rnWbjg6Ex1K_4000p.xs?uuid=
 
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA", Douyu Movie 3
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA", Douyu Movie 5
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA", Douyu Movie 6
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",一起看萌小鬼
-http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",一起看进击的神乐
-http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",一起看少女可乐橙
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",一起看进击の神
-http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",萌小鬼
-http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",进击的神乐
-http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",少女可乐橙
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="MANDARIN CINEMA",进击の神乐
-http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES12(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8031580
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES13(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8027873
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES14(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8031574
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES15(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8020409
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES16(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8020410
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES17(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8020408
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES18(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8035190
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MANDARIN CINEMA",MMOVIES19(dec=auto)
-http://dl.zhoujie218.top/dl/youku.php?id=8031577
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",Douyu204
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",小叮噹
-https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/672651/live_7981914_1286387.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",經典2
-http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",經典5
-http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",DouyuMovie1
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",DouyuMovie2
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/122402rK7MO9bXSq_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",DouyuMovie3
-http://tx2play1.douyucdn.cn:80/live/dyliveflv3/3637778raLSXdOdu_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",一起看萌小鬼
-http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",一起看进击的神乐
-http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",一起看少女可乐橙
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",一起看进击の神
-http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",萌小鬼
-http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",进击的神乐
-http://tx2play1.douyucdn.cn/live/85894rmovieChow_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",少女可乐橙
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",进击の神乐
-http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq_4000p.xs
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",经典好剧
-http://hpull.kktv8.com/livekktv/153793844/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",科幻怪兽
-http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",喜剧电影
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",女神影院
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",斗鱼_电影5
-http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",斗鱼_电影6
-http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",斗鱼_电影8
-http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",斗鱼_电影14
-http://dyscdnali1.douyucdn.cn/live/3637765rrt97QwBF.flv?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",斗鱼_电影16
-http://dyscdnali1.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",斗鱼_电影18
-http://dyscdnali1.douyucdn.cn/live/3928r9p0BHMDG.flv?uuid=
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnC0fWcR/Douyu-Huya-Share-Ext-Group.png" group-title="MANDARIN CINEMA",斗鱼_电影21
-http://dyscdnali1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv?uuid=
+######C.MOVIES DOUYU######
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  1 (C)
+http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  2 (C.J)
+http://tx2play1.douyucdn.cn/122402rK7MO9bXSq.xs
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  3 (C)
+http://zzy789.xyz/douyu1.php?id=3928
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  4 (C)
+http://epg.112114.xyz/douyu/122402
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  5 (C.)
+http://epg.112114.xyz/douyu/3990812
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  6 (C.)
+http://epg.112114.xyz/douyu/6763930
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  7 (P)
+http://epg.112114.xyz/douyu/2436390
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  8 (P)
+http://epg.112114.xyz/douyu/4332
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  9 (P)
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.m3u8
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  10 (P)
+http://zzy789.xyz/douyu1.php?id=252802
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  11 (P)
+http://zzy789.xyz/douyu1.php?id=2793084
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  12 (P)
+http://epg.112114.xyz/douyu/413573
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  13 (P)
+http://epg.112114.xyz/douyu/747764
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  14 (P)
+http://epg.112114.xyz/douyu/252802
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  15 (P)
+http://epg.112114.xyz/douyu/36337
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  16 (P)
+http://epg.112114.xyz/douyu/8814650
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  17 (P.F)
+http://epg.112114.xyz/douyu/6655271
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  18 (P)
+http://epg.112114.xyz/douyu/315131
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  19 (P.M)
+http://epg.112114.xyz/douyu/9651304
+
+#EXTINF:-1 tvg-name="DOUYU" tvg-logo="https://s9.rr.itc.cn/r/wapChange/20171_22_18/a4a8u5974032374500.jpeg" group-title="C.MOVIES DOUYU",DOUYU  20 (P.M)
+http://epg.112114.xyz/douyu/2793084
+
+
+#### C.MOVIES.D ####
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 1 (C.J)
+http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 2 (C.)
+http://117.148.179.160/PLTV/88888888/224/3221231621/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 3 (C.T)
+http://117.148.179.160/PLTV/88888888/224/3221231568/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 4 (C.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6566671
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 5 (C.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 6 (C)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637778
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 7 (C)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=3637765
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 8 (C.S)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 9 (C)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=85894
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 10 (C.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=925724
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 11 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 12 (C.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9650887
+
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 13 (C.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=310926
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 14 (C.F)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=315457
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 15 (C.H)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5033502
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 16 (C.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=5423
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 17 (C.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9275635
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 18 (C.J)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6763930
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 19 (C.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7253343
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 20 (C.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8603174
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 21 (C.H)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7356023
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 22 (P)
+http://117.148.179.160/PLTV/88888888/224/3221231564/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 23 (P.F)
+http://111.40.196.9/PLTV/88888888/224/3221225620/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 24 (P)
+http://111.40.196.9/PLTV/88888888/224/3221225610/index.m3u8
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 25 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=8945323
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 26 (P.I.M)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=252802
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 27 (P.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=4332
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 28 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=263824
+
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 29 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=20415
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 30 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=1504768
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 31 (P.J.B)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=9292499
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 32 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7882691
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 33 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=248753
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 34 (P)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=7575350
+
+#EXTINF:-1 tvg-id= tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="C.MOVIES.D",MOVIES GROUP 35 (P.)
+http://huanqiuzhibo.cn/manifest/douyu.php?id=6655271
 
 
 ===========================ENGLISH MOVIE PREMIUM===========================
@@ -3798,7 +3956,3 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dc02a44a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5c5c3b948002db3c3e0b262e/colorLogoPNG.png" group-title="Pluto Movies",  Pluto TV Pluto Movies
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948002db3c3e0b262e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-id="" tvg-chno="600" tvg-name="ONE" radio="false" group-title="KOREA" tvg-logo="http://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png",ONE 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ba8842e119ee61ac7c613e1e6a1e3e10&key=46ed2370a8cc4cef2665e03e110f9455
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_ott.mpd
