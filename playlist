@@ -740,6 +740,13 @@ http://playlist.urfan.web.id/uq2663/h/h18/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="MOVIES", My Family Channel
+http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
+https://link.zozotv.xyz:443/shukrisinar/shukrisinar/396
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="SONY PIX" tvg-name="Sony PIX" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png" group-title="MOVIES",Sony PIX
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/298
 
@@ -748,13 +755,6 @@ https://link.zozotv.xyz:443/shukrisinar/shukrisinar/298
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="STAR Movies HD" tvg-name="Star Movies" tvg-logo="https://i.ibb.co/L8gzpdy/str2.png" group-title="MOVIES",Star Movies
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/299
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="MOVIES", My Family Channel
-http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/396
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -792,25 +792,25 @@ https://link.zozotv.xyz:443/shukrisinar/shukrisinar/114
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://i.ibb.co/3s9dG9G/fdiy.png" group-title="CHINESE",AEC
+#EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="https://i.ibb.co/3s9dG9G/fdiy.png" group-title="MOVIES",AEC
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/60
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="HUAHEITAI" tvg-name="Hua Hee Tai" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png" group-title="CHINESE",Hua Hee Tai
+#EXTINF:-1 tvg-id="HUAHEITAI" tvg-name="Hua Hee Tai" tvg-logo="https://i.ibb.co/x3MM1c6/ASDR.png" group-title="MOVIES",Hua Hee Tai
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/61
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="QUANJIA" tvg-name="Quan Jia" tvg-logo="https://i.ibb.co/t3vgwMQ/RDS.png" group-title="CHINESE",Quan Jia
+#EXTINF:-1 tvg-id="QUANJIA" tvg-name="Quan Jia" tvg-logo="https://i.ibb.co/t3vgwMQ/RDS.png" group-title="MOVIES",Quan Jia
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/62
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="CHINESE",IQiyi
+#EXTINF:-1 tvg-id="IQIYI" tvg-name="IQiyi" tvg-logo="https://i.ibb.co/HgGKxwJ/KFH.png" group-title="MOVIES",IQiyi
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/63
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="MOVIES" tvg-id="ZeeCinemaAsia.in" tvg-name="ZeeCinemaAsia.in", Zee Cinema Asia
@@ -967,11 +967,6 @@ http://zz@141.95.206.174:8080/ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS",BeinSport3
 http://zz@141.95.206.174:8080/ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",USEESPORT1(gaess)
-http://nontonbola.my.id/hustv/useesport1.m3u8?punyanya=gasss
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",USEESPORT2(gaess)
-http://nontonbola.my.id/hustv/useesport2.m3u8?punyanya=gasss
-
 #EXTINF:-1   group-title="SPORTS",Fox Sport 
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
@@ -984,65 +979,65 @@ https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/play
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="SPORTS", Arena Sport 1
-https://tvmalaysia.cyou/hls/arena.m3u8|Referer=https://www.tvmalaysia.online/2021/06/arena.html?=1
+http://iptv12k.com:35461/8022022301/468985/966
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="SPORTS", Arena Sport 2
-https://tvmalaysia.cyou/hls/arena2.m3u8|Referer=https://www.tvmalaysia.online/2021/06/arena.html?=1
+http://iptv12k.com:35461/8022022301/468985/965
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVIchK2eAq0HD_lMjld16YYmyQ7F3zxTEmw&usqp=CAU" group-title="SPORTS", Bein Sports Premium 1
-https://www.mireasa-live.com/cdn/premium98/chunks.m3u8|Referer=https://player.licenses4.me
+http://vt.vttpi.com:8000/live/P-957977/P-740465/412.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzB97GTt-J8qQ-IGpWkapZE8UwjF0MdcHbAA&usqp=CAU" group-title="SPORTS", Bein Sports Premium 2
-https://www.mireasa-live.com/cdn/premium99/chunks.m3u8|Referer=https://player.licenses4.me
+http://vt.vttpi.com:8000/live/P-957977/P-740465/413.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNDqSpu9cYBhujfm_vRAUtEDTMVFMTafVGRQ&usqp=CAU" group-title="SPORTS", Bein Sports Premium 3
-https://www.mireasa-live.com/cdn/premium100/chunks.m3u8|Referer=https://player.licenses4.me
+http://vt.vttpi.com:8000/live/P-957977/P-740465/414.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Astro_Supersport_HD.png" group-title="SPORTS", Astro Sport 1
-https://www.mireasa-live.com/cdn/premium123/chunks.m3u8|Referer=https://player.licenses4.me
+http://iptv12k.com:35461/8022022301/468985/656
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-jtrUfmTO6req5-ZZFnYtQ_UGYTTvErgPrA&usqp=CAU" group-title="SPORTS", Astro Sport 2
-https://www.mireasa-live.com/cdn/premium124/chunks.m3u8|Referer=https://player.licenses4.me
+http://iptv12k.com:35461/8022022301/468985/655
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="SPORTS", Astro Sport 3
-https://www.mireasa-live.com/cdn/premium125/chunks.m3u8|Referer=https://player.licenses4.me
+http://iptv12k.com:35461/8022022301/468985/654
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://player.licenses4.me
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="SPORTS", Astro Sport 4
-https://www.mireasa-live.com/cdn/premium126/chunks.m3u8|Referer=https://player.licenses4.me
+http://iptv12k.com:35461/8022022301/468985/653
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png" group-title="Sports" tvg-id="" tvg-name="", Unifi Sport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png" group-title="Sports" tvg-id="" tvg-name="", Unifi Sport 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 
 
 ===========================NEWS===========================
