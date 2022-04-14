@@ -713,6 +713,9 @@ http://tvn.x10.bz/TvN_ID/master-24.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW" group-title="MOVIES" tvg-id="" tvg-name="", Star Chinese Movies
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/68
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="", Paramount
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=paramount
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -722,12 +725,18 @@ https://link.zozotv.xyz:443/shukrisinar/shukrisinar/394
 http://51.79.223.166:8080/live/hometv/premium/240.ts
 http://210.210.155.35:80/uq2663/h/h90/S4/mnf.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-mycinema_small.png" group-title="MOVIES", My Cinema Usee
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=mycinema
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="MOVIES", My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
 http://210.210.155.35:80/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png" group-title="MOVIES", My Cinema Asia Usee
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=mycinemaasia
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -743,6 +752,9 @@ http://playlist.urfan.web.id/uq2663/h/h18/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="MOVIES", My Family Channel
 http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Family_Channel_Trial-
 https://link.zozotv.xyz:443/shukrisinar/shukrisinar/396
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_new-myfamily_big.png" group-title="MOVIES", My Family Channel Usee
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=myfamily
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -783,11 +795,8 @@ https://link.zozotv.xyz:443/shukrisinar/shukrisinar/114
 #EXTINF:-1 tvg-id="CITRADRAMA.id" tvg-logo="https://i.postimg.cc/Qxg3HpkS/citra-bioskop-logo.png" group-title="MOVIES", Citra Bioskop
 http://tvn.x10.bz/TvN_ID/master-1.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://bit.ly/3uoI08q" group-title="MOVIES" tvg-id="" tvg-name="", Flik
-https://link.zozotv.xyz:443/shukrisinar/shukrisinar/114
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MOVIES", Bioskop Indonesia
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=bioskopindonesia
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -836,11 +845,6 @@ http://rr1.dens.tv/h/h144/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.metin.tv/wp-content/uploads/2022/02/ConTV-Anime-320x180.png" group-title="MOVIES", ConANIME
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EX7AKlL.png" group-title="MOVIES",Bioskop Indonesia
-http://indo.on-site.x10.mx/Sebuah-Usee/chunklist.m3u8?id=bioskopindonesia&bandwidth=default&sync=0
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -884,6 +888,15 @@ http://210.210.155.35:80/session/231b7a38-66a6-11ec-ae85-b82a72d63267/dr9445/h/h
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/HZP_9_UlToeHix6Xmj-aTk87hWg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8558/15f712.jpg" group-title="ENTERTAINMENT & LIFESTYLE", Citra Kuliner & Travel
 http://tvn.x10.bz/TvN_ID/k.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT & LIFESTYLE", Eat & Go
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=eatgo
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT & LIFESTYLE", Insert
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=insert
+
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT & LIFESTYLE", Dunia Lain
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=dunialain
 
 #EXTINF:-1 tvg-id="60d32888e31a0300073d9f08" tvg-chno="900" tvg-logo="https://images.pluto.tv/channels/60d32888e31a0300073d9f08/colorLogoPNG.png" group-title="ENTERTAINMENT & LIFESTYLE",Just for Laughs
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -944,6 +957,10 @@ https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=spotv2
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=useesport
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",US_SP_2
 https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=useesports2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",NBA Usee
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=nba
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",Horizon Sport Usee
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=horizonsport
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -957,15 +974,6 @@ https://zz@bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast
 
 #EXTINF:-1 group-title="SPORTS",RCTI_+
 https://zz@vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",BEIN EXTRA
-https://bit.ly/BeinXtra
-#EXTINF:-1 group-title="SPORTS",BeinSport1
-http://zz@141.95.206.174:8080/ar-s/bein-afc-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS",BeinSport2
-http://zz@141.95.206.174:8080/ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORTS",BeinSport3
-http://zz@141.95.206.174:8080/ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1   group-title="SPORTS",Fox Sport 
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
@@ -1032,7 +1040,7 @@ http://iptv12k.com:35461/8022022301/468985/653
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png" group-title="Sports" tvg-id="" tvg-name="", Unifi Sport 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I
-https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png" group-title="Sports" tvg-id="" tvg-name="", Unifi Sport 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1046,6 +1054,9 @@ https://unifi-live04.secureswiftcontent.com/UnifiHD/live12.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ydxMLn71/Aljazeera.png" group-title="NEWS",Al Jazeera Arabic
 http://rr2.dens.tv/s/s16/index.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=KRHYTUJF1CXB6NERN2PF249FY9E1XFRK&chname=Al_Jazeera_Arabic
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS",TVBS News
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=tvbs
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGSNswnB/NBC-News-Now.png" group-title="NEWS", NBC NEWS NOW
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
@@ -1069,7 +1080,10 @@ http://iptv12k.com:35461/8022022301/468985/2079
 
 ===========================MUSIC===========================
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",  MTV Live
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=mtvlive
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",  i konser
+https://miraeindaeyo.masuk.id/empede/masuk.m3u8?token2=koceng&channel=ikonser
 https://nonton.site:8443/live/1842273725/9237641816/29594.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",  ONE African TV
 https://nonton.site:8443/live/1842273725/9237641816/1731.m3u8
