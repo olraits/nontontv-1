@@ -781,6 +781,11 @@ http://rr1.dens.tv/h/h144/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.metin.tv/wp-content/uploads/2022/02/ConTV-Anime-320x180.png" group-title="MOVIES", ConANIME
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="CHINA  CCTV 7 MOVIES HD" tvg-logo="" group-title="MOVIES",CHINA CCTV7 MOVIES HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/123704
+#EXTINF:-1 tvg-ID="" tvg-name="CHINA  CCTV4 MOVIES HD" tvg-logo="" group-title="MOVIES",CHINA CCTV4 MOVIES HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/123705
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1015,6 +1020,11 @@ http://iptv12k.com:35461/8022022301/468985/2079
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC",  MTV
 https://nonton.site:8443/1842273725/9237641816/37419
+
+#EXTINF:-1 tvg-ID="mtvhitsfrance.fr" tvg-name="FR- MTV  HITS HD" tvg-logo="http://mijn.me/logo/galery/mtvhits.png" group-title="MUSIC",FR- MTV  HITS HD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/65546
+#EXTINF:-1 tvg-ID="mcm.fr" tvg-name="FR- MCM SD" tvg-logo="http://mijn.me/logo/galery/mcm.png" group-title="MUSIC",FR- MCM SD
+http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/121456
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MUSIC",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
