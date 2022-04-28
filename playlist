@@ -760,6 +760,9 @@ http://rr.dens.tv/h/h194/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 #EXTINF:-1 tvg-id="CITRADRAMA.id" tvg-logo="https://i.postimg.cc/Qxg3HpkS/citra-bioskop-logo.png" group-title="MOVIES", Citra Bioskop
 http://tvn.x10.bz/TvN_ID/master-1.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", Bioskop Indonesia
+https://iptv.lancartech.co.id:8443/topan/54637/28568
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="MOVIES" tvg-id="ZeeCinemaAsia.in" tvg-name="ZeeCinemaAsia.in", Zee Cinema Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
@@ -787,6 +790,9 @@ https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/123704
 #EXTINF:-1 tvg-ID="" tvg-name="CHINA  CCTV4 MOVIES HD" tvg-logo="" group-title="MOVIES",CHINA CCTV4 MOVIES HD
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/123705
+
+#EXTINF:-1 tvg-ID="" tvg-name="&Flix HD" tvg-logo="" group-title="MOVIES",&Flix HD
+https://iptv.lancartech.co.id:8443/topan/54637/129416
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -871,6 +877,8 @@ http://tvn.x10.bz/TvN_ID/master-6.m3u8
 http://tvn.x10.bz/TvN_ID/master-7.m3u8
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion3
 http://tvn.x10.bz/TvN_ID/master-8.m3u8
+#EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion4
+https://iptv.lancartech.co.id:8443/topan/54637/90269
 #EXTINF:-1  tvg-logo="#EXTINF:-1  tvg-logo="https://thumbor.prod.vid.id/1EJbpowXsTKAS2dSd14SVD0ndLI=/830x460/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/7953/champions-tv-4-cover-f47452.jpg" group-title="SPORTS",Champion4
 http://tvn.x10.bz/TvN_ID/master-35.m3u8" group-title="SPORTS",Champion4
 http://tvn.x10.bz/TvN_ID/master-35.m3u8
@@ -897,14 +905,19 @@ https://d33qddlitlsxvc.cloudfront.net/out/v1/9b985e50dc53435a9f3ee5291db9baa3/in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",SPO_TV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",SPOTV_usee
-http://ott-navigator.my.id/usee/index.m3u8?live=spotv&type=url&streamtype=hls
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",SPOTV_2_usee
-http://ott-navigator.my.id/usee/index.m3u8?live=spotv2&type=url&streamtype=hls
-
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 https://zz@bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",SPOTV_U
+https://winhometv.xyz/USEE/mpd.m3u8?channel=spotv
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",SPOTV_2_U
+https://winhometv.xyz/USEE/mpd.m3u8?channel=spotv2
+
+#EXTINF:-1 tvg-logo=""group-title="SPORTS", Usee Sports 1
+https://iptv.lancartech.co.id:8443/topan/54637/69
+#EXTINF:-1 tvg-logo=""group-title="SPORTS",Usee Sports 2
+https://iptv.lancartech.co.id:8443/topan/54637/70
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",RCTI_+
 https://vcdn2.rctiplus.id/live/eds/RCTI_2021/live_fta/RCTI_2021-avc1_800000=7-mp4a_96000=2.m3u8
@@ -1019,6 +1032,11 @@ http://iptv12k.com:35461/8022022301/468985/2079
 
 ##########################MUSIC##########################
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV
+https://iptv.lancartech.co.id:8443/topan/54637/88
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", One Music
+https://iptv.lancartech.co.id:8443/topan/54637/52030
+
 #EXTINF:-1 tvg-ID="mtvhitsfrance.fr" tvg-name="FR- MTV  HITS HD" tvg-logo="http://mijn.me/logo/galery/mtvhits.png" group-title="MUSIC",FR- MTV  HITS HD
 http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/65546
 
@@ -1083,8 +1101,18 @@ http://jt-info.xyz:80/brian.tiernan3@mail.dcu.ie/8747434445/81738
 #EXTINF:-1 tvg-id="now90s.uk" tvg-name="UK: NOW 90s" tvg-logo="https://img.ip-passthru.xyz/repo/now90s.png" group-title="MUSIC",UK: NOW 90s
 http://jt-info.xyz:80/brian.tiernan3@mail.dcu.ie/8747434445/81739
 
-#EXTINF:0 tvg-logo="" group-title="MUSIC", Iheart rock
-https://iheart-iheartclassicrock-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.coolstreaming.us/img/ch/image58595345123.jpg",Muzzik Worldwide
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://epg.it999.ru/img/151.png" ,Bridge TV
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgetv24h
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://epg.it999.ru/img/4373.png" ,Bridge TV Classic
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgeclassictv
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://epg.it999.ru/img/2024.png" ,BRIDGE TV HITS
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgehitstv
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://online-red.com/images/tv/rock-fm-tv.png",ROCK TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w1354578804_b1600000.m3u8
 #EXTINF:0 tvg-logo="" group-title="MUSIC", Kerarang
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
@@ -3469,3 +3497,19 @@ http://203.77.246.50:5000/udp/239.1.3.82:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO FHD
 http://203.77.246.50:5000/udp/239.1.3.84:5000
 
+
+##########################TEMPORARY##########################
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES PREMIER" tvg-logo="" group-title="TEMPORARY",BEIN MOVIES PREMIER
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17801
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES STARS" tvg-logo="" group-title="TEMPORARY",BEIN MOVIES STARS
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17802
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES ACTION" tvg-logo="" group-title="TEMPORARY",BEIN MOVIES ACTION
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17803
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES ACTION 2" tvg-logo="" group-title="TEMPORARY",BEIN MOVIES ACTION 2
+http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17804
+
+#EXTINF:-1 tvg-id="" tvg-name="ICFLIX MARVEL HD" tvg-logo="" group-title="TEMPORARY",ICFLIX MARVEL HD
+http://ricoootv.xyz:25461/jjhdfsffjjg/jjhdfsffjjg/49
+#EXTINF:-1 tvg-id="" tvg-name="ICFLIX ACTION HD" tvg-logo="" group-title="TEMPORARY",ICFLIX ACTION HD
+http://ricoootv.xyz:25461/jjhdfsffjjg/jjhdfsffjjg/266
