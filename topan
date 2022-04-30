@@ -2,361 +2,361 @@
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 group-title="NATIONAL TV",ANTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",ANTV
 https://iptv.lancartech.co.id:8443/topan/54637/9
-#EXTINF:-1 group-title="NATIONAL TV",Berita Satu
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",Berita Satu
 https://iptv.lancartech.co.id:8443/topan/54637/17
-#EXTINF:-1 group-title="NATIONAL TV",GTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",GTV
 https://iptv.lancartech.co.id:8443/topan/54637/54418
-#EXTINF:-1 group-title="NATIONAL TV",Indosiar
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",Indosiar
 https://iptv.lancartech.co.id:8443/topan/54637/8
-#EXTINF:-1 group-title="NATIONAL TV",iNews
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",iNews
 https://iptv.lancartech.co.id:8443/topan/54637/129417
-#EXTINF:-1 group-title="NATIONAL TV",Kompas TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",Kompas TV
 https://iptv.lancartech.co.id:8443/topan/54637/14
-#EXTINF:-1 group-title="NATIONAL TV",Magna TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",Magna TV
 https://iptv.lancartech.co.id:8443/topan/54637/129418
-#EXTINF:-1 group-title="NATIONAL TV",Metro TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",Metro TV
 https://iptv.lancartech.co.id:8443/topan/54637/11
-#EXTINF:-1 group-title="NATIONAL TV",MNC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",MNC
 https://iptv.lancartech.co.id:8443/topan/54637/54425
-#EXTINF:-1 group-title="NATIONAL TV",Net. TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",Net. TV
 https://iptv.lancartech.co.id:8443/topan/54637/2
-#EXTINF:-1 group-title="NATIONAL TV",O Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",O Channel
 https://iptv.lancartech.co.id:8443/topan/54637/129419
-#EXTINF:-1 group-title="NATIONAL TV",RCTI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",RCTI
 https://iptv.lancartech.co.id:8443/topan/54637/53259
-#EXTINF:-1 group-title="NATIONAL TV",RTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",RTV
 https://iptv.lancartech.co.id:8443/topan/54637/77707
-#EXTINF:-1 group-title="NATIONAL TV",SCTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",SCTV
 https://iptv.lancartech.co.id:8443/topan/54637/4
-#EXTINF:-1 group-title="NATIONAL TV",Trans 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",Trans 7
 https://iptv.lancartech.co.id:8443/topan/54637/6
-#EXTINF:-1 group-title="NATIONAL TV",TransTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",TransTV
 https://iptv.lancartech.co.id:8443/topan/54637/5
-#EXTINF:-1 group-title="NATIONAL TV",TV One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",TV One
 https://iptv.lancartech.co.id:8443/topan/54637/10
-#EXTINF:-1 group-title="NATIONAL TV",TVKU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",TVKU
 https://iptv.lancartech.co.id:8443/topan/54637/117977
-#EXTINF:-1 group-title="NATIONAL TV",TVRI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NATIONAL TV",TVRI
 https://iptv.lancartech.co.id:8443/topan/54637/16
 
 
-#EXTINF:-1 group-title="MOVIES",&Flix HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",&Flix HD
 https://iptv.lancartech.co.id:8443/topan/54637/129416
-#EXTINF:-1 group-title="MOVIES",&Prive HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",&Prive HD
 https://iptv.lancartech.co.id:8443/topan/54637/129415
-#EXTINF:-1 group-title="MOVIES",Bioskop Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Bioskop Indonesia
 https://iptv.lancartech.co.id:8443/topan/54637/28568
-#EXTINF:-1 group-title="MOVIES",Celestial Classic Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Celestial Classic Movies
 https://iptv.lancartech.co.id:8443/topan/54637/90006
-#EXTINF:-1 group-title="MOVIES",Celestial Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Celestial Movies
 https://iptv.lancartech.co.id:8443/topan/54637/21
-#EXTINF:-1 group-title="MOVIES",Cinema World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Cinema World
 https://iptv.lancartech.co.id:8443/topan/54637/49
-#EXTINF:-1 group-title="MOVIES",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Cinemax
 https://iptv.lancartech.co.id:8443/topan/54637/16851
-#EXTINF:-1 group-title="MOVIES",FLiK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",FLiK
 https://iptv.lancartech.co.id:8443/topan/54637/90270
-#EXTINF:-1 group-title="MOVIES",Galaxy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Galaxy
 https://iptv.lancartech.co.id:8443/topan/54637/87705
-#EXTINF:-1 group-title="MOVIES",Galaxy Premium
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",Galaxy Premium
 https://iptv.lancartech.co.id:8443/topan/54637/87706
-#EXTINF:-1 group-title="MOVIES",HBO 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO 
 https://iptv.lancartech.co.id:8443/topan/54637/56
-#EXTINF:-1 group-title="MOVIES",HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Family
 https://iptv.lancartech.co.id:8443/topan/54637/75
-#EXTINF:-1 group-title="MOVIES",HBO Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Hits
 https://iptv.lancartech.co.id:8443/topan/54637/92
-#EXTINF:-1 group-title="MOVIES",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HBO Signature
 https://iptv.lancartech.co.id:8443/topan/54637/28656
-#EXTINF:-1 group-title="MOVIES",HITS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HITS
 https://iptv.lancartech.co.id:8443/topan/54637/43
-#EXTINF:-1 group-title="MOVIES",HITS Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",HITS Movies
 https://iptv.lancartech.co.id:8443/topan/54637/2911
-#EXTINF:-1 group-title="MOVIES",IMC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",IMC
 https://iptv.lancartech.co.id:8443/topan/54637/90271
-#EXTINF:-1 group-title="MOVIES",My Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",My Cinema
 https://iptv.lancartech.co.id:8443/topan/54637/54
-#EXTINF:-1 group-title="MOVIES",My Cinema Asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",My Cinema Asia
 https://iptv.lancartech.co.id:8443/topan/54637/52915
-#EXTINF:-1 group-title="MOVIES",My Family Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",My Family Channel
 https://iptv.lancartech.co.id:8443/topan/54637/23
-#EXTINF:-1 group-title="MOVIES",TvN Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",TvN Movies
 https://iptv.lancartech.co.id:8443/topan/54637/58
-#EXTINF:-1 group-title="MOVIES",ZeeBioskop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MOVIES",ZeeBioskop
 https://iptv.lancartech.co.id:8443/topan/54637/27479
 
 
-#EXTINF:-1 group-title="ENTERTAINMENT",AXN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",AXN
 https://iptv.lancartech.co.id:8443/topan/54637/38
-#EXTINF:-1 group-title="ENTERTAINMENT",Blue Ant Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Blue Ant Entertainment
 https://iptv.lancartech.co.id:8443/topan/54637/45
-#EXTINF:-1 group-title="ENTERTAINMENT",Blue Ant Extreme
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Blue Ant Extreme
 https://iptv.lancartech.co.id:8443/topan/54637/46
-#EXTINF:-1 group-title="ENTERTAINMENT",Chinese Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Chinese Drama
 https://iptv.lancartech.co.id:8443/topan/54637/51994
-#EXTINF:-1 group-title="ENTERTAINMENT",Citra Dangdut
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Citra Dangdut
 https://iptv.lancartech.co.id:8443/topan/54637/129424
-#EXTINF:-1 group-title="ENTERTAINMENT",Citra Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Citra Drama
 https://iptv.lancartech.co.id:8443/topan/54637/129421
-#EXTINF:-1 group-title="ENTERTAINMENT",Crime & Investigation
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Crime & Investigation
 https://iptv.lancartech.co.id:8443/topan/54637/95
-#EXTINF:-1 group-title="ENTERTAINMENT",Dunia Lain
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Dunia Lain
 https://iptv.lancartech.co.id:8443/topan/54637/129420
-#EXTINF:-1 group-title="ENTERTAINMENT",Eat & Go
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Eat & Go
 https://iptv.lancartech.co.id:8443/topan/54637/15956
-#EXTINF:-1 group-title="ENTERTAINMENT",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Fashion TV
 https://iptv.lancartech.co.id:8443/topan/54637/72
-#EXTINF:-1 group-title="ENTERTAINMENT",Fashion TV Midnight Secret
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Fashion TV Midnight Secret
 https://iptv.lancartech.co.id:8443/topan/54637/73
-#EXTINF:-1 group-title="ENTERTAINMENT",K+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",K+
 https://iptv.lancartech.co.id:8443/topan/54637/2912
-#EXTINF:-1 group-title="ENTERTAINMENT",KiX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",KiX
 https://iptv.lancartech.co.id:8443/topan/54637/48
-#EXTINF:-1 group-title="ENTERTAINMENT",Paramount Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Paramount Network
 https://iptv.lancartech.co.id:8443/topan/54637/52
-#EXTINF:-1 group-title="ENTERTAINMENT",Rock Entertainment
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Rock Entertainment
 https://iptv.lancartech.co.id:8443/topan/54637/129422
-#EXTINF:-1 group-title="ENTERTAINMENT",Rock Extreme
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Rock Extreme
 https://iptv.lancartech.co.id:8443/topan/54637/129423
-#EXTINF:-1 group-title="ENTERTAINMENT",Sony Gem
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Sony Gem
 https://iptv.lancartech.co.id:8443/topan/54637/39
-#EXTINF:-1 group-title="ENTERTAINMENT",Sony One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Sony One
 https://iptv.lancartech.co.id:8443/topan/54637/152
-#EXTINF:-1 group-title="ENTERTAINMENT",Thrill
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Thrill
 https://iptv.lancartech.co.id:8443/topan/54637/22
-#EXTINF:-1 group-title="ENTERTAINMENT",TvN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",TvN
 https://iptv.lancartech.co.id:8443/topan/54637/57
-#EXTINF:-1 group-title="ENTERTAINMENT",Warner TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",Warner TV
 https://iptv.lancartech.co.id:8443/topan/54637/76
 
 
-#EXTINF:-1 group-title="SPORTS",Astro Arena
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Astro Arena
 https://iptv.lancartech.co.id:8443/topan/54637/54701
-#EXTINF:-1 group-title="SPORTS",Astro Super Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Astro Super Sport 1
 https://iptv.lancartech.co.id:8443/topan/54637/53222
-#EXTINF:-1 group-title="SPORTS",Astro Super Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Astro Super Sport 2
 https://iptv.lancartech.co.id:8443/topan/54637/53223
-#EXTINF:-1 group-title="SPORTS",Astro Super Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Astro Super Sport 3
 https://iptv.lancartech.co.id:8443/topan/54637/53224
-#EXTINF:-1 group-title="SPORTS",Astro Super Sport 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Astro Super Sport 4
 https://iptv.lancartech.co.id:8443/topan/54637/53225
-#EXTINF:-1 group-title="SPORTS",Astro Super Sport 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Astro Super Sport 5
 https://iptv.lancartech.co.id:8443/topan/54637/89977
-#EXTINF:-1 group-title="SPORTS",Bein Premium 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Bein Premium 1
 https://iptv.lancartech.co.id:8443/topan/54637/54421
-#EXTINF:-1 group-title="SPORTS",Bein Premium 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Bein Premium 2
 https://iptv.lancartech.co.id:8443/topan/54637/54422
-#EXTINF:-1 group-title="SPORTS",Bein Premium 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Bein Premium 3
 https://iptv.lancartech.co.id:8443/topan/54637/54423
-#EXTINF:-1 group-title="SPORTS",beIN Sports 1 ID
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",beIN Sports 1 ID
 https://iptv.lancartech.co.id:8443/topan/54637/25
-#EXTINF:-1 group-title="SPORTS",beIN Sports 3 ID
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",beIN Sports 3 ID
 https://iptv.lancartech.co.id:8443/topan/54637/26
-#EXTINF:-1 group-title="SPORTS",Bein Sports MAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Bein Sports MAX
 https://iptv.lancartech.co.id:8443/topan/54637/64780
-#EXTINF:-1 group-title="SPORTS",BT Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",BT Sport 1
 https://iptv.lancartech.co.id:8443/topan/54637/86856
-#EXTINF:-1 group-title="SPORTS",BT Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",BT Sport 2
 https://iptv.lancartech.co.id:8443/topan/54637/86857
-#EXTINF:-1 group-title="SPORTS",BT Sport 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",BT Sport 3
 https://iptv.lancartech.co.id:8443/topan/54637/86858
-#EXTINF:-1 group-title="SPORTS",Champion TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Champion TV 1
 https://iptv.lancartech.co.id:8443/topan/54637/89117
-#EXTINF:-1 group-title="SPORTS",Champion TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Champion TV 2
 https://iptv.lancartech.co.id:8443/topan/54637/89118
-#EXTINF:-1 group-title="SPORTS",Champion TV 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Champion TV 3
 https://iptv.lancartech.co.id:8443/topan/54637/89119
-#EXTINF:-1 group-title="SPORTS",Champion TV 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Champion TV 4
 https://iptv.lancartech.co.id:8443/topan/54637/90269
-#EXTINF:-1 group-title="SPORTS",Dubai Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Dubai Sport 1
 https://iptv.lancartech.co.id:8443/topan/54637/52882
-#EXTINF:-1 group-title="SPORTS",Dubai Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Dubai Sport 2
 https://iptv.lancartech.co.id:8443/topan/54637/52883
-#EXTINF:-1 group-title="SPORTS",ESPN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",ESPN
 https://iptv.lancartech.co.id:8443/topan/54637/87721
-#EXTINF:-1 group-title="SPORTS",Eurosport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Eurosport 1
 https://iptv.lancartech.co.id:8443/topan/54637/86870
-#EXTINF:-1 group-title="SPORTS",Eurosport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Eurosport 2
 https://iptv.lancartech.co.id:8443/topan/54637/86871
-#EXTINF:-1 group-title="SPORTS",Fight Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Fight Sports
 https://iptv.lancartech.co.id:8443/topan/54637/90039
-#EXTINF:-1 group-title="SPORTS",NBA TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",NBA TV
 https://iptv.lancartech.co.id:8443/topan/54637/87720
-#EXTINF:-1 group-title="SPORTS",NBC Sport Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",NBC Sport Network
 https://iptv.lancartech.co.id:8443/topan/54637/87730
-#EXTINF:-1 group-title="SPORTS",One Golf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",One Golf
 https://iptv.lancartech.co.id:8443/topan/54637/33
-#EXTINF:-1 group-title="SPORTS",Red Bull TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Red Bull TV
 https://iptv.lancartech.co.id:8443/topan/54637/52877
-#EXTINF:-1 group-title="SPORTS",RMC Sport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",RMC Sport 1
 https://iptv.lancartech.co.id:8443/topan/54637/90053
-#EXTINF:-1 group-title="SPORTS",RMC Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",RMC Sport 2
 https://iptv.lancartech.co.id:8443/topan/54637/90054
-#EXTINF:-1 group-title="SPORTS",Sony Ten 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Sony Ten 1
 https://iptv.lancartech.co.id:8443/topan/54637/129401
-#EXTINF:-1 group-title="SPORTS",Sony Ten 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Sony Ten 2
 https://iptv.lancartech.co.id:8443/topan/54637/129402
-#EXTINF:-1 group-title="SPORTS",Sony Ten 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Sony Ten 3
 https://iptv.lancartech.co.id:8443/topan/54637/129403
-#EXTINF:-1 group-title="SPORTS",SPO TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",SPO TV 1
 https://iptv.lancartech.co.id:8443/topan/54637/68
-#EXTINF:-1 group-title="SPORTS",SPO TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",SPO TV 2
 https://iptv.lancartech.co.id:8443/topan/54637/87710
-#EXTINF:-1 group-title="SPORTS",SPORT TV 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",SPORT TV 1
 https://iptv.lancartech.co.id:8443/topan/54637/86873
-#EXTINF:-1 group-title="SPORTS",SPORT TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",SPORT TV 2
 https://iptv.lancartech.co.id:8443/topan/54637/86874
-#EXTINF:-1 group-title="SPORTS",SPORT TV 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",SPORT TV 3
 https://iptv.lancartech.co.id:8443/topan/54637/86875
-#EXTINF:-1 group-title="SPORTS",SPORT TV 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",SPORT TV 4
 https://iptv.lancartech.co.id:8443/topan/54637/86876
-#EXTINF:-1 group-title="SPORTS",SPORT TV 5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",SPORT TV 5
 https://iptv.lancartech.co.id:8443/topan/54637/86877
-#EXTINF:-1 group-title="SPORTS",Supersport Premier League
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Supersport Premier League
 https://iptv.lancartech.co.id:8443/topan/54637/86868
-#EXTINF:-1 group-title="SPORTS",Tennis Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Tennis Channel
 https://iptv.lancartech.co.id:8443/topan/54637/50
-#EXTINF:-1 group-title="SPORTS",UFC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",UFC
 https://iptv.lancartech.co.id:8443/topan/54637/52891
-#EXTINF:-1 group-title="SPORTS",Usee Sports 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Usee Sports 1
 https://iptv.lancartech.co.id:8443/topan/54637/69
-#EXTINF:-1 group-title="SPORTS",Usee Sports 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Usee Sports 2
 https://iptv.lancartech.co.id:8443/topan/54637/70
-#EXTINF:-1 group-title="SPORTS",WWE Superslam
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",WWE Superslam
 https://iptv.lancartech.co.id:8443/topan/54637/18477
-#EXTINF:-1 group-title="SPORTS",Ziggo Sports Football
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Ziggo Sports Football
 https://iptv.lancartech.co.id:8443/topan/54637/87726
-#EXTINF:-1 group-title="SPORTS",Ziggo Sports Select
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Ziggo Sports Select
 https://iptv.lancartech.co.id:8443/topan/54637/87725
-#EXTINF:-1 group-title="SPORTS",Motor Vision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="SPORTS",Motor Vision
 https://iptv.lancartech.co.id:8443/topan/54637/129426
 
 
-#EXTINF:-1 group-title="KNOWLEDGE",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Animal Planet
 https://iptv.lancartech.co.id:8443/topan/54637/77
-#EXTINF:-1 group-title="KNOWLEDGE",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",BBC Earth
 https://iptv.lancartech.co.id:8443/topan/54637/87698
-#EXTINF:-1 group-title="KNOWLEDGE",CGTN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",CGTN
 https://iptv.lancartech.co.id:8443/topan/54637/129393
-#EXTINF:-1 group-title="KNOWLEDGE",Discovery Asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Discovery Asia
 https://iptv.lancartech.co.id:8443/topan/54637/90
-#EXTINF:-1 group-title="KNOWLEDGE",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Discovery Channel
 https://iptv.lancartech.co.id:8443/topan/54637/67
-#EXTINF:-1 group-title="KNOWLEDGE",Discovery Science
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Discovery Science
 https://iptv.lancartech.co.id:8443/topan/54637/88904
-#EXTINF:-1 group-title="KNOWLEDGE",History
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",History
 https://iptv.lancartech.co.id:8443/topan/54637/71
-#EXTINF:-1 group-title="KNOWLEDGE",Love Nature
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Love Nature
 https://iptv.lancartech.co.id:8443/topan/54637/52017
-#EXTINF:-1 group-title="KNOWLEDGE",Nat Geo Wild
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Nat Geo Wild
 https://iptv.lancartech.co.id:8443/topan/54637/63
-#EXTINF:-1 group-title="KNOWLEDGE",National Geographic
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",National Geographic
 https://iptv.lancartech.co.id:8443/topan/54637/66
-#EXTINF:-1 group-title="KNOWLEDGE",Smithsonian Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Smithsonian Channel
 https://iptv.lancartech.co.id:8443/topan/54637/2914
-#EXTINF:-1 group-title="KNOWLEDGE",Tech Storm
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KNOWLEDGE",Tech Storm
 https://iptv.lancartech.co.id:8443/topan/54637/62
 
 
-#EXTINF:-1 group-title="LIFE & STYLE",Asia Food Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIFE & STYLE",Asia Food Network
 https://iptv.lancartech.co.id:8443/topan/54637/94
-#EXTINF:-1 group-title="LIFE & STYLE",HGTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIFE & STYLE",HGTV
 https://iptv.lancartech.co.id:8443/topan/54637/64
-#EXTINF:-1 group-title="LIFE & STYLE",Lifetime
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIFE & STYLE",Lifetime
 https://iptv.lancartech.co.id:8443/topan/54637/16748
-#EXTINF:-1 group-title="LIFE & STYLE",TLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LIFE & STYLE",TLC
 https://iptv.lancartech.co.id:8443/topan/54637/78
 
 
-#EXTINF:-1 group-title="MUSIC",MTV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",MTV
 https://iptv.lancartech.co.id:8443/topan/54637/88
-#EXTINF:-1 group-title="MUSIC",One Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",One Music
 https://iptv.lancartech.co.id:8443/topan/54637/52030
-#EXTINF:-1 group-title="MUSIC",The Kpop
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="MUSIC",The Kpop
 https://iptv.lancartech.co.id:8443/topan/54637/129330
 
 
-#EXTINF:-1 group-title="NEWS",ABC Australia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",ABC Australia
 https://iptv.lancartech.co.id:8443/topan/54637/54416
-#EXTINF:-1 group-title="NEWS",Al Jazeera
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",Al Jazeera
 https://iptv.lancartech.co.id:8443/topan/54637/52878
-#EXTINF:-1 group-title="NEWS",A-Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",A-Channel
 https://iptv.lancartech.co.id:8443/topan/54637/129307
-#EXTINF:-1 group-title="NEWS",Arirang
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",Arirang
 https://iptv.lancartech.co.id:8443/topan/54637/52014
-#EXTINF:-1 group-title="NEWS",BBC World News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",BBC World News
 https://iptv.lancartech.co.id:8443/topan/54637/93
-#EXTINF:-1 group-title="NEWS",Bloomberg
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",Bloomberg
 https://iptv.lancartech.co.id:8443/topan/54637/51989
-#EXTINF:-1 group-title="NEWS",Channel News Asia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",Channel News Asia
 https://iptv.lancartech.co.id:8443/topan/54637/117976
-#EXTINF:-1 group-title="NEWS",CNBC Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",CNBC Indonesia
 https://iptv.lancartech.co.id:8443/topan/54637/13
-#EXTINF:-1 group-title="NEWS",CNBC US
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",CNBC US
 https://iptv.lancartech.co.id:8443/topan/54637/88903
-#EXTINF:-1 group-title="NEWS",CNN Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",CNN Indonesia
 https://iptv.lancartech.co.id:8443/topan/54637/15
-#EXTINF:-1 group-title="NEWS",CNN International
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",CNN International
 https://iptv.lancartech.co.id:8443/topan/54637/55999
-#EXTINF:-1 group-title="NEWS",Fox News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",Fox News
 https://iptv.lancartech.co.id:8443/topan/54637/55816
-#EXTINF:-1 group-title="NEWS",KBS World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",KBS World
 https://iptv.lancartech.co.id:8443/topan/54637/129315
-#EXTINF:-1 group-title="NEWS",NBC News Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",NBC News Now
 https://iptv.lancartech.co.id:8443/topan/54637/129394
-#EXTINF:-1 group-title="NEWS",NHK World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",NHK World
 https://iptv.lancartech.co.id:8443/topan/54637/41
-#EXTINF:-1 group-title="NEWS",Russia Today
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",Russia Today
 https://iptv.lancartech.co.id:8443/topan/54637/51990
-#EXTINF:-1 group-title="NEWS",Sky News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",Sky News
 https://iptv.lancartech.co.id:8443/topan/54637/54417
 
 
-#EXTINF:-1 group-title="KIDS",Animax
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Animax
 https://iptv.lancartech.co.id:8443/topan/54637/47
-#EXTINF:-1 group-title="KIDS",Aniplus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Aniplus
 https://iptv.lancartech.co.id:8443/topan/54637/51
-#EXTINF:-1 group-title="KIDS",Baby TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Baby TV
 https://iptv.lancartech.co.id:8443/topan/54637/87701
-#EXTINF:-1 group-title="KIDS",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Cartoon Network
 https://iptv.lancartech.co.id:8443/topan/54637/81
-#EXTINF:-1 group-title="KIDS",Cartoon Network [ENG]
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Cartoon Network [ENG]
 https://iptv.lancartech.co.id:8443/topan/54637/87400
-#EXTINF:-1 group-title="KIDS",Cbeebies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Cbeebies
 https://iptv.lancartech.co.id:8443/topan/54637/127843
-#EXTINF:-1 group-title="KIDS",Da Vinci Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Da Vinci Kids
 https://iptv.lancartech.co.id:8443/topan/54637/129392
-#EXTINF:-1 group-title="KIDS",Disney Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Disney Channel
 https://iptv.lancartech.co.id:8443/topan/54637/60
-#EXTINF:-1 group-title="KIDS",Disney Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Disney Junior
 https://iptv.lancartech.co.id:8443/topan/54637/61
-#EXTINF:-1 group-title="KIDS",Dreamwork
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Dreamwork
 https://iptv.lancartech.co.id:8443/topan/54637/87699
-#EXTINF:-1 group-title="KIDS",Dunia Anak
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Dunia Anak
 https://iptv.lancartech.co.id:8443/topan/54637/87700
-#EXTINF:-1 group-title="KIDS",Horee
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Horee
 https://iptv.lancartech.co.id:8443/topan/54637/87702
-#EXTINF:-1 group-title="KIDS",Nick Jr
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Nick Jr
 https://iptv.lancartech.co.id:8443/topan/54637/77708
-#EXTINF:-1 group-title="KIDS",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Nickelodeon
 https://iptv.lancartech.co.id:8443/topan/54637/63249
-#EXTINF:-1 group-title="KIDS",Waku-Waku
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",Waku-Waku
 https://iptv.lancartech.co.id:8443/topan/54637/15955
-#EXTINF:-1 group-title="KIDS",ZooMoo
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="KIDS",ZooMoo
 https://iptv.lancartech.co.id:8443/topan/54637/21606
 
 
-#EXTINF:-1 group-title="RELIGION",Al Bahjah TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RELIGION",Al Bahjah TV
 https://iptv.lancartech.co.id:8443/topan/54637/129411
-#EXTINF:-1 group-title="RELIGION",Madinah TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RELIGION",Madinah TV
 https://iptv.lancartech.co.id:8443/topan/54637/129414
-#EXTINF:-1 group-title="RELIGION",Mekkah TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RELIGION",Mekkah TV
 https://iptv.lancartech.co.id:8443/topan/54637/129413
-#EXTINF:-1 group-title="RELIGION",Muadz TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RELIGION",Muadz TV
 https://iptv.lancartech.co.id:8443/topan/54637/129412
-#EXTINF:-1 group-title="RELIGION",Rodja TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RELIGION",Rodja TV
 https://iptv.lancartech.co.id:8443/topan/54637/16689
 #EXTINF:-1 group-title="RELIGION",Wesal TV
 https://iptv.lancartech.co.id:8443/topan/54637/16687
