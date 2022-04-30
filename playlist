@@ -725,6 +725,12 @@ http://tvn.x10.bz/TvN_ID/master-24.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/VWzPJQ4/FxC.png" group-title="MOVIES",Star Chinese Movies
+https://link.zozotv.xyz/live/fx2/fx2/68.ts
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="", Paramount
 http://51.89.98.62:8080/japones/japones/91
 
@@ -763,6 +769,12 @@ http://tvn.x10.bz/TvN_ID/master-1.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", Bioskop Indonesia
 https://iptv.lancartech.co.id:8443/topan/54637/28568
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="MOVIES",Flik
+https://link.zozotv.xyz/live/fx2/fx2/114.ts
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1vrMDmM/ZEEC.png" group-title="MOVIES" tvg-id="ZeeCinemaAsia.in" tvg-name="ZeeCinemaAsia.in", Zee Cinema Asia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
@@ -785,11 +797,6 @@ http://rr1.dens.tv/h/h144/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.metin.tv/wp-content/uploads/2022/02/ConTV-Anime-320x180.png" group-title="MOVIES", ConANIME
 https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="CHINA  CCTV 7 MOVIES HD" tvg-logo="" group-title="MOVIES",CHINA CCTV7 MOVIES HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/123704
-#EXTINF:-1 tvg-ID="" tvg-name="CHINA  CCTV4 MOVIES HD" tvg-logo="" group-title="MOVIES",CHINA CCTV4 MOVIES HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/123705
 
 #EXTINF:-1 tvg-ID="" tvg-name="&Flix HD" tvg-logo="" group-title="MOVIES",&Flix HD
 https://iptv.lancartech.co.id:8443/topan/54637/129416
@@ -879,9 +886,6 @@ http://tvn.x10.bz/TvN_ID/master-7.m3u8
 http://tvn.x10.bz/TvN_ID/master-8.m3u8
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion4
 https://iptv.lancartech.co.id:8443/topan/54637/90269
-#EXTINF:-1  tvg-logo="#EXTINF:-1  tvg-logo="https://thumbor.prod.vid.id/1EJbpowXsTKAS2dSd14SVD0ndLI=/830x460/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/7953/champions-tv-4-cover-f47452.jpg" group-title="SPORTS",Champion4
-http://tvn.x10.bz/TvN_ID/master-35.m3u8" group-title="SPORTS",Champion4
-http://tvn.x10.bz/TvN_ID/master-35.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",LIGA1&2
 http://tvn.x10.bz/TvN_ID/master.m3u8
@@ -909,14 +913,14 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 https://zz@bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",SPOTV_U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",SPOTV_U
 https://winhometv.xyz/USEE/mpd.m3u8?channel=spotv
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png"group-title="SPORTS",SPOTV_2_U
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjvxX3pL/Usee-Share-Ext-Group.png" group-title="SPORTS",SPOTV_2_U
 https://winhometv.xyz/USEE/mpd.m3u8?channel=spotv2
 
-#EXTINF:-1 tvg-logo=""group-title="SPORTS", Usee Sports 1
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Usee Sports 1
 https://iptv.lancartech.co.id:8443/topan/54637/69
-#EXTINF:-1 tvg-logo=""group-title="SPORTS",Usee Sports 2
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sports 2
 https://iptv.lancartech.co.id:8443/topan/54637/70
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/c4pTS21q/Champion-Tv-SHAREext-Group.jpg" group-title="SPORTS",RCTI_+
@@ -945,24 +949,6 @@ http://iptv12k.com:35461/8022022301/468985/966
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="SPORTS", Arena Sport 2
 http://iptv12k.com:35461/8022022301/468985/965
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVIchK2eAq0HD_lMjld16YYmyQ7F3zxTEmw&usqp=CAU" group-title="SPORTS", Bein Sports Premium 1
-http://vt.vttpi.com:8000/live/P-957977/P-740465/412.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzB97GTt-J8qQ-IGpWkapZE8UwjF0MdcHbAA&usqp=CAU" group-title="SPORTS", Bein Sports Premium 2
-http://vt.vttpi.com:8000/live/P-957977/P-740465/413.ts
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNDqSpu9cYBhujfm_vRAUtEDTMVFMTafVGRQ&usqp=CAU" group-title="SPORTS", Bein Sports Premium 3
-http://vt.vttpi.com:8000/live/P-957977/P-740465/414.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2401,160 +2387,6 @@ http://211.21.12.236:11935/live/cs22.stream/playlist.m3u8?shareext.ts
 http://211.21.12.236:11935/live/cs25.stream/playlist.m3u8?shareext.ts
 
 
-##########################MATRIXTV##########################
-
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  FASHIONTV HD S2
-http://202.150.172.35:8000/play/fashiontvhds2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  FASHIONTV INDIA S2
-http://202.150.172.35:8000/play/fashiontvindias2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  FATWATV S2
-http://202.150.172.35:8000/play/fatwatvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  IAM CH 5H S2
-http://202.150.172.35:8000/play/iamch5hs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  INDIA S2
-http://202.150.172.35:8000/play/indias2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  INDOSAT S2
-http://202.150.172.35:8000/play/indosats2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  INDOSIAR S2
-http://202.150.172.35:8000/play/indosiars2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  INSANTV S2
-http://202.150.172.35:8000/play/insantvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  IZZAHTV S2
-http://202.150.172.35:8000/play/izzahtvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  JAKTV S2
-http://202.150.172.35:8000/play/jaktvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  JITV S2
-http://202.150.172.35:8000/play/jitvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  JTV SBY S2
-http://202.150.172.35:8000/play/jtvsbys2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  K-DRAMA S2
-http://202.150.172.35:8000/play/kdramas2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  KBS WORLD24 MAIN S2
-http://202.150.172.35:8000/play/kbsworld24mains2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  KIDZONE+ S2
-http://202.150.172.35:8000/play/kidzone+s2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  KOMPAS TV S2
-http://202.150.172.35:8000/play/kompastvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  KTV S2
-http://202.150.172.35:8000/play/ktvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  LEJEL HOME SHOPPING S2
-http://202.150.172.35:8000/play/lejelhomeshoppings2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  LOTUSTV S2
-http://202.150.172.35:8000/play/lotustvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  M CINE S2
-http://202.150.172.35:8000/play/m-cines2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  MADINAH S2
-http://202.150.172.35:8000/play/madinahs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  MAGNA CH S2
-http://202.150.172.35:8000/play/magnachs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  MAKKAH S2
-http://202.150.172.35:8000/play/makkahs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  MATRIXTV S2
-http://202.150.172.35:8000/play/matrixtvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  MCINE S2
-http://202.150.172.35:8000/play/mcines2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  METROTV HD S2
-http://202.150.172.35:8000/play/metrotvhds2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  METROTV JATIM S2
-http://202.150.172.35:8000/play/metrotvjatims2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  METROTV S2
-http://202.150.172.35:8000/play/metrotvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  MHOTV S2
-http://202.150.172.35:8000/play/mhotvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  MUADZTV S2
-http://202.150.172.35:8000/play/muadztvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  MyTV S2
-http://202.150.172.35:8000/play/mytvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  NHK RADIO 1&2 S2
-http://202.150.172.35:8000/play/nhkradio1&2s2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  NHK RADIO 3&4 S2
-http://202.150.172.35:8000/play/nhkradio3&4s2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  NHK RADIO 5 S2
-http://202.150.172.35:8000/play/nhkradio5s2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  NHK WORLD HD50 S2
-http://202.150.172.35:8000/play/nhkworldhd50s2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  NHK WORLD HD60 S2
-http://202.150.172.35:8000/play/nhkworldhd60s2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  NIAGATV S2
-http://202.150.172.35:8000/play/niagatvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  NUSANTARA TV S2
-http://202.150.172.35:8000/play/nusantaratvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  New Service 22 S2
-http://202.150.172.35:8000/play/newservice22s2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  New Services 21 S2
-http://202.150.172.35:8000/play/newservice21s2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  PALAPA CH-10 S2
-http://202.150.172.35:8000/play/palapach10s2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  RAAJJEETV S2
-http://202.150.172.35:8000/play/raajjetvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  RADIO AUS ENGLISH S2
-http://202.150.172.35:8000/play/radioausenglishs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  RADIO AUS MULRILANGUAGE S2
-http://202.150.172.35:8000/play/Radioausmultis2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  RADIO KITA TV S2
-http://202.150.172.35:8000/play/radiokitatvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  RASYAADTV S2
-http://202.150.172.35:8000/play/rasyaadtvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  RRI NET S2
-http://202.150.172.35:8000/play/rrinets2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  SALAMTV S2
-http://202.150.172.35:8000/play/salamtvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  SCTV S2
-http://202.150.172.35:8000/play/sctvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  SINEMA INDONESIA S2
-http://202.150.172.35:8000/play/sinemaindonesias2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  SINEMA X S2
-http://202.150.172.35:8000/play/sinema-xs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  SINEMAX S2
-http://202.150.172.35:8000/play/sinemaxs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  SUNNAHTV S2
-http://202.150.172.35:8000/play/sunnahtvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  SURAUTV S2
-http://202.150.172.35:8000/play/surautvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TEHELKATV S2
-http://202.150.172.35:8000/play/tehelkatvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TRANS7 HD S2
-http://202.150.172.35:8000/play/trans7hds2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TRANS7 S2
-http://202.150.172.35:8000/play/trans7s2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TRANSTV HD S2
-http://202.150.172.35:8000/play/transtvhds2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TRANSTV S2
-http://202.150.172.35:8000/play/transtvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TRT WORLD HD S2
-http://202.150.172.35:8000/play/trtworldhds2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TVONE S2
-http://202.150.172.35:8000/play/tvones2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TVP S2
-http://202.150.172.35:8000/play/tvps2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TVP2 S2
-http://202.150.172.35:8000/play/tvp2s2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TVRI BENGKULU S2
-http://202.150.172.35:8000/play/tvribengkulus2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TVRI JABAR S2
-http://202.150.172.35:8000/play/tvrijabars2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TVRI JAMBI S2
-http://202.150.172.35:8000/play/tvrijambis2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TVRI KALIMANTAN TIMUR S2
-http://202.150.172.35:8000/play/tvrikaltims2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TVRI LAMPUNG S2
-http://202.150.172.35:8000/play/tvrilampungs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TVRI RIAU S2
-http://202.150.172.35:8000/play/tvririaus2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TVRI SUMATERA SELATAN S2
-http://202.150.172.35:8000/play/tvrisumsels2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  TVin S2
-http://202.150.172.35:8000/play/tvins2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  WESALTV S2
-http://202.150.172.35:8000/play/wesaltvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  YTN MAIN S2
-http://202.150.172.35:8000/play/ytnmains2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  ZORINSTV S2
-http://202.150.172.35:8000/play/zorinstvs2
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-vS-bIbwAqRM/W2qMYd5hY2I/AAAAAAAADOA/hzGlVwAiUvAVxv5pV1NV5XxgGFCRqn4-gCLcBGAs/s1600/matrix-tv-oke.png" group-title="MATRIX TV-S2 Parabola",  iNEWS S2
-http://202.150.172.35:8000/play/inewss2
-
-
 ##########################EMPIRE CINEMA##########################
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv2caBtzONsyYrXA5E4zTDqw8m5KmBB1Cypg&usqp=CAU" group-title="EMPIRE CINEMA" tvg-id="" tvg-name="", Cinemax West
@@ -2667,303 +2499,303 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948
 
 ##########################   ##########################
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Oh!K HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Oh!K HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiIKHUDKkeCWGFfCNGC83p4/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Ria HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Ria HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiUyl1VEaZXGSIR44MsakB4/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",iQIYI HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",iQIYI HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwod_wSu2XOBkhr4abf05b3E/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Animax
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Animax
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwpk0QeiuFI0sQHrS949DAFw/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Vinmeen HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Vinmeen HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrG73Ey3zbWLzpFV46z9F7M/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Vaanavil HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Vaanavil HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvdKRw5cICnF1XKHqwoKPhI/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AEC HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",AEC HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwillWiaecIEqW48F1X2gWqA/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",OASIS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",OASIS HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwicPP3YTvXFlCt_0Wx3UVEU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Quan Jia HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Quan Jia HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwok3dtwsDTiXYpHCiHkunkU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Ceria HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Ceria HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuNRhsOa5ZVp2nMtWtAtYvk/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Hello
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Hello
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlsOh5UTRFyM0K4u2Ns0HAc/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:One HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:One HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiLJz0rlM299-BI1tNG6F7Y/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Xiao Tai Yang HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Xiao Tai Yang HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwng85BEuVNw5LsRbGQV3PSs/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Huan Xi Tai HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Huan Xi Tai HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrLQ7qQFYbRDlVyPH-8kppE/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Awani
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Awani
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwoWDH_b2ONAxtLwApM0hNMM/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TVIQ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TVIQ
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwryZn3fl9zcMJOjjm7KoJB4/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:AniPlus HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:AniPlus HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwq_fP3bksIv8TvzKWfo8_9M/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",KPLUS HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",KPLUS HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwigybx2Hkboi6GOqJvzLE1g/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",CTI ASIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",CTI ASIA
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwu4cR3tT1emkMnyl-oQXyFU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",HUA HEE DAI HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",HUA HEE DAI HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwv_CjhIxi6yeWZUKBPU3G2c/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Aura HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Aura HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwimrWE9U144GkfR0DEPSVh4/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Bollyone HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Bollyone HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjkNOLBdCD_vPkTh4nh7kuk/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Rania HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Rania HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiYFx_KIkWIZYUgx_6By-6g/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Celestial HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Celestial HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsA1UwbZT4_cQn_y4k_4180/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AOD 311 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",AOD 311 HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwohnYKd9_mW36OdwRk4b9Xw/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AOD 352
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",AOD 352
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwngHLLwlKJcXtyNxjLkZhzM/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AOD 353
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",AOD 353
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmV97EGie4U9mavAJ-ODbe8/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AOD 354
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",AOD 354
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjdxZuocYUPzdQi-9J96hEU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AOD 355
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",AOD 355
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnOdf3CTGRFvchKRlhenvxQ/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Citra HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Citra HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwup5nREbKp-4AK_piVNaR1w/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Showcase Movies HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Showcase Movies HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvDaCk6UBfot5dmr04AyFAg/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:AXN HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:AXN HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkwAyd9TqQX3cm_d6GE9d9U/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:HBO HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:HBO HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwujzsZpyYkjILFTO5PAAa3E/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Cinemax HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Cinemax HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwoaiTrGKY1iqLwcfj_dYXD4/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Hits Movies HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Hits Movies HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiBzhp6tHroKgmudsEiU5eA/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:tvN Movies HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:tvN Movies HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiPn3GzJSOIOybFFMtL3PxI/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Comedy Central HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Comedy Central HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwtsNU4HVpDjAlAve-ZjJL-8/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:HGTV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:HGTV HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwi3mkkgKvaQ_-yzvEJjTfrA/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Warner TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Warner TV HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjganYk8147bI2ZogSCM6HQ/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Dmax HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Dmax HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsicpQ6LzdYbA_FncgIieKU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Hits HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Hits HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwtYbTRCbqwAxp6ZpxnWRPnk/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",CCM
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",CCM
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlyBMopi3mrrxQ41pEW6la0/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Chutti TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Chutti TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwokW0p3yKQ4tRkOgLctE9ww/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Prima HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Prima HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwh2Gzs-Wfvu76VkiT1ilZZg/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:tvN HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:tvN HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkOXztGbdPAfLQXLqLVkfPE/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:TV9
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:TV9
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsDfX7bDbM7LfF9UDX-7vvA/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Colors HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Colors HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuIbJ31-3Cj0h4VeU8iiyKk/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:AFN HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:AFN HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrIIy6V5GJomoi0hNY7OZao/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:kix HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:kix HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwqhVWJMllzn1Cs_ENOMevs8/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TVB Classic
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TVB Classic
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjUUPxG8puECHscCnFMm48w/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:DW HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:DW HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwgYtehW9eXOKbpXXo1MTuc8/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Phoenix HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Phoenix HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuX5AlofZrG4Kl5ruxfMqE0/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Shuang Xing HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Shuang Xing HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwimnMa1IgCCxqMVbtNuLFkE/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TVB Xing HE HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TVB Xing HE HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlaJJ9bmam82Syp1iXk3Rm8/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",WLT JADE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",WLT JADE
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrhZ62DtOYW13llbLrDk2rc/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TVBS Asia HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TVBS Asia HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwndqjerr9d9UiuhOk1F2sN8/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Bernama
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Bernama
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlfr23URaYp0RJIRKyaf5Yk/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Naura
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Naura
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlSo37w0DF-JQInCoHVUWxc/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Nickelodeon HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Nickelodeon HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzws9QZ34jpXI-e6MjF2QBB1Y/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TA-DAA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TA-DAA
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwumlpT7xSYCql45SDDhMrwI/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Nick JR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Nick JR
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwps0RKYb3CwYCc4dNC8lgJo/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Cartoon Network HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlsbZNrStHM5JNhdka0PUcU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Colors Tamil
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:Colors Tamil
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnqRj-G5cfcZmRLes6j2nDw/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TV1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TV1
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnM4calQmyu7QgdWrcq1KYA/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TV2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TV2
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsqylyxqLVvxBOudmRpeBFA/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TV3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TV3
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwoP8UM455d1LO3Oe00_tCQg/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:ADITHYA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",My:ADITHYA
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnSVn0O4dTR-arZy-sUVAUI/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:FOX HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:FOX HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrU5GFbGiLvLSrRdv-WG_jY/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Action Movies HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Action Movies HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmi3srP1e9UDNmzQJjNuUeM/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Crime HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Crime HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwqNFksxxR5EcqTvVL5bLTY0/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:AXN HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:AXN HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwhU1hiDYagq7jXCH1wUkWho/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Red by HBO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Red by HBO
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkxgbRTmlFb3tRhFb5b1UMw/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MyCinema
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",MyCinema
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvQ5aTHo9QsENwcRFzAqRPY/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Celestial Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Celestial Movies
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlrzXvuEHX1Lginm9OoCdog/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Life HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Life HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjimYXAF6DQEUsl3fYUjigM/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:HBO Hits FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:HBO Hits FHD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvo7wCZjR2FEE9aB9Xr8yy8/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:HBO Family FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:HBO Family FHD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjGwy69U0znVJSO1DXKAcCI/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Cinemax FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Cinemax FHD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwomL9pBuI1TqaZzFOthVB3I/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:HBO FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:HBO FHD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvf6hvwc0JbpnJ5F7r49fwg/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:HBO Signature FHD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:HBO Signature FHD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwpEa8NsEkdRVvhhRP1gX6AQ/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Movies Premium HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Movies Premium HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuagMMP_dRA3pKjUAg9Pu-I/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Cinema World
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Cinema World
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvoNqgLFJfB_Bg3-9KKzZGU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:One HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:One HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwqJ9hvEQxSiDRp6Umd8B6C8/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:SCM HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:SCM HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwgRZ1aK-_-QY8XmJISI9rp4/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Thrill
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Thrill
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwhXlZ1EiI6_tQ_g09CpMMak/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:HGTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:HGTV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsU9a-Xk0hPc2zFUwVZaZ80/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Hits Movies
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Hits Movies
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkFrRBur1Z4u0JCH83rEI1I/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:TVN Movies HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:TVN Movies HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwgm8COujARh7nEHEvjVkkgk/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TransTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TransTV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmuWfQkle0MT_DXaUnNham4/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",National Geographic HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",National Geographic HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwns-N6hCovPEVLcx_kK3lWs/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Nat Geo Wild HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Nat Geo Wild HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjZEUay_7uXZGAuFkZnSSow/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Nat Geo People HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Nat Geo People HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwn5XejPo_-AhVL7fgya9LJY/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Animal Planet HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrKxYVky1wsu_tUPEIPtiik/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",BBC Earth
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",BBC Earth
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwum2e0WiOyZ2tvrX2QevM3Q/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:History
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:History
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwi09P1CX1BFuVNRe0V8hFik/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Crime Investigation
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Crime Investigation
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwpXU-sCbS1RgFKgz6AqFcPw/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Afn
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Afn
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwltd-m0b0qBzmV-FWzh1FgE/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TLC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TLC
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwh_cE2359iQ-YgTWiM245NE/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Lifetime
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Lifetime
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwor-hazfaSfbjd7RHRJHkoA/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",SCTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",SCTV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwt2iZwtW_-xdipaD73xyzLk/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TVRI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TVRI
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlkWlChMC2xBJ6xrUCeRqps/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Indosiar
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Indosiar
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwhZrIe1tb5uq2OIfFhgZwdY/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Indonesia Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Indonesia Channel
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwthqavB52XXCGgkYpHSecRQ/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",CNBC Indonesia
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwk9Vk2aBfIUEq328yQtx-_U/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Net TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Net TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsy0WNFYyEAeSB4a6bKa6ko/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",RCTI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",RCTI
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnsM9mNcxyPGxY8-CvCJVfA/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MNC TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",MNC TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwgSZYOgOdhZJDj_DgnMu1xU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MNC News
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",MNC News
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmeJTi8y-n6lAwoYh64NPLI/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MNC Shop Trendy
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",MNC Shop Trendy
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjRzKYQqVaEg949UPKa8ohg/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MNC Shop Smart
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",MNC Shop Smart
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwpuef0PLSZ_MGQkvnzsCJLI/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MNC Entertainment
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",MNC Entertainment
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsKXV-Lqvi3tp2-nOGIBPZE/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",GTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",GTV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnBqDLyVdd2RjrebeFcCkIw/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",INews TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",INews TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrgOX4PCnWTjEdb48m9lork/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",CNN Indonesia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",CNN Indonesia
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwu6h5UG8pPQGT4zy2aYS9w0/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ANTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ANTV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwo1FVBaoPMZMHf5yBkzD4tw/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",DAAI TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",DAAI TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwoFfMYinCsttNflP_yzQTnQ/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Kompas TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Kompas TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwhaZSsDqHM2BdW0AOdP6JiA/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Berita Satu
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Berita Satu
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwu5VIhjMuCNx2JrS1NUHzNM/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Metro TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Metro TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkbM1zf_cYxRGQs6DqpFx0k/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Trans 7
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Trans 7
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsmguX-b-nlNXxWrtmRNQyU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",RTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",RTV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmVNZwe24jpV3ycnnWoJDnc/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Bali TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Bali TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjDf3-CV2WcNK1s9V0Pv_Qc/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",FMN TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",FMN TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwl3DMjaX6h8h2i2gK1J7aiU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Hits
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Hits
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwim8_KETP-54v-jj4UNI1NI/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Infotainment
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Infotainment
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmmdGRzsSf4MJ5BlJGp4jiU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",JakTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",JakTV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuAsRGX1P-fAjhV1zMS-u8M/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",JTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",JTV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsvrReQogQ_0iynKIUTidBg/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TV One
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",TV One
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvp-0BlNB5BQjoevDe-Qpig/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Galaxy
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Galaxy
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjeaanFyuLS3wAWYnJdFEAg/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Besmart TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Besmart TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuGGjXZt2ZJTZhkyi1yOxr4/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Cartoon Network HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Cartoon Network HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwk5m8LzgGCUh_RJo6h83msc/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Nick Jr
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Nick Jr
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrrNfIM3sPx9MLpHAmYSAlQ/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Boomerang
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Boomerang
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlGVFPpHwJgDKRwiaMld7hs/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Animax HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Animax HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwhGx1gcxO09gRWR96rAHMKM/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Kids TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Kids TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwp1pFpJxsJrLL8eMMIkldtw/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Kix
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Kix
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsUI41KyTksgbSgjH8v9eqE/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MiaoMI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",MiaoMI
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkTfVGZFJmrKTJtwcCGuNR8/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Zeebioskop
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:Zeebioskop
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkgKq0m6Svvps_iKbd5HkP0/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:ANIPlus HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:ANIPlus HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwm2LzKS1OSILNBTsA-P8FJ0/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Horee
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Horee
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnTfnhSykoylSxZmNZPyhcU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:TvN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:TvN
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwl75hu29lmmXT0okqbe2-Fo/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:K+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",ID:K+
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuJtEaBaxpL0zqKI6mL1bLU/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Waku-Waku
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Waku-Waku
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmWjVBBg-hKKMc6zjcfb7VM/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",NHK World Premium
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",NHK World Premium
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwgFupQOdxErGTGtyiAlEibA/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Channel V
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Channel V
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlRGDP1Aw--ziqqKXVa3phI/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Citra Dangdut
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Citra Dangdut
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvMquFZmMzfWWSAIw6gXfaM/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Music TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",Music TV
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwk7tEi0khsyScMmxaDFhfcI/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",News Asia Channel
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",News Asia Channel
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwpYYPgAaSNTLbLQxj8yGW7A/ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",O Channel HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@MLY|INDO_TEVE",O Channel HD
 http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwp6Mz3fThKmWrtag4gmU1J8/ts
 
 
@@ -3454,7 +3286,6 @@ http://203.77.246.50:5000/udp/239.1.1.232:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",ZeeNews
 http://203.77.246.50:5000/udp/239.1.1.234:5000
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",NHK World HD
 http://203.77.246.50:5000/udp/239.1.2.2:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",Arirang
@@ -3581,7 +3412,6 @@ http://203.77.246.50:5000/udp/239.1.2.242:5000
 http://203.77.246.50:5000/udp/239.1.2.244:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",New
 http://203.77.246.50:5000/udp/239.1.2.246:5000
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",TV China
 http://203.77.246.50:5000/udp/239.1.3.38:5000
