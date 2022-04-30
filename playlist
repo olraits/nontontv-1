@@ -2667,243 +2667,304 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c3b948
 
 ##########################   ##########################
 
-#EXTINF:-1 tvg-id="" tvg-name="|ID| G T V" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/GTV.png" group-title="SHAREEXT@ASIA| INDONESIA",G T V
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4319
-#EXTINF:-1 tvg-id="" tvg-name="|ID| TV9" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/TV9.png" group-title="SHAREEXT@ASIA| INDONESIA",TV9
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4265
-#EXTINF:-1 tvg-id="" tvg-name="|ID| MNCTV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/MNCTV.png" group-title="SHAREEXT@ASIA| INDONESIA",MNCTV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4317
-#EXTINF:-1 tvg-id="" tvg-name="|ID| AL JAZEERA ENGLISH" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/ALJAZEERAENGLISH.png" group-title="SHAREEXT@ASIA| INDONESIA",AL JAZEERA ENGLISH
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4258
-#EXTINF:-1 tvg-id="" tvg-name="|ID| JAKTV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/JAKTV.png" group-title="SHAREEXT@ASIA| INDONESIA",JAKTV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4253
-#EXTINF:-1 tvg-id="" tvg-name="|ID| KOMPASTV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/KOMPASTV.png" group-title="SHAREEXT@ASIA| INDONESIA",KOMPASTV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4273
-#EXTINF:-1 tvg-id="" tvg-name="|ID| METROTV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/METROTV.png" group-title="SHAREEXT@ASIA| INDONESIA",METROTV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4318
-#EXTINF:-1 tvg-id="" tvg-name="|ID| INEWS" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/INEWS.png" group-title="SHAREEXT@ASIA| INDONESIA",INEWS
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4315
-#EXTINF:-1 tvg-id="" tvg-name="|ID| FOX NEWS" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/FOXNEWS.png" group-title="SHAREEXT@ASIA| INDONESIA",FOX NEWS
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4288
-#EXTINF:-1 tvg-id="" tvg-name="|ID| SCM" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/SCM.png" group-title="SHAREEXT@ASIA| INDONESIA",SPO TV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4233
-#EXTINF:-1 tvg-id="" tvg-name="|ID| BLOOMBERG" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/BOOMERANG.png" group-title="SHAREEXT@ASIA| INDONESIA",BLOOMBERG
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4248
-#EXTINF:-1 tvg-id="" tvg-name="|ID| NHK WORLD PREMIUM" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/NHKWORLDPREMIUM.png" group-title="SHAREEXT@ASIA| INDONESIA",NHK WORLD PREMIUM
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4286
-#EXTINF:-1 tvg-id="" tvg-name="|ID| BERITA SATU" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/BERITASATU.png" group-title="SHAREEXT@ASIA| INDONESIA",BERITA SATU
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4285
-#EXTINF:-1 tvg-id="" tvg-name="|ID| BALITV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/BALITV7.png" group-title="SHAREEXT@ASIA| INDONESIA",BALITV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4284
-#EXTINF:-1 tvg-id="" tvg-name="|ID| TRANS7" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/TRANS7.png" group-title="SHAREEXT@ASIA| INDONESIA",TRANS7
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4314
-#EXTINF:-1 tvg-id="" tvg-name="|ID| TRANSTV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/TRANSTV.png" group-title="SHAREEXT@ASIA| INDONESIA",TRANSTV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4313
-#EXTINF:-1 tvg-id="" tvg-name="|ID| TVRI" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/TVRI.png" group-title="SHAREEXT@ASIA| INDONESIA",TVRI
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4312
-#EXTINF:-1 tvg-id="" tvg-name="|ID| INFOTAINMENT" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/INFOTAINMENT.png" group-title="SHAREEXT@ASIA| INDONESIA",INFOTAINMENT
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4308
-#EXTINF:-1 tvg-id="" tvg-name="|ID| TV ONE" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/TVONE.png" group-title="SHAREEXT@ASIA| INDONESIA",TV ONE
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4306
-#EXTINF:-1 tvg-id="" tvg-name="|ID| IDX" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/IDX.png" group-title="SHAREEXT@ASIA| INDONESIA",IDX
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4305
-#EXTINF:-1 tvg-id="" tvg-name="|ID| LIFESTYLE FASHION" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/LIFESTYLEFASHION.png" group-title="SHAREEXT@ASIA| INDONESIA",LIFESTYLE FASHION
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4304
-#EXTINF:-1 tvg-id="" tvg-name="|ID| MNC MUSLIM" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/MNCMUSLIM.png" group-title="SHAREEXT@ASIA| INDONESIA",MNC MUSLIM
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4303
-#EXTINF:-1 tvg-id="" tvg-name="|ID| MNC SHOP SMART" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/MNCSHOPSMART.png" group-title="SHAREEXT@ASIA| INDONESIA",MNC SHOP SMART
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4301
-#EXTINF:-1 tvg-id="" tvg-name="|ID| KIDSTV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/KIDSTV.png" group-title="SHAREEXT@ASIA| INDONESIA",KIDSTV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4297
-#EXTINF:-1 tvg-id="" tvg-name="|ID| VISION PRIME" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/VISIONPRIME.png" group-title="SHAREEXT@ASIA| INDONESIA",VISION PRIME
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4294
-#EXTINF:-1 tvg-id="" tvg-name="|ID| EURONEWS" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/EURONEWS.png" group-title="SHAREEXT@ASIA| INDONESIA",EURONEWS
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4293
-#EXTINF:-1 tvg-id="" tvg-name="|ID| ARIRANG KOREA" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/ARIRANGKOREA.png" group-title="SHAREEXT@ASIA| INDONESIA",ARIRANG KOREA
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4291
-#EXTINF:-1 tvg-id="" tvg-name="|ID| KIX" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/KIX.png" group-title="SHAREEXT@ASIA| INDONESIA",KIX
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4289
-#EXTINF:-1 tvg-id="" tvg-name="|ID| LIFETIME" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/LIFETIME.png" group-title="SHAREEXT@ASIA| INDONESIA",LIFETIME
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4282
-#EXTINF:-1 tvg-id="" tvg-name="|ID| MNC ENTERTAINMENT" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/MNCENTERTAINMENT.png" group-title="SHAREEXT@ASIA| INDONESIA",MNC ENTERTAINMENT
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4310
-#EXTINF:-1 tvg-id="" tvg-name="|ID| CNBC" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/CNBC.png" group-title="SHAREEXT@ASIA| INDONESIA",CNBC
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4280
-#EXTINF:-1 tvg-id="" tvg-name="|ID| EWTN" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/EWTN.png" group-title="SHAREEXT@ASIA| INDONESIA",EWTN
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4279
-#EXTINF:-1 tvg-id="" tvg-name="|ID| LIFE" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/LIFE.png" group-title="SHAREEXT@ASIA| INDONESIA",LIFE
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4278
-#EXTINF:-1 tvg-id="" tvg-name="|ID| NICK" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/NICK.png" group-title="SHAREEXT@ASIA| INDONESIA",NICK
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4268
-#EXTINF:-1 tvg-id="" tvg-name="|ID| AL QURAN AL KAREM" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/ALQURANALKAREM.png" group-title="SHAREEXT@ASIA| INDONESIA",AL QURAN AL KAREM
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4263
-#EXTINF:-1 tvg-id="" tvg-name="|ID| MNC CHANNEL" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/MNCCHANNEL.png" group-title="SHAREEXT@ASIA| INDONESIA",MNC CHANNEL
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4257
-#EXTINF:-1 tvg-id="" tvg-name="|ID| NEWS ASIA CHANNEL" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/NEWSASIACHANNEL.png" group-title="SHAREEXT@ASIA| INDONESIA",NEWS ASIA CHANNEL
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4256
-#EXTINF:-1 tvg-id="" tvg-name="|ID| MIAOMI" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/MIAOMI.png" group-title="SHAREEXT@ASIA| INDONESIA",MIAOMI
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4255
-#EXTINF:-1 tvg-id="" tvg-name="|ID| BESMART" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/BESMART.png" group-title="SHAREEXT@ASIA| INDONESIA",BESMART
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4252
-#EXTINF:-1 tvg-id="" tvg-name="|ID| FRANCE24" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/FRANCE24.png" group-title="SHAREEXT@ASIA| INDONESIA",FRANCE24
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4245
-#EXTINF:-1 tvg-id="" tvg-name="|ID| HISTORY" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/HISTORY.png" group-title="SHAREEXT@ASIA| INDONESIA",HISTORY
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4243
-#EXTINF:-1 tvg-id="" tvg-name="|ID| HGTV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/HGTV.png" group-title="SHAREEXT@ASIA| INDONESIA",HGTV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4237
-#EXTINF:-1 tvg-id="" tvg-name="|ID| SONY ONE" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/SONYONE.png" group-title="SHAREEXT@ASIA| INDONESIA",SONY ONE
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4227
-#EXTINF:-1 tvg-id="" tvg-name="|ID| WARNERTV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/WARNERTV.png" group-title="SHAREEXT@ASIA| INDONESIA",WARNERTV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4207
-#EXTINF:-1 tvg-id="" tvg-name="|ID| DW" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/DW.png" group-title="SHAREEXT@ASIA| INDONESIA",DW
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4198
-#EXTINF:-1 tvg-id="" tvg-name="|ID| DISCOVERY CHANNEL" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/DISCOVERYCHANNEL.png" group-title="SHAREEXT@ASIA| INDONESIA",DISCOVERY CHANNEL
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4219
-#EXTINF:-1 tvg-id="" tvg-name="|ID| NAT GEO WILD" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/NATGEOWILD.png" group-title="SHAREEXT@ASIA| INDONESIA",NAT GEO WILD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4223
-#EXTINF:-1 tvg-id="" tvg-name="|ID| TRT WORLD" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/TRTWORLD.png" group-title="SHAREEXT@ASIA| INDONESIA",TRT WORLD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4220
-#EXTINF:-1 tvg-id="" tvg-name="|ID| ANIMAL PLANET" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/ANIMALPLANET.png" group-title="SHAREEXT@ASIA| INDONESIA",ANIMAL PLANET
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4210
-#EXTINF:-1 tvg-id="" tvg-name="|ID| NHK WORLD JAPAN" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/NHKWORLDJAPAN.png" group-title="SHAREEXT@ASIA| INDONESIA",NHK WORLD JAPAN
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4295
-#EXTINF:-1 tvg-id="" tvg-name="|ID| NAT GEO" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/NATGEO.png" group-title="SHAREEXT@ASIA| INDONESIA",NAT GEO
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4195
-#EXTINF:-1 tvg-id="" tvg-name="|ID| TVN" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/TVN.png" group-title="SHAREEXT@ASIA| INDONESIA",TVN
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4213
-#EXTINF:-1 tvg-id="" tvg-name="|ID| TVN MOVIES" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/TVNMOVIES.png" group-title="SHAREEXT@ASIA| INDONESIA",TVN MOVIES
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4212
-#EXTINF:-1 tvg-id="" tvg-name="|ID| ANIMAX" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/ANIMAX.png" group-title="SHAREEXT@ASIA| INDONESIA",ANIMAX
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4228
-#EXTINF:-1 tvg-id="" tvg-name="|ID| ANTV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/ANTV.png" group-title="SHAREEXT@ASIA| INDONESIA",ANTV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4302
-#EXTINF:-1 tvg-id="" tvg-name="|ID| FMN" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/FMN.png" group-title="SHAREEXT@ASIA| INDONESIA",FMN
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4275
-#EXTINF:-1 tvg-id="" tvg-name="|ID| ZEETV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/ZEETV.png" group-title="SHAREEXT@ASIA| INDONESIA",ZEETV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/244924
-#EXTINF:-1 tvg-id="" tvg-name="|ID| ZING" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/ZING.png" group-title="SHAREEXT@ASIA| INDONESIA",ZING
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/244923
-#EXTINF:-1 tvg-id="" tvg-name="|ID| ZEE CINEMA" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/ZEECINEMA.png" group-title="SHAREEXT@ASIA| INDONESIA",ZEE CINEMA
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/244922
-#EXTINF:-1 tvg-id="" tvg-name="|ID| &TVHD" tvg-logo="http://logo.crystalott.net:8080/logos/BACKG/BackgroundCrystal.png" group-title="SHAREEXT@ASIA| INDONESIA",&TVHD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/244921
-#EXTINF:-1 tvg-id="" tvg-name="|ID| DAAITV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/DAAITV.png" group-title="SHAREEXT@ASIA| INDONESIA",DAAITV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4283
-#EXTINF:-1 tvg-id="" tvg-name="|ID| RTV" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/RTV.png" group-title="SHAREEXT@ASIA| INDONESIA",RTV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4271
-#EXTINF:-1 tvg-id="" tvg-name="|ID| AXN" tvg-logo="http://logo.crystalott.net:8080/logos/PORTUGAL/AXN.png" group-title="SHAREEXT@ASIA| INDONESIA",AXN
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4231
-#EXTINF:-1 tvg-id="" tvg-name="|ID| TV5 MONDE ASIE" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/TV5MONDEASIE.png" group-title="SHAREEXT@ASIA| INDONESIA",TV5 MONDE ASIE
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4249
-#EXTINF:-1 tvg-id="" tvg-name="|ID| HITS MOVIES" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/HITSMOVIES.png" group-title="SHAREEXT@ASIA| INDONESIA",HITS MOVIES
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4214
-#EXTINF:-1 tvg-id="" tvg-name="|ID| CRIME INVESTIGATION" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/CRIMEINVESTIGATION.png" group-title="SHAREEXT@ASIA| INDONESIA",CRIME INVESTIGATION
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4260
-#EXTINF:-1 tvg-id="" tvg-name="|ID| CCM" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/CCM.png" group-title="SHAREEXT@ASIA| INDONESIA",CCM
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4296
-#EXTINF:-1 tvg-id="" tvg-name="|ID| HITS" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/HITS.png" group-title="SHAREEXT@ASIA| INDONESIA",HITS
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4236
-#EXTINF:-1 tvg-id="" tvg-name="|ID| CELESTIAL MOVIES" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/CELESTIALMOVIES.png" group-title="SHAREEXT@ASIA| INDONESIA",CELESTIAL MOVIES
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4292
-#EXTINF:-1 tvg-id="" tvg-name="|ID| CINEMA WORLD" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/CINEMAWORLD.png" group-title="SHAREEXT@ASIA| INDONESIA",CINEMA WORLD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4229
-#EXTINF:-1 tvg-id="" tvg-name="|ID| ZEE BIOSKOP" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/ZEEBIOSKOP.png" group-title="SHAREEXT@ASIA| INDONESIA",ZEE BIOSKOP
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4298
-#EXTINF:-1 tvg-id="" tvg-name="|ID| CINEMAX" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/CINEMAX.png" group-title="SHAREEXT@ASIA| INDONESIA",CINEMAX
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4211
-#EXTINF:-1 tvg-id="" tvg-name="|ID| CNN" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/CNN.png" group-title="SHAREEXT@ASIA| INDONESIA",CNN
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4194
-#EXTINF:-1 tvg-id="" tvg-name="|ID| BEIN SPORTS 2" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/BEINSPORTS2.png" group-title="SHAREEXT@ASIA| INDONESIA",BEIN SPORTS
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4221
-#EXTINF:-1 tvg-id="" tvg-name="|ID| MNC SPORTS2" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/MNCSPORTS2.png" group-title="SHAREEXT@ASIA| INDONESIA",MNC SPORTS2
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4300
-#EXTINF:-1 tvg-id="" tvg-name="|ID| FIGHT SPORTS" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/FIGHTSPORTS.png" group-title="SHAREEXT@ASIA| INDONESIA",FIGHT SPORTS
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4193
-#EXTINF:-1 tvg-id="" tvg-name="|ID| CARTOON NETWORK" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/CARTOONNETWORK.png" group-title="SHAREEXT@ASIA| INDONESIA",CARTOON NETWORK
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4206
-#EXTINF:-1 tvg-id="" tvg-name="|ID| BOOMERANG" tvg-logo="http://103.161.34.240:81/logos/ASIA/INDONESIA/BOOMERANG.png" group-title="SHAREEXT@ASIA| INDONESIA",BOOMERANG
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/4205
-
-
-#EXTINF:-1 tvg-id="" tvg-name="|MY| COLORS TAMIL" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/COLORSTAMIL.png" group-title="SHAREEXT@ASIA| MALAYSIA",COLORS TAMIL
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/11020
-#EXTINF:-1 tvg-id="" tvg-name="|MY| TV ALHIJRAH" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/TVALHIJRAH.png" group-title="SHAREEXT@ASIA| MALAYSIA",TV ALHIJRAH
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/11019
-#EXTINF:-1 tvg-id="" tvg-name="|MY| COMEDY CENTRAL" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/COMEDYCENTRAL.png" group-title="SHAREEXT@ASIA| MALAYSIA",COMEDY CENTRAL
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/11018
-#EXTINF:-1 tvg-id="" tvg-name="|MY| WARNERTV" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/WARNERTV.png" group-title="SHAREEXT@ASIA| MALAYSIA",WARNERTV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/11017
-#EXTINF:-1 tvg-id="" tvg-name="|MY| NAT GEO WILD" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/NATGEOWILD.png" group-title="SHAREEXT@ASIA| MALAYSIA",NAT GEO WILD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/11016
-#EXTINF:-1 tvg-id="" tvg-name="|MY| TVN" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/TVN.png" group-title="SHAREEXT@ASIA| MALAYSIA",TVN
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/11015
-#EXTINF:-1 tvg-id="" tvg-name="|MY| TVN MOVIES" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/TVNMOVIES.png" group-title="SHAREEXT@ASIA| MALAYSIA",TVN MOVIES
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/11014
-#EXTINF:-1 tvg-id="" tvg-name="|MY| CHANNEL NEWS ASIA" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/CHANNELNEWSASIA.png" group-title="SHAREEXT@ASIA| MALAYSIA",CHANNEL NEWS ASIA
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/11012
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ABC AUSTRALIA" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/ABCAUSTRALIA.png" group-title="SHAREEXT@ASIA| MALAYSIA",ABC AUSTRALIA
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/11011
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ASTRO SUPERSPORTS 1 HD" tvg-logo="" group-title="SHAREEXT@ASIA| MALAYSIA",ASTROSUPERSPORTS 1 HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/325878
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ASTRO SUPERSPORTS 2 HD" tvg-logo="" group-title="SHAREEXT@ASIA| MALAYSIA",ASTROSUPERSPORTS 2 HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/325879
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ASTRO SUPERSPORTS 3 HD" tvg-logo="" group-title="SHAREEXT@ASIA| MALAYSIA",ASTROSUPERSPORTS 3 HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/325880
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ASTRO SUPERSPORTS 4 HD" tvg-logo="" group-title="SHAREEXT@ASIA| MALAYSIA",ASTROSUPERSPORTS 4 HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/325881
-#EXTINF:-1 tvg-id="" tvg-name="|MY| FRANCE24" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/FRANCE24.png" group-title="SHAREEXT@ASIA| MALAYSIA",FRANCE24
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/11007
-#EXTINF:-1 tvg-id="" tvg-name="|MY| NICK JR" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/NICKJR.png" group-title="SHAREEXT@ASIA| MALAYSIA",NICK JR
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10982
-#EXTINF:-1 tvg-id="" tvg-name="|MY| MTV ASIA" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/MTVASIA.png" group-title="SHAREEXT@ASIA| MALAYSIA",MTV ASIA
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10978
-#EXTINF:-1 tvg-id="" tvg-name="|MY| TV2" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/TV2.png" group-title="SHAREEXT@ASIA| MALAYSIA",TV2
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10973
-#EXTINF:-1 tvg-id="" tvg-name="|MY| TV1" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/TV1.png" group-title="SHAREEXT@ASIA| MALAYSIA",TV1
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10972
-#EXTINF:-1 tvg-id="" tvg-name="|MY| NAT GEO ASIA" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/NATGEOASIA.png" group-title="SHAREEXT@ASIA| MALAYSIA",NAT GEO ASIA
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10970
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ANIMAX" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/ANIMAX.png" group-title="SHAREEXT@ASIA| MALAYSIA",ANIMAX
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10969
-#EXTINF:-1 tvg-id="" tvg-name="|MY| NAT GEO PEOPLE" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/NATGEOPEOPLE.png" group-title="SHAREEXT@ASIA| MALAYSIA",NAT GEO PEOPLE
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10961
-#EXTINF:-1 tvg-id="" tvg-name="|MY| LUXETV" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/LUXETV.png" group-title="SHAREEXT@ASIA| MALAYSIA",LUXETV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10956
-#EXTINF:-1 tvg-id="" tvg-name="|MY| BBC WORLD NEWS" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/BBCWORLDNEWS.png" group-title="SHAREEXT@ASIA| MALAYSIA",BBC WORLD NEWS
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10953
-#EXTINF:-1 tvg-id="" tvg-name="|MY| DW" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/DW.png" group-title="SHAREEXT@ASIA| MALAYSIA",DW
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10952
-#EXTINF:-1 tvg-id="" tvg-name="|MY| SKY NEWS" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/SKYNEWS.png" group-title="SHAREEXT@ASIA| MALAYSIA",SKY NEWS
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10950
-#EXTINF:-1 tvg-id="" tvg-name="|MY| HBO RED" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/HBORED.png" group-title="SHAREEXT@ASIA| MALAYSIA",HBO RED
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10948
-#EXTINF:-1 tvg-id="" tvg-name="|MY| HBO" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/HBO.png" group-title="SHAREEXT@ASIA| MALAYSIA",HBO
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/10949
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ARENA HD" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/ARENAHD.png" group-title="SHAREEXT@ASIA| MALAYSIA",ARENA HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287313
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ARENA 2 HD" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/ARENA2HD.png" group-title="SHAREEXT@ASIA| MALAYSIA",ARENA 2 HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287312
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ASTRO CRICKET" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/ASTROCRICKET.png" group-title="SHAREEXT@ASIA| MALAYSIA",ASTRO CRICKET
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287311
-#EXTINF:-1 tvg-id="" tvg-name="|MY| RUGBY PASS TV" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/RUGBYPASSTV.png" group-title="SHAREEXT@ASIA| MALAYSIA",RUGBY PASS TV
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287310
-#EXTINF:-1 tvg-id="" tvg-name="|MY| BEIN SPORTS" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/BEINSPORTS.png" group-title="SHAREEXT@ASIA| MALAYSIA",BEIN SPORTS
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287309
-#EXTINF:-1 tvg-id="" tvg-name="|MY| BEIN MAX" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/BEINMAX.png" group-title="SHAREEXT@ASIA| MALAYSIA",BEIN MAX
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287308
-#EXTINF:-1 tvg-id="" tvg-name="|MY| EUROSPORT HD" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/EUROSPORTHD.png" group-title="SHAREEXT@ASIA| MALAYSIA",EUROSPORT HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287307
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ASSP HD" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/ASSP5HD.png" group-title="SHAREEXT@ASIA| MALAYSIA",ASSP HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287306
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ASSP2 HD" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/ASSP5HD.png" group-title="SHAREEXT@ASIA| MALAYSIA",ASSP2 HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287305
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ASSP3 HD" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/ASSP5HD.png" group-title="SHAREEXT@ASIA| MALAYSIA",ASSP3 HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287304
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ASSP4 HD" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/ASSP5HD.png" group-title="SHAREEXT@ASIA| MALAYSIA",ASSP4 HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287303
-#EXTINF:-1 tvg-id="" tvg-name="|MY| ASSP5 HD" tvg-logo="http://103.161.34.240:81/logos/ASIA/MALAYSIA/ASSP5HD.png" group-title="SHAREEXT@ASIA| MALAYSIA",ASSP5 HD
-http://crystalott.org:80/USYMRH9YBZ/OJXPCCEKDX/287302
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Oh!K HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiIKHUDKkeCWGFfCNGC83p4/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Ria HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiUyl1VEaZXGSIR44MsakB4/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",iQIYI HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwod_wSu2XOBkhr4abf05b3E/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Animax
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwpk0QeiuFI0sQHrS949DAFw/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Vinmeen HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrG73Ey3zbWLzpFV46z9F7M/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Vaanavil HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvdKRw5cICnF1XKHqwoKPhI/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AEC HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwillWiaecIEqW48F1X2gWqA/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",OASIS HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwicPP3YTvXFlCt_0Wx3UVEU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Quan Jia HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwok3dtwsDTiXYpHCiHkunkU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Ceria HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuNRhsOa5ZVp2nMtWtAtYvk/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Hello
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlsOh5UTRFyM0K4u2Ns0HAc/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:One HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiLJz0rlM299-BI1tNG6F7Y/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Xiao Tai Yang HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwng85BEuVNw5LsRbGQV3PSs/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Huan Xi Tai HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrLQ7qQFYbRDlVyPH-8kppE/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Awani
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwoWDH_b2ONAxtLwApM0hNMM/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TVIQ
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwryZn3fl9zcMJOjjm7KoJB4/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:AniPlus HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwq_fP3bksIv8TvzKWfo8_9M/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",KPLUS HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwigybx2Hkboi6GOqJvzLE1g/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",CTI ASIA
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwu4cR3tT1emkMnyl-oQXyFU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",HUA HEE DAI HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwv_CjhIxi6yeWZUKBPU3G2c/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Aura HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwimrWE9U144GkfR0DEPSVh4/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Bollyone HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjkNOLBdCD_vPkTh4nh7kuk/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Rania HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiYFx_KIkWIZYUgx_6By-6g/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Celestial HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsA1UwbZT4_cQn_y4k_4180/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AOD 311 HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwohnYKd9_mW36OdwRk4b9Xw/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AOD 352
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwngHLLwlKJcXtyNxjLkZhzM/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AOD 353
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmV97EGie4U9mavAJ-ODbe8/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AOD 354
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjdxZuocYUPzdQi-9J96hEU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",AOD 355
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnOdf3CTGRFvchKRlhenvxQ/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Citra HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwup5nREbKp-4AK_piVNaR1w/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Showcase Movies HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvDaCk6UBfot5dmr04AyFAg/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:AXN HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkwAyd9TqQX3cm_d6GE9d9U/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:HBO HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwujzsZpyYkjILFTO5PAAa3E/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Cinemax HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwoaiTrGKY1iqLwcfj_dYXD4/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Hits Movies HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiBzhp6tHroKgmudsEiU5eA/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:tvN Movies HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwiPn3GzJSOIOybFFMtL3PxI/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Comedy Central HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwtsNU4HVpDjAlAve-ZjJL-8/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:HGTV HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwi3mkkgKvaQ_-yzvEJjTfrA/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Warner TV HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjganYk8147bI2ZogSCM6HQ/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Dmax HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsicpQ6LzdYbA_FncgIieKU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Hits HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwtYbTRCbqwAxp6ZpxnWRPnk/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",CCM
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlyBMopi3mrrxQ41pEW6la0/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Chutti TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwokW0p3yKQ4tRkOgLctE9ww/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Prima HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwh2Gzs-Wfvu76VkiT1ilZZg/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:tvN HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkOXztGbdPAfLQXLqLVkfPE/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:TV9
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsDfX7bDbM7LfF9UDX-7vvA/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Colors HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuIbJ31-3Cj0h4VeU8iiyKk/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:AFN HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrIIy6V5GJomoi0hNY7OZao/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:kix HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwqhVWJMllzn1Cs_ENOMevs8/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TVB Classic
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjUUPxG8puECHscCnFMm48w/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:DW HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwgYtehW9eXOKbpXXo1MTuc8/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Phoenix HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuX5AlofZrG4Kl5ruxfMqE0/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Shuang Xing HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwimnMa1IgCCxqMVbtNuLFkE/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TVB Xing HE HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlaJJ9bmam82Syp1iXk3Rm8/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",WLT JADE
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrhZ62DtOYW13llbLrDk2rc/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TVBS Asia HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwndqjerr9d9UiuhOk1F2sN8/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Bernama
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlfr23URaYp0RJIRKyaf5Yk/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Naura
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlSo37w0DF-JQInCoHVUWxc/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Nickelodeon HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzws9QZ34jpXI-e6MjF2QBB1Y/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TA-DAA
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwumlpT7xSYCql45SDDhMrwI/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Nick JR
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwps0RKYb3CwYCc4dNC8lgJo/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Cartoon Network HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlsbZNrStHM5JNhdka0PUcU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:Colors Tamil
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnqRj-G5cfcZmRLes6j2nDw/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TV1
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnM4calQmyu7QgdWrcq1KYA/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TV2
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsqylyxqLVvxBOudmRpeBFA/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TV3
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwoP8UM455d1LO3Oe00_tCQg/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",My:ADITHYA
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnSVn0O4dTR-arZy-sUVAUI/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:FOX HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrU5GFbGiLvLSrRdv-WG_jY/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Action Movies HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmi3srP1e9UDNmzQJjNuUeM/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Crime HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwqNFksxxR5EcqTvVL5bLTY0/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:AXN HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwhU1hiDYagq7jXCH1wUkWho/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Red by HBO
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkxgbRTmlFb3tRhFb5b1UMw/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MyCinema
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvQ5aTHo9QsENwcRFzAqRPY/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Celestial Movies
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlrzXvuEHX1Lginm9OoCdog/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Life HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjimYXAF6DQEUsl3fYUjigM/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:HBO Hits FHD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvo7wCZjR2FEE9aB9Xr8yy8/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:HBO Family FHD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjGwy69U0znVJSO1DXKAcCI/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Cinemax FHD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwomL9pBuI1TqaZzFOthVB3I/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:HBO FHD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvf6hvwc0JbpnJ5F7r49fwg/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:HBO Signature FHD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwpEa8NsEkdRVvhhRP1gX6AQ/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Fox Movies Premium HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuagMMP_dRA3pKjUAg9Pu-I/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Cinema World
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvoNqgLFJfB_Bg3-9KKzZGU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:One HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwqJ9hvEQxSiDRp6Umd8B6C8/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:SCM HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwgRZ1aK-_-QY8XmJISI9rp4/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Thrill
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwhXlZ1EiI6_tQ_g09CpMMak/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:HGTV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsU9a-Xk0hPc2zFUwVZaZ80/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Hits Movies
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkFrRBur1Z4u0JCH83rEI1I/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:TVN Movies HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwgm8COujARh7nEHEvjVkkgk/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TransTV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmuWfQkle0MT_DXaUnNham4/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",National Geographic HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwns-N6hCovPEVLcx_kK3lWs/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Nat Geo Wild HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjZEUay_7uXZGAuFkZnSSow/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Nat Geo People HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwn5XejPo_-AhVL7fgya9LJY/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Animal Planet HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrKxYVky1wsu_tUPEIPtiik/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",BBC Earth
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwum2e0WiOyZ2tvrX2QevM3Q/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:History
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwi09P1CX1BFuVNRe0V8hFik/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Crime Investigation
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwpXU-sCbS1RgFKgz6AqFcPw/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Afn
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwltd-m0b0qBzmV-FWzh1FgE/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TLC
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwh_cE2359iQ-YgTWiM245NE/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Lifetime
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwor-hazfaSfbjd7RHRJHkoA/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",SCTV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwt2iZwtW_-xdipaD73xyzLk/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TVRI
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlkWlChMC2xBJ6xrUCeRqps/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Indosiar
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwhZrIe1tb5uq2OIfFhgZwdY/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Indonesia Channel
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwthqavB52XXCGgkYpHSecRQ/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",CNBC Indonesia
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwk9Vk2aBfIUEq328yQtx-_U/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Net TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsy0WNFYyEAeSB4a6bKa6ko/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",RCTI
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnsM9mNcxyPGxY8-CvCJVfA/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MNC TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwgSZYOgOdhZJDj_DgnMu1xU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MNC News
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmeJTi8y-n6lAwoYh64NPLI/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MNC Shop Trendy
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjRzKYQqVaEg949UPKa8ohg/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MNC Shop Smart
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwpuef0PLSZ_MGQkvnzsCJLI/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MNC Entertainment
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsKXV-Lqvi3tp2-nOGIBPZE/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",GTV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnBqDLyVdd2RjrebeFcCkIw/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",INews TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrgOX4PCnWTjEdb48m9lork/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",CNN Indonesia
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwu6h5UG8pPQGT4zy2aYS9w0/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ANTV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwo1FVBaoPMZMHf5yBkzD4tw/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",DAAI TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwoFfMYinCsttNflP_yzQTnQ/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Kompas TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwhaZSsDqHM2BdW0AOdP6JiA/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Berita Satu
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwu5VIhjMuCNx2JrS1NUHzNM/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Metro TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkbM1zf_cYxRGQs6DqpFx0k/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Trans 7
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsmguX-b-nlNXxWrtmRNQyU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",RTV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmVNZwe24jpV3ycnnWoJDnc/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Bali TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjDf3-CV2WcNK1s9V0Pv_Qc/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",FMN TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwl3DMjaX6h8h2i2gK1J7aiU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Hits
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwim8_KETP-54v-jj4UNI1NI/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Infotainment
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmmdGRzsSf4MJ5BlJGp4jiU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",JakTV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuAsRGX1P-fAjhV1zMS-u8M/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",JTV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsvrReQogQ_0iynKIUTidBg/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",TV One
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvp-0BlNB5BQjoevDe-Qpig/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Galaxy
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwjeaanFyuLS3wAWYnJdFEAg/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Besmart TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuGGjXZt2ZJTZhkyi1yOxr4/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Cartoon Network HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwk5m8LzgGCUh_RJo6h83msc/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Nick Jr
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwrrNfIM3sPx9MLpHAmYSAlQ/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Boomerang
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlGVFPpHwJgDKRwiaMld7hs/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Animax HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwhGx1gcxO09gRWR96rAHMKM/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Kids TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwp1pFpJxsJrLL8eMMIkldtw/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Kix
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwsUI41KyTksgbSgjH8v9eqE/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",MiaoMI
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkTfVGZFJmrKTJtwcCGuNR8/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:Zeebioskop
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwkgKq0m6Svvps_iKbd5HkP0/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:ANIPlus HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwm2LzKS1OSILNBTsA-P8FJ0/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Horee
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwnTfnhSykoylSxZmNZPyhcU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:TvN
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwl75hu29lmmXT0okqbe2-Fo/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",ID:K+
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwuJtEaBaxpL0zqKI6mL1bLU/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Waku-Waku
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwmWjVBBg-hKKMc6zjcfb7VM/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",NHK World Premium
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwgFupQOdxErGTGtyiAlEibA/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Channel V
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwlRGDP1Aw--ziqqKXVa3phI/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Citra Dangdut
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwvMquFZmMzfWWSAIw6gXfaM/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",Music TV
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwk7tEi0khsyScMmxaDFhfcI/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",News Asia Channel
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwpYYPgAaSNTLbLQxj8yGW7A/ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg"group-title="ShareExt@MLY|INDO_TEVE",O Channel HD
+http://biloiptv.eu.com:8080/play/BEp_A2j6Oh-BMiboFEuzwp6Mz3fThKmWrtag4gmU1J8/ts
 
 
 ##########################   ##########################
@@ -3180,76 +3241,142 @@ http://iptv12k.com:35461/8022022301/468985/2114
 
 ##########################   ##########################
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BEIN_MOVIES_PREMIERE HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/8606
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BEIN_MOVIES_ACTION HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/8607
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BEIN_MOVIES_DRAMA HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/8608
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BEIN_MOVIES_FAMILY HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/8609
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BEIN_SERIES_1 HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/16048
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BEIN_SERIES_2 HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/16049
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BBC_EARTH
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/192822
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",NATGEO_WILD HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150990
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",NATGEO_PEOPLE HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150991
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",NATIONAL_GEOGRAPHIC HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150989
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",FX HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/192825
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",FOX HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150973
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",FOX_CRIME
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150972
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",FOX_LIFE HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150971
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",FOX_MOVIES HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150974
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",FOX_FAMILY_MOVIES HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150975
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",FOX_REWAYAT
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/192824
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",CARTOON_NETWORK
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/192823
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BEIN_DRAMA HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/16047
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",GOURMET HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/16050
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",AMC HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/16589
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BARAEM HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/53413
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",STAR_WORLD HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150976
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",STAR_MOVIES HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150977
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",FATAFEAT HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150979
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",FOOD_NETWORK HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150980
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",OUTDOOR HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150982
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",DISCOVERY_HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150985
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",FINE_LIVING HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150987
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",ANIMAL_PLANET HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150988
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",DREAM_WORK HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150992
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",CARTOON_NETWORK HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150993
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BOOMERANG HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150994
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BE-JUNIOR HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150995
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYGFHynD/Tv-Ku-Share-Ext-Group.jpg" group-title="ShareExt@Bein_Movies_ARAB",BABY_HD
-http://predator-x.com:8000/kdkm3ub840/4mxpah5f4n/150996
+#EXTINF:-1 tvg-id="" tvg-name="TA-DAA" tvg-logo="https://i.ytimg.com/vi/3fzJRsdbAwc/maxresdefault.jpg" group-title="SHAREEXT@ASTROK_TV",TA-DAA
+http://iptv12k.com:35461/8022022301/468985/744
+#EXTINF:-1 tvg-id="" tvg-name="Awesome TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png" group-title="SHAREEXT@ASTROK_TV",Awesome TV
+http://iptv12k.com:35461/8022022301/468985/743
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1 (A) TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tv1-rtm-logo-vector-720x340.jpg" group-title="SHAREEXT@ASTROK_TV",TV1 
+http://iptv12k.com:35461/8022022301/468985/742
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2" tvg-logo="https://www.livenewsmag.com/wp-content/uploads/2017/02/RTM-TV-2.jpg" group-title="SHAREEXT@ASTROK_TV",TV2
+http://iptv12k.com:35461/8022022301/468985/741
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3" tvg-logo="https://i.vippng.com/png/small/342-3425510_logo-of-tv3-tv3-malaysia-logo-png.png" group-title="SHAREEXT@ASTROK_TV",TV3
+http://iptv12k.com:35461/8022022301/468985/740
+#EXTINF:-1 tvg-id="NTV7.my" tvg-name="NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Logo_of_newNTV7.png" group-title="SHAREEXT@ASTROK_TV",NTV7
+http://iptv12k.com:35461/8022022301/468985/739
+#EXTINF:-1 tvg-id="TV8.my" tvg-name="8TV" tvg-logo="https://www.goodfengshui.com/media/k2/items/cache/048731097de322302aff7e52151c991d_XL.jpg" group-title="SHAREEXT@ASTROK_TV",8TV
+http://iptv12k.com:35461/8022022301/468985/738
+#EXTINF:-1 tvg-id="TV9.my" tvg-name="TV9" tvg-logo="https://3.bp.blogspot.com/-PVGk3k9GxkU/WqTGtJ3daHI/AAAAAAAAHJQ/5qrZfNuI93E7Rfxwh3uOHlgdHhtsNl8FACLcBGAs/s1600/tv9.png" group-title="SHAREEXT@ASTROK_TV",TV9
+http://iptv12k.com:35461/8022022301/468985/737
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO 25" tvg-logo="https://assets-global.website-files.com/60a75d8226f3295ecacf9e33/61440f9f1bdcd6036f5d3858_607edaddac13316c12abf4da_astro-logo-corp.jpeg" group-title="SHAREEXT@ASTROK_TV",ASTRO 25
+http://iptv12k.com:35461/8022022301/468985/736
+#EXTINF:-1 tvg-id="Ria.my" tvg-name="ASTRO Ria HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="SHAREEXT@ASTROK_TV",ASTRO Ria HD
+http://iptv12k.com:35461/8022022301/468985/735
+#EXTINF:-1 tvg-id="Prima.my" tvg-name="ASTRO Prima (A)" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png" group-title="SHAREEXT@ASTROK_TV",ASTRO Prima 
+http://iptv12k.com:35461/8022022301/468985/734
+#EXTINF:-1 tvg-id="Warna.my" tvg-name="ASTRO Warna HD" tvg-logo="https://i.loli.net/2021/10/05/7QbR3qYUgmlxzwn.jpg" group-title="SHAREEXT@ASTROK_TV",ASTRO Warna HD
+http://iptv12k.com:35461/8022022301/468985/733
+#EXTINF:-1 tvg-id="Oasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Astro_Oasis.png" group-title="SHAREEXT@ASTROK_TV",ASTRO Oasis HD
+http://iptv12k.com:35461/8022022301/468985/732
+#EXTINF:-1 tvg-id="Ceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="SHAREEXT@ASTROK_TV",ASTRO Ceria HD
+http://iptv12k.com:35461/8022022301/468985/730
+#EXTINF:-1 tvg-id="Naura.my" tvg-name="ASTRO Naura HD" tvg-logo="https://d3avoj45mekucs.cloudfront.net/astrogempak/media/articleasset/nauras.jpg?ext=.jpg" group-title="SHAREEXT@ASTROK_TV",ASTRO Naura HD
+http://iptv12k.com:35461/8022022301/468985/729
+#EXTINF:-1 tvg-id="AstroRania.my" tvg-name="ASTRO Rania HD" tvg-logo="https://i.ytimg.com/vi/bvHc9qAlFJ0/hqdefault.jpg" group-title="SHAREEXT@ASTROK_TV",ASTRO Rania HD
+http://iptv12k.com:35461/8022022301/468985/728
+#EXTINF:-1 tvg-id="" tvg-name="[SG] OKEY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Ohkchannel.png" group-title="SHAREEXT@ASTROK_TV",[SG]_OKEY
+http://iptv12k.com:35461/8022022301/468985/727
+#EXTINF:-1 tvg-id="AlHijrah.my" tvg-name="TV-AlHijrah" tvg-logo="https://upload.wikimedia.org/wikipedia/en/archive/2/26/20121012021139%21TV_Alhijrah_Logo.jpg" group-title="SHAREEXT@ASTROK_TV",TV-AlHijrah
+http://iptv12k.com:35461/8022022301/468985/726
+#EXTINF:-1 tvg-id="Awani.my" tvg-name="ASTRO Awani HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Astro_Awani_501.png" group-title="SHAREEXT@ASTROK_TV",ASTRO Awani HD
+http://iptv12k.com:35461/8022022301/468985/724
+#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="Bernama News" tvg-logo="https://nestia-food.obs.ap-southeast-3.myhuaweicloud.com/201908/03/20686a6177dda926af88357a456f9914.jpg" group-title="SHAREEXT@ASTROK_TV",Bernama News
+http://iptv12k.com:35461/8022022301/468985/723
+#EXTINF:-1 tvg-id="Boo.my" tvg-name="BOO" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" group-title="SHAREEXT@ASTROK_TV",BOO
+http://iptv12k.com:35461/8022022301/468985/722
+#EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra(A)" tvg-logo="https://i.ytimg.com/vi/pP-aeIZ2D-I/maxresdefault.jpg" group-title="SHAREEXT@ASTROK_TV",ASTRO Citra
+http://iptv12k.com:35461/8022022301/468985/721
+#EXTINF:-1 tvg-id="" tvg-name="Maah tv" tvg-logo="https://www.coolstreaming.us/img/ch/ima24238087143.jpg" group-title="SHAREEXT@ASTROK_TV",Maah tv
+http://iptv12k.com:35461/8022022301/468985/720
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Hello" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg" group-title="SHAREEXT@ASTROK_TV",Hello
+http://iptv12k.com:35461/8022022301/468985/719
+#EXTINF:-1 tvg-id="TVNMovies.my" tvg-name="tvN Movies" tvg-logo="https://pbs.twimg.com/profile_images/1259700716265811971/hvJGvmej_400x400.jpg" group-title="SHAREEXT@ASTROK_TV",tvN Movies
+http://iptv12k.com:35461/8022022301/468985/715
+#EXTINF:-1 tvg-id="TVN.id" tvg-name="tvN HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvn-asia-kr.png" group-title="SHAREEXT@ASTROK_TV",tvN HD
+http://iptv12k.com:35461/8022022301/468985/714
+#EXTINF:-1 tvg-id="" tvg-name="KBS World HD" tvg-logo="https://pbs.twimg.com/profile_images/1347443419019239425/3GrnHjge_400x400.jpg" group-title="SHAREEXT@ASTROK_TV",KBS World HD
+http://iptv12k.com:35461/8022022301/468985/713
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Oh!K HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Ohkchannel.png" group-title="SHAREEXT@ASTROK_TV",Oh!K HD
+http://iptv12k.com:35461/8022022301/468985/712
+#EXTINF:-1 tvg-id="" tvg-name="One HD" tvg-logo="https://wikiimg.tojsiabtv.com/wikipedia/en/thumb/c/cc/One_TV_Asia_logo_%282020%29.png/200px-One_TV_Asia_logo_%282020%29.png" group-title="SHAREEXT@ASTROK_TV",One HD
+http://iptv12k.com:35461/8022022301/468985/711
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Quan Jia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Astro_Quan_Jia.png" group-title="SHAREEXT@ASTROK_TV",Quan Jia HD
+http://iptv12k.com:35461/8022022301/468985/710
+#EXTINF:-1 tvg-id="AEC.my" tvg-name="ASTRO AEC HD" tvg-logo="https://alchetron.com/cdn/astro-aec-4615389e-78a9-4ae7-b760-68ab3e65d59-resize-750.jpg" group-title="SHAREEXT@ASTROK_TV",AEC HD
+http://iptv12k.com:35461/8022022301/468985/709
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO iQIYI HD" tvg-logo="https://soyacincau.com/wp-content/uploads/2019/06/190617-iqiyi-astro.png" group-title="SHAREEXT@ASTROK_TV",iQIYI HD
+http://iptv12k.com:35461/8022022301/468985/708
+#EXTINF:-1 tvg-id="HuaHeeDai.my" tvg-name="ASTRO Hua Hee Dai HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/9_144.png" group-title="SHAREEXT@ASTROK_TV",Hua Hee Dai HD
+http://iptv12k.com:35461/8022022301/468985/707
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Shuang Xing HD" tvg-logo="https://alchetron.com/cdn/shuang-xing-18b8a937-d30f-4177-b61d-226245e09c4-resize-750.jpeg" group-title="SHAREEXT@ASTROK_TV",Shuang Xing HD
+http://iptv12k.com:35461/8022022301/468985/706
+#EXTINF:-1 tvg-id="TCNKSAODT7.us" tvg-name="ASTRO AOD 351 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="SHAREEXT@ASTROK_TV",AOD 351 HD
+http://iptv12k.com:35461/8022022301/468985/705
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AOD 352 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="SHAREEXT@ASTROK_TV",AOD 352 HD
+http://iptv12k.com:35461/8022022301/468985/704
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AOD 353 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="SHAREEXT@ASTROK_TV",AOD 353 HD
+http://iptv12k.com:35461/8022022301/468985/703
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AOD 354 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="SHAREEXT@ASTROK_TV",AOD 354 HD
+http://iptv12k.com:35461/8022022301/468985/702
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO AOD 355 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Astro_AOD.jpeg" group-title="SHAREEXT@ASTROK_TV",AOD 355 HD
+http://iptv12k.com:35461/8022022301/468985/701
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Xiao Tai Yang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Astro_XTY_2019.png" group-title="SHAREEXT@ASTROK_TV",Xiao Tai Yang HD
+http://iptv12k.com:35461/8022022301/468985/700
+#EXTINF:-1 tvg-id="TVBClassic.hk" tvg-name="TVB Classic" tvg-logo="https://adeasy.co/storage/images/media_profile/picture/1613715843_496_small.jpg" group-title="SHAREEXT@ASTROK_TV",TVB Classic
+http://iptv12k.com:35461/8022022301/468985/699
+#EXTINF:-1 tvg-id="" tvg-name="TVB Jade HD" tvg-logo="http://gene7299.github.io/tvblive/images/jade.jpg" group-title="SHAREEXT@ASTROK_TV",TVB Jade HD
+http://iptv12k.com:35461/8022022301/468985/698
+#EXTINF:-1 tvg-id="" tvg-name="TVB E-News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e3/TvbEN.png/220px-TvbEN.png" group-title="SHAREEXT@ASTROK_TV",TVB E-News
+http://iptv12k.com:35461/8022022301/468985/697
+#EXTINF:-1 tvg-id="" tvg-name="TVB Xing He HD" tvg-logo="https://i.loli.net/2021/10/04/XAksoGPegS8327i.jpg" group-title="SHAREEXT@ASTROK_TV",TVB Xing He HD
+http://iptv12k.com:35461/8022022301/468985/696
+#EXTINF:-1 tvg-id="" tvg-name="TVBS Asia HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/384_144.png" group-title="SHAREEXT@ASTROK_TV",TVBS Asia HD
+http://iptv12k.com:35461/8022022301/468985/695
+#EXTINF:-1 tvg-id="" tvg-name="CTI Asia 中天亚洲" tvg-logo="https://www.tvchinese.net/uploads/tv/ctiasia.jpg" group-title="SHAREEXT@ASTROK_TV",CTI Asia 中天亚洲
+http://iptv12k.com:35461/8022022301/468985/694
+#EXTINF:-1 tvg-id="" tvg-name="CCM" tvg-logo="https://i.loli.net/2021/10/07/5HTMx4kW2iOaIPJ.jpg" group-title="SHAREEXT@ASTROK_TV",CCM
+http://iptv12k.com:35461/8022022301/468985/693
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Celestial Movies" tvg-logo="https://i.loli.net/2021/10/07/9aN8LSQkigCe7dh.jpg" group-title="SHAREEXT@ASTROK_TV",[ID] Celestial Movies
+http://iptv12k.com:35461/8022022301/468985/692
+#EXTINF:-1 tvg-id="" tvg-name="Now International" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/Now_international%E9%A0%BB%E9%81%93%E5%9C%96.png" group-title="SHAREEXT@ASTROK_TV",Now International
+http://iptv12k.com:35461/8022022301/468985/691
+#EXTINF:-1 tvg-id="StarChineseChannel.hk" tvg-name="Star Chinese Channel HD衛視中文" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b0/Star_Chinese_Channel_20161218.png" group-title="SHAREEXT@ASTROK_TV",Star Chinese Channel HD衛視中文
+http://iptv12k.com:35461/8022022301/468985/690
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="Kix HD ind" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="SHAREEXT@ASTROK_TV",Kix HD ind
+http://iptv12k.com:35461/8022022301/468985/689
+#EXTINF:-1 tvg-id="BollyOne.my" tvg-name="BollyOne HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Astro_ABO_BollyOne.png" group-title="SHAREEXT@ASTROK_TV",BollyOne HD
+http://iptv12k.com:35461/8022022301/468985/685
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="https://logowik.com/content/uploads/images/comedy-central4249.jpg" group-title="SHAREEXT@ASTROK_TV",Comedy Central
+http://iptv12k.com:35461/8022022301/468985/683
+#EXTINF:-1 tvg-id="" tvg-name="Hypp Inspirasi HD" tvg-logo="https://itsmiyagi.site:443/images/bf03c799a119275d2a3c279b05bf5150.png" group-title="SHAREEXT@ASTROK_TV",Hypp Inspirasi HD
+http://iptv12k.com:35461/8022022301/468985/681
+#EXTINF:-1 tvg-id="" tvg-name="ELTA綜合" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/103.png" group-title="SHAREEXT@ASTROK_TV",ELTA綜合
+http://iptv12k.com:35461/8022022301/468985/679
+#EXTINF:-1 tvg-id="" tvg-name="THANGATHIRAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/ABO_Thangathirai.png" group-title="SHAREEXT@ASTROK_TV",THANGATHIRAI
+http://iptv12k.com:35461/8022022301/468985/678
+#EXTINF:-1 tvg-id="" tvg-name="VELLITHIRAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Astro_Vellithirai.jpg" group-title="SHAREEXT@ASTROK_TV",VELLITHIRAI
+http://iptv12k.com:35461/8022022301/468985/677
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Vaanavil HD" tvg-logo="https://i.ytimg.com/vi/FKxbjhYhxrQ/maxresdefault.jpg" group-title="SHAREEXT@ASTROK_TV",Vaanavil HD
+http://iptv12k.com:35461/8022022301/468985/676
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO VINMEEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Astro_Vinmeen.png" group-title="SHAREEXT@ASTROK_TV",VINMEEN
+http://iptv12k.com:35461/8022022301/468985/675
+#EXTINF:-1 tvg-id="MakkalTV.in" tvg-name="Makkal TV" tvg-logo="https://image.winudf.com/v2/image/Y29tLmduYXJpdHVzLm1ha2thbHR2X3NjcmVlbnNob3RzXzBfZWMyODYwYjI/screen-0.jpg?fakeurl=1&amp;type=.jpg" group-title="SHAREEXT@ASTROK_TV",Makkal TV
+http://iptv12k.com:35461/8022022301/468985/674
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO Star Vijay HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Star_Vijay_logo_2017.png" group-title="SHAREEXT@ASTROK_TV",Star Vijay HD
+http://iptv12k.com:35461/8022022301/468985/673
+#EXTINF:-1 tvg-id="" tvg-name="Sun TV HD MY" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg" group-title="SHAREEXT@ASTROK_TV",Sun TV HD MY
+http://iptv12k.com:35461/8022022301/468985/672
+#EXTINF:-1 tvg-id="AdithyaTV.in" tvg-name="ASTRO Adithya" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/67_144.png" group-title="SHAREEXT@ASTROK_TV",Adithya
+http://iptv12k.com:35461/8022022301/468985/659
+#EXTINF:-1 tvg-id="ChuttiTV.in" tvg-name="Chutti TV" tvg-logo="http://www.cgtoday.com/news_images/chutti_logo_22_dec_10.jpg" group-title="SHAREEXT@ASTROK_TV",Chutti TV
+http://iptv12k.com:35461/8022022301/468985/658
+#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="SHAREEXT@ASTROK_TV",HBO HD
+http://iptv12k.com:35461/8022022301/468985/599
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="SHAREEXT@ASTROK_TV",HBO Hits
+http://iptv12k.com:35461/8022022301/468985/598
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="SHAREEXT@ASTROK_TV",HBO Family
+http://iptv12k.com:35461/8022022301/468985/597
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="SHAREEXT@ASTROK_TV",HBO Signature
+http://iptv12k.com:35461/8022022301/468985/596
 
 
 ##########################   ##########################
@@ -3513,3 +3640,4 @@ http://mate.ovh:8000/BabarbugtiTR/Bajaia99som/17804
 http://ricoootv.xyz:25461/jjhdfsffjjg/jjhdfsffjjg/49
 #EXTINF:-1 tvg-id="" tvg-name="ICFLIX ACTION HD" tvg-logo="" group-title="TEMPORARY",ICFLIX ACTION HD
 http://ricoootv.xyz:25461/jjhdfsffjjg/jjhdfsffjjg/266
+
