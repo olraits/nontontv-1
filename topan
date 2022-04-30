@@ -1,28 +1,134 @@
 #EXTM3U
-#EXTINF:-1,ABC Australia
-https://iptv.lancartech.co.id:8443/topan/54637/54416
+#EXTINF:-1,ANTV
+https://iptv.lancartech.co.id:8443/topan/54637/9
+#EXTINF:-1,Berita Satu
+https://iptv.lancartech.co.id:8443/topan/54637/17
+#EXTINF:-1,GTV
+https://iptv.lancartech.co.id:8443/topan/54637/54418
+#EXTINF:-1,Indosiar
+https://iptv.lancartech.co.id:8443/topan/54637/8
+#EXTINF:-1,iNews
+https://iptv.lancartech.co.id:8443/topan/54637/129417
+#EXTINF:-1,Kompas TV
+https://iptv.lancartech.co.id:8443/topan/54637/14
+#EXTINF:-1,Magna TV
+https://iptv.lancartech.co.id:8443/topan/54637/129418
+#EXTINF:-1,Metro TV
+https://iptv.lancartech.co.id:8443/topan/54637/11
+#EXTINF:-1,MNC
+https://iptv.lancartech.co.id:8443/topan/54637/54425
+#EXTINF:-1,Net. TV
+https://iptv.lancartech.co.id:8443/topan/54637/2
+#EXTINF:-1,O Channel
+https://iptv.lancartech.co.id:8443/topan/54637/129419
+#EXTINF:-1,RCTI
+https://iptv.lancartech.co.id:8443/topan/54637/53259
+#EXTINF:-1,RTV
+https://iptv.lancartech.co.id:8443/topan/54637/77707
+#EXTINF:-1,SCTV
+https://iptv.lancartech.co.id:8443/topan/54637/4
+#EXTINF:-1,Trans 7
+https://iptv.lancartech.co.id:8443/topan/54637/6
+#EXTINF:-1,TransTV
+https://iptv.lancartech.co.id:8443/topan/54637/5
+#EXTINF:-1,TV One
+https://iptv.lancartech.co.id:8443/topan/54637/10
+#EXTINF:-1,TVKU
+https://iptv.lancartech.co.id:8443/topan/54637/117977
+#EXTINF:-1,TVRI
+https://iptv.lancartech.co.id:8443/topan/54637/16
+
+
 #EXTINF:-1,&Flix HD
 https://iptv.lancartech.co.id:8443/topan/54637/129416
 #EXTINF:-1,&Prive HD
 https://iptv.lancartech.co.id:8443/topan/54637/129415
-#EXTINF:-1,A-Channel
-https://iptv.lancartech.co.id:8443/topan/54637/129307
-#EXTINF:-1,Al Bahjah TV
-https://iptv.lancartech.co.id:8443/topan/54637/129411
-#EXTINF:-1,Al Jazeera
-https://iptv.lancartech.co.id:8443/topan/54637/52878
-#EXTINF:-1,Animal Planet
-https://iptv.lancartech.co.id:8443/topan/54637/77
-#EXTINF:-1,Animax
-https://iptv.lancartech.co.id:8443/topan/54637/47
-#EXTINF:-1,Aniplus
-https://iptv.lancartech.co.id:8443/topan/54637/51
-#EXTINF:-1,ANTV
-https://iptv.lancartech.co.id:8443/topan/54637/9
-#EXTINF:-1,Arirang
-https://iptv.lancartech.co.id:8443/topan/54637/52014
-#EXTINF:-1,Asia Food Network
-https://iptv.lancartech.co.id:8443/topan/54637/94
+#EXTINF:-1,Bioskop Indonesia
+https://iptv.lancartech.co.id:8443/topan/54637/28568
+#EXTINF:-1,Celestial Classic Movies
+https://iptv.lancartech.co.id:8443/topan/54637/90006
+#EXTINF:-1,Celestial Movies
+https://iptv.lancartech.co.id:8443/topan/54637/21
+#EXTINF:-1,Cinema World
+https://iptv.lancartech.co.id:8443/topan/54637/49
+#EXTINF:-1,Cinemax
+https://iptv.lancartech.co.id:8443/topan/54637/16851
+#EXTINF:-1,FLiK
+https://iptv.lancartech.co.id:8443/topan/54637/90270
+#EXTINF:-1,Galaxy
+https://iptv.lancartech.co.id:8443/topan/54637/87705
+#EXTINF:-1,Galaxy Premium
+https://iptv.lancartech.co.id:8443/topan/54637/87706
+#EXTINF:-1,HBO 
+https://iptv.lancartech.co.id:8443/topan/54637/56
+#EXTINF:-1,HBO Family
+https://iptv.lancartech.co.id:8443/topan/54637/75
+#EXTINF:-1,HBO Hits
+https://iptv.lancartech.co.id:8443/topan/54637/92
+#EXTINF:-1,HBO Signature
+https://iptv.lancartech.co.id:8443/topan/54637/28656
+#EXTINF:-1,HITS
+https://iptv.lancartech.co.id:8443/topan/54637/43
+#EXTINF:-1,HITS Movies
+https://iptv.lancartech.co.id:8443/topan/54637/2911
+#EXTINF:-1,IMC
+https://iptv.lancartech.co.id:8443/topan/54637/90271
+#EXTINF:-1,My Cinema
+https://iptv.lancartech.co.id:8443/topan/54637/54
+#EXTINF:-1,My Cinema Asia
+https://iptv.lancartech.co.id:8443/topan/54637/52915
+#EXTINF:-1,My Family Channel
+https://iptv.lancartech.co.id:8443/topan/54637/23
+#EXTINF:-1,TvN Movies
+https://iptv.lancartech.co.id:8443/topan/54637/58
+#EXTINF:-1,ZeeBioskop
+https://iptv.lancartech.co.id:8443/topan/54637/27479
+
+
+#EXTINF:-1,AXN
+https://iptv.lancartech.co.id:8443/topan/54637/38
+#EXTINF:-1,Blue Ant Entertainment
+https://iptv.lancartech.co.id:8443/topan/54637/45
+#EXTINF:-1,Blue Ant Extreme
+https://iptv.lancartech.co.id:8443/topan/54637/46
+#EXTINF:-1,Chinese Drama
+https://iptv.lancartech.co.id:8443/topan/54637/51994
+#EXTINF:-1,Citra Dangdut
+https://iptv.lancartech.co.id:8443/topan/54637/129424
+#EXTINF:-1,Citra Drama
+https://iptv.lancartech.co.id:8443/topan/54637/129421
+#EXTINF:-1,Crime & Investigation
+https://iptv.lancartech.co.id:8443/topan/54637/95
+#EXTINF:-1,Dunia Lain
+https://iptv.lancartech.co.id:8443/topan/54637/129420
+#EXTINF:-1,Eat & Go
+https://iptv.lancartech.co.id:8443/topan/54637/15956
+#EXTINF:-1,Fashion TV
+https://iptv.lancartech.co.id:8443/topan/54637/72
+#EXTINF:-1,Fashion TV Midnight Secret
+https://iptv.lancartech.co.id:8443/topan/54637/73
+#EXTINF:-1,K+
+https://iptv.lancartech.co.id:8443/topan/54637/2912
+#EXTINF:-1,KiX
+https://iptv.lancartech.co.id:8443/topan/54637/48
+#EXTINF:-1,Paramount Network
+https://iptv.lancartech.co.id:8443/topan/54637/52
+#EXTINF:-1,Rock Entertainment
+https://iptv.lancartech.co.id:8443/topan/54637/129422
+#EXTINF:-1,Rock Extreme
+https://iptv.lancartech.co.id:8443/topan/54637/129423
+#EXTINF:-1,Sony Gem
+https://iptv.lancartech.co.id:8443/topan/54637/39
+#EXTINF:-1,Sony One
+https://iptv.lancartech.co.id:8443/topan/54637/152
+#EXTINF:-1,Thrill
+https://iptv.lancartech.co.id:8443/topan/54637/22
+#EXTINF:-1,TvN
+https://iptv.lancartech.co.id:8443/topan/54637/57
+#EXTINF:-1,Warner TV
+https://iptv.lancartech.co.id:8443/topan/54637/76
+
+
 #EXTINF:-1,Astro Arena
 https://iptv.lancartech.co.id:8443/topan/54637/54701
 #EXTINF:-1,Astro Super Sport 1
@@ -35,14 +141,6 @@ https://iptv.lancartech.co.id:8443/topan/54637/53224
 https://iptv.lancartech.co.id:8443/topan/54637/53225
 #EXTINF:-1,Astro Super Sport 5
 https://iptv.lancartech.co.id:8443/topan/54637/89977
-#EXTINF:-1,AXN
-https://iptv.lancartech.co.id:8443/topan/54637/38
-#EXTINF:-1,Baby TV
-https://iptv.lancartech.co.id:8443/topan/54637/87701
-#EXTINF:-1,BBC Earth
-https://iptv.lancartech.co.id:8443/topan/54637/87698
-#EXTINF:-1,BBC World News
-https://iptv.lancartech.co.id:8443/topan/54637/93
 #EXTINF:-1,Bein Premium 1
 https://iptv.lancartech.co.id:8443/topan/54637/54421
 #EXTINF:-1,Bein Premium 2
@@ -55,34 +153,12 @@ https://iptv.lancartech.co.id:8443/topan/54637/25
 https://iptv.lancartech.co.id:8443/topan/54637/26
 #EXTINF:-1,Bein Sports MAX
 https://iptv.lancartech.co.id:8443/topan/54637/64780
-#EXTINF:-1,Berita Satu
-https://iptv.lancartech.co.id:8443/topan/54637/17
-#EXTINF:-1,Bioskop Indonesia
-https://iptv.lancartech.co.id:8443/topan/54637/28568
-#EXTINF:-1,Bloomberg
-https://iptv.lancartech.co.id:8443/topan/54637/51989
-#EXTINF:-1,Blue Ant Entertainment
-https://iptv.lancartech.co.id:8443/topan/54637/45
-#EXTINF:-1,Blue Ant Extreme
-https://iptv.lancartech.co.id:8443/topan/54637/46
 #EXTINF:-1,BT Sport 1
 https://iptv.lancartech.co.id:8443/topan/54637/86856
 #EXTINF:-1,BT Sport 2
 https://iptv.lancartech.co.id:8443/topan/54637/86857
 #EXTINF:-1,BT Sport 3
 https://iptv.lancartech.co.id:8443/topan/54637/86858
-#EXTINF:-1,Cartoon Network
-https://iptv.lancartech.co.id:8443/topan/54637/81
-#EXTINF:-1,Cartoon Network [ENG]
-https://iptv.lancartech.co.id:8443/topan/54637/87400
-#EXTINF:-1,Cbeebies
-https://iptv.lancartech.co.id:8443/topan/54637/127843
-#EXTINF:-1,Celestial Classic Movies
-https://iptv.lancartech.co.id:8443/topan/54637/90006
-#EXTINF:-1,Celestial Movies
-https://iptv.lancartech.co.id:8443/topan/54637/21
-#EXTINF:-1,CGTN
-https://iptv.lancartech.co.id:8443/topan/54637/129393
 #EXTINF:-1,Champion TV 1
 https://iptv.lancartech.co.id:8443/topan/54637/89117
 #EXTINF:-1,Champion TV 2
@@ -91,234 +167,30 @@ https://iptv.lancartech.co.id:8443/topan/54637/89118
 https://iptv.lancartech.co.id:8443/topan/54637/89119
 #EXTINF:-1,Champion TV 4
 https://iptv.lancartech.co.id:8443/topan/54637/90269
-#EXTINF:-1,Channel News Asia
-https://iptv.lancartech.co.id:8443/topan/54637/117976
-#EXTINF:-1,Chinese Drama
-https://iptv.lancartech.co.id:8443/topan/54637/51994
-#EXTINF:-1,Cinema World
-https://iptv.lancartech.co.id:8443/topan/54637/49
-#EXTINF:-1,Cinemax
-https://iptv.lancartech.co.id:8443/topan/54637/16851
-#EXTINF:-1,Citra Dangdut
-https://iptv.lancartech.co.id:8443/topan/54637/129424
-#EXTINF:-1,Citra Drama
-https://iptv.lancartech.co.id:8443/topan/54637/129421
-#EXTINF:-1,CNBC Indonesia
-https://iptv.lancartech.co.id:8443/topan/54637/13
-#EXTINF:-1,CNBC US
-https://iptv.lancartech.co.id:8443/topan/54637/88903
-#EXTINF:-1,CNN Indonesia
-https://iptv.lancartech.co.id:8443/topan/54637/15
-#EXTINF:-1,CNN International
-https://iptv.lancartech.co.id:8443/topan/54637/55999
-#EXTINF:-1,Crime & Investigation
-https://iptv.lancartech.co.id:8443/topan/54637/95
-#EXTINF:-1,Da Vinci Kids
-https://iptv.lancartech.co.id:8443/topan/54637/129392
-#EXTINF:-1,Discovery Asia
-https://iptv.lancartech.co.id:8443/topan/54637/90
-#EXTINF:-1,Discovery Channel
-https://iptv.lancartech.co.id:8443/topan/54637/67
-#EXTINF:-1,Discovery Science
-https://iptv.lancartech.co.id:8443/topan/54637/88904
-#EXTINF:-1,Disney Channel
-https://iptv.lancartech.co.id:8443/topan/54637/60
-#EXTINF:-1,Disney Junior
-https://iptv.lancartech.co.id:8443/topan/54637/61
-#EXTINF:-1,Dreamwork
-https://iptv.lancartech.co.id:8443/topan/54637/87699
 #EXTINF:-1,Dubai Sport 1
 https://iptv.lancartech.co.id:8443/topan/54637/52882
 #EXTINF:-1,Dubai Sport 2
 https://iptv.lancartech.co.id:8443/topan/54637/52883
-#EXTINF:-1,Dunia Anak
-https://iptv.lancartech.co.id:8443/topan/54637/87700
-#EXTINF:-1,Dunia Lain
-https://iptv.lancartech.co.id:8443/topan/54637/129420
-#EXTINF:-1,Eat & Go
-https://iptv.lancartech.co.id:8443/topan/54637/15956
-#EXTINF:-1,EBS Kids
-https://iptv.lancartech.co.id:8443/topan/54637/87715
-#EXTINF:-1,EBS+ 1
-https://iptv.lancartech.co.id:8443/topan/54637/87711
-#EXTINF:-1,EBS+ 2
-https://iptv.lancartech.co.id:8443/topan/54637/87712
 #EXTINF:-1,ESPN
 https://iptv.lancartech.co.id:8443/topan/54637/87721
 #EXTINF:-1,Eurosport 1
 https://iptv.lancartech.co.id:8443/topan/54637/86870
 #EXTINF:-1,Eurosport 2
 https://iptv.lancartech.co.id:8443/topan/54637/86871
-#EXTINF:-1,Fashion TV
-https://iptv.lancartech.co.id:8443/topan/54637/72
-#EXTINF:-1,Fashion TV Midnight Secret
-https://iptv.lancartech.co.id:8443/topan/54637/73
 #EXTINF:-1,Fight Sports
 https://iptv.lancartech.co.id:8443/topan/54637/90039
-#EXTINF:-1,FLiK
-https://iptv.lancartech.co.id:8443/topan/54637/90270
-#EXTINF:-1,Fox News
-https://iptv.lancartech.co.id:8443/topan/54637/55816
-#EXTINF:-1,Galaxy
-https://iptv.lancartech.co.id:8443/topan/54637/87705
-#EXTINF:-1,Galaxy Premium
-https://iptv.lancartech.co.id:8443/topan/54637/87706
-#EXTINF:-1,GTV
-https://iptv.lancartech.co.id:8443/topan/54637/54418
-#EXTINF:-1,HBO 
-https://iptv.lancartech.co.id:8443/topan/54637/56
-#EXTINF:-1,HBO Family
-https://iptv.lancartech.co.id:8443/topan/54637/75
-#EXTINF:-1,HBO Hits
-https://iptv.lancartech.co.id:8443/topan/54637/92
-#EXTINF:-1,HBO Signature
-https://iptv.lancartech.co.id:8443/topan/54637/28656
-#EXTINF:-1,HGTV
-https://iptv.lancartech.co.id:8443/topan/54637/64
-#EXTINF:-1,History
-https://iptv.lancartech.co.id:8443/topan/54637/71
-#EXTINF:-1,HITS
-https://iptv.lancartech.co.id:8443/topan/54637/43
-#EXTINF:-1,HITS Movies
-https://iptv.lancartech.co.id:8443/topan/54637/2911
-#EXTINF:-1,Horee
-https://iptv.lancartech.co.id:8443/topan/54637/87702
-#EXTINF:-1,IMC
-https://iptv.lancartech.co.id:8443/topan/54637/90271
-#EXTINF:-1,Indosiar
-https://iptv.lancartech.co.id:8443/topan/54637/8
-#EXTINF:-1,iNews
-https://iptv.lancartech.co.id:8443/topan/54637/129417
-#EXTINF:-1,K+
-https://iptv.lancartech.co.id:8443/topan/54637/2912
-#EXTINF:-1,KBS Drama
-https://iptv.lancartech.co.id:8443/topan/54637/129310
-#EXTINF:-1,KBS Joy
-https://iptv.lancartech.co.id:8443/topan/54637/129311
-#EXTINF:-1,KBS Kids
-https://iptv.lancartech.co.id:8443/topan/54637/129312
-#EXTINF:-1,KBS Life
-https://iptv.lancartech.co.id:8443/topan/54637/129313
-#EXTINF:-1,KBS Story
-https://iptv.lancartech.co.id:8443/topan/54637/129314
-#EXTINF:-1,KBS World
-https://iptv.lancartech.co.id:8443/topan/54637/21661
-#EXTINF:-1,KBS World
-https://iptv.lancartech.co.id:8443/topan/54637/129315
-#EXTINF:-1,KBS-1
-https://iptv.lancartech.co.id:8443/topan/54637/129308
-#EXTINF:-1,KBS-2
-https://iptv.lancartech.co.id:8443/topan/54637/129309
-#EXTINF:-1,KiX
-https://iptv.lancartech.co.id:8443/topan/54637/48
-#EXTINF:-1,Kompas TV
-https://iptv.lancartech.co.id:8443/topan/54637/14
-#EXTINF:-1,Lifetime
-https://iptv.lancartech.co.id:8443/topan/54637/16748
-#EXTINF:-1,Love Nature
-https://iptv.lancartech.co.id:8443/topan/54637/52017
-#EXTINF:-1,Madinah TV
-https://iptv.lancartech.co.id:8443/topan/54637/129414
-#EXTINF:-1,Magna TV
-https://iptv.lancartech.co.id:8443/topan/54637/129418
-#EXTINF:-1,MBC Net
-https://iptv.lancartech.co.id:8443/topan/54637/129323
-#EXTINF:-1,MBC-1
-https://iptv.lancartech.co.id:8443/topan/54637/129316
-#EXTINF:-1,MBC-2
-https://iptv.lancartech.co.id:8443/topan/54637/129317
-#EXTINF:-1,MBC-3
-https://iptv.lancartech.co.id:8443/topan/54637/129318
-#EXTINF:-1,MBC-4
-https://iptv.lancartech.co.id:8443/topan/54637/129319
-#EXTINF:-1,MBC-5
-https://iptv.lancartech.co.id:8443/topan/54637/129320
-#EXTINF:-1,MBC-6
-https://iptv.lancartech.co.id:8443/topan/54637/129321
-#EXTINF:-1,MBC-7
-https://iptv.lancartech.co.id:8443/topan/54637/129322
-#EXTINF:-1,MBN
-https://iptv.lancartech.co.id:8443/topan/54637/129324
-#EXTINF:-1,Mekkah TV
-https://iptv.lancartech.co.id:8443/topan/54637/129413
-#EXTINF:-1,Metro TV
-https://iptv.lancartech.co.id:8443/topan/54637/11
-#EXTINF:-1,MNC
-https://iptv.lancartech.co.id:8443/topan/54637/54425
-#EXTINF:-1,MTV
-https://iptv.lancartech.co.id:8443/topan/54637/88
-#EXTINF:-1,Muadz TV
-https://iptv.lancartech.co.id:8443/topan/54637/129412
-#EXTINF:-1,My Cinema
-https://iptv.lancartech.co.id:8443/topan/54637/54
-#EXTINF:-1,My Cinema Asia
-https://iptv.lancartech.co.id:8443/topan/54637/52915
-#EXTINF:-1,My Family Channel
-https://iptv.lancartech.co.id:8443/topan/54637/23
-#EXTINF:-1,Nat Geo Wild
-https://iptv.lancartech.co.id:8443/topan/54637/63
-#EXTINF:-1,National Geographic
-https://iptv.lancartech.co.id:8443/topan/54637/66
 #EXTINF:-1,NBA TV
 https://iptv.lancartech.co.id:8443/topan/54637/87720
-#EXTINF:-1,NBC News Now
-https://iptv.lancartech.co.id:8443/topan/54637/129394
 #EXTINF:-1,NBC Sport Network
 https://iptv.lancartech.co.id:8443/topan/54637/87730
-#EXTINF:-1,Net. TV
-https://iptv.lancartech.co.id:8443/topan/54637/2
-#EXTINF:-1,NHK World
-https://iptv.lancartech.co.id:8443/topan/54637/41
-#EXTINF:-1,Nick Jr
-https://iptv.lancartech.co.id:8443/topan/54637/77708
-#EXTINF:-1,Nickelodeon
-https://iptv.lancartech.co.id:8443/topan/54637/63249
-#EXTINF:-1,O Channel
-https://iptv.lancartech.co.id:8443/topan/54637/129419
 #EXTINF:-1,One Golf
 https://iptv.lancartech.co.id:8443/topan/54637/33
-#EXTINF:-1,One Music
-https://iptv.lancartech.co.id:8443/topan/54637/52030
-#EXTINF:-1,Paramount Network
-https://iptv.lancartech.co.id:8443/topan/54637/52
-#EXTINF:-1,RCTI
-https://iptv.lancartech.co.id:8443/topan/54637/53259
 #EXTINF:-1,Red Bull TV
 https://iptv.lancartech.co.id:8443/topan/54637/52877
 #EXTINF:-1,RMC Sport 1
 https://iptv.lancartech.co.id:8443/topan/54637/90053
 #EXTINF:-1,RMC Sport 2
 https://iptv.lancartech.co.id:8443/topan/54637/90054
-#EXTINF:-1,Rock Entertainment
-https://iptv.lancartech.co.id:8443/topan/54637/129422
-#EXTINF:-1,Rock Extreme
-https://iptv.lancartech.co.id:8443/topan/54637/129423
-#EXTINF:-1,Rodja TV
-https://iptv.lancartech.co.id:8443/topan/54637/16689
-#EXTINF:-1,RTV
-https://iptv.lancartech.co.id:8443/topan/54637/77707
-#EXTINF:-1,Russia Today
-https://iptv.lancartech.co.id:8443/topan/54637/51990
-#EXTINF:-1,SBS
-https://iptv.lancartech.co.id:8443/topan/54637/129325
-#EXTINF:-1,SBS Biz
-https://iptv.lancartech.co.id:8443/topan/54637/129327
-#EXTINF:-1,SBS Fune
-https://iptv.lancartech.co.id:8443/topan/54637/129328
-#EXTINF:-1,SBS Golf
-https://iptv.lancartech.co.id:8443/topan/54637/129329
-#EXTINF:-1,SBS-2
-https://iptv.lancartech.co.id:8443/topan/54637/129326
-#EXTINF:-1,SCTV
-https://iptv.lancartech.co.id:8443/topan/54637/4
-#EXTINF:-1,Sky News
-https://iptv.lancartech.co.id:8443/topan/54637/54417
-#EXTINF:-1,Smithsonian Channel
-https://iptv.lancartech.co.id:8443/topan/54637/2914
-#EXTINF:-1,Sony Gem
-https://iptv.lancartech.co.id:8443/topan/54637/39
-#EXTINF:-1,Sony One
-https://iptv.lancartech.co.id:8443/topan/54637/152
 #EXTINF:-1,Sony Ten 1
 https://iptv.lancartech.co.id:8443/topan/54637/129401
 #EXTINF:-1,Sony Ten 2
@@ -341,57 +213,155 @@ https://iptv.lancartech.co.id:8443/topan/54637/86876
 https://iptv.lancartech.co.id:8443/topan/54637/86877
 #EXTINF:-1,Supersport Premier League
 https://iptv.lancartech.co.id:8443/topan/54637/86868
-#EXTINF:-1,Tech Storm
-https://iptv.lancartech.co.id:8443/topan/54637/62
 #EXTINF:-1,Tennis Channel
 https://iptv.lancartech.co.id:8443/topan/54637/50
-#EXTINF:-1,The Kpop
-https://iptv.lancartech.co.id:8443/topan/54637/129330
-#EXTINF:-1,Thrill
-https://iptv.lancartech.co.id:8443/topan/54637/22
-#EXTINF:-1,TLC
-https://iptv.lancartech.co.id:8443/topan/54637/78
-#EXTINF:-1,Trans 7
-https://iptv.lancartech.co.id:8443/topan/54637/6
-#EXTINF:-1,TransTV
-https://iptv.lancartech.co.id:8443/topan/54637/5
-#EXTINF:-1,TV One
-https://iptv.lancartech.co.id:8443/topan/54637/10
-#EXTINF:-1,TVKU
-https://iptv.lancartech.co.id:8443/topan/54637/117977
-#EXTINF:-1,TvN
-https://iptv.lancartech.co.id:8443/topan/54637/57
-#EXTINF:-1,TVN Korea
-https://iptv.lancartech.co.id:8443/topan/54637/129331
-#EXTINF:-1,TvN Movies
-https://iptv.lancartech.co.id:8443/topan/54637/58
-#EXTINF:-1,TVRI
-https://iptv.lancartech.co.id:8443/topan/54637/16
 #EXTINF:-1,UFC
 https://iptv.lancartech.co.id:8443/topan/54637/52891
 #EXTINF:-1,Usee Sports 1
 https://iptv.lancartech.co.id:8443/topan/54637/69
 #EXTINF:-1,Usee Sports 2
 https://iptv.lancartech.co.id:8443/topan/54637/70
-#EXTINF:-1,Waku-Waku
-https://iptv.lancartech.co.id:8443/topan/54637/15955
-#EXTINF:-1,Warner TV
-https://iptv.lancartech.co.id:8443/topan/54637/76
-#EXTINF:-1,Wesal TV
-https://iptv.lancartech.co.id:8443/topan/54637/16687
 #EXTINF:-1,WWE Superslam
 https://iptv.lancartech.co.id:8443/topan/54637/18477
-#EXTINF:-1,Yonhap TV
-https://iptv.lancartech.co.id:8443/topan/54637/129332
-#EXTINF:-1,YTN
-https://iptv.lancartech.co.id:8443/topan/54637/87714
-#EXTINF:-1,ZeeBioskop
-https://iptv.lancartech.co.id:8443/topan/54637/27479
 #EXTINF:-1,Ziggo Sports Football
 https://iptv.lancartech.co.id:8443/topan/54637/87726
 #EXTINF:-1,Ziggo Sports Select
 https://iptv.lancartech.co.id:8443/topan/54637/87725
-#EXTINF:-1,ZooMoo
-https://iptv.lancartech.co.id:8443/topan/54637/21606
 #EXTINF:-1,Motor Vision
 https://iptv.lancartech.co.id:8443/topan/54637/129426
+
+
+#EXTINF:-1,Animal Planet
+https://iptv.lancartech.co.id:8443/topan/54637/77
+#EXTINF:-1,BBC Earth
+https://iptv.lancartech.co.id:8443/topan/54637/87698
+#EXTINF:-1,CGTN
+https://iptv.lancartech.co.id:8443/topan/54637/129393
+#EXTINF:-1,Discovery Asia
+https://iptv.lancartech.co.id:8443/topan/54637/90
+#EXTINF:-1,Discovery Channel
+https://iptv.lancartech.co.id:8443/topan/54637/67
+#EXTINF:-1,Discovery Science
+https://iptv.lancartech.co.id:8443/topan/54637/88904
+#EXTINF:-1,History
+https://iptv.lancartech.co.id:8443/topan/54637/71
+#EXTINF:-1,Love Nature
+https://iptv.lancartech.co.id:8443/topan/54637/52017
+#EXTINF:-1,Nat Geo Wild
+https://iptv.lancartech.co.id:8443/topan/54637/63
+#EXTINF:-1,National Geographic
+https://iptv.lancartech.co.id:8443/topan/54637/66
+#EXTINF:-1,Smithsonian Channel
+https://iptv.lancartech.co.id:8443/topan/54637/2914
+#EXTINF:-1,Tech Storm
+https://iptv.lancartech.co.id:8443/topan/54637/62
+
+
+#EXTINF:-1,Asia Food Network
+https://iptv.lancartech.co.id:8443/topan/54637/94
+#EXTINF:-1,HGTV
+https://iptv.lancartech.co.id:8443/topan/54637/64
+#EXTINF:-1,Lifetime
+https://iptv.lancartech.co.id:8443/topan/54637/16748
+#EXTINF:-1,TLC
+https://iptv.lancartech.co.id:8443/topan/54637/78
+
+
+#EXTINF:-1,MTV
+https://iptv.lancartech.co.id:8443/topan/54637/88
+#EXTINF:-1,One Music
+https://iptv.lancartech.co.id:8443/topan/54637/52030
+#EXTINF:-1,The Kpop
+https://iptv.lancartech.co.id:8443/topan/54637/129330
+
+
+#EXTM3U
+#EXTINF:-1,ABC Australia
+https://iptv.lancartech.co.id:8443/topan/54637/54416
+#EXTINF:-1,Al Jazeera
+https://iptv.lancartech.co.id:8443/topan/54637/52878
+#EXTINF:-1,A-Channel
+https://iptv.lancartech.co.id:8443/topan/54637/129307
+#EXTINF:-1,Arirang
+https://iptv.lancartech.co.id:8443/topan/54637/52014
+#EXTINF:-1,BBC World News
+https://iptv.lancartech.co.id:8443/topan/54637/93
+#EXTINF:-1,Bloomberg
+https://iptv.lancartech.co.id:8443/topan/54637/51989
+#EXTINF:-1,Channel News Asia
+https://iptv.lancartech.co.id:8443/topan/54637/117976
+#EXTINF:-1,CNBC Indonesia
+https://iptv.lancartech.co.id:8443/topan/54637/13
+#EXTINF:-1,CNBC US
+https://iptv.lancartech.co.id:8443/topan/54637/88903
+#EXTINF:-1,CNN Indonesia
+https://iptv.lancartech.co.id:8443/topan/54637/15
+#EXTINF:-1,CNN International
+https://iptv.lancartech.co.id:8443/topan/54637/55999
+#EXTINF:-1,Fox News
+https://iptv.lancartech.co.id:8443/topan/54637/55816
+#EXTINF:-1,KBS World
+https://iptv.lancartech.co.id:8443/topan/54637/129315
+#EXTINF:-1,NBC News Now
+https://iptv.lancartech.co.id:8443/topan/54637/129394
+#EXTINF:-1,NHK World
+https://iptv.lancartech.co.id:8443/topan/54637/41
+#EXTINF:-1,Russia Today
+https://iptv.lancartech.co.id:8443/topan/54637/51990
+#EXTINF:-1,Sky News
+https://iptv.lancartech.co.id:8443/topan/54637/54417
+
+
+
+
+
+#EXTINF:-1,Animax
+https://iptv.lancartech.co.id:8443/topan/54637/47
+#EXTINF:-1,Aniplus
+https://iptv.lancartech.co.id:8443/topan/54637/51
+#EXTINF:-1,Baby TV
+https://iptv.lancartech.co.id:8443/topan/54637/87701
+#EXTINF:-1,Cartoon Network
+https://iptv.lancartech.co.id:8443/topan/54637/81
+#EXTINF:-1,Cartoon Network [ENG]
+https://iptv.lancartech.co.id:8443/topan/54637/87400
+#EXTINF:-1,Cbeebies
+https://iptv.lancartech.co.id:8443/topan/54637/127843
+#EXTINF:-1,Da Vinci Kids
+https://iptv.lancartech.co.id:8443/topan/54637/129392
+#EXTINF:-1,Disney Channel
+https://iptv.lancartech.co.id:8443/topan/54637/60
+#EXTINF:-1,Disney Junior
+https://iptv.lancartech.co.id:8443/topan/54637/61
+#EXTINF:-1,Dreamwork
+https://iptv.lancartech.co.id:8443/topan/54637/87699
+#EXTINF:-1,Dunia Anak
+https://iptv.lancartech.co.id:8443/topan/54637/87700
+#EXTINF:-1,Horee
+https://iptv.lancartech.co.id:8443/topan/54637/87702
+#EXTINF:-1,Nick Jr
+https://iptv.lancartech.co.id:8443/topan/54637/77708
+#EXTINF:-1,Nickelodeon
+https://iptv.lancartech.co.id:8443/topan/54637/63249
+#EXTINF:-1,Waku-Waku
+https://iptv.lancartech.co.id:8443/topan/54637/15955
+#EXTINF:-1,ZooMoo
+https://iptv.lancartech.co.id:8443/topan/54637/21606
+
+
+#EXTINF:-1,Al Bahjah TV
+https://iptv.lancartech.co.id:8443/topan/54637/129411
+#EXTINF:-1,Madinah TV
+https://iptv.lancartech.co.id:8443/topan/54637/129414
+#EXTINF:-1,Mekkah TV
+https://iptv.lancartech.co.id:8443/topan/54637/129413
+#EXTINF:-1,Muadz TV
+https://iptv.lancartech.co.id:8443/topan/54637/129412
+#EXTINF:-1,Rodja TV
+https://iptv.lancartech.co.id:8443/topan/54637/16689
+#EXTINF:-1,Wesal TV
+https://iptv.lancartech.co.id:8443/topan/54637/16687
+
+
+
+
