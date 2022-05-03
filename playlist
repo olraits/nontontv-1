@@ -350,6 +350,9 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 http://rr.dens.tv/h/h08/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=K-PLUS_HD
 http://group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT",SG-OhK HD OH!K
+http://iptv12k.com:35461/8022022301/468985/198
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -680,11 +683,25 @@ https://liveanevia.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy
 https://liveanevia.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",FOX Movies HD
+http://iptv12k.com:35461/8022022301/468985/610
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",FOX Action Movies
+http://iptv12k.com:35461/8022022301/468985/612
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",FOX HD
+http://iptv12k.com:35461/8022022301/468985/609
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",SIN-FX
+http://iptv12k.com:35461/8022022301/468985/271
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies Indonesia
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 https://on-load.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MOVIES",CCTV 6 MOVIE
+http://219.151.31.37/liveplay-kk.rtxapp.com/live/program/live/cctv6hd/2300000/mnf.m3u8
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="MOVIES",Lotus_Macau(dec=auto)
+http://nettvpro.live/hls/lotustv.php
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -775,6 +792,17 @@ https://link.zozotv.xyz/live/fx2/fx2/114.ts
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 https://on-load.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES" tvg-id="flix.in" tvg-name="flix.in", & flix
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://link.zozotv.xyz/live/fx2/fx2/104.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES" tvg-id="privè.in" tvg-name="priveHD.in", & privè
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://link.zozotv.xyz/live/fx2/fx2/105.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1xxiRCRc4uw34Sqkx0viHoE9I2zNj77djw&usqp=CAU" group-title="MOVIES" tvg-id="" tvg-name="", Fox Family Movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptv12k.com:35461/8022022301/468985/1749
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax Asia
@@ -816,6 +844,16 @@ http://rr3.dens.tv/s/s35/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV
 https://winhometv.xyz/USEE/mpd.m3u8?channel=mtvlive
 https://iptv.lancartech.co.id:8443/topan/54637/88
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",KR: MNET KR
+http://iptv12k.com:35461/8022022301/468985/3213
+
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://ottpink.network/picons/mtv80s.png" tvg-name="MTV 80s (EN)", MTV 80s (EN)
+http://portal.ott.pink/watch/329/video.m3u8?geo=auto&token=3E067F1AFCE56C99E31F22CD63822F67
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://ottpink.network/picons/mtv90s.png" tvg-name="MTV 90s (EN)", MTV 90s (EN)
+http://portal.ott.pink/watch/325/video.m3u8?geo=auto&token=3E067F1AFCE56C99E31F22CD63822F67
+#EXTINF:-1 group-title="MUSIC" tvg-logo="http://ottpink.network/picons/mtvhitstv.png" tvg-name="MTV Hits (EN)", MTV Hits (EN)
+http://portal.ott.pink/watch/346/video.m3u8?geo=auto&token=3E067F1AFCE56C99E31F22CD63822F67
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2172,6 +2210,12 @@ https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd|Referer=ht
 #EXTINF:-1 tvg-id="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MALAYSIA",TV3
 http://axcestv.vip:8080/live/freeview/axcestv/626.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="Awesome TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/440px-Awesome_TV_Malaysia.png" group-title="MALAYSIA",Awesome TV
+http://iptv12k.com:35461/8022022301/468985/743
+
+#EXTINF:-1 tvg-id="Boo.my" tvg-name="BOO" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" group-title="MALAYSIA",BOO
+http://iptv12k.com:35461/8022022301/468985/722
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -2202,7 +2246,10 @@ http://iptv12k.com:35461/8022022301/468985/734
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA",Ria
 http://iptv12k.com:35461/8022022301/468985/735
 
-#EXTINF:-1 EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="MALAYSIA", Astro Ria HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/104.png" group-title="MALAYSIA",Astro Ria HD 
 https://m3u-editor.com/serve/430be220-9a2c-11ec-aea3-654acacfab7b/512865164 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
