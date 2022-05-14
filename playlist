@@ -487,6 +487,9 @@ https://liveanevia.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd
 https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 https://on-load.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/KBS-World.png" group-title="INTERNATIONAL TV" tvg-id="392" tvg-name="392", KBS World HD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_350.png",ABC Australia Asia
@@ -652,7 +655,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",Techstorm
-https://winhometv.xyz/USEE/mpd.m3u8?channel=techstorm
+https://lnk.ec/i2B7ds
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KNOWLEDGE",IN WILD
 https://inwild-samsungau.amagi.tv/playlist.m3u8
@@ -975,12 +978,6 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xTWry90X/HBOshare-Ext-Group.jpg" group-title="MOVIES",ANIPLUS
 http://rr1.dens.tv/h/h02/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
 http://group2-swiftservehd-1.dens.tv/h/h02/01.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.metin.tv/wp-content/uploads/2022/02/ConTV-Anime-320x180.png" group-title="MOVIES", ConANIME
-https://contvanime-littlstar.cinedigm.com/ingest/masterR1080p.m3u8
 
 
 ##########################MUSIC##########################
