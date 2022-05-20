@@ -430,13 +430,13 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQNqx-MAatDqHcaGMXpdyZjB7QWuPD9hAgUg&usqp=CAU" group-title="ENTERTAINMENT", Citra Drama
-https://akumaymd.000webhostapp.com/master-2.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-2.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj_Gr0busW2WRb7GIMIyGeXlPLor2G1KwQxTUlnycRCn2pqB7i99ci5mNpuGHQYxBu7JHEtJQ_I4wj7Team23eh_VeZ7lejyRna5MbUl7oyBVRJZuBOvwsdM01pnDYeeaIovxkN6UjFxEyseWQtahH4UETT-1onKg-xxb9XYQsJMQevKSFpO7daB2Er=s320" group-title="ENTERTAINMENT", Citra Entertainment
-https://akumaymd.000webhostapp.com/master-11.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-11.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -482,7 +482,7 @@ http://rr1.dens.tv/h/h01/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/HZP_9_UlToeHix6Xmj-aTk87hWg=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/8558/15f712.jpg" group-title="LIFESTYLE", Citra Kuliner & Travel
-https://akumaymd.000webhostapp.com/k.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/k.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -494,6 +494,12 @@ https://ft-ifood-roku.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png",Lifestyle & Fashion
 https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="LIFESTYLE",Fashion TV
+http://axcestv.vip:8080/freeview/axcestv/536
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="LIFESTYLE" tvg-id="Fashion TV Midnight Secrets" tvg-name="Fashion TV HD", Fashion TV Midnight Secrets HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
@@ -919,7 +925,7 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="CITRADRAMA.id" tvg-logo="https://i.postimg.cc/Qxg3HpkS/citra-bioskop-logo.png" group-title="MOVIES", Citra Bioskop
-https://akumaymd.000webhostapp.com/master-1.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -982,7 +988,7 @@ http://20.255.51.57:8000/play/16
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://thumbor.prod.vid.id/I6siEUUN1ga4mYcu0Ysr9BlHeH4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/7619/379f71.png" group-title="MUSIC", MUSICA 
-https://akumaymd.000webhostapp.com/master-26.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-26.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1101,19 +1107,19 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-logo="https://bit.ly/3b0w4i8" group-title="SPORTS",Champion1
-https://akumaymd.000webhostapp.com/master-6.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-6.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-logo="https://bit.ly/3G5WH3L" group-title="SPORTS",Champion2
-https://akumaymd.000webhostapp.com/master-7.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-7.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion3
-https://akumaymd.000webhostapp.com/master-8.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-8.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1654,9 +1660,9 @@ http://onlineradiobox.com/json/id/sushi/play
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="RADIO",Geronimo FM
 http://live2.indostreamserver.com:8018/;
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7242.jpg" group-title="RADIO",Dahlia FM
-https://akumaymd.000webhostapp.com/d.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/d.m3u8
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7248.jpg" group-title="RADIO",Nagaswara Music Fm
-https://akumaymd.000webhostapp.com/master-28.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-28.m3u8
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7281.jpg" group-title="RADIO",Imelda FM
 
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7283.jpg" group-title="RADIO",Swara Semarang
@@ -1664,7 +1670,7 @@ https://akumaymd.000webhostapp.com/master-28.m3u8
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="RADIO",Gajah Mada FM
 
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7297.jpg" group-title="RADIO",Radio Cakra
-https://akumaymd.000webhostapp.com/master-34.m3u8
+https://bagoltvku.my.id/PUNYA-MVTV/master-34.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM
 http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM 103.1
@@ -2621,6 +2627,48 @@ http://203.77.246.50:5000/udp/239.1.3.84:5000
 
 ##########################TEMPORARY##########################
 
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 1" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 1
+http://new-pro.tv:8080/mazen1/123456/133730
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 2" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 2
+http://new-pro.tv:8080/mazen1/123456/133731
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 3" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 3
+http://new-pro.tv:8080/mazen1/123456/133732
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 4" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 4
+http://new-pro.tv:8080/mazen1/123456/133733
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 5" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 5
+http://new-pro.tv:8080/mazen1/123456/133734
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 6" tvg-logo="https://i.postimg.cc/XJdpctM8/Disney-shareext.jpg" group-title="TEMPORARY",Disney+ action 6
+http://new-pro.tv:8080/mazen1/123456/133735
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 7" tvg-logo="https://i.postimg.cc/XJdpctM8/Disney-shareext.jpg" group-title="TEMPORARY",Disney+ action 7
+http://new-pro.tv:8080/mazen1/123456/133736
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 8" tvg-logo="https://i.postimg.cc/XJdpctM8/Disney-shareext.jpg" group-title="TEMPORARY",Disney+ action 8
+http://new-pro.tv:8080/mazen1/123456/133737
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 9" tvg-logo="https://i.postimg.cc/XJdpctM8/Disney-shareext.jpg" group-title="TEMPORARY",Disney+ action 9
+http://new-pro.tv:8080/mazen1/123456/133738
+#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 10" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 10
+http://new-pro.tv:8080/mazen1/123456/133739
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 1" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 1
+http://new-pro.tv:8080/mazen1/123456/114534
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 2" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 2
+http://new-pro.tv:8080/mazen1/123456/114535
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 3" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 3
+http://new-pro.tv:8080/mazen1/123456/118958
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 4" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 4
+http://new-pro.tv:8080/mazen1/123456/118959
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 5" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 5
+http://new-pro.tv:8080/mazen1/123456/118960
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 6" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 6
+http://new-pro.tv:8080/mazen1/123456/149174
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 7" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 7
+http://new-pro.tv:8080/mazen1/123456/149175
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 8" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 8
+http://new-pro.tv:8080/mazen1/123456/149176
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 9" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 9
+http://new-pro.tv:8080/mazen1/123456/149177
+#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 10" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 10
+http://new-pro.tv:8080/mazen1/123456/149178
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -2656,4 +2704,3 @@ http://axcestv.vip:8080/freeview/axcestv/643
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="Sundance TV" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="USA",Sundance TV
 http://axcestv.vip:8080/freeview/axcestv/638
-
