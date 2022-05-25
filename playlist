@@ -328,18 +328,6 @@ http://210.210.155.35:80/session/231b7a38-66a6-11ec-ae85-b82a72d63267/dr9445/h/h
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", Paramount
 http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71135
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="157" tvg-name="DIVA TV" tvg-logo="http://185.180.221.139:82/logo_channels/diva.png" group-title="ENTERTAINMENT",DIVA TV - DIVA TV
-http://195.154.165.11:8000/live?channelId=157&uid=8769&deviceMac=00:1A:79:5C:EE:16
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="919" tvg-name="USA | CBS" tvg-logo="http://185.180.221.139:82/logo_channels/axn_spin_pl_hd.png" group-title="ENTERTAINMENT",USA | CBS - USA | CBS
-http://195.154.165.11:8000/live?channelId=919&uid=8769&deviceMac=00:1A:79:5C:EE:16
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/KIX_LOGO_150x150.jpg",KIX
@@ -500,7 +488,6 @@ https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFash
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="LIFESTYLE",Fashion TV
 http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/28945
-#http://axcestv.vip:8080/freeview/axcestv/536
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="LIFESTYLE" tvg-id="Fashion TV Midnight Secrets" tvg-name="Fashion TV HD", Fashion TV Midnight Secrets HD
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
@@ -569,8 +556,8 @@ https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDrago
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="SBS" tvg-logo="" group-title="INTERNATIONAL TV",SBS
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/51810
 http://lnk.ec/e07j0o
+http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/51810
 
 
 ##########################KNOWLEDGE##########################
@@ -632,14 +619,12 @@ https://on-load.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="KNOWLEDGE ",DMAX
 http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/71097
-#http://axcestv.vip:8080/freeview/axcestv/539
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/xSXJ1SD/cfgs.png" group-title="KNOWLEDGE ",Love Nature
 http://lnk.ec/PT-Bb9
-#http://axcestv.vip:8080/freeview/axcestv/537
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE", LOVE NATURE 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -722,7 +707,6 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="dreamwork" tvg-logo="https://i.ibb.co/37m5R58/dreamwork.png" group-title="KIDS",DreamWorks
 http://lnk.ec/7zSMxk
-#http://axcestv.vip:8080/freeview/axcestv/568
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -764,32 +748,6 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature Asia
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="MOVIES", HBO 2
-https://edge2-hr.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="148" tvg-name="HBO 3 HD" tvg-logo="http://185.180.221.139:82/logo_channels/hbo3hd.png" group-title="MOVIES",HBO 3 HD - HBO 3 HD
-http://195.154.165.11:8000/live?channelId=148&uid=8769&deviceMac=00:1A:79:5C:EE:16
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLz4yUOzPCHyV_l54b3Amwh5cgYo6gGmN8eA&usqp=CAU" group-title="MOVIES", HBO+
-http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/65747
-#https://edge2-hr.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.telbo.net/wp-content/uploads/2020/05/HBO-EXTREME.jpg" group-title="MOVIES", HBO Extreme
-#http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/65751
-#https://edge2-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
@@ -810,8 +768,7 @@ https://on-load.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/VWzPJQ4/FxC.png" group-title="MOVIES",Star Chinese Movies
-#http://axcestv.vip:8080/freeview/axcestv/485
-
+http://iptv.4ktezz.top:8080/BPQYF8ngYFGK/HxLvGSFwPQvV/54508
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -2636,11 +2593,11 @@ http://new-pro.tv:8080/mazen1/123456/149178
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="USA",SyFy
+#EXTINF:-1 tvg-id="" tvg-name="SyFy" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="TEMPORARY",SyFy
 http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/3096
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax U.S" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="USA",Cinemax U.S
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax U.S" tvg-logo="https://i.ibb.co/VtkJWrB/IMG-20220310-184548-327.png" group-title="TEMPORARY",Cinemax U.S
 http://mue03.wanicelife.com:8880/SWFAF123654/GVYBF988/64350
