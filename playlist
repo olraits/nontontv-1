@@ -372,6 +372,8 @@ https://makanja.xyz/korea/play.php?channel=mbc
 #EXTVLCOPT:http-user-agent=combi
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="ENTERTAINMENT", SBS
 https://makanja.xyz/korea/play.php?channel=sbs
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="ENTERTAINMENT", SBS PLUS
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/9934
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="ENTERTAINMENT", MNET
 https://makanja.xyz/korea/play.php?channel=mnet
 
@@ -862,15 +864,24 @@ https://on-load.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="MOVIES", FX HD
 http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium317/chunks.m3u8
 
-#EXTINF:-1 tvg-id="413" tvg-name="[MY] Showcase Movies" tvg-logo="https://ewsat.com/img/MNET_MOVIES_SHOWCASE.png" group-title="MOVIES", Showcase Movies
-https://ktiptv.cf:443/48268/48268/26084
-
-#EXTINF:-1 tvg-id="704" tvg-name="[MY] PrimeTime" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/453_144.png" group-title="MOVIES",PrimeTime
-https://ktiptv.cf:443/48268/48268/26091
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES" tvg-id="flix.in", &flix
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", & flix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
-http://qqtv.nl:8080/niloofar/niloofar/7252
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2934
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES", & privè
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2933
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="", MNX HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2919
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="", MOVIES NOW HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2918
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="", STAR MOVIES SELECT HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2908
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1238,6 +1249,21 @@ https://lnk.ec/shareext@ASSP_4
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORTS", ASSP 5
 https://ktiptv.cf:443/48268/48268/26317
 https://lnk.ec/shareext@ASSP_5
+
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 501 HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10517
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 502 HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10510
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 503 HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10509
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 504 HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10508
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 505 HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10516
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 506 HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10507
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 507 HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10506
 
 #EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png" group-title="Sports" tvg-id="" tvg-name="", Unifi Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -2502,45 +2528,78 @@ http://203.77.246.50:5000/udp/239.1.3.84:5000
 
 ##########################TEMPORARY##########################
 
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 1" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 1
-http://new-pro.tv:8080/mazen1/123456/133730
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 2" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 2
-http://new-pro.tv:8080/mazen1/123456/133731
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 3" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 3
-http://new-pro.tv:8080/mazen1/123456/133732
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 4" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 4
-http://new-pro.tv:8080/mazen1/123456/133733
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 5" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 5
-http://new-pro.tv:8080/mazen1/123456/133734
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 6" tvg-logo="https://i.postimg.cc/XJdpctM8/Disney-shareext.jpg" group-title="TEMPORARY",Disney+ action 6
-http://new-pro.tv:8080/mazen1/123456/133735
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 7" tvg-logo="https://i.postimg.cc/XJdpctM8/Disney-shareext.jpg" group-title="TEMPORARY",Disney+ action 7
-http://new-pro.tv:8080/mazen1/123456/133736
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 8" tvg-logo="https://i.postimg.cc/XJdpctM8/Disney-shareext.jpg" group-title="TEMPORARY",Disney+ action 8
-http://new-pro.tv:8080/mazen1/123456/133737
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 9" tvg-logo="https://i.postimg.cc/XJdpctM8/Disney-shareext.jpg" group-title="TEMPORARY",Disney+ action 9
-http://new-pro.tv:8080/mazen1/123456/133738
-#EXTINF:-1 tvg-id="" tvg-name="Disney+ action 10" tvg-logo="http://vod-logo.net/photos/db39eb150762a6a43ca1e221dfdcebb4.jpg" group-title="TEMPORARY",Disney+ action 10
-http://new-pro.tv:8080/mazen1/123456/133739
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA ACTION
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11680
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA COMEDY
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11679
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA DRAMA
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11678
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA FAMILY
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11676
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA GREATS
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11675
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA HITS
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11674
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA PREMIER
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/67020
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA SCI-FI & HORROR
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11672
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA SUPERHEROES
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11671
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA THRILLER
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11670
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", TCM
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11669
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", AMC
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11668
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", FILM 4
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11667
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", HORROR CHANNEL
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11666
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 1" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 1
-http://new-pro.tv:8080/mazen1/123456/114534
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 2" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 2
-http://new-pro.tv:8080/mazen1/123456/114535
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 3" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 3
-http://new-pro.tv:8080/mazen1/123456/118958
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 4" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 4
-http://new-pro.tv:8080/mazen1/123456/118959
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 5" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 5
-http://new-pro.tv:8080/mazen1/123456/118960
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 6" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 6
-http://new-pro.tv:8080/mazen1/123456/149174
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 7" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 7
-http://new-pro.tv:8080/mazen1/123456/149175
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 8" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 8
-http://new-pro.tv:8080/mazen1/123456/149176
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 9" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 9
-http://new-pro.tv:8080/mazen1/123456/149177
-#EXTINF:-1 tvg-id="" tvg-name="HBO Action VIP 10" tvg-logo="http://vod-logo.net/photos/00363bb2cd4d0b9efec87e6f9f8e5b01.png" group-title="TEMPORARY",HBO Action VIP 10
-http://new-pro.tv:8080/mazen1/123456/149178
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", MBC2 HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11580
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", STAR MOVIES HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11563
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", FOX ACTION MOVIES HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11561
 
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", MOVIES HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11349
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", MOVIES ACTION HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11348
+
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", CBS 2 HD (LOS ANGELES)
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/293199
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", ABC 7 HD (LOS ANGELES)
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/292957
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", CINEMAX HD (EAST)
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291393
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", CINEMAX HD (WEST)
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291394
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", CINEMAX MOVIEMAX HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291395
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", CINEMAX ACTIONMAX HD (EAST)
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291398
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", HBO HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291433
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", HBO HD (EAST)
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291434
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", HBO HD (WEST)
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291435
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", HBO 2 HD
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291436
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", HBO 2 HD (EAST)
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291437
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", HBO 2 HD (WEST)
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291438
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", HBO ZONE HD (EAST)
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291445
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", HBO ZONE HD (WEST)
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/291446
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", POP MOVIES ACTION
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/307103
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", POP MOVIES NETFLIX
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/307102
+#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", POP MOVIES MARVEL
+http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/307108
