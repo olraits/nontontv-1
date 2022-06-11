@@ -953,6 +953,13 @@ https://lnk.ec/Jbn8ui
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",US: MTV
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2344
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-DQ6tO5V5dK7q7YhUXGFM72BHEh7LiKiefQ&usqp=CAU" group-title="MUSIC" tvg-id="" tvg-name="", MTV 00s
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://panel.ooguy.com:9002/VH1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Eohn_KT4Jsb4_SBreaFqX6VzEJtnXRdYqA&usqp=CAU" group-title="MUSIC" tvg-id="MTV90s.us" tvg-name="MTV90s.us", MTV 90s
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+https://tv.dansk.live:443/play/z6t0hiz8ehdb7i7i8NtD5xP6aB7U_tAryIiavNbcasM/ts
+
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV LOVE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b6e3&deviceDNT=0&deviceModel=0
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg" group-title="MUSIC",MTV Biggest Pop
