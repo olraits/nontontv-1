@@ -159,13 +159,6 @@ https://on-load.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 #EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="" tvg-logo="" group-title="NATIONAL TV",The Indonesia Channel
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="NATIONAL TV", Bisnet Lifestyle
-http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
-#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="NATIONAL TV", Bisnet Adventure 4K
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="NATIONAL TV", Biznet Kids
-http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
 
 ##########################NEWS##########################
 
@@ -331,8 +324,7 @@ http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", Paramount
-https://ktiptv.cf:443/48268/48268/26100
-http://hold2.site:2082/jordiespluga1603/HD8TTwSmKBgA/178136
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/451
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -351,7 +343,7 @@ https://on-load.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png" group-title="ENTERTAINMENT", TVN KOREA
-https://makanja.xyz/korea/play.php?channel=tvn_kr
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290487
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -361,21 +353,8 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 http://210.210.155.35:80/session/adf55d96-6614-11ec-bc1c-c81f66f89318/uq2663/h/h08/01.m3u8
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="ENTERTAINMENT", JTBC
-https://makanja.xyz/korea/play.php?channel=jtbc
-#EXTVLCOPT:http-user-agent=combi
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="ENTERTAINMENT", KBS2
-https://makanja.xyz/korea/play.php?channel=kbs2
-#EXTVLCOPT:http-user-agent=combi
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="ENTERTAINMENT", MBC
-https://makanja.xyz/korea/play.php?channel=mbc
-#EXTVLCOPT:http-user-agent=combi
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="ENTERTAINMENT", SBS
-https://makanja.xyz/korea/play.php?channel=sbs
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="ENTERTAINMENT", SBS PLUS
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/9934
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="ENTERTAINMENT", MNET
-https://makanja.xyz/korea/play.php?channel=mnet
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="ENTERTAINMENT", KBC|SBS
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/166089
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -392,13 +371,11 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="116" tvg-name=" [MY] COLORS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-in.png" group-title="ENTERTAINMENT", OLORS HD
-https://ktiptv.cf:443/48268/48268/25928
+#EXTINF:-1 tvg-id="116" tvg-name=" [MY] COLORS HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/colors-in.png" group-title="ENTERTAINMENT", COLORS HD
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157468
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="yupp.thirai.my" tvg-name="[MY] KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/640x360_KTVHD_26566_7b9f707c-8b92-4986-8933-df6615f5d808.jpg" group-title="ENTERTAINMENT",KTV HD
-https://ktiptv.cf:443/48268/48268/26029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT" Sony Channel
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/171974
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -480,6 +457,9 @@ https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="LIFESTYLE" tvg-logo="", Dens Food Channel
 http://210.210.155.35/x6bnqe/s/s50/live.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_Food_Channel_Trial-
 http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="LIFESTYLE", Bisnet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -591,11 +571,8 @@ https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDrago
 http://mvtv.tech:33210/Haura/12345/3728
 
 #EXTINF:-1 tvg-id="325" tvg-name="[MY] Phoenix Chinese Channel HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix_cn.png" group-title="INTERNATIONAL TV",Phoenix Chinese Channel HD
-https://ktiptv.cf:443/48268/48268/25984
-#EXTINF:-1 tvg-id="326" tvg-name="[MY] Phoenix Info News HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/phoenix_cne.png" group-title="INTERNATIONAL TV",Phoenix Info News HD
-https://ktiptv.cf:443/48268/48268/25985
-#EXTINF:-1 tvg-id="320" tvg-name="[MY] TVBS ASIA HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvbs-asia-tw.png" group-title="INTERNATIONAL TV",TVBS ASIA HD
-https://ktiptv.cf:443/48268/48268/25986
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290361
+
 
 
 ##########################KNOWLEDGE##########################
@@ -659,18 +636,16 @@ https://on-load.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 https://on-load.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="KNOWLEDGE ",DMAX
-http://mue03.wanicelife.com:8880/SWFAF1222000/M9WXFJFB/28826
-http://hold2.site:2082/jordiespluga1603/HD8TTwSmKBgA/178211
+#EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="KNOWLEDGE", Bisnet Adventure 4K
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://i.ibb.co/xSXJ1SD/cfgs.png" group-title="KNOWLEDGE ",Love Nature
-http://lnk.ec/PT-Bb9
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="KNOWLEDGE ",DMAX
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158351
+http://mue03.wanicelife.com:8880/SWFAF1222000/M9WXFJFB/28826
+http://hold2.site:2082/jordiespluga1603/HD8TTwSmKBgA/178211
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE", LOVE NATURE 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -679,6 +654,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE", Techstorm
+http://mvtv.tech:33210/Haura/12345/3867
 https://lnk.ec/i2B7ds
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -692,15 +668,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",USA Discovery Science SD
 http://mue03.wanicelife.com:8880/SWFAF1222000/M9WXFJFB/3100
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KNOWLEDGE",IN WILD
-https://inwild-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",Wild Earth
-https://wildearth-roku.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",XPLORE
-https://xplore-roku.amagi.tv/playlist720-p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",Outdoor Channel
-https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290582
 
 #EXTINF:-1 tvg-id="NASATVPublic.us" url-tvg="" tvg-country="US" tvg-language="English" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png" group-title="KNOWLEDGE",NASA TV 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -752,8 +720,8 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="dreamwork" tvg-logo="https://i.ibb.co/37m5R58/dreamwork.png" group-title="KIDS",DreamWorks
-http://lnk.ec/7zSMxk
 http://hold2.site:2082/jordiespluga1603/HD8TTwSmKBgA/178177
+http://lnk.ec/7zSMxk
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -766,6 +734,9 @@ http://210.210.155.35/uq2663/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="", Kids Channel - Toonz Kids
 http://210.210.155.35/x6bnqe/s/s81/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kids_Channel_-_Toonz_Kids_Trial-
+
+#EXTINF:-1 tvg-logo="https://www.biznethome.net/bin/images/tv-program/channel/BiznetHomeKids.jpg" group-title="KIDS", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 
 ##########################MOVIES##########################
@@ -815,7 +786,7 @@ https://on-load.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="SCM.MACAN" tvg-name="Star Chinese Movies" tvg-logo="https://i.ibb.co/VWzPJQ4/FxC.png" group-title="MOVIES",Star Chinese Movies
-https://ktiptv.cf:443/48268/48268/73658
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -860,16 +831,13 @@ https://on-load.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 https://on-load.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTVLCOPT:http-user-agent=combi
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="MOVIES", FX HD
-http://makanja.xyz/tot/ola/https://netwrk.ru.com/cdn/premium317/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES", & flix
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2934
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES", & privè
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/49557
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2933
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="", MNX HD
@@ -878,10 +846,14 @@ http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2919
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="", MOVIES NOW HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/169118
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2918
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="", STAR MOVIES SELECT HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/2908
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",  STAR Movies
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/11511
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -978,6 +950,9 @@ https://bagoltvku.my.id/PUNYA-MVTV/master-26.m3u8
 http://mvtv.tech:33210/Haura/12345/4692
 https://lnk.ec/Jbn8ui
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",US: MTV
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2344
+
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV LOVE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b6e3&deviceDNT=0&deviceModel=0
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EgIJQzeWkAMT4F0.jpg" group-title="MUSIC",MTV Biggest Pop
@@ -1055,36 +1030,11 @@ http://livetv.mylifeisgood.ml/mfolive.m3u8?media=bridgehitstv
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 Indonesia
 https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS",Bein Sport 2
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/273332
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",BeIn Sports 3 Indonesia
 https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://on-load.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS",Bein Sport 4
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/399
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS",Bein Sport 5
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291085
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS",Bein Sport 6
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291087
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS",Bein Sport 7
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291088
-
-#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="QA beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="SPORTS",beINSports_English 1
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295872
-#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="SPORTS",beINSports_English 2
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291086
-#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="SPORTS",beINSports_English 3
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290225
-#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="QA beIN Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png" group-title="SPORTS",beINSports_Premium 1
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290195
-#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="QA beIN Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png" group-title="SPORTS",beINSports_Premium 2
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290196
-#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="QA beIN Sports Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg" group-title="SPORTS",beINSports_Premium 3
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290197
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1126,13 +1076,6 @@ https://bagoltvku.my.id/PUNYA-MVTV/master-8.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion4
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPORTS",SPOTV OPT1
-https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1146,19 +1089,6 @@ http://lnk.ec/JVgUD0
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sports 2
 https://lnk.ec/shareext@useesport_2
 http://lnk.ec/DJriIu
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="" group-title="SPORTS",Horizon Sports
-http://lnk.ec/5I2-C0
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="SPORTS",CCTV.5.HD
-https://playfdcusa.olelive.olevod.tv:6443/tv/cctv5hd/hls.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",CCTV_5
-http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS",CCTV5+
-http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1190,88 +1120,130 @@ https://on-load.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",TVRI_SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
+
+##########################SPORTS-2##########################
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/273332
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 4
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/399
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 5
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291085
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 6
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291087
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 7
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291088
+
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="QA beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="SPORTS-2",beINSports_English 1
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295872
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="SPORTS-2",beINSports_English 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/291086
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="QA beIN Sports English 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/724539660042a9755e6c7d5dafef0a55.png" group-title="SPORTS-2",beINSports_English 3
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290225
+#EXTINF:-1 tvg-id="beinsports10olympic.qa" tvg-name="QA beIN Sports Premium 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-05/f8dc1d4d49006fbed81fb539bc89cde9.png" group-title="SPORTS-2",beINSports_Premium 1
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290195
+#EXTINF:-1 tvg-id="beinsports2premium.qa" tvg-name="QA beIN Sports Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4d9551cacc9433108171ed793131df12.png" group-title="SPORTS-2",beINSports_Premium 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290196
+#EXTINF:-1 tvg-id="beinsports3premium.qa" tvg-name="QA beIN Sports Premium 3" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/f1f5358024c749247618e2fcf2892eb5.jpg" group-title="SPORTS-2",beINSports_Premium 3
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290197
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motors_TV_old.svg/1112px-Motors_TV_old.svg.png" group-title="SPORTS",Motorvision
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPORTS-2",SPOTV OPT1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="" group-title="SPORTS-2",Horizon Sports
+http://lnk.ec/5I2-C0
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS-2",CCTV_5
+http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="SPORTS-2",CCTV5+
+http://39.135.34.132:8080/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motors_TV_old.svg/1112px-Motors_TV_old.svg.png" group-title="SPORTS-2",Motorvision
 http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Motorvision_TV_HD
 http://playlist.urfan.web.id/uq2663/h/h09/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motors_TV_old.svg/1112px-Motors_TV_old.svg.png" group-title="SPORTS",Motorvision
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motors_TV_old.svg/1112px-Motors_TV_old.svg.png" group-title="SPORTS-2",Motorvision
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="SPORTS", Astro Arena
-https://ktiptv.cf:443/48268/48268/26308
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="SPORTS-2", Astro Arena
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157485
 https://lnk.ec/shareext@arena1
-http://tvmalaysia.cc:80/435118/435118/6707
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="SPORTS", Astro Arena 2
-https://ktiptv.cf:443/48268/48268/26306
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="SPORTS-2", Astro Arena 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/287793
 https://lnk.ec/shareext@arena2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS", ASSP 1
-https://ktiptv.cf:443/48268/48268/26312
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS-2", ASSP 1
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/146068
 https://lnk.ec/shareext@ASSP_1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS", ASSP 2
-https://ktiptv.cf:443/48268/48268/26313
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS-2", ASSP 2
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157556
 https://lnk.ec/shareext@ASSP_2
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS", ASSP 3
-https://ktiptv.cf:443/48268/48268/26314
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS-2", ASSP 3
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157557
 https://lnk.ec/shareext@ASSP_3
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS", ASSP 4
-https://ktiptv.cf:443/48268/48268/26315
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS-2", ASSP 4
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157558
 https://lnk.ec/shareext@ASSP_4
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORTS", ASSP 5
-https://ktiptv.cf:443/48268/48268/26317
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORTS-2", ASSP 5
 https://lnk.ec/shareext@ASSP_5
 
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 501 HD
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS-2", FOX SPORTS 501 HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10517
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 502 HD
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS-2", FOX SPORTS 502 HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10510
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 503 HD
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS-2", FOX SPORTS 503 HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10509
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 504 HD
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS-2", FOX SPORTS 504 HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10508
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 505 HD
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS-2", FOX SPORTS 505 HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10516
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 506 HD
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS-2", FOX SPORTS 506 HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10507
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS", FOX SPORTS 507 HD
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="SPORTS-2", FOX SPORTS 507 HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/10506
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png" group-title="Sports" tvg-id="" tvg-name="", Unifi Sport 1
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/2021081116172640657u.png" group-title="SPORTS-2" tvg-id="" tvg-name="", Unifi Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png" group-title="Sports" tvg-id="" tvg-name="", Unifi Sport 2
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202108/20210811/20210811161847362lc0.png" group-title="SPORTS-2" tvg-id="" tvg-name="", Unifi Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -2147,31 +2119,31 @@ http://210.210.155.35/dr9445/h/h03/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
-https://ktiptv.cf:443/48268/48268/25808
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/286848
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TV2" group-title="MALAYSIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
-https://ktiptv.cf:443/48268/48268/25809
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158355
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MALAYSIA",TV3
-https://ktiptv.cf:443/48268/48268/25810
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158360
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="Awesome TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png" group-title="MALAYSIA",Awesome TV
-https://ktiptv.cf:443/48268/48268/25828
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="BOO" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" group-title="MALAYSIA",BOO
-https://ktiptv.cf:443/48268/48268/26011
+http://mvtv.tech:33210/Haura/12345/4951
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2183,31 +2155,31 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8|Referer=https:
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Warna
-https://ktiptv.cf:443/48268/48268/25867
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157492
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Citra
-https://ktiptv.cf:443/48268/48268/25852
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157569
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Prima
-https://ktiptv.cf:443/48268/48268/25862
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157467
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA",Astro Ria
-https://ktiptv.cf:443/48268/48268/25855
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/158347
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Oasis
-https://ktiptv.cf:443/48268/48268/25864
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157489
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2219,13 +2191,13 @@ http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157481
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Aura
-https://ktiptv.cf:443/48268/48268/25887
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/171986
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA",Astro Rania
-https://ktiptv.cf:443/48268/48268/25881
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/171984
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ==&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ=&
@@ -2268,18 +2240,12 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="MALAYSIA",TV Ikim
 http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="316" tvg-name="[MY] 中天亚洲" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cti_tv_asia.png" group-title="MALAYSIA",[MY] 中天亚洲
-https://ktiptv.cf:443/48268/48268/25987
 #EXTINF:-1 tvg-id="311" tvg-name="[MY] AOD 311 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="MALAYSIA",[MY] AOD 311 HD
-https://ktiptv.cf:443/48268/48268/25990
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/264512
 #EXTINF:-1 tvg-id="352" tvg-name="[MY] AOD 352 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="MALAYSIA",[MY] AOD 352 HD
-https://ktiptv.cf:443/48268/48268/25991
-#EXTINF:-1 tvg-id="353" tvg-name="[MY] AOD 353 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="MALAYSIA",[MY] AOD 353 HD
-https://ktiptv.cf:443/48268/48268/25992
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/247411
 #EXTINF:-1 tvg-id="354" tvg-name="[MY] AOD 354 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="MALAYSIA",[MY] AOD 354 HD
-https://ktiptv.cf:443/48268/48268/25993
-#EXTINF:-1 tvg-id="355" tvg-name="[MY] AOD 355 HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/astro-aod-my.png" group-title="MALAYSIA",[MY] AOD 355 HD
-https://ktiptv.cf:443/48268/48268/25994
+http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/247413
 
 
 ##########################   ##########################
@@ -2527,35 +2493,6 @@ http://203.77.246.50:5000/udp/239.1.3.84:5000
 
 
 ##########################TEMPORARY##########################
-
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA ACTION
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11680
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA COMEDY
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11679
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA DRAMA
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11678
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA FAMILY
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11676
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA GREATS
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11675
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA HITS
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11674
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA PREMIER
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/67020
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA SCI-FI & HORROR
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11672
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA SUPERHEROES
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11671
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", SKY CINEMA THRILLER
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11670
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", TCM
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11669
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", AMC
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11668
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", FILM 4
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11667
-#EXTINF:-1, tvg-logo="" group-title="TEMPORARY", HORROR CHANNEL
-http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11666
 
 #EXTINF:-1, tvg-logo="" group-title="TEMPORARY", MBC2 HD
 http://sideriodomi.ottc.pro:80/AWXEFPWRBG/FZ7MLADNVB/11580
