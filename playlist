@@ -908,6 +908,27 @@ https://on-load.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 https://on-load.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES" tvg-id="flix.in" tvg-name="flix.in", & flix
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://tv.nlt.wtf:24561/live/Ashley689/673175/45837.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="MOVIES" tvg-id="" tvg-name="", Star World Premiere HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/136639.ts
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th?id=OIP.VreLFgtrurjAz8rprdI1lQHaDa&pid=Api&P=0&w=382&h=177" group-title="MOVIES" tvg-id="StarzInBlackEast.us" tvg-name="StarzInBlackEast.us", Starz In Black East
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://sonyiptv.net:8080/live/124447/124447/47869.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES" tvg-id="privè.in" tvg-name="priveHD.in", & privè
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/136617.ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1xxiRCRc4uw34Sqkx0viHoE9I2zNj77djw&usqp=CAU" group-title="MOVIES" tvg-id="" tvg-name="", Fox Movies
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://stariptv.org:8080/nour2020/123456/22176
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",  Asylum
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 https://ktiptv.cf:443/161/161/15152
@@ -1042,6 +1063,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png" group-title="MUSIC",K Pop Channel
+http://lnk.ec/SjegFu
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 
@@ -1460,13 +1482,13 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 
 ##########################VIDIO##########################
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="VIDIO",JUARAtv_1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="VIDIO",JUARAtv_1
 https://dukun.masuk.id/terserahguelah/olahraga/champ1.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="VIDIO",JUARAtv_2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="VIDIO",JUARAtv_2
 https://dukun.masuk.id/terserahguelah/olahraga/champ2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="VIDIO",JUARAtv_3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="VIDIO",JUARAtv_3
 https://dukun.masuk.id/terserahguelah/olahraga/champ3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg"group-title="VIDIO",JUARAtv_goal
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="VIDIO",JUARAtv_goal
 https://dukun.masuk.id/terserahguelah/olahraga/champgoal.m3u8
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Sctv_HD(tvn)
@@ -2476,4 +2498,3 @@ http://203.77.246.50:5000/udp/239.1.3.80:5000
 http://203.77.246.50:5000/udp/239.1.3.82:5000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",HBO FHD
 http://203.77.246.50:5000/udp/239.1.3.84:5000
-
