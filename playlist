@@ -474,9 +474,6 @@ https://on-load.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png",TVN Premium Indonesia
 https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.pngkey.com/png/detail/212-2123746_transparent-speedos-korean-tvn-korea-logo.png" group-title="ENTERTAINMENT", TVN KOREA
-http://51.81.66.195:1935/krtv/tvn_540/playlist.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -494,10 +491,8 @@ http://210.210.155.35/uq2663/h/h19/index10.m3u8?app_type=web&userid=50n13N0v14nd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="60d32888e31a0300073d9f08" tvg-chno="900" tvg-logo="https://images.pluto.tv/channels/60d32888e31a0300073d9f08/colorLogoPNG.png" group-title="ENTERTAINMENT",Just for Laughs
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",E! Entertainment
@@ -539,6 +534,16 @@ https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-12.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fmn.jpg",FMN
 https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/kBiWPbB.png" group-title="ENTERTAINMENT",Colors Infinity
+http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="StarWorldIndia.in" tvg-logo="https://i.imgur.com/oe4Woe7.png" group-title="ENTERTAINMENT",Star World
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YQP3hDH/ZING.png" group-title="ENTERTAINMENT" tvg-id="ZingAsia.in" tvg-name="ZingAsia.in", Zing Asia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://103.139.171.5:5001/jiotvplus/live.php?c=Zing&q=800&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="ENTERTAINMENT",MBC
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 
 
 ##########################LIFESTYLE##########################
@@ -639,6 +644,9 @@ http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/87/TDM_Ou_Mun_Macau_logo.png" group-title="INTERNATIONAL TV",TDM Macau
 http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.wakuwakujapan.com/fileadmin/res/en/news/20180419/image2.png" group-title="INTERNATIONAL TV" tvg-id="CHN" tvg-name="CHN", NEXTTV
+http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -878,8 +886,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 https://on-load.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW " group-title="MOVIES" tvg-id="" tvg-name="", Star Chinese Movies
-http://iptvid.my.id/au/starcm.m3u8?by=iptv_id
-https://ktiptv.cf:443/161/161/73658
+https://ktiptv.cf:443/streaming/clients_live.php?extension=ts&username=161&password=161&stream=73658
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -940,6 +947,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES" tvg-id="flix.in" tvg-name="flix.in", & flix
 http://tv.nlt.wtf:24561/live/Ashley689/673175/45837.ts
+#EXTINF:-1 tvg-id="Andpictures.in" tvg-logo="https://i.imgur.com/HuJrZgT.png" group-title="MOVIES",& pictures
+http://208.86.19.13:81/705.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" group-title="MOVIES",Sony Pix
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -948,7 +957,19 @@ http://tv.nlt.wtf:24561/live/Ashley689/673175/45837.ts
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES" tvg-id="privè.in" tvg-name="priveHD.in", & privè
-http://iptvworld.nl:2095/live/kQ91ka4n/daJGMKt1/136617.ts
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://starshare.live:8080/live/usman007/usman007/201.ts
+#EXTINF:-1 tvg-id="StarGoldSelect.in" tvg-logo="https://i.imgur.com/p27U7Pq.png" group-title="MOVIES",Star Gold Select
+http://208.86.19.13:81/709.stream/index.m3u8
+#EXTINF:-1 tvg-id="UTVAction.in" tvg-logo="https://i.imgur.com/iyK0G1Q.png" group-title="MOVIES",UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8
+#EXTINF:-1 tvg-id="UTVMovies.in" tvg-logo="https://i.imgur.com/SJyKKnJ.png" group-title="MOVIES",UTV Movies
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="MOVIES",Rotana Cinema HD
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="MOVIES",Rotana Cinema HD KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="MOVIES",HBO Brasil
 http://189.91.128.146:4444/udp/227.10.20.94:1234
@@ -1055,19 +1076,14 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="M6Music.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" group-title="MUSIC",M6 Music
 http://190.2.155.162:8080/m6music/mpegts
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC" tvg-logo="",Mnet
-http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV
+https://ktiptv.cf:443/streaming/clients_live.php?extension=ts&username=161&password=161&stream=26298
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV Live
-http://iptvid.my.id/au/mtv.m3u8?by=iptv_id
 https://ktiptv.cf:443/streaming/clients_live.php?extension=ts&username=161&password=161&stream=73996
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Prambors TV
-http://iptvid.my.id/au/prambors.m3u8?by=iptv_id
 https://ktiptv.cf:443/streaming/clients_live.php?extension=ts&username=161&password=161&stream=73992
-
-#EXTINF:-1 tvg-id="" tvg-name="i Konser" tvg-logo="http://images.useetv.com/logo_ikonser_big.png" group-title="MUSIC",i Konser
-http://iptvid.my.id/au/ikonser.m3u8?by=iptv_id
+http://iptvid.my.id/au/prambors.m3u8?by=iptv_id
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Eohn_KT4Jsb4_SBreaFqX6VzEJtnXRdYqA&usqp=CAU" group-title="MUSIC" tvg-id="MTV90s.us" tvg-name="MTV90s.us", MTV 90s
 https://tv.dansk.live:443/play/z6t0hiz8ehdb7i7i8NtD5xP6aB7U_tAryIiavNbcasM/ts
@@ -2559,7 +2575,7 @@ http://203.77.246.50:5000/udp/239.1.3.84:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2gmzmNrtRrH6W28MkjCJEEvWYSqcar3ewMmrpn_E1vpH23oSZm_u4b48_kFqGYd7k1k&usqp=CAU" group-title="4K CHANNEL", Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.zaltv.club/logo/clarity_4K.png", Clarity 4k
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://images.zaltv.club/logo/clarity_4K.png" group-title="4K CHANNEL", Clarity 4k
 https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.squarespace-cdn.com/content/55f79bede4b0917adab94052/1611005142885-LJJTKDYMQJ7S6SQ8L182/Program-Guide-Channel-Logo_Loupe.png?content-type=image%2Fpng" group-title="4K CHANNEL", Loupe 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
@@ -2875,3 +2891,4 @@ http://iptvid.my.id/au/tawaftv.m3u8?by=iptv_id
 http://iptvid.my.id/au/uchannel.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="https://images.useetv.com/logo_tvmui_small.png?v=2.0.0.13" group-title="IPTV-ID",MUI TV
 http://iptvid.my.id/au/muitv.m3u8?by=iptv_id
+
