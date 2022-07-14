@@ -488,6 +488,13 @@ http://210.210.155.35/uq2663/h/h19/index10.m3u8?app_type=web&userid=50n13N0v14nd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",Star World
+https://nonton.site:8443/mustakim/mustakim/381
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",K Drama
+https://nonton.site:8443/mustakim/mustakim/35769
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",Chinese Drama
+https://nonton.site:8443/mustakim/mustakim/36733
+
 #EXTINF:-1 tvg-id="60d32888e31a0300073d9f08" tvg-chno="900" tvg-logo="https://images.pluto.tv/channels/60d32888e31a0300073d9f08/colorLogoPNG.png" group-title="ENTERTAINMENT",Just for Laughs
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -500,6 +507,9 @@ https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://image.roku.com/developer_channels/prod/ac71664c9d4347d7b9a8ef4fbda1a4c56d0016f56e2fc2216cda2ce6b65af4eb.png" tvg-country="US" tvg-url="" group-title="ENTERTAINMENT",ET Live (Backup) 
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest_81.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Seru" tvg-logo="h" group-title="ENTERTAINMENT",Seru Channel
+http://iptvid.my.id/hmm/seru.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -522,6 +532,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQNqx-MAatDqHcaGMXpdyZjB7QWuPD9hAgUg&usqp=CAU" group-title="ENTERTAINMENT", Citra Drama
+https://nonton.site:8443/mustakim/mustakim/905
 https://tvn10.xyz/djgidotktkfkdkgkkgkdkfkgktkdkgkg/master-3.m3u8
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj_Gr0busW2WRb7GIMIyGeXlPLor2G1KwQxTUlnycRCn2pqB7i99ci5mNpuGHQYxBu7JHEtJQ_I4wj7Team23eh_VeZ7lejyRna5MbUl7oyBVRJZuBOvwsdM01pnDYeeaIovxkN6UjFxEyseWQtahH4UETT-1onKg-xxb9XYQsJMQevKSFpO7daB2Er=s320" group-title="ENTERTAINMENT", Citra Entertainment
@@ -686,9 +697,6 @@ https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="INTERNATIONAL TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
 https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INTERNATIONAL TV",Xing Kong Int
-http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
 
 
 ##########################KNOWLEDGE##########################
@@ -886,6 +894,7 @@ https://on-load.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW " group-title="MOVIES" tvg-id="" tvg-name="", Star Chinese Movies
 http://iptvid.my.id/hmm/starcm.m3u8?by=iptv_id
+https://nonton.site:8443/mustakim/mustakim/780
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -994,9 +1003,6 @@ http://203.77.246.50:5000/udp/239.1.1.74:5000
 #EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="MOVIES",Flik
 http://iptvid.my.id/hmm/flik.m3u8?by=iptv_id
 
-#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://i.ibb.co/xLLBnJq/chinesedrama-big.png" group-title="Entertainment",Chinese Drama
-http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
@@ -1041,6 +1047,12 @@ http://190.2.155.162:8080/m6music/mpegts
 http://iptvid.my.id/hmm/mtv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV Live
 http://iptv12k.com:35461/80301062102/732099/264
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Prambors
+http://iptvid.my.id/hmm/prambors.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Ikonser
+http://iptvid.my.id/hmm/ikonser.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", Musik Indo
+http://iptvid.my.id/hmm/musikindo.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Eohn_KT4Jsb4_SBreaFqX6VzEJtnXRdYqA&usqp=CAU" group-title="MUSIC" tvg-id="MTV90s.us" tvg-name="MTV90s.us", MTV 90s
 https://tv.dansk.live:443/play/z6t0hiz8ehdb7i7i8NtD5xP6aB7U_tAryIiavNbcasM/ts
@@ -1132,9 +1144,11 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Usee Sports 1
-
+http://iptvid.my.id/hmm/useetl1.m3u8
+https://stream-delivery.mapalus.xyz/live/tv/group1/chno/921.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sports 2
-
+http://iptvid.my.id/hmm/useetl2.m3u8
+https://stream-delivery.mapalus.xyz/live/tv/group1/chno/312.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1170,19 +1184,19 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 ##########################SPORTS-2##########################
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://mms.businesswire.com/media/20180829005806/en/671600/23/beINSPORTS.jpg" group-title="SPORTS-2", Bein Sports 1
-http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257498
+https://nonton.site:8443/mustakim/mustakim/728
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 2
-http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257499
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94482
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://mms.businesswire.com/media/20180829005806/en/671600/23/beINSPORTS.jpg" group-title="SPORTS-2", Bein Sports 3
-http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257500
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94478
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 4
-http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257501
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94474
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 5
-http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257502
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94470
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 6
-http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257503
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94466
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 7
-http://vn360sport.duckdns.org/vn360sport/Mac/Laohac/b1gme.php?id=257504
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94462
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="http://images.zaltv.club/logo/bt_sport_1_hd.png" group-title="SPORTS-2", BT Sport 1 HD
 http://donglao.duckdns.org:9981/stream/channelid/1975039134?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
@@ -1222,19 +1236,8 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="SPORTS-2",SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1655715604~exp=9007200910456595~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=3d68badae101f8edfa354550208282166f263e165eb7df0cd9dac20a4d22759a
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="http://udoofree.com/cover/31682adb-c504-409d-b2ea-d43245491a9a_original.jpg" group-title="SPORTS-2", True Premier Football 1
-http://donglao.duckdns.org:9981/stream/channelid/905919890?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="http://udoofree.com/cover/afc53720-a686-4376-8ab3-a910f1821c0e_original.jpg" group-title="SPORTS-2", True Premier Football 2
-http://donglao.duckdns.org:9981/stream/channelid/1760792278?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="http://udoofree.com/cover/d777c947-a608-4d84-b61a-3d1d04d05ba0_original.jpg" group-title="SPORTS-2", True Premier Football 3
-http://donglao.duckdns.org:9981/stream/channelid/1363511520?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="http://udoofree.com/cover/75919016-2ada-45ac-8ed5-5ba134c439a9_original.jpg" group-title="SPORTS-2", True Premier Football 4
-http://donglao.duckdns.org:9981/stream/channelid/112952872?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="http://udoofree.com/images/channels/f6797004-81ca-4ddc-8d1b-50e1b4ce5a78_original.jpg" group-title="SPORTS-2", True Premier Football 5
-http://donglao.duckdns.org:9981/stream/channelid/1275865673?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KhLF0W1/HORIZONSPORTS.png" group-title="SPORTS-2",Horizon Sports
-
+http://iptvid.my.id/hmm/horisonsport.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1246,20 +1249,20 @@ http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="SPORTS-2",Astro Arena
-http://donglao.duckdns.org:9981/stream/channelid/1577510150?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
+https://nonton.site:8443/mustakim/mustakim/37422
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.ibb.co/tmCH8Mf/ASTROARENA2.png" group-title="SPORTS-2", Astro Arena 2
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/287793
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS-2", ASSP 1
-http://donglao.duckdns.org:9981/stream/channelid/789101988?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
+https://nonton.site:8443/mustakim/mustakim/46413
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS-2", ASSP 2
-http://donglao.duckdns.org:9981/stream/channelid/1167656377?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
+https://nonton.site:8443/mustakim/mustakim/46414
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS-2", ASSP 3
-http://donglao.duckdns.org:9981/stream/channelid/1236864320?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
+https://nonton.site:8443/mustakim/mustakim/46415
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS-2", ASSP 4
-http://donglao.duckdns.org:9981/stream/channelid/546560954?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
+https://nonton.site:8443/mustakim/mustakim/46416
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORTS-2", ASSP 5
-http://donglao.duckdns.org:9981/stream/channelid/781639283?auth=PDfWg4rzzOwGBhb3I3RStjZmJkfU
+https://nonton.site:8443/mustakim/mustakim/46417
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn.hqth.me/logo/world/cn/cctv5p.png" group-title="SPORTS-2", CCTV5+ HD
 http://live.tvfix.org/hls/cctv5phd.m3u8
@@ -1409,9 +1412,9 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 ##########################USEETV##########################
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="USEETV",Useesport_USEETV 
-https://lnk.ec/SHAREEXT@us1.ts
+http://iptvid.my.id/hmm/useetl1.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="USEETV",Useesports2_USEETV 
-https://lnk.ec/SHAREEXT@us2.ts
+http://iptvid.my.id/hmm/useetl2.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png?v=2.0.1.16" group-title="USEETV",RuangTrampil_USEETV 
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b5268ef7e5a44f541a7cbde7626ef57566
@@ -2203,21 +2206,18 @@ http://iptv12k.com:35461/80301062102/732099/743
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="BOO" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" group-title="MALAYSIA",BOO
 http://iptv12k.com:35461/80301062102/732099/722
 
-#EXTINF:-1 tvg-id="Boo.my" tvg-name="BOO" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" group-title="MALAYSIA",BOO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=09e9d9037bbc6d4eac45bdee4b718b10&key=05db97174848670a152d0b15f3dab994
-https://seulangatv.com/linear/dash-wv/linear/2407/default.mpd
-
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="MALAYSIA", Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8|Referer=https://www.tvmalaysia.online/2021/06/awani.html?=1
 
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Warna
+https://nonton.site:8443/mustakim/mustakim/37335
 http://iptv12k.com:35461/80301062102/732099/9169
 
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Citra
 http://ky-iptv.com:80/walter6/walter/1350408.ts
 
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Prima
+https://nonton.site:8443/mustakim/mustakim/37333
 http://iptv12k.com:35461/80301062102/732099/5959
 
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA",Astro Ria
@@ -2230,7 +2230,7 @@ http://iptv12k.com:35461/80301062102/732099/732
 http://iptv12k.com:35461/80301062102/732099/730
 
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Aura
-
+https://nonton.site:8443/mustakim/mustakim/37468
 
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA",Astro Rania
 http://iptv12k.com:35461/80301062102/732099/728
@@ -2558,7 +2558,7 @@ http://iptvid.my.id/hmm/transtv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="metrotv" tvg-name="Metro TV" tvg-logo="http://images.useetv.com/logo_metrotv_big1.png" group-title="IPTV-ID",Metro TV
 http://iptvid.my.id/hmm/metrotv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="tvone" tvg-name="TV One" tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="IPTV-ID",TV One
-
+http://iptvid.my.id/hmm/tvone.m3u8
 #EXTINF:-1 tvg-id="kompas" tvg-name="Kompas TV" tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="IPTV-ID",Kompas TV
 http://iptvid.my.id/hmm/kompas.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="cnnindonesia" tvg-name="CNN Indonesia" tvg-logo="http://images.useetv.com/logo_cnnindonesia_big1.png" group-title="IPTV-ID",CNN Indonesia
@@ -2572,7 +2572,7 @@ http://iptvid.my.id/hmm/mncnews.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="net" tvg-name="Net TV" tvg-logo="http://images.useetv.com/logo_net_big1.png" group-title="IPTV-ID",Net TV
 http://iptvid.my.id/hmm/net.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="antv" tvg-name="ANTV (108)" tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="IPTV-ID",ANTV
-
+http://iptvid.my.id/hmm/antv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Usee Prime" tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="IPTV-ID",Usee Prime
 http://iptvid.my.id/hmm/useeprime.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="Usee Photo" tvg-logo="https://images.useetv.com/logo_useephoto_small.png?v=2.0.0.13" group-title="IPTV-ID",Usee Photo
@@ -2608,9 +2608,9 @@ rtp://@239.1.1.238:9400
 #EXTINF:-1 tvg-id="ntv" tvg-name="Indonesiana TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indonesiana_small.png" group-title="IPTV-ID",Indonesiana TV
 http://iptvid.my.id/hmm/indonesiana.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="bein1" tvg-name="Bein1" tvg-logo="http://images.useetv.com/logo_bein1_big1.png" group-title="IPTV-ID",Bein1
-http://iptvid.my.id/hmm/bein1.m3u8?by=iptv_id
+http://iptvid.my.id/hmm/bskunyak1.m3u8
 #EXTINF:-1 tvg-id="ein2" tvg-name="Bein2" tvg-logo="http://images.useetv.com/logo_bein3_big1.png" group-title="IPTV-ID",Bein2
-http://iptvid.my.id/hmm/bein2.m3u8?by=iptv_id
+http://iptvid.my.id/hmm/bskunyak2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Spo TV" tvg-logo="http://images.useetv.com/logo_spotv_big.png" group-title="IPTV-ID",Spo TV
 http://iptvid.my.id/hmm/spotv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="Spo TV2" tvg-logo="http://images.useetv.com/logo_spotv2_big.png" group-title="IPTV-ID",Spo TV2
@@ -2833,12 +2833,12 @@ http://iptvid.my.id/hmm/tv9.m3u8?by=iptv_id
 http://iptvid.my.id/hmm/muhammadiyahtv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="http://images.useetv.com/logo_tawaftv_big.png" group-title="IPTV-ID",Tawaf TV
 http://iptvid.my.id/hmm/tawaftv.m3u8?by=iptv_id
-#EXTINF:-1 tvg-id="" tvg-name="TV MUI (860)" tvg-logo="http://images.useetv.com/logo_tvmui_big1.png" group-title="IPTV-ID",TV MUI
-
 #EXTINF:-1 tvg-id="" tvg-name="Hope (870)" tvg-logo="https://i.ibb.co/tmKfKCs/hope.png" group-title="IPTV-ID",Hope
 
 #EXTINF:-1 tvg-id="" tvg-name="U Channel" tvg-logo="http://images.useetv.com/logo_uchannel_big1.png" group-title="IPTV-ID",U Channel
 http://iptvid.my.id/hmm/uchannel.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="MUI TV" tvg-logo="https://images.useetv.com/logo_tvmui_small.png?v=2.0.0.13" group-title="IPTV-ID",MUI TV
 http://iptvid.my.id/hmm/muitv.m3u8?by=iptv_id
+#EXTINF:-1 tvg-id="" tvg-name="Seru" tvg-logo="h" group-title="IPTV-ID",Seru Channel
+http://iptvid.my.id/hmm/seru.m3u8
 
