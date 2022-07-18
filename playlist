@@ -451,6 +451,7 @@ http://210.210.155.35/dr9445/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd
 #EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280" group-title="ENTERTAINMENT",Rock_Enter
 http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", Paramount
 http://iptvid.my.id/hmm/paramount.m3u8?by=iptv_id
 https://iptv-sniper.herokuapp.com/localtv.php?channel=59
@@ -488,10 +489,13 @@ http://210.210.155.35/uq2663/h/h19/index10.m3u8?app_type=web&userid=50n13N0v14nd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",Star World
 https://nonton.site:8443/mustakim/mustakim/381
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",K Drama
 https://nonton.site:8443/mustakim/mustakim/35769
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",Chinese Drama
 https://nonton.site:8443/mustakim/mustakim/36733
 
@@ -499,6 +503,7 @@ https://nonton.site:8443/mustakim/mustakim/36733
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",E! Entertainment
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=80301070602&password=456776&stream=637
 
@@ -531,6 +536,7 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png",Vision Prime
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQNqx-MAatDqHcaGMXpdyZjB7QWuPD9hAgUg&usqp=CAU" group-title="ENTERTAINMENT", Citra Drama
 https://nonton.site:8443/mustakim/mustakim/905
 
@@ -562,6 +568,7 @@ https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_240.jpg",Asian Food Network
 https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="LIFESTYLE",Travel Channel HD
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=80301070602&password=456776&stream=635
 
@@ -769,6 +776,7 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="KNOWLEDGE", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="KNOWLEDGE ",DMAX
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=80301070602&password=456776&stream=636
 
@@ -782,6 +790,7 @@ https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="KNOWLEDGE", Smithsonian
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",Discovery Science SD
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=80301070602&password=456776&stream=8862
 
@@ -878,6 +887,7 @@ https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature Asia
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",FOX Movies
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=80301070602&password=456776&stream=1753
 
@@ -942,15 +952,20 @@ https://on-load.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 https://on-load.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES" tvg-id="flix.in" tvg-name="flix.in", & flix
 http://tv.nlt.wtf:24561/live/Ashley689/673175/45837.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Andpictures.in" tvg-logo="https://i.imgur.com/HuJrZgT.png" group-title="MOVIES",& pictures
 http://208.86.19.13:81/705.stream/index.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="MovieNow.in" tvg-logo="" group-title="MOVIES",Movie Now
 http://caspertv.live/play/live.php?mac=00:1A:79:6F:A4:34&stream=178808&extension=ts&play_token=DNCNsZr55Y
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="MNX.in" tvg-logo="" group-title="MOVIES",MNX
 http://caspertv.live/play/live.php?mac=00:1A:79:6F:A4:34&stream=178807&extension=ts&play_token=DNCNsZr55Y
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="MN+.in" tvg-logo="" group-title="MOVIES",MN+
 http://caspertv.live/play/live.php?mac=00:1A:79:6F:A4:34&stream=178809&extension=ts&play_token=DNCNsZr55Y
 
@@ -960,13 +975,17 @@ http://caspertv.live/play/live.php?mac=00:1A:79:6F:A4:34&stream=178809&extension
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manifest.mpd
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",KR: OCN KR
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=80301070602&password=456776&stream=3223
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",KR: OCN movies KR
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=80301070602&password=456776&stream=3222
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES" tvg-id="privè.in" tvg-name="priveHD.in", & privè
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES", Colors Cineplex HD TataSky
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=80301070602&password=456776&stream=8910
 
@@ -1006,6 +1025,7 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #EXTINF:-1 tvg-id="CITRADRAMA.id" tvg-logo="https://i.postimg.cc/Qxg3HpkS/citra-bioskop-logo.png" group-title="MOVIES", Citra Bioskop
 #
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bH4brzz/BIOSKOPINDONESIA.png" group-title="MOVIES", Bioskop Indonesia
 http://iptvid.my.id/hmm/biosid.m3u8?by=iptv_id
 
@@ -1057,6 +1077,7 @@ http://190.2.155.162:8080/m6music/mpegts
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV
 http://iptvid.my.id/hmm/mtv.m3u8?by=iptv_id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV Live
 http://iptv12k.com:35461/live/80301070602/456776/264
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Prambors
@@ -1200,47 +1221,62 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream
 
 ##########################SPORTS-2##########################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://mms.businesswire.com/media/20180829005806/en/671600/23/beINSPORTS.jpg" group-title="SPORTS-2", Bein Sports 1
 https://nonton.site:8443/mustakim/mustakim/728
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 2
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94482
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://mms.businesswire.com/media/20180829005806/en/671600/23/beINSPORTS.jpg" group-title="SPORTS-2", Bein Sports 3
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94478
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 4
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94474
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 5
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94470
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 6
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94466
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Bein_sport_ana_logo.png" group-title="SPORTS-2",Bein Sport 7
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94462
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="http://images.zaltv.club/logo/bt_sport_1_hd.png" group-title="SPORTS-2", BT Sport 1 HD
 http://ranapk.cf/cdn/TG@Ranapk73-31/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="http://images.zaltv.club/logo/bt_sport_2_hd.png" group-title="SPORTS-2", BT Sport 2 HD
 http://ranapk.cf/cdn/TG@Ranapk73-32/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="http://images.zaltv.club/logo/bt_sport_3_hd.png" group-title="SPORTS-2", BT Sport 3 HD
 http://ranapk.cf/cdn/TG@Ranapk73-33/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="QA beIN Sports English 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="SPORTS-2",beIN Sports English 1
 https://hostcloud.network/live/Ashley689/673175/32916.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="SPORTS-2",beIN Sports English 2
 https://hostcloud.network/live/Ashley689/673175/32915.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="QA beIN Sports English 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/33be90fdfdbfbf011c3e65d621196ec8.png" group-title="SPORTS-2",beIN Sports English 3
 http://ranapk.cf/cdn/TG@Ranapk73-46/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVIchK2eAq0HD_lMjld16YYmyQ7F3zxTEmw&usqp=CAU" group-title="SPORTS-2",beIN Sports English Premium 1
-#EXTVLCOPT:http-user-agent=golive.tv/2.0.0
 http://ranapk.cf/cdn/TG@Ranapk73-61/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzB97GTt-J8qQ-IGpWkapZE8UwjF0MdcHbAA&usqp=CAU" group-title="SPORTS-2",beIN Sports English Premium 2
-#EXTVLCOPT:http-user-agent=golive.tv/2.0.0
 http://ranapk.cf/cdn/TG@Ranapk73-90/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNDqSpu9cYBhujfm_vRAUtEDTMVFMTafVGRQ&usqp=CAU" group-title="SPORTS-2",beIN Sports English Premium 3
-#EXTVLCOPT:http-user-agent=golive.tv/2.0.0
 https://hostcloud.network/live/Ashley689/673175/32907.ts
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Pqk1wm0m/BS-xtra-1.png" group-title="SPORTS-2", beIN Sports Xtra 1
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/290037
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/XJs5mtq8/BS-xtra-2.png" group-title="SPORTS-2", beIN Sports Xtra 2
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/283294
 
@@ -1265,43 +1301,57 @@ http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motors_TV_old.svg/1112px-Motors_TV_old.svg.png" group-title="SPORTS-2",Motorvision
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="SPORTS-2",Astro Arena
 https://nonton.site:8443/mustakim/mustakim/37422
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.ibb.co/tmCH8Mf/ASTROARENA2.png" group-title="SPORTS-2", Astro Arena 2
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/287793
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS-2", ASSP 1
 https://nonton.site:8443/mustakim/mustakim/46413
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS-2", ASSP 2
 https://nonton.site:8443/mustakim/mustakim/46414
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS-2", ASSP 3
 https://nonton.site:8443/mustakim/mustakim/46415
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS-2", ASSP 4
 https://nonton.site:8443/mustakim/mustakim/46416
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORTS-2", ASSP 5
 https://nonton.site:8443/mustakim/mustakim/46417
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn.hqth.me/logo/world/cn/cctv5p.png" group-title="SPORTS-2", CCTV5+ HD
 http://live.tvfix.org/hls/cctv5phd.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/gkcH2q8Q/Fox-sports-501.jpg" group-title="SPORTS-2", FOX SPORTS 501 HD
 http://iptv12k.com:35461/live/80301070602/456776/3391.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/279034
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/XvtCK9Zj/Fox-Sports502-HD.jpg" group-title="SPORTS-2", FOX SPORTS 502 HD
 http://iptv12k.com:35461/live/80301070602/456776/3390.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/81784
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/CxZtdNYm/Fox-Sports503-HD.jpg" group-title="SPORTS-2", FOX SPORTS 503 HD
 http://iptv12k.com:35461/live/80301070602/456776/3389.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/280192
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/tRN8ck9M/Fox-Sports504-HD.jpg" group-title="SPORTS-2", FOX SPORTS 504 HD
 http://iptv12k.com:35461/live/80301070602/456776/3388.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/280193
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/hG10GzJ2/Fox-Sports505-HD.jpg" group-title="SPORTS-2", FOX SPORTS 505 HD
 http://iptv12k.com:35461/live/80301070602/456776/3387.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/144772
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/HWytNkHv/Fox-Sports506-HD.jpg" group-title="SPORTS-2", FOX SPORTS 506 HD
 http://iptv12k.com:35461/live/80301070602/456776/3386.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/279033
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/rpbqKJDJ/Fox-Sports507-HD.jpg" group-title="SPORTS-2", FOX SPORTS 507 HD
 http://iptv12k.com:35461/live/80301070602/456776/3385.m3u8
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/280194
@@ -2179,50 +2229,65 @@ http://210.210.155.35/dr9445/h/h03/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 
 ##########################MALAYSIA##########################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="TV1" group-title="MALAYSIA" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png",TV1
 http://iptv12k.com:35461/live/80301070602/456776/742
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="TV2" group-title="MALAYSIA" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png",TV2
 http://iptv12k.com:35461/live/80301070602/456776/741
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="TV3" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png" group-title="MALAYSIA",TV3
 http://iptv12k.com:35461/live/80301070602/456776/334
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Awesome TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awesome-tv-my.png" group-title="MALAYSIA",Awesome TV
 http://iptv12k.com:35461/live/80301070602/456776/743
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-name="Awesome TV" tvg-logo="" group-title="MALAYSIA",My-Astro Box Office Movies
 http://51.81.208.129:35461/80301062102/732099/1825
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Boo.my" tvg-name="BOO" tvg-logo="https://almondmagazine.com/wp-content/uploads/2017/10/BOO-Logo.jpg" group-title="MALAYSIA",BOO
 http://iptv12k.com:35461/live/80301070602/456776/722
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="MALAYSIA", Astro Awani
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8|Referer=https://www.tvmalaysia.online/2021/06/awani.html?=1
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Warna
 https://nonton.site:8443/mustakim/mustakim/37335
 http://iptv12k.com:35461/live/80301070602/456776/9169
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Citra
 http://ky-iptv.com:80/walter6/walter/1350408.ts
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Prima
 https://nonton.site:8443/mustakim/mustakim/37333
 http://iptv12k.com:35461/live/80301070602/456776/5959
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA",Astro Ria
 http://iptv12k.com:35461/live/80301070602/456776/4354
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Oasis
 http://iptv12k.com:35461/live/80301070602/456776/732
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://assets.laliga.com/assets/2020/10/23/large/e7d33a854854ec528705e1dd5e34ddab.png" group-title="MALAYSIA", Astro Ceria
 http://iptv12k.com:35461/live/80301070602/456776/730
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Aura
 https://nonton.site:8443/mustakim/mustakim/37468
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA",Astro Rania
 http://iptv12k.com:35461/live/80301070602/456776/728
 
@@ -2830,4 +2895,148 @@ http://iptvid.my.id/hmm/uchannel.m3u8?by=iptv_id
 http://iptvid.my.id/hmm/muitv.m3u8?by=iptv_id
 #EXTINF:-1 tvg-id="" tvg-name="Seru" tvg-logo="h" group-title="IPTV-ID",Seru Channel
 http://iptvid.my.id/hmm/seru.m3u8
+
+
+##########################PHILIPPINES##########################
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", GMA
+https://iptv-sniper.herokuapp.com/localtv.php?channel=5  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",One PH
+https://iptv-sniper.herokuapp.com/localtv.php?channel=6  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",GTV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=7  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",TV5
+https://iptv-sniper.herokuapp.com/localtv.php?channel=8  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",TMC
+https://iptv-sniper.herokuapp.com/localtv.php?channel=9  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",CNN PH
+https://iptv-sniper.herokuapp.com/localtv.php?channel=10  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Kapamilya Channel
+https://iptv-sniper.herokuapp.com/localtv.php?channel=11  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",PBO
+https://iptv-sniper.herokuapp.com/localtv.php?channel=12  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Viva Cinema
+https://iptv-sniper.herokuapp.com/localtv.php?channel=13  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Cinema 1
+https://iptv-sniper.herokuapp.com/localtv.php?channel=14  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",HBO FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=15  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Cinemax FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=16  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Fight
+https://iptv-sniper.herokuapp.com/localtv.php?channel=18  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Warner
+https://iptv-sniper.herokuapp.com/localtv.php?channel=21  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Hits Movie FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=22  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Dreamworks
+https://iptv-sniper.herokuapp.com/localtv.php?channel=23  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Animax
+https://iptv-sniper.herokuapp.com/localtv.php?channel=24  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Nick Jr
+https://iptv-sniper.herokuapp.com/localtv.php?channel=27  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Nick FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=28  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Cartoon Net
+https://iptv-sniper.herokuapp.com/localtv.php?channel=29  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Boomerang
+https://iptv-sniper.herokuapp.com/localtv.php?channel=30  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TAP Sports FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=31 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",  ESPN FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", BBC Earth FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=33 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Information Channel
+https://iptv-sniper.herokuapp.com/localtv.php?channel=34  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",CI
+https://iptv-sniper.herokuapp.com/localtv.php?channel=35  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",Premier Sports
+https://iptv-sniper.herokuapp.com/localtv.php?channel=36  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",ANC
+https://iptv-sniper.herokuapp.com/localtv.php?channel=37  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",CNN Int
+https://iptv-sniper.herokuapp.com/localtv.php?channel=38  
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Fox News
+https://iptv-sniper.herokuapp.com/localtv.php?channel=39 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", BBC WN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=40 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", ANC
+https://iptv-sniper.herokuapp.com/localtv.php?channel=41 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", One PH FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=42 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", CNBC
+https://iptv-sniper.herokuapp.com/localtv.php?channel=43 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Bloomberg
+https://iptv-sniper.herokuapp.com/localtv.php?channel=44 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Discovery FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=45 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Discovery Asia
+https://iptv-sniper.herokuapp.com/localtv.php?channel=46 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TLC FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=47 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Eurosport
+https://iptv-sniper.herokuapp.com/localtv.php?channel=48 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Animal Planet FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=49 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", One Sports
+https://iptv-sniper.herokuapp.com/localtv.php?channel=50 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Natgeo Wild FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=51 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", History FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=53 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Lifetime
+https://iptv-sniper.herokuapp.com/localtv.php?channel=55 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Rock Entertainment
+https://iptv-sniper.herokuapp.com/localtv.php?channel=56 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Rock Ext
+https://iptv-sniper.herokuapp.com/localtv.php?channel=57 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Metro Channel
+https://iptv-sniper.herokuapp.com/localtv.php?channel=58 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Paramount Network Asia
+https://iptv-sniper.herokuapp.com/localtv.php?channel=59 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", AXN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=62 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", AFN FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=63 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Natgeo FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=64 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",  Natgeo FHD
+http://103.105.213.251:8443/live/pWn4CJR07R2i2a8Z56p9IQ/1657923819/64.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", KBSW FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=65 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", MTV FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=66 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Myx Philippines
+https://iptv-sniper.herokuapp.com/localtv.php?channel=75 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Jeepney TV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=76 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Karaoke
+https://iptv-sniper.herokuapp.com/localtv.php?channel=77 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TechStrom
+https://iptv-sniper.herokuapp.com/localtv.php?channel=78 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", NA
+https://iptv-sniper.herokuapp.com/localtv.php?channel=79 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", AFN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=81 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Fight
+https://iptv-sniper.herokuapp.com/localtv.php?channel=82 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TVe
+https://iptv-sniper.herokuapp.com/localtv.php?channel=83 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", NA Chn
+https://iptv-sniper.herokuapp.com/localtv.php?channel=84 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TVN
+https://iptv-sniper.herokuapp.com/localtv.php?channel=85 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Baby TV FHD
+https://iptv-sniper.herokuapp.com/localtv.php?channel=86 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", HGTV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=87 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Lotus Macau
+https://iptv-sniper.herokuapp.com/localtv.php?channel=91 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", DWTV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=94 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", France24
+https://iptv-sniper.herokuapp.com/localtv.php?channel=95 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Fashion TV
+https://iptv-sniper.herokuapp.com/localtv.php?channel=96 
 
