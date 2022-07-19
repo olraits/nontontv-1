@@ -453,8 +453,8 @@ http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", Paramount
-http://iptvid.my.id/hmm/paramount.m3u8?by=iptv_id
 https://iptv-sniper.herokuapp.com/localtv.php?channel=59
+http://iptvid.my.id/hmm/paramount.m3u8?by=iptv_id
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -489,7 +489,7 @@ http://210.210.155.35/uq2663/h/h19/index10.m3u8?app_type=web&userid=50n13N0v14nd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg",HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTVLCOPT:http-user-agent=android-12
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",Star World
 https://nonton.site:8443/mustakim/mustakim/381
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
@@ -536,12 +536,16 @@ https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png",Vision Prime
 https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#EXTVLCOPT:http-user-agent=android-12
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQNqx-MAatDqHcaGMXpdyZjB7QWuPD9hAgUg&usqp=CAU" group-title="ENTERTAINMENT", Citra Drama
+https://tvn10.xyz/Meta/master-3.m3u8
 https://nonton.site:8443/mustakim/mustakim/905
 
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj_Gr0busW2WRb7GIMIyGeXlPLor2G1KwQxTUlnycRCn2pqB7i99ci5mNpuGHQYxBu7JHEtJQ_I4wj7Team23eh_VeZ7lejyRna5MbUl7oyBVRJZuBOvwsdM01pnDYeeaIovxkN6UjFxEyseWQtahH4UETT-1onKg-xxb9XYQsJMQevKSFpO7daB2Er=s320" group-title="ENTERTAINMENT", Citra Entertainment
-#
+#EXTVLCOPT:http-user-agent=android-12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpKKTDDNWkcWF4-Eu_npO3umWKFXhu-DdgYQ&usqp=CAU" group-title="ENTERTAINMENT",Citra Entertainment
+https://tvn10.xyz/Meta/master-12.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -908,7 +912,7 @@ https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.
 https://on-load.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
 #EXTINF:-1 tvg-logo="https://bit.ly/3hQ0irW" group-title="MOVIES" tvg-id="" tvg-name="", Star Chinese Movies
-http://iptvid.my.id/hmm/starcm.m3u8?by=iptv_id
+http://iptvid.my.id/hmm/starcm.m3u8
 https://nonton.site:8443/mustakim/mustakim/780
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1027,13 +1031,13 @@ https://liveanevia.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bH4brzz/BIOSKOPINDONESIA.png" group-title="MOVIES", Bioskop Indonesia
-http://iptvid.my.id/hmm/biosid.m3u8?by=iptv_id
+http://iptvid.my.id/hmm/biosid.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="https://i.ibb.co/9nnHrv9/SINEMAINDONESIA.png" group-title="MOVIES",Sinema Indonesia
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="MOVIES",Flik
-http://iptvid.my.id/hmm/flik.m3u8?by=iptv_id
+http://iptvid.my.id/hmm/flik.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1076,7 +1080,7 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 http://190.2.155.162:8080/m6music/mpegts
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV
-http://iptvid.my.id/hmm/mtv.m3u8?by=iptv_id
+http://iptvid.my.id/hmm/mtv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV Live
 http://iptv12k.com:35461/live/80301070602/456776/264
@@ -1170,14 +1174,24 @@ https://dtaarjaj1diy9.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTVLCOPT:http-user-agent=android-12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1  tvg-logo="https://bit.ly/3b0w4i8" group-title="SPORTS",Champion 1
-https://magakasih.my.id/heh/champion1.m3u8
+https://tvn10.xyz/Meta/master-7.m3u8
+#EXTVLCOPT:http-user-agent=android-12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1  tvg-logo="https://bit.ly/3G5WH3L" group-title="SPORTS",Champion 2
-https://magakasih.my.id/heh/champion2.m3u8
+https://tvn10.xyz/Meta/master-8.m3u8
+#EXTVLCOPT:http-user-agent=android-12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion 3
-https://magakasih.my.id/heh/champion3.m3u8
+https://tvn10.xyz/Meta/master-9.m3u8
+#EXTVLCOPT:http-user-agent=android-12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1  tvg-logo="https://bit.ly/3C7O4TU" group-title="SPORTS",Champion 4
-#
+https://tvn10.xyz/Meta/master-10.m3u8
+#EXTVLCOPT:http-user-agent=android-12
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTINF:-1  tvg-logo="https://thumbor.prod.vidiocdn.com/8Adkatc5FOn7sDWcDXU7_DZAo6o=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9045/champions-tv-goal-a7fc3e.jpg" group-title="SPORTS",Champion Goal
 #
 
@@ -3001,8 +3015,6 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=62
 https://iptv-sniper.herokuapp.com/localtv.php?channel=63 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Natgeo FHD
 https://iptv-sniper.herokuapp.com/localtv.php?channel=64 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES",  Natgeo FHD
-http://103.105.213.251:8443/live/pWn4CJR07R2i2a8Z56p9IQ/1657923819/64.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", KBSW FHD
 https://iptv-sniper.herokuapp.com/localtv.php?channel=65 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", MTV FHD
