@@ -3020,7 +3020,6 @@ http://iptvid.my.id/hmm/prambors.m3u8
 http://iptvid.my.id/hmm/ikonser.m3u8
 
 
-
 ##########################PHILIPPINES##########################
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", GMA
@@ -3161,3 +3160,226 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=94
 https://iptv-sniper.herokuapp.com/localtv.php?channel=95 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Fashion TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=96 
+
+
+##########################HINDI##########################
+
+#EXTINF:-1 tvg-id="47874" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png", HINDI ANIMAL PLANET WORLD HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=47874
+
+#EXTINF:-1 tvg-id="51385" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com.png", HINDI MH ONE NEWS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=51385
+
+#EXTINF:-1 tvg-id="48102" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HINDICOLORS.png", HINDI COLORS HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48102
+
+#EXTINF:-1 tvg-id="48104" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/StarBharatOfficialLogo.png", HINDI STAR BHARAT HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48104
+
+#EXTINF:-1 tvg-id="48105" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png", SPORTS STAR SPORTS 1 HINDI HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48105
+
+#EXTINF:-1 tvg-id="48107" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/stargoldne.png", HINDI STAR GOLD HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48107
+
+#EXTINF:-1 tvg-id="48108" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/stargoldne.png", HINDI STAR GOLD SELECT HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48108
+
+#EXTINF:-1 tvg-id="48109" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/starpluss.png", HINDI STAR PLUS HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48109
+
+#EXTINF:-1 tvg-id="48112" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETVVV2.png", HINDI ZEE TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48112
+
+#EXTINF:-1 tvg-id="48113" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Zee-Cinema1.png", HINDI ZEE CINEMA HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48113
+
+#EXTINF:-1 tvg-id="48125" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/b4umoviess.png", HINDI B4U MOVIES
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48125
+
+#EXTINF:-1 tvg-id="48126" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/enter-10-tv-channel-logo-300x300.png", HINDI ENTER 10 MOVIES
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48126
+
+#EXTINF:-1 tvg-id="48127" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/nat123.png", HINDI NAT GEO WILD HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48127
+
+#EXTINF:-1 tvg-id="48128" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDANDFLX.png", HINDI AND FLIX HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48128
+
+#EXTINF:-1 tvg-id="48130" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ANDTV.png", HINDI AND TV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48130
+
+#EXTINF:-1 tvg-id="48132" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/evergreen.png", HINDI EVERGREEN CLASSIC
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48132
+
+#EXTINF:-1 tvg-id="48133" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/active14.png", MOVIES ACTIVE FHD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48133
+
+#EXTINF:-1 tvg-id="48134" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/UTV_HD.png", HINDI UTV ACTION
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48134
+
+#EXTINF:-1 tvg-id="48135" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/andpicturess.png", HINDI AND PICTURES HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48135
+
+#EXTINF:-1 tvg-id="48139" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Aaj_tak_logo.png", HINDI AAJ TAK HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48139
+
+#EXTINF:-1 tvg-id="48141" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/cneplex.png", HINDI CINEPLEX HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48141
+
+#EXTINF:-1 tvg-id="48142" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sony1231.png", HINDI SONY PIX HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48142
+
+#EXTINF:-1 tvg-id="48143" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/utvlv.png", HINDI UTV HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48143
+
+#EXTINF:-1 tvg-id="48149" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo/natgeo.png", HINDI NAT GEO HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48149
+
+#EXTINF:-1 tvg-id="48151" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sonymax123.png", HINDI SONY MAX HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48151
+
+#EXTINF:-1 tvg-id="48152" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sonysab123.png", HINDI SONY SAB HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48152
+
+#EXTINF:-1 tvg-id="48156" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/historytv18.png", HINDI HISTORY TV 18 HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48156
+
+#EXTINF:-1 tvg-id="48158" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/miniplex_fb.png", HINDI MINIPLEX HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48158
+
+#EXTINF:-1 tvg-id="48160" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mvsnows.png", HINDI MOVIES NOW HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48160
+
+#EXTINF:-1 tvg-id="48161" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/Spanish/Fox_life_it.png", HINDI FOX LIFE HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48161
+
+#EXTINF:-1 tvg-id="48163" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png", HINDI MN PLUS HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48163
+
+#EXTINF:-1 tvg-id="48169" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mtvbeats.png", HINDI MTV BEATS HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48169
+
+#EXTINF:-1 tvg-id="48171" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/UTVMovies_logo.png", HINDI UTV MOVIES
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48171
+
+#EXTINF:-1 tvg-id="48175" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Dishtv_2011.png", HINDI STAR UTSAV MOVIES
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48175
+
+#EXTINF:-1 tvg-id="48180" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/music4u.png", HINDI B4U MUSIC
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48180
+
+#EXTINF:-1 tvg-id="48182" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ABPNEWS1.png", HINDI ABP NEWS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48182
+
+#EXTINF:-1 tvg-id="48184" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDZNG.png", HINDI ZING
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48184
+
+#EXTINF:-1 tvg-id="48185" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/NDNEWS.png", HINDI INDIA TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48185
+
+#EXTINF:-1 tvg-id="48187" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/DANGAL.png", HINDI DANGAL
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48187
+
+#EXTINF:-1 tvg-id="48189" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeenewss.png", HINDI ZEE NEWS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48189
+
+#EXTINF:-1 tvg-id="48190" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ndtv2.png", HINDI NDTV INDIA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48190
+
+#EXTINF:-1 tvg-id="51218" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com.png", STAR SPORTS HINDI HD 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=51218
+
+#EXTINF:-1 tvg-id="51165" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com.png", HINDI SONY HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=51165
+
+#EXTINF:-1 tvg-id="48221" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDNEWS25.png", HINDI NEWS 24
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48221
+
+#EXTINF:-1 tvg-id="48242" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/foodfodd.png", HINDI FOOD FOOD HD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48242
+
+#EXTINF:-1 tvg-id="48253" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/NDTVPROF27.png", HINDI NDTV 24x7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48253
+
+#EXTINF:-1 tvg-id="48255" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SONYMAXX2.png", HINDI SONY MAX 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48255
+
+#EXTINF:-1 tvg-id="48258" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDNEWS25.png", HINDI E NEWS 24
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48258
+
+#EXTINF:-1 tvg-id="48276" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zee_action_hover.png", HINDI ZEE ACTION
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48276
+
+#EXTINF:-1 tvg-id="48282" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/republcbharat.png", HINDI REPUBLIC NEWS
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48282
+
+#EXTINF:-1 tvg-id="48283" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeeanmoll.png", HINDI ZEE ANMOL CINEMA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48283
+
+#EXTINF:-1 tvg-id="48287" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeenewss.png", HINDI ZEE NEWS UP
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48287
+
+#EXTINF:-1 tvg-id="48290" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/News18_Rajasthan.png", HINDI NEWS 18 INDIA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48290
+
+#EXTINF:-1 tvg-id="48302" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETVVV2.png", HINDI ZEE ANMOL
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48302
+
+#EXTINF:-1 tvg-id="48303" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETCBOLL.png", HINDI ZEE ETC BOLLYWOOD
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://ranapk.cf/api/REDx.php?id=48303
