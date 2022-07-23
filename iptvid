@@ -28,7 +28,7 @@ http://iptvid.my.id/hmm/useeinfo.m3u8
 #EXTINF:-1 tvg-name="Usee Prime" tvg-logo="http://images.useetv.com/logo_useeprime_big1.png" group-title="LOCAL",Usee Prime
 http://iptvid.my.id/hmm/useeprime.m3u8
 #EXTINF:-1 tvg-name="Usee Photo" tvg-logo="https://images.useetv.com/logo_useephoto_small.png?v=2.0.0.13" group-title="LOCAL",Usee Photo
-http://iptvid.my.id/hmm/useephoto.m3u8
+http://iptvid.my.id/hmm/useephoto.m3u8h
 #EXTINF:-1 tvg-name="Ruang Trampil" tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_big.png" group-title="LOCAL",Ruang Trampil
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=979d472a84804b9f647bc185a877a8b5268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-id="tvri" tvg-name="TVRI" tvg-logo="http://images.useetv.com/logo_tvri_big1.png" group-title="LOCAL",TVRI
@@ -126,15 +126,15 @@ http://iptvid.my.id/hmm/nhkp.m3u8
 #EXTINF:-1 tvg-name="NHK World Japan" tvg-logo="http://images.useetv.com/logo_nhkworld_big.png" group-title="NEWS",NHK World Japan
 http://iptvid.my.id/hmm/nhkw.m3u8
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" tvg-logo="https://i.ibb.co/L9rY2tN/hbo.png" group-title="MOVIES",HBO
-https://nonton.site:8443/mustakim/mustakim/210
+http://mkcfc.freevar.com/pess/hbo.m3u8
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://i.ibb.co/8mgc3qG/hbohits.png" group-title="MOVIES",HBO Hits
-https://nonton.site:8443/mustakim/mustakim/591
+http://mkcfc.freevar.com/pess/hits.m3u8
 #EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://i.ibb.co/WfRpvsJ/cinemax.png" group-title="MOVIES",Cinemax
-https://nonton.site:8443/mustakim/mustakim/2156
+http://mkcfc.freevar.com/pess/cin.m3u8
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://i.ibb.co/4TFkw0B/hbosignature.png" group-title="MOVIES",HBO Signature
-https://nonton.site:8443/mustakim/mustakim/1498
+http://mkcfc.freevar.com/pess/sig.m3u8
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.ibb.co/0GWjcWV/hbofamily.png" group-title="MOVIES",HBO Family
-https://nonton.site:8443/mustakim/mustakim/592
+http://mkcfc.freevar.com/pess/fam.m3u8
 #EXTINF:-1 tvg-name="Galaxy Movies Premium" tvg-logo="http://images.useetv.com/logo_galaxypremium_big.png" group-title="MOVIES",Galaxy Movies Premium
 http://iptvid.my.id/hmm/glxprem.m3u8
 #EXTINF:-1 tvg-name="Galaxy" tvg-logo="http://images.useetv.com/logo_galaxy_big1.png" group-title="MOVIES",Galaxy
