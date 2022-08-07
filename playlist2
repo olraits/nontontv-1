@@ -1,97 +1,142 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Trans7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d1de8748c99d6110e28b0729da083257.png" group-title="Local",Trans7
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162502
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-id="" tvg-name="Magna_TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="Local",Magna_TV
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="Local",GTV
-http://202.150.172.59:8888/play/channel41
-
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Local",GTV
+http://203.77.246.50:5000/udp/239.1.3.68:5000
 #EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Local",RCTI
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157591
+http://203.77.246.50:5000/udp/239.1.3.80:5000
 #EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/56f2ba8d1d05b475638d51b582eca051.png" group-title="Local",Net TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266806
-#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="Local",MNCTV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165054
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="Local",Bali TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/197962
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="Local",RTV
-http://202.150.172.59:8888/play/channel38
-
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=33e75ff09dd601bbe69f351039152189268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="Local",RTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=b132ecc1609bfcf302615847c1caa69a446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="Local",TVRI
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162504
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c74d97b01eae257e44aa9d5bade97baf268ef7e5a44f541a7cbde7626ef57566
 #EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/a0a75cd617e74b1cd72c6be7a8156f52.png" group-title="Local",Kompas TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266804
-#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="" group-title="Local",JTV
-http://202.150.172.59:8888/play/channel33
-
-#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="" group-title="Local",Indosiar
-http://202.150.172.59:8888/play/channel13
-
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="Local",ANTV
-http://202.150.172.59:8888/play/channel12
-
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="Local",SCTV
-http://202.150.172.59:8888/play/channel11
-
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=51ef186e18dc00c2d31982567235c559446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png" group-title="Local",JTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6ea9ab1baa0efb9e19094440c317e21b268ef7e5a44f541a7cbde7626ef57566
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="Local",Indosiar
+https://tvn10.xyz/Meta/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Local",ANTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="Local",SCTV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Local",Trans TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162503
-#EXTINF:-1 tvg-id="" tvg-name="Daai TV" tvg-logo="" group-title="Local",Daai TV
-http://202.150.172.59:8888/play/channel1
-
-#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="" group-title="Local",Bali TV
-http://202.150.172.59:8888/play/channel37
-
-#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV" tvg-logo="" group-title="Local",Nusantara TV
-http://203.77.246.50:5000/udp/239.1.1.14:5000
-#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="Local",Metro TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165059
-#EXTINF:-1 tvg-id="" tvg-name="TVone" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Local",TVone
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/296214
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-id="" tvg-name="Daai TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="Local",Daai TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV" tvg-logo="https://thumbor.prod.vid.id/z4x2PkBTzTivB-VIK84936zZZVU=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7432/nusantara-tv-6e9626.jpg" group-title="Local",Nusantara TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=48bea99c85bcbaaba618ba10a6f69e44446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-id="" tvg-name="Bandung TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="Local",Bandung TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/166416
-#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c84e61a2f5f7eb96c56b28e2258b34f5.png" group-title="Local",Berita Satu
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162513
-#EXTINF:-1 tvg-id="" tvg-name="Berita Satu World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="Local",Berita Satu World
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162136
-#EXTINF:-1 tvg-id="" tvg-name="BeritaSatu English" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="Local",BeritaSatu English
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/287421
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="Local",CNN Indonesia
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162137
+http://202.150.153.254/bandungtv720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jak TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="Local",Jak TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157601
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=3891b14b5d8cce2fdd8dcdb4ded28f6d446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-id="" tvg-name="RRI Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="Local",RRI Net
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266816
+https://cdnrrinet.rri.co.id/rrinet/live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 1" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="Sport",Champions TV 1
+https://tvn10.xyz/Meta/master-7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 2" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="Sport",Champions TV 2
+https://tvn10.xyz/Meta/master-8.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 3" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="Sport",Champions TV 3
+https://tvn10.xyz/Meta/master-9.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV Goal" tvg-logo="https://i.imgur.com/AcBSHlM.png" group-title="Sport",Champions TV Goal
+https://tvn10.xyz/Meta/master-10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="Sport",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1656208805~exp=9007200910949796~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=181053f73f2b60c4c09d07fcbee45eeb3603c78d966f9810f190f8b31574cba2
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="Sport",SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1655715604~exp=9007200910456595~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=3d68badae101f8edfa354550208282166f263e165eb7df0cd9dac20a4d22759a
+#EXTINF:-1 tvg-id="" tvg-name="Useesport" tvg-logo="" group-title="Sport",Useesport
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/usee.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Useesport 2" tvg-logo="" group-title="Sport",Useesport 2
+https://dukun.masuk.id/2bd1f38e9c4f7063dca346aa73ccaa9733ae2f3ce554cbb36c2ab751b111eb6122b4ef08-b57bd4497d38801fc435f9e3d1f4bc97-1657019402-1657008602/olahraga/usee2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO.SUPERSPORTS 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 1 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO.SUPERSPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 2 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO.SUPERSPORTS 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 3 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO.SUPERSPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 4 HD
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+#EXTINF:-1 tvg-id="" tvg-name="AstroSuperSports 5 HD" tvg-logo="" group-title="Sport",AstroSuperSports 5 HD
+http://iptv12k.com:35461/live/80301070602/456776/7981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeINSport_2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sport",BeINSport_2 ID
+https://nonton.site:8443/mustakim/mustakim/729
+#EXTINF:-1 tvg-id="" tvg-name="beINSPORTS 1 HD+" tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.pn" group-title="Sport",beINSPORTS 1 HD+
+http://2111.space:8080/live/hossam1/hossam1/42486.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 2 HD+
+http://2111.space:8080/live/hossam1/hossam1/42487.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 3 HD+
+http://2111.space:8080/live/hossam1/hossam1/42488.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 4 HD+
+http://2111.space:8080/live/hossam1/hossam1/42489.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 5 HD+
+http://2111.space:8080/live/hossam1/hossam1/42490.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 6 HD+
+http://2111.space:8080/live/hossam1/hossam1/42491.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 7 HD+
+http://2111.space:8080/live/hossam1/hossam1/42492.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS PREMIUM 1 HD+
+http://2111.space:8080/live/hossam1/hossam1/42493.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS PREMIUM 2 HD+
+http://2111.space:8080/live/hossam1/hossam1/42494.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS PREMIUM 3 HD+
+http://2111.space:8080/live/hossam1/hossam1/42495.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_XTRA_01" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Sport",BeIN_Sport_XTRA_01
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/10
+#EXTINF:-1 tvg-ID="" tvg-name="BeIN_Sport_XTRA_02" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Sport",BeIN_Sport_XTRA_02
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/53670
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 1 HD
+http://2111.space:8080/live/hossam1/hossam1/39226.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 2 HD
+http://2111.space:8080/live/hossam1/hossam1/39227.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 3 HD
+http://2111.space:8080/live/hossam1/hossam1/39228.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 4 HD
+http://2111.space:8080/live/hossam1/hossam1/39229.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 5 HD
+http://2111.space:8080/live/hossam1/hossam1/39230.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 6 HD
+http://2111.space:8080/live/hossam1/hossam1/39231.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 7 HD
+http://2111.space:8080/live/hossam1/hossam1/39232.ts
+#EXTINF:-1 tvg-id="" tvg-name="beINSports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/71ef14c9cb17feb6a94adc20f1be0c4a.png" group-title="Sport",beINSports
+https://nonton.site:8443/mustakim/mustakim/37432
 #EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bb9cc634e4ef4812034bbe9a4ddb655f.png" group-title="Sport",Fight Sport
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157606
-#EXTINF:-1 tvg-id="" tvg-name="Pace Sport" tvg-logo="" group-title="Sport",Pace Sport
+https://nonton.site:8443/mustakim/mustakim/784
+#EXTINF:-1 tvg-id="" tvg-name="Pace Sport" tvg-logo="https://www.peace-sport.org/wp-content/uploads/2018/09/logo_ps.png" group-title="Sport",Pace Sport
 http://203.77.246.50:5000/udp/239.1.2.218:5000
-#EXTINF:-1 tvg-id="" tvg-name="One Sports" tvg-logo="" group-title="Sport",One Sports
+#EXTINF:-1 tvg-id="" tvg-name="One Sports" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHcAAABbCAMAAAB ier1AAAAwFBMVEX///8BJpgAIpc/TaYAAJD2yR4AH5rduDv4zCP2xwT30U376LH3zTX /PMAD5MAJJcAGJXe4e6doszl6fMAAIuWm8m/wNzw8vj5 v0ACJKPk8M SaTKzeP75qvW2OkAG5v53INja7Judbeus9VJU6h5frsPLJqorNEmOJ4eM51TXqxrX4AACpz/0Rf41F7  Ob867z989iAhb02QqEyOI6UgGzNqkrCoFN6bHmdhWXqwjL64Zn52XaBcXbFpEzpxErADmSIAAAH30lEQVRogcVaCXebOBAGWWhN2kjCYC47NL64mhPvnezu//9XO IQGDAmset r 8Fg0YfmpHmoooi4dj Kp38KKRr33aULpYrjDlBPw6EY7xatljNFBP1x4PgldmktSm/AqsA53ZNG2F0JVpVRXgjV4vZ1WhVleFyxQa93moFEC1snF5jRzVB0kLLV6ZVVSyO0/a6WhZAWzi51tVpVdUylYj BF4aKbtr7yoBslMmA ZlAsMzHB0xKIsmSnjsIaKYorD4U9/ltAAvh6AwJLjtABjxPBaGjGPevyoWKkeWwfHEtwPTcczA9ieYl29HMr9AxsHx7Of5iKUfNz0e8sLVJn9gLLPFkXjTz8t5FjTjRrDz8gUyWoUTByMSyefurF4YDWfNOLtMe71wL28rWuWBcoUPeE2cGM3nRlgS453bErX7/HAPL6sjRhMRvHeTt5U8GJQdkzV7rNzlZTjoiuYaw6zmNYz245knZNsJRUHcXXGH9yhtTkw7BqihIrVfU7A/OjGgw3tMNF8SHuL1OV83fjpOw9B 2yu2eQ9Ejc18ZjeZtrj5yzWNppEDjORP15 o6j6Tv50QDfIyXk9sTzCmFPN1fSuwGrzzPeHhqmFna15dmTFGiCHKpbnbC27x8qxWTXniGSe1xdOaJsWIMcR5fUducTcunQWq9yFlQ7yepNjUWwHV2rU7z3kqeVfVReZ1zdaKA4e8aC8N0vQyZCEVKN8grubBcsFVhuoQKVvbraXoQ16 q aYHwzrHktXqgPLhLiisC0sYVVPW nUIa8nD9GhWur3kRxyGi9qPwvsBiptBIcGbvFW62rt 1r/Pbyz9rNemGQMr6kejELh2bwOGrXei/Mq6gBvvUfiS vZHeKlco71QYHI/Y/wOkYPgiE9E3n0l4fnqHIXrjvAW52joHGOagz5KxRX826avLVPkmG3j1cewsWhkdQetPxk5SDc5jkiRMaV RCvfLumj2A49dQuWryVosGrcVxU4wjvpXN0wyHeWHpMX2qV4EiZ9ZRC7fhbWNKk1MrMTWxhy4ob/iiyzAHefR27N6JJQzi18gBmW52Uss2L8hCwwn5uaNcwm9mhg kQ76KZItnZarWblcODToLVzXMgAgd OxctJybDvHzfLwfD98P5hiDu PkKa08d5kV0fUTUWZzkPUoMtOwEL2Tt/bSTdp qr17opvwAY0vV07yql/Y0A42k0x7rrVNo0klmfSpSptO8UDB21OX3tMf66zKEk2ZxZWS4iNp9vLVPL3IF5qmzRtZp pT2FGbKkfIXUWufzSBfiOZrZFVlKHifrrvl1S1Uy8a57Ga2S2rZQ97keFHOKUzmUfKJbl4hiyk5UncnSnr9NhK8VgpVzU/ghfLgJ7Tr8rzG/Rl9MwwOYlcrmp2NcbR5Om6URwJ9eyDn4tvDtxHUrKi3/NzC3q //f7L2fjjT/bttJaLLNEFp428v7TH6QXw Pf3h1NanpTu31QJ/R1YNf1saNr08bdhYqJKL2o /PEIrE9vX87E3f1Unz5 H1I1Rw3n/Qq009duAPsE3vTp3 i478VpM8Y aVP9MrSK8q49/tO/YES8VoDVptr9hWiVV3367wPtwMM4TO3O0IstV7nVp//Nu5htgk4mcqdPp7eX4n3WtZuRQ9 10UNP40XXnkYO/ap9yrzmerfudhXf9LGTPcNufvkEb4R5T//1Rhs72Qtsq fi0qm7me5Ba9NtPADAb6hmCAS0vCJ2zHqkPtWex/HCUdfyC2NFME7WUOUE 8k yjhWi6TUzBI4Brt8Q0bxPgw2ycoIIeyxRRiAGKR28a4ojj6wrZ60YieYlCP4x61AmWOEQsg/i6 1S07BBSGaCOKUozjD2J7nZS0KXaMSMwvljTXv7VdNfxMXK472kR9bfv6NFGECmSlKQA0cqR6FHxyqYxfyUijKLWfPRSS1tkJsEWWJVeTR96PN 1x5jRihCawoyttISDWUADIQbsAKRc3kTBAjprLM2/k4UdwUMe6CXfcIbR3FLXf2jTbWvF AN/caMD/4bVEoL3FRgO84o4ZJWd4etj1x06cq44LDhdt5FbYVYvILzFT7Oo4WNFMONZGHVGLBejPgE3fWHJYoXmIpeaEYKbpr4na RoNRIVas93W0eYVm3osrd55A0WeJb8KMK3mXEsVKxQsvwRwTlF30TyDxLhvdrh CEnB kl70seYFP67fiQs7c4vZTAeLKtgxQPHeXDE8oDKdGRVdbEi3y6YtLBwHhqnYojmQcdVyC XpIz19FYwCgpNdtCIM57105CUcDKfCbFuiEjhVUPQ4gsAr2jaiyqOWE1AhlqKyhXkz2rzgNXTxN7LgDHoEgaEgpUZbUcdxKjgMj4vUmouttiBVjxS2kwpWmOViCBUN7tvxgbzyGoqxw5ZlJSAPZoVjCT/WhQEdcY2FuzI8QstPH YCbsKZNdZCLLZL5Y329BAU5Cu6edvIsFQqUtxmnDb7/i R9NgyVbvTx5pXeI3WK868ng8K4/A 2ryNYFQhpZwfa0SdwE2tuxMQXqOlGtMwBj4DDuF2tHOut9Ul8DravIL3/WK8b/roPO3 krzvo80r4nTbvp/G8/jTm7vnt8vQ3t5oH0jDIWnXn16eAbdn4fkL5C13H3jNez2vfLXp17Og6dp465Yrhnr5fOgfttftl/enm3PxfveR7fk/ByrAKHOatuMAAAAASUVORK5CYII=" group-title="Sport",One Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=50
-#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="" group-title="Sport",Eurosport
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/Eurosport_(2015).svg/revision/latest/scale-to-width-down/78?cb=20210911120727" group-title="Sport",Eurosport
 https://iptv-sniper.herokuapp.com/localtv.php?channel=48
 #EXTINF:-1 tvg-id="" tvg-name="Premier Sports" tvg-logo="" group-title="Sport",Premier Sports
 https://iptv-sniper.herokuapp.com/localtv.php?channel=36
-#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="" group-title="Sport",ESPN FHD
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD" tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo-500x300.png" group-title="Sport",ESPN FHD
 https://iptv-sniper.herokuapp.com/localtv.php?channel=32
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO.SUPERSPORTS 1 HD" tvg-logo="" group-title="Sport",ASTRO.SUPERSPORTS 1 HD
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO.SUPERSPORTS 2 HD" tvg-logo="" group-title="Sport",ASTRO.SUPERSPORTS 2 HD
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO.SUPERSPORTS 3 HD" tvg-logo="" group-title="Sport",ASTRO.SUPERSPORTS 3 HD
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO.SUPERSPORTS 4 HD" tvg-logo="" group-title="Sport",ASTRO.SUPERSPORTS 4 HD
-http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
-#EXTINF:-1 tvg-id="" tvg-name="beINSports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/71ef14c9cb17feb6a94adc20f1be0c4a.png" group-title="Sport",beINSports
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/295289
-#EXTINF:-1 tvg-id="" tvg-name="MNC News" tvg-logo="" group-title="News",MNC News
-http://202.150.172.59:8888/play/channel50
 
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="News",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeritaSatu English" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="News",BeritaSatu English
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="News",Berita Satu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c84e61a2f5f7eb96c56b28e2258b34f5.png" group-title="News",Berita Satu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVone" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="News",TVone
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6e0721b2c6977135b916ef286bcb49ec446503011668def857b1c03bafabba51
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="News",Metro TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=d3d9446802a44259755d38e6d163e820dfdded94c48ea6229c48edefa9ec1c9f
+#EXTINF:-1 tvg-id="" tvg-name="MNC News" tvg-logo="" group-title="News",MNC News
+http://iptvid.my.id/hmm/mncnews.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="News",IDX
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157590
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=1700002963a49da13542e0726b7bb758dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="" group-title="News",CCTV 4
 http://203.77.246.50:5000/udp/239.1.1.98:5000
 #EXTINF:-1 tvg-id="" tvg-name="CNA HD" tvg-logo="" group-title="News",CNA HD
@@ -115,9 +160,9 @@ http://203.77.246.50:5000/udp/239.1.2.152:5000
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/04f5a8cd3e6356c4f6859f02d8424dcc.png" group-title="News",Euronews
 http://203.77.246.50:5000/udp/239.1.2.206:5000
 #EXTINF:-1 tvg-id="" tvg-name="DWTV" tvg-logo="" group-title="News",DWTV
-https://iptv-sniper.herokuapp.com/localtv.php?channel=94
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=093f65e080a295f8076b1c5722a46aa2dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="News",Bloomberg
-https://iptv-sniper.herokuapp.com/localtv.php?channel=44
+https://nonton.site:8443/mustakim/mustakim/37386
 #EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="News",CNBC
 https://iptv-sniper.herokuapp.com/localtv.php?channel=43
 #EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="News",Fox News
@@ -127,36 +172,35 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=38
 #EXTINF:-1 tvg-id="" tvg-name="SEAToday" tvg-logo="" group-title="News",SEAToday
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-id="" tvg-name="Inews" tvg-logo="http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157579" group-title="News",Inews
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157579
+https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-http://mkcfc.freevar.com/pess/hbo.m3u8
+http://iptv12k.com:35461/live/80301070602/456776/599.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
-http://mkcfc.freevar.com/pess/hits.m3u8
+http://iptv12k.com:35461/live/80301070602/456776/598.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax FHD" tvg-logo="" group-title="Movies",Cinemax FHD
-http://mkcfc.freevar.com/pess/cin.m3u8
+http://iptv12k.com:35461/live/80301070602/456776/2114.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD" tvg-logo="" group-title="Movies",HBO Signature FHD
-http://mkcfc.freevar.com/pess/sig.m3u8
+http://iptv12k.com:35461/live/80301070602/456776/596.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
-http://mkcfc.freevar.com/pess/fam.m3u8
+http://iptv12k.com:35461/live/80301070602/456776/597.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="" group-title="Movies",Galaxy
 https://nonton.site:8443/mustakim/mustakim/29604
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="" group-title="Movies",Galaxy Premium
 https://nonton.site:8443/mustakim/mustakim/29603
 #EXTINF:-1 tvg-id="" tvg-name="My Cinema" tvg-logo="" group-title="Movies",My Cinema
-http://202.150.172.59:8888/play/channel23
-
+http://iptvid.my.id/hmm/mycn.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My Cinema Asia" tvg-logo="" group-title="Movies",My Cinema Asia
-http://202.150.172.59:8888/play/channel24
-
+http://iptvid.my.id/hmm/myca.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="My Family Cinema" tvg-logo="" group-title="Movies",My Family Cinema
-http://202.150.172.59:8888/play/channel30
-
+http://iptvid.my.id/hmm/myfc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Celestial Movie" tvg-logo="" group-title="Movies",Celestial Movie
 http://203.77.246.50:5000/udp/239.1.2.162:5000
 #EXTINF:-1 tvg-id="" tvg-name="Hits Movies HD" tvg-logo="" group-title="Movies",Hits Movies HD
 http://203.77.246.50:5000/udp/239.1.2.150:5000
 #EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Movies",Zee Bioskop
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157584
+http://210.210.155.35/qwr9ew/s/s32/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
 #EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="Movies",Animax
 https://iptv-sniper.herokuapp.com/localtv.php?channel=24
 #EXTINF:-1 tvg-id="" tvg-name="Sinema Indonesia" tvg-logo="" group-title="Movies",Sinema Indonesia
@@ -166,61 +210,53 @@ http://203.77.246.50:5000/udp/239.1.2.216:5000
 #EXTINF:-1 tvg-id="" tvg-name="ANiPlus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png" group-title="Movies",ANiPlus
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157611
 #EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Movies",TVN Movies
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157596
+http://iptvid.my.id/hmm/tvnmovie.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="Music",MTV
-http://202.150.172.59:8888/play/channel27
-
+https://nonton.site:8443/mustakim/mustakim/37460
 #EXTINF:-1 tvg-id="" tvg-name="MTV Live" tvg-logo="" group-title="Music",MTV Live
-http://202.150.172.59:8888/play/channel55
-
-#EXTINF:-1 tvg-id="" tvg-name="CDI" tvg-logo="" group-title="Music",CDI
-http://202.150.172.59:8888/play/channel57
-
+http://iptv12k.com:35461/live/80301070602/456776/2042.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="Music",Music TV
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165108
-#EXTINF:-1 tvg-id="" tvg-name="MCTV" tvg-logo="" group-title="Music",MCTV
-http://202.150.172.59:8888/play/channel15
-
 #EXTINF:-1 tvg-id="" tvg-name="V Channel" tvg-logo="" group-title="Music",V Channel
 http://203.77.246.50:5000/udp/239.1.1.144:5000
 #EXTINF:-1 tvg-id="" tvg-name="MUSICA_VIDIO" tvg-logo="" group-title="Music",MUSICA_VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
+
+
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="" group-title="Kids",ZooMoo
-http://202.150.172.59:8888/play/channel54
-
+https://tvn10.xyz/Meta/master-17.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kid TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="Kids",Kid TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162505
+http://210.210.155.35/x6bnqe/s/s81/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kids_Channel_-_Toonz_Kids_Trial-
 #EXTINF:-1 tvg-id="" tvg-name="Mkidz" tvg-logo="" group-title="Kids",Mkidz
-http://202.150.172.59:8888/play/channel18
-
+http://iptvid.my.id/hmm/mkidz.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="Kids",Nick Jr
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165107
+http://iptv12k.com:35461/live/80301070602/456776/619.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="Kids",Nickelodeon
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162510
+http://iptv12k.com:35461/live/80301070602/456776/2072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="Kids",Cartoon Network
 http://203.77.246.50:5000/udp/239.1.2.154:5000
 #EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="Kids",Boomerang
 http://203.77.246.50:5000/udp/239.1.2.158:5000
 #EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="Kids",Baby TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157605
+http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157605
 #EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="" group-title="Kids",Dreamworks
 https://iptv-sniper.herokuapp.com/localtv.php?channel=23
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="Kids",Disney Channel
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165075
+http://iptv12k.com:35461/live/80301070602/456776/2090.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="Kids",Disney Junior
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162511
+http://iptv12k.com:35461/live/80301070602/456776/2092.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Knowledge",Natgeo
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165094
+http://iptv12k.com:35461/live/80301070602/456776/2066.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Natgeo Wild" tvg-logo="" group-title="Knowledge",Natgeo Wild
-http://202.150.172.59:8888/play/channel20
-
+http://iptv12k.com:35461/live/80301070602/456776/2067.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="" group-title="Knowledge",Discovery
-http://202.150.172.59:8888/play/channel21
-
+http://iptvid.my.id/hmm/dsc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary HD" tvg-logo="" group-title="Knowledge",CGTN Documentary HD
 http://203.77.246.50:5000/udp/239.1.2.6:5000
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Knowledge",Animal Planet
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157532
+http://iptv12k.com:35461/live/80301070602/456776/633.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TechStrom" tvg-logo="" group-title="Knowledge",TechStrom
 https://iptv-sniper.herokuapp.com/localtv.php?channel=78
 #EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="Knowledge",History
@@ -230,43 +266,39 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=46
 #EXTINF:-1 tvg-id="" tvg-name="CI" tvg-logo="" group-title="Knowledge",CI
 https://iptv-sniper.herokuapp.com/localtv.php?channel=35
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Knowledge",BBC Earth
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165106
+http://server.sibfungold.info:8080/Audi27092018_ertfg/Porsche2018_2609hfgt/54166
 #EXTINF:-1 tvg-id="" tvg-name="Besmart" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/72c02ddde0fd068592b1e7a6e1aa137f.jfif" group-title="Knowledge",Besmart
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165087
+http://iptv12k.com:35461/live/80301070602/456776/2096.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lifestyle & Fashion" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="Lifestyle",Lifestyle & Fashion
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157592
+#
 #EXTINF:-1 tvg-id="" tvg-name="MNShop" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/c33ad21f989d25b8bd2805d6194d66af.png" group-title="Lifestyle",MNShop
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165104
+#
 #EXTINF:-1 tvg-id="" tvg-name="Life TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5962cc40b7622613af7204ef9f7a6f8e.png" group-title="Lifestyle",Life TV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157585
+#
 #EXTINF:-1 tvg-id="" tvg-name="AFN" tvg-logo="" group-title="Lifestyle",AFN
-http://202.150.172.59:8888/play/channel16
-
+https://nonton.site:8443/mustakim/mustakim/37412
 #EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="Lifestyle",TLC
 http://203.77.246.50:5000/udp/239.1.2.140:5000
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="" group-title="Lifestyle",Fashion TV
 https://iptv-sniper.herokuapp.com/localtv.php?channel=96
 #EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f8929646cc7613d81811e23bef5a87e.png" group-title="Lifestyle",HGTV
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162518
+http://iptvid.my.id/hmm/hgtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5be22eee185835440da0785681f85144.png" group-title="Lifestyle",Lifetime
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157587
+https://nonton.site:8443/mustakim/mustakim/866
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Ent" tvg-logo="" group-title="Entertainment",Ent
-http://202.150.172.59:8888/play/channel51
-
+#
 #EXTINF:-1 tvg-id="" tvg-name="IE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/3a532b97b276b74ea1ef354561eab5ee.jfif" group-title="Entertainment",IE
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/157582
+#
 #EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="" group-title="Entertainment",TVN
-http://202.150.172.59:8888/play/channel56
-
+https://nonton.site:8443/mustakim/mustakim/767
 #EXTINF:-1 tvg-id="" tvg-name="OKTV" tvg-logo="" group-title="Entertainment",OKTV
-http://202.150.172.59:8888/play/channel46
-
+#
 #EXTINF:-1 tvg-id="" tvg-name="Rock Ent" tvg-logo="" group-title="Entertainment",Rock Ent
-http://202.150.172.59:8888/play/channel29
-
+https://iptv-sniper.herokuapp.com/localtv.php?channel=56
 #EXTINF:-1 tvg-id="" tvg-name="Rock Ext" tvg-logo="" group-title="Entertainment",Rock Ext
-http://202.150.172.59:8888/play/channel28
-
+https://iptv-sniper.herokuapp.com/localtv.php?channel=57
 #EXTINF:-1 tvg-id="" tvg-name="K-Drama" tvg-logo="" group-title="Entertainment",K-Drama
 http://203.77.246.50:5000/udp/239.1.1.76:5000
 #EXTINF:-1 tvg-id="" tvg-name="Dubai TV HD" tvg-logo="" group-title="Entertainment",Dubai TV HD
@@ -286,7 +318,7 @@ http://203.77.246.50:5000/udp/239.1.2.36:5000
 #EXTINF:-1 tvg-id="" tvg-name="KBS Korea HD" tvg-logo="" group-title="Entertainment",KBS Korea HD
 http://203.77.246.50:5000/udp/239.1.2.38:5000
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Entertainment",AXN
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165079
+https://nonton.site:8443/mustakim/mustakim/37406
 #EXTINF:-1 tvg-id="" tvg-name="Sony One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="Entertainment",Sony One
 http://203.77.246.50:5000/udp/239.1.2.144:5000
 #EXTINF:-1 tvg-id="" tvg-name="GEM" tvg-logo="" group-title="Entertainment",GEM
@@ -304,18 +336,18 @@ https://iptv-sniper.herokuapp.com/localtv.php?channel=59
 #EXTINF:-1 tvg-id="" tvg-name="Chinese_Drama" tvg-logo="" group-title="Entertainment",Chinese_Drama
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-id="" tvg-name="FMN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="Entertainment",FMN
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/165057
-#EXTINF:-1 tvg-id="" tvg-name="Muslim TV" tvg-logo="" group-title="Religi",Muslim TV
-http://202.150.172.59:8888/play/channel48
+#
 
+
+#EXTINF:-1 tvg-id="" tvg-name="Muslim TV" tvg-logo="" group-title="Religi",Muslim TV
+#
 #EXTINF:-1 tvg-id="" tvg-name="Reformed" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/e86011037fb027f35b51ab4a38731e7b.png" group-title="Religi",Reformed
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/174574
 #EXTINF:-1 tvg-id="" tvg-name="TVMU" tvg-logo="" group-title="Religi",TVMU
-http://202.150.172.59:8888/play/channel3
-
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="Religi",TV9
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/162509
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=9188905e74c28e489b44e954ec0b9bcadfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="" group-title="Religi",Rodja TV
 http://203.77.246.50:5000/udp/239.1.2.70:5000
 #EXTINF:-1 tvg-id="" tvg-name="MTA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/42ef54fc21a8cac61f49d1290965ce7b.png" group-title="Religi",MTA
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266815
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=e369853df766fa44e1ed0ff613f563bddfdded94c48ea6229c48edefa9ec1c9fhttp://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=e369853df766fa44e1ed0ff613f563bddfdded94c48ea6229c48edefa9ec1c9f
