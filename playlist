@@ -1551,73 +1551,78 @@ http://210.210.155.35/uq2663/h/h09/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Motors_TV_old.svg/1112px-Motors_TV_old.svg.png" group-title="SPORTS-2",Motorvision
 https://dai2.xumo.com/xumocdn/p=/amagi_hls_data_xumo1212A-motorvisiontv/CDN/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="SPORTS-2",Astro Arena
-https://nonton.site:8443/mustakim/mustakim/37422
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.ibb.co/tmCH8Mf/ASTROARENA2.png" group-title="SPORTS-2", Astro Arena 2
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/287793
+#EXTINF:-1 tvg-id="AstroArena.my" tvg-logo="https://i.imgur.com/7bPCw4Q.png" group-title="SPORTS-2",Astro Arena
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
+http://iptv12k.com:35461/live/80301070602/456776/688.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS-2", ASSP 1
-https://nonton.site:8443/mustakim/mustakim/46413
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport2_v1.png" group-title="SPORTS-2", ASSP 2
-https://nonton.site:8443/mustakim/mustakim/46414
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport3_v1.png" group-title="SPORTS-2", ASSP 3
-https://nonton.site:8443/mustakim/mustakim/46415
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_SuperSport4_v1.png" group-title="SPORTS-2", ASSP 4
-https://nonton.site:8443/mustakim/mustakim/46416
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroSuperSport5.png" group-title="SPORTS-2", ASSP 5
-https://nonton.site:8443/mustakim/mustakim/46417
+#EXTINF:-1 tvg-id="AstroArena2.my" tvg-logo="https://i.imgur.com/meHW06l.png" group-title="SPORTS-2",Astro Arena 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=a35c43ff90d667ba1285ad0ae34ae810&key=99191e99138dc6aca5ed5febe3a817a4
+http://iptv12k.com:35461/live/80301070602/456776/965.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="MALAY SPORTS",Astro Supersport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium123/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="SPORTS-2",Astro Supersport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium124/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="SPORTS-2",Astro Supersport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium125/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="SPORTS-2",Astro Supersport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium126/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="SPORTS-2",Astro Supersport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium43/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://cdn.hqth.me/logo/world/cn/cctv5p.png" group-title="SPORTS-2", CCTV5+ HD
 http://live.tvfix.org/hls/cctv5phd.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/gkcH2q8Q/Fox-sports-501.jpg" group-title="SPORTS-2", FOX SPORTS 501 HD
-http://iptv12k.com:35461/live/80301070602/456776/3391.m3u8
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/279034
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="SPORTS-2",Fox Sports 501
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://player.licenses4.me
+https://networkbest.ru.com/cdn/premium369/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/XvtCK9Zj/Fox-Sports502-HD.jpg" group-title="SPORTS-2", FOX SPORTS 502 HD
 http://iptv12k.com:35461/live/80301070602/456776/3390.m3u8
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/81784
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/CxZtdNYm/Fox-Sports503-HD.jpg" group-title="SPORTS-2", FOX SPORTS 503 HD
 http://iptv12k.com:35461/live/80301070602/456776/3389.m3u8
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/280192
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/tRN8ck9M/Fox-Sports504-HD.jpg" group-title="SPORTS-2", FOX SPORTS 504 HD
 http://iptv12k.com:35461/live/80301070602/456776/3388.m3u8
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/280193
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/hG10GzJ2/Fox-Sports505-HD.jpg" group-title="SPORTS-2", FOX SPORTS 505 HD
 http://iptv12k.com:35461/live/80301070602/456776/3387.m3u8
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/144772
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/HWytNkHv/Fox-Sports506-HD.jpg" group-title="SPORTS-2", FOX SPORTS 506 HD
 http://iptv12k.com:35461/live/80301070602/456776/3386.m3u8
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/279033
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/rpbqKJDJ/Fox-Sports507-HD.jpg" group-title="SPORTS-2", FOX SPORTS 507 HD
 http://iptv12k.com:35461/live/80301070602/456776/3385.m3u8
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/280194
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.vod-logo.net/photos/5bc9d44d3ef7efdf24686d247ab8b731.jpg" group-title="SPORTS-2", DUBAI SPORT 1
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
@@ -1879,35 +1884,6 @@ https://tvn10.xyz/Meta/master-21.m3u8|User-Agent=android-12
 https://tvn10.xyz/Meta/master-22.m3u8|User-Agent=android-12
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",MentariTV(tvn)
 https://tvn10.xyz/Meta/master-23.m3u8|User-Agent=android-12
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",My_Cinema_Asia
-https://dens.seulangatv.com/uq2663/h/h193/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_Asia
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",My_Cinema
-http://rr.dens.tv/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Rock_Extreme
-https://dens.seulangatv.com/dr9445/h/h15/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Extreme_HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Rock_Entertainment
-https://dens.seulangatv.com/dr9445/h/h16/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ROCK_Entertainment_HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",KIX
-https://dens.seulangatv.com/dr9445/h/h07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=KIX_HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Thrill
-https://dens.seulangatv.com/qwr9ew/s/s34/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Thrill
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",HITS
-https://dens.seulangatv.com/dr9445/h/h37/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=HITS_HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Cinema_World
-https://dens.seulangatv.com/dr9445/h/h04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=CinemaWorld_HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",K_plus
-https://dens.seulangatv.com/uq2663/h/h08/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=K-PLUS_HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",tvN_Movies
-https://dens.seulangatv.com/dr9445/h/h21/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=tvN_Movies_HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",My_Kidz
-https://dens.seulangatv.com/uq2663/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",ANIPLUS.HD
-https://dens.seulangatv.com/dr9445/h/h02/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=ANIPLUS_HD
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Toons_Kidz
-https://dens.seulangatv.com/x6bnqe/s/s81/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Toonz_Kids
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Animax_HD
-https://dens.seulangatv.com/dr9445/h/h144/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Animax_HD
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"[CODAY] SCTV _VIDIO" group-title="VIDIO",SCTV_VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
@@ -2576,7 +2552,6 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8|Referer=https:
 http://iptv12k.com:35461/live/80301070602/456776/9169.m3u8
 https://nonton.site:8443/mustakim/mustakim/37335
 
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Citra
 http://ky-iptv.com:80/walter6/walter/1350408.ts
@@ -2586,7 +2561,6 @@ http://ky-iptv.com:80/walter6/walter/1350408.ts
 #EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Prima
 http://iptv12k.com:35461/live/80301070602/456776/5959.m3u8
 https://nonton.site:8443/mustakim/mustakim/37333.m3u8
-
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
@@ -2924,7 +2898,6 @@ http://212.18.115.177:3169/play/nuart/index.m3u8
 
 ##########################IPTV-ID##########################
 
-#EXTM3U
 #EXTINF:-1 tvg-id="sctv" tvg-name="SCTV" tvg-logo="http://images.useetv.com/logo_sctv_big1.png" group-title="IPTV-ID",SCTV
 http://iptvid.my.id/hmm/escetepe.m3u8
 #EXTINF:-1 tvg-id="indosiar" tvg-name="Indosiar" tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="IPTV-ID",Indosiar
@@ -3229,368 +3202,3 @@ http://iptvid.my.id/hmm/musikindo.m3u8
 http://iptvid.my.id/hmm/prambors.m3u8
 #EXTINF:-1 tvg-name="i Konser" tvg-logo="http://images.useetv.com/logo_ikonser_big.png" group-title="IPTV-ID",i Konser
 http://iptvid.my.id/hmm/ikonser.m3u8
-
-
-##########################PHILIPPINES##########################
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", GMA
-https://iptv-sniper.herokuapp.com/localtv.php?channel=5  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", One PH
-https://iptv-sniper.herokuapp.com/localtv.php?channel=6  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", GTV
-https://iptv-sniper.herokuapp.com/localtv.php?channel=7  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TV5
-https://iptv-sniper.herokuapp.com/localtv.php?channel=8  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TMC
-https://iptv-sniper.herokuapp.com/localtv.php?channel=9  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", CNN PH
-https://iptv-sniper.herokuapp.com/localtv.php?channel=10  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Kapamilya Channel
-https://iptv-sniper.herokuapp.com/localtv.php?channel=11  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", PBO
-https://iptv-sniper.herokuapp.com/localtv.php?channel=12  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Viva Cinema
-https://iptv-sniper.herokuapp.com/localtv.php?channel=13  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Cinema 1
-https://iptv-sniper.herokuapp.com/localtv.php?channel=14  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", HBO FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=15  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Cinemax FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=16  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Fight
-https://iptv-sniper.herokuapp.com/localtv.php?channel=18  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Warner
-https://iptv-sniper.herokuapp.com/localtv.php?channel=21  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Hits Movie FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=22  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Dreamworks
-https://iptv-sniper.herokuapp.com/localtv.php?channel=23  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Animax
-https://iptv-sniper.herokuapp.com/localtv.php?channel=24  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Nick Jr
-https://iptv-sniper.herokuapp.com/localtv.php?channel=27  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Nick FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=28  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Cartoon Net
-https://iptv-sniper.herokuapp.com/localtv.php?channel=29  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Boomerang
-https://iptv-sniper.herokuapp.com/localtv.php?channel=30  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TAP Sports FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=31 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", ESPN FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=32
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", BBC Earth FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=33 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Information Channel
-https://iptv-sniper.herokuapp.com/localtv.php?channel=34  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", CI
-https://iptv-sniper.herokuapp.com/localtv.php?channel=35  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Premier Sports
-https://iptv-sniper.herokuapp.com/localtv.php?channel=36  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", ANC
-https://iptv-sniper.herokuapp.com/localtv.php?channel=37  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", CNN Int
-https://iptv-sniper.herokuapp.com/localtv.php?channel=38  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Fox News
-https://iptv-sniper.herokuapp.com/localtv.php?channel=39 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", BBC WN
-https://iptv-sniper.herokuapp.com/localtv.php?channel=40 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", ANC
-https://iptv-sniper.herokuapp.com/localtv.php?channel=41 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", One PH FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=42 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", CNBC
-https://iptv-sniper.herokuapp.com/localtv.php?channel=43 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Bloomberg
-https://iptv-sniper.herokuapp.com/localtv.php?channel=44 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Discovery FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=45 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Discovery Asia
-https://iptv-sniper.herokuapp.com/localtv.php?channel=46 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TLC FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=47 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Eurosport
-https://iptv-sniper.herokuapp.com/localtv.php?channel=48 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Animal Planet FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=49 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", One Sports
-https://iptv-sniper.herokuapp.com/localtv.php?channel=50 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Natgeo Wild FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=51 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", History FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=53 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Lifetime
-https://iptv-sniper.herokuapp.com/localtv.php?channel=55 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Rock Entertainment
-https://iptv-sniper.herokuapp.com/localtv.php?channel=56 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Rock Ext
-https://iptv-sniper.herokuapp.com/localtv.php?channel=57 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Metro Channel
-https://iptv-sniper.herokuapp.com/localtv.php?channel=58 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Paramount Network Asia
-https://iptv-sniper.herokuapp.com/localtv.php?channel=59 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", AXN
-https://iptv-sniper.herokuapp.com/localtv.php?channel=62 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", AFN FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=63 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Natgeo FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=64 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", KBSW FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=65 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", MTV FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=66 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Myx Philippines
-https://iptv-sniper.herokuapp.com/localtv.php?channel=75 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Jeepney TV
-https://iptv-sniper.herokuapp.com/localtv.php?channel=76 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Karaoke
-https://iptv-sniper.herokuapp.com/localtv.php?channel=77 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TechStrom
-https://iptv-sniper.herokuapp.com/localtv.php?channel=78 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", NA
-https://iptv-sniper.herokuapp.com/localtv.php?channel=79 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", AFN
-https://iptv-sniper.herokuapp.com/localtv.php?channel=81 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Fight
-https://iptv-sniper.herokuapp.com/localtv.php?channel=82 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TVe
-https://iptv-sniper.herokuapp.com/localtv.php?channel=83 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", NA Chn
-https://iptv-sniper.herokuapp.com/localtv.php?channel=84 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", TVN
-https://iptv-sniper.herokuapp.com/localtv.php?channel=85 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Baby TV FHD
-https://iptv-sniper.herokuapp.com/localtv.php?channel=86 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", HGTV
-https://iptv-sniper.herokuapp.com/localtv.php?channel=87 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Lotus Macau
-https://iptv-sniper.herokuapp.com/localtv.php?channel=91 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", DWTV
-https://iptv-sniper.herokuapp.com/localtv.php?channel=94 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", France24
-https://iptv-sniper.herokuapp.com/localtv.php?channel=95 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="PHILIPPINES", Fashion TV
-https://iptv-sniper.herokuapp.com/localtv.php?channel=96 
-
-
-##########################HINDI##########################
-
-#EXTINF:-1 tvg-id="47874" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png", HINDI ANIMAL PLANET WORLD HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=47874
-
-#EXTINF:-1 tvg-id="51385" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com.png", HINDI MH ONE NEWS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=51385
-
-#EXTINF:-1 tvg-id="48102" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HINDICOLORS.png", HINDI COLORS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48102
-
-#EXTINF:-1 tvg-id="48104" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/StarBharatOfficialLogo.png", HINDI STAR BHARAT HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48104
-
-#EXTINF:-1 tvg-id="48105" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png", SPORTS STAR SPORTS 1 HINDI HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48105
-
-#EXTINF:-1 tvg-id="48107" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/stargoldne.png", HINDI STAR GOLD HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48107
-
-#EXTINF:-1 tvg-id="48108" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/stargoldne.png", HINDI STAR GOLD SELECT HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48108
-
-#EXTINF:-1 tvg-id="48109" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/starpluss.png", HINDI STAR PLUS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48109
-
-#EXTINF:-1 tvg-id="48112" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETVVV2.png", HINDI ZEE TV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48112
-
-#EXTINF:-1 tvg-id="48113" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Zee-Cinema1.png", HINDI ZEE CINEMA HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48113
-
-#EXTINF:-1 tvg-id="48125" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/b4umoviess.png", HINDI B4U MOVIES
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48125
-
-#EXTINF:-1 tvg-id="48126" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/enter-10-tv-channel-logo-300x300.png", HINDI ENTER 10 MOVIES
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48126
-
-#EXTINF:-1 tvg-id="48127" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/nat123.png", HINDI NAT GEO WILD HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48127
-
-#EXTINF:-1 tvg-id="48128" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDANDFLX.png", HINDI AND FLIX HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48128
-
-#EXTINF:-1 tvg-id="48130" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ANDTV.png", HINDI AND TV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48130
-
-#EXTINF:-1 tvg-id="48132" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/evergreen.png", HINDI EVERGREEN CLASSIC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48132
-
-#EXTINF:-1 tvg-id="48133" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/active14.png", MOVIES ACTIVE FHD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48133
-
-#EXTINF:-1 tvg-id="48134" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/UTV_HD.png", HINDI UTV ACTION
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48134
-
-#EXTINF:-1 tvg-id="48135" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/andpicturess.png", HINDI AND PICTURES HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48135
-
-#EXTINF:-1 tvg-id="48139" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Aaj_tak_logo.png", HINDI AAJ TAK HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48139
-
-#EXTINF:-1 tvg-id="48141" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/cneplex.png", HINDI CINEPLEX HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48141
-
-#EXTINF:-1 tvg-id="48142" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sony1231.png", HINDI SONY PIX HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48142
-
-#EXTINF:-1 tvg-id="48143" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/utvlv.png", HINDI UTV HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48143
-
-#EXTINF:-1 tvg-id="48149" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo/natgeo.png", HINDI NAT GEO HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48149
-
-#EXTINF:-1 tvg-id="48151" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sonymax123.png", HINDI SONY MAX HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48151
-
-#EXTINF:-1 tvg-id="48152" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/sonysab123.png", HINDI SONY SAB HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48152
-
-#EXTINF:-1 tvg-id="48156" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/historytv18.png", HINDI HISTORY TV 18 HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48156
-
-#EXTINF:-1 tvg-id="48158" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/miniplex_fb.png", HINDI MINIPLEX HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48158
-
-#EXTINF:-1 tvg-id="48160" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mvsnows.png", HINDI MOVIES NOW HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48160
-
-#EXTINF:-1 tvg-id="48161" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/Spanish/Fox_life_it.png", HINDI FOX LIFE HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48161
-
-#EXTINF:-1 tvg-id="48163" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mnplus.png", HINDI MN PLUS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48163
-
-#EXTINF:-1 tvg-id="48169" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/mtvbeats.png", HINDI MTV BEATS HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48169
-
-#EXTINF:-1 tvg-id="48171" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/UTVMovies_logo.png", HINDI UTV MOVIES
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48171
-
-#EXTINF:-1 tvg-id="48175" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Dishtv_2011.png", HINDI STAR UTSAV MOVIES
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48175
-
-#EXTINF:-1 tvg-id="48180" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/music4u.png", HINDI B4U MUSIC
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48180
-
-#EXTINF:-1 tvg-id="48182" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ABPNEWS1.png", HINDI ABP NEWS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48182
-
-#EXTINF:-1 tvg-id="48184" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDZNG.png", HINDI ZING
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48184
-
-#EXTINF:-1 tvg-id="48185" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/NDNEWS.png", HINDI INDIA TV
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48185
-
-#EXTINF:-1 tvg-id="48187" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/DANGAL.png", HINDI DANGAL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48187
-
-#EXTINF:-1 tvg-id="48189" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeenewss.png", HINDI ZEE NEWS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48189
-
-#EXTINF:-1 tvg-id="48190" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ndtv2.png", HINDI NDTV INDIA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48190
-
-#EXTINF:-1 tvg-id="51218" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com.png", STAR SPORTS HINDI HD 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=51218
-
-#EXTINF:-1 tvg-id="51165" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com.png", HINDI SONY HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=51165
-
-#EXTINF:-1 tvg-id="48221" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDNEWS25.png", HINDI NEWS 24
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48221
-
-#EXTINF:-1 tvg-id="48242" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/foodfodd.png", HINDI FOOD FOOD HD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48242
-
-#EXTINF:-1 tvg-id="48253" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/NDTVPROF27.png", HINDI NDTV 24x7
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48253
-
-#EXTINF:-1 tvg-id="48255" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SONYMAXX2.png", HINDI SONY MAX 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48255
-
-#EXTINF:-1 tvg-id="48258" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/HNDNEWS25.png", HINDI E NEWS 24
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48258
-
-#EXTINF:-1 tvg-id="48276" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zee_action_hover.png", HINDI ZEE ACTION
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48276
-
-#EXTINF:-1 tvg-id="48282" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/republcbharat.png", HINDI REPUBLIC NEWS
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48282
-
-#EXTINF:-1 tvg-id="48283" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeeanmoll.png", HINDI ZEE ANMOL CINEMA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48283
-
-#EXTINF:-1 tvg-id="48287" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeenewss.png", HINDI ZEE NEWS UP
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48287
-
-#EXTINF:-1 tvg-id="48290" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/News18_Rajasthan.png", HINDI NEWS 18 INDIA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48290
-
-#EXTINF:-1 tvg-id="48302" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETVVV2.png", HINDI ZEE ANMOL
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48302
-
-#EXTINF:-1 tvg-id="48303" tvg-language="Indian - FULL" group-title="Hindi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEETCBOLL.png", HINDI ZEE ETC BOLLYWOOD
-#EXTVLCOPT:http-user-agent=REDLINECLIENT
-http://ranapk.cf/api/REDx.php?id=48303
