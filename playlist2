@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Local",RCTI
-http://tvlive.my.id:25461/mat/mat/5
+http://pprotv.com:80/97887222/97887222/22298
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="Local",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="Local",Indosiar
-http://kunyak.my.id/underground-iptv-team/indosiar.m3u8
+http://pprotv.com:80/97887222/97887222/39427
 #EXTINF:-1 tvg-name="Trans7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d1de8748c99d6110e28b0729da083257.png" group-title="Local",Trans7
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-name="Trans TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="Local",Trans TV
@@ -12,7 +12,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Local",ANTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Local",GTV
-http://tvlive.my.id:25461/mat/mat/8
+http://tvlive.my.id:25461/kevin/kevin/8
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/56f2ba8d1d05b475638d51b582eca051.png" group-title="Local",Net TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-name="Magna_TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="Local",Magna_TV
@@ -50,15 +50,15 @@ http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-name="Champions TV 3" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="Sport",Champions TV 3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
 #EXTINF:-1 tvg-name="Champions TV Goal" tvg-logo="https://i.imgur.com/AcBSHlM.png" group-title="Sport",Champions TV Goal
-https://bgl20.my.id/emtek/master-10.m3u8
+http://tvn.x10.mx/vidio/master-10.m3u8
 #EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="Sport",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1656208805~exp=9007200910949796~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=181053f73f2b60c4c09d07fcbee45eeb3603c78d966f9810f190f8b31574cba2
 #EXTINF:-1 tvg-name="SPOTV 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="Sport",SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1655715604~exp=9007200910456595~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=3d68badae101f8edfa354550208282166f263e165eb7df0cd9dac20a4d22759a
 #EXTINF:-1 tvg-name="Useesport" tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="Sport",Useesport
-http://pprotv.com/asim1234/123456/39554
+http://pprotv.com:80/97887222/97887222/39554
 #EXTINF:-1 tvg-name="Useesport 2" tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="Sport",Useesport 2
-http://pprotv.com/asim1234/123456/39555
+http://pprotv.com:80/97887222/97887222/39555
 #EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 1 HD
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
 #EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 2 HD
@@ -69,8 +69,6 @@ http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
 http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
 #EXTINF:-1 tvg-name="AstroSuperSports 5 HD" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="Sport",ASTRO.SUPERSPORTS 5 HD
 https://nonton.site:8443/mustakim/mustakim/46417
-#EXTINF:-1 tvg-name="BeINSport_2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="Sport",BeINSport_2 ID
-https://nonton.site:8443/mustakim/mustakim/729
 #EXTINF:-1 tvg-name="beINSPORTS 1 HD+" tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.pn" group-title="Sport",beINSPORTS 1 HD+
 http://2111.space:8080/live/hossam1/hossam1/42486.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 2 HD+
@@ -176,19 +174,19 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="Inews" tvg-logo="https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8" group-title="News",Inews
 http://tvlive.my.id:25461/mat/mat/18
 #EXTINF:-1 tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+http://pprotv.com:80/97887222/97887222/39501
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
-http://pprotv.com:80/asim1234/123456/39503
+http://pprotv.com:80/97887222/97887222/39503
 #EXTINF:-1 tvg-name="Cinemax FHD" tvg-logo="https://i.ibb.co/jVhpB6v/CINEMAX.png" group-title="Movies",Cinemax
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+http://pprotv.com:80/97887222/97887222/39506
 #EXTINF:-1 tvg-name="HBO Signature FHD" tvg-logo="https://i.imgur.com/iubUI1y.png" group-title="Movies",HBO Signature
-http://pprotv.com:80/asim1234/123456/39504
+http://pprotv.com:80/97887222/97887222/39504
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
-http://pprotv.com:80/asim1234/123456/39502
+http://pprotv.com:80/97887222/97887222/39502
 #EXTINF:-1 tvg-name="Galaxy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="Movies",Galaxy
 https://nonton.site:8443/mustakim/mustakim/29604
 #EXTINF:-1 tvg-name="Galaxy Premium" tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="Movies",Galaxy Premium
-https://nonton.site:8443/mustakim/mustakim/29603
+http://pprotv.com:80/97887222/97887222/39444
 #EXTINF:-1 tvg-name="My Cinema" tvg-logo="https://i.imgur.com/If0036I.png" group-title="Movies",My Cinema
 http://210.210.155.35/uq2663/h/h192/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Cinema_HD
 #EXTINF:-1 tvg-name="My Cinema Asia" tvg-logo="https://i.imgur.com/r2mKJH2.png" group-title="Movies",My Cinema Asia
@@ -200,13 +198,13 @@ http://210.210.155.35/uq2663/h/h18/index.m3u8?app_type=web&userid=50n13N0v14nd1&
 #EXTINF:-1 tvg-name="Celestial Movie" tvg-logo="https://i.imgur.com/XMAtMiv.png" group-title="Movies",Celestial Movie
 http://203.77.246.50:5000/udp/239.1.2.162:5000
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GA2ny64.png" group-title="Movies",Star Chinese Movies
-http://61.219.170.95:18529/http/192.168.1.9:8081/hls/62/804/ch07.m3u8
+http://pprotv.com:80/97887222/97887222/39516
 #EXTINF:-1 tvg-name="Hits Movies HD" tvg-logo="https://i.imgur.com/Q9PQKk6.png" group-title="Movies",Hits Movies HD
 http://203.77.246.50:5000/udp/239.1.2.150:5000
 #EXTINF:-1 tvg-name="Zee Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Movies",Zee Bioskop
 http://210.210.155.35/qwr9ew/s/s32/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Zee_Bioskop
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c3Rv0ru.png" group-title="Movies",Cinema World
-http://pprotv.com:80/asim1234/123456/39445
+http://pprotv.com:80/97887222/97887222/39445
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="Movies",Star Movies Select
 http://103.179.246.243:8000/play/a00w
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVH9Ehe.png" group-title="Movies",Movies Now
@@ -224,19 +222,19 @@ http://starshare.live:8080/live/usman007/usman007/4694.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WkldO68.png" group-title="Movies",beIN Movies 2 Action
 http://starshare.live:8080/live/usman007/usman007/4695.ts
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://i.ibb.co/GRwtpJt/ANIMAX.png" group-title="Movies",Animax
-http://iptvid.my.id/hmm/animax.m3u8
+http://pprotv.com:80/97887222/97887222/39544
 #EXTINF:-1 tvg-name="Sinema Indonesia" tvg-logo="https://i.imgur.com/2Suxbkb.png" group-title="Movies",Sinema Indonesia
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 #EXTINF:-1 tvg-name="Thrill" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Movies",Thrill
 http://203.77.246.50:5000/udp/239.1.2.216:5000
 #EXTINF:-1 tvg-name="ANiPlus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png" group-title="Movies",ANiPlus
-https://nonton.site:8443/mustakim/mustakim/2
+http://pprotv.com:80/97887222/97887222/39545
 #EXTINF:-1 tvg-name="TVN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Movies",TVN Movies
-http://iptvid.my.id/hmm/tvnmovie.m3u8
+http://pprotv.com:80/97887222/97887222/39684
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="Movies",Flik
-https://nonton.site:8443/mustakim/mustakim/29592
+http://pprotv.com:80/97887222/97887222/39508
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lN20Oy7.png" group-title="Movies",Citra Bioskop
-https://bgl20.my.id/emtek/master-2.m3u8
+http://tvn.x10.mx/vidio/master-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WTVqYg.png" group-title="Music",Musik Indonesia
 http://iptvid.my.id/hmm/musikindo.m3u8
 #EXTINF:-1 group-title="Music",Dens ShowBiz
@@ -292,15 +290,15 @@ http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
 #EXTINF:-1 group-title="Music",Dangdut Tivi
 http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-name="ZooMoo" group-title="Kids",ZooMoo
-https://bgl20.my.id/emtek/master-17.m3u8
+http://tvn.x10.mx/vidio/master-17.m3u8
 #EXTINF:-1 tvg-name="Kid TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="Kids",Kid TV
 http://210.210.155.35/x6bnqe/s/s81/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kids_Channel_-_Toonz_Kids_Trial-
 #EXTINF:-1 tvg-name="Mkidz" group-title="Kids",Mkidz
 http://iptvid.my.id/hmm/mkidz.m3u8
 #EXTINF:-1 tvg-name="Nick Jr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="Kids",Nick Jr
-http://iptv12k.com:35461/live/80301070602/456776/619.m3u8
+http://pprotv.com:80/97887222/97887222/39463
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="Kids",Nickelodeon
-http://iptv12k.com:35461/live/80301070602/456776/2072.m3u8
+http://pprotv.com:80/97887222/97887222/39462
 #EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="Kids",Cartoon Network
 http://203.77.246.50:5000/udp/239.1.2.154:5000
 #EXTINF:-1 tvg-name="Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="Kids",Boomerang
@@ -310,47 +308,47 @@ http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/157605
 #EXTINF:-1 tvg-name="Dreamworks" tvg-logo="https://i.imgur.com/mSMH7Pu.png" group-title="Kids",Dreamworks
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="Kids",Disney Channel
-http://iptv12k.com:35461/live/80301070602/456776/2090.m3u8
+http://pprotv.com:80/97887222/97887222/39456
 #EXTINF:-1 tvg-name="Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="Kids",Disney Junior
-http://iptv12k.com:35461/live/80301070602/456776/2092.m3u8
+http://pprotv.com:80/97887222/97887222/39457
 #EXTINF:-1 tvg-name="Natgeo" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Knowledge",Natgeo
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Natgeo Wild" group-title="Knowledge",Natgeo Wild
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Discovery" group-title="Knowledge",Discovery
-http://iptvid.my.id/hmm/dsc.m3u8
+http://pprotv.com:80/97887222/97887222/39484
 #EXTINF:-1 tvg-name="CGTN Documentary HD" group-title="Knowledge",CGTN Documentary HD
 http://203.77.246.50:5000/udp/239.1.2.6:5000
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Knowledge",Animal Planet
-http://iptv12k.com:35461/live/80301070602/456776/633.m3u8
+http://pprotv.com:80/97887222/97887222/39483
 #EXTINF:-1 tvg-name="TechStrom" group-title="Knowledge",TechStrom
 https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/01.m3u8
 #EXTINF:-1 tvg-name="History" tvg-logo="https://i.ibb.co/svhGk7n/HISTORY.png" group-title="Knowledge",History
-https://nonton.site:8443/mustakim/mustakim/718
+http://pprotv.com:80/97887222/97887222/39478
 #EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://i.imgur.com/f0ZYQbB.png" group-title="Knowledge",Discovery Asia
-https://nonton.site:8443/mustakim/mustakim/37390
-#EXTINF:-1 tvg-name="CI" tvg-logo="https://i.imgur.com/VGjVGdU.png" group-title="Knowledge",CI
-http://iptvid.my.id/hmm/crime.m3u8
+http://pprotv.com:80/97887222/97887222/39485
+#EXTINF:-1 tvg-name="CI" tvg-logo="https://i.imgur.com/VGjVGdU.png" group-title="Knowledge",Crime Investigation
+http://pprotv.com:80/97887222/97887222/39507
 #EXTINF:-1 tvg-name="BBC Earth" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Knowledge",BBC Earth
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Besmart" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/72c02ddde0fd068592b1e7a6e1aa137f.jfif" group-title="Knowledge",Besmart
-http://iptv12k.com:35461/live/80301070602/456776/2096.m3u8
+http://pprotv.com:80/97887222/97887222/39465
 #EXTINF:-1 tvg-name="AFN" group-title="Lifestyle",AFN
-https://nonton.site:8443/mustakim/mustakim/37412
+http://pprotv.com:80/97887222/97887222/39479
 #EXTINF:-1 tvg-name="TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="Lifestyle",TLC
 http://203.77.246.50:5000/udp/239.1.2.140:5000
 #EXTINF:-1 tvg-name="Fashion TV" group-title="Lifestyle",Fashion TV
-https://iptv-sniper.herokuapp.com/localtv.php?channel=96
+http://pprotv.com:80/97887222/97887222/39532
 #EXTINF:-1 tvg-name="HGTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6f8929646cc7613d81811e23bef5a87e.png" group-title="Lifestyle",HGTV
-http://iptvid.my.id/hmm/hgtv.m3u8
+http://pprotv.com:80/97887222/97887222/39538
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5be22eee185835440da0785681f85144.png" group-title="Lifestyle",Lifetime
-https://nonton.site:8443/mustakim/mustakim/866
+http://pprotv.com:80/97887222/97887222/39490
 #EXTINF:-1 tvg-name="TVN" group-title="Entertainment",TVN
-http://iptvid.my.id/hmm/tvn.m3u8
+http://pprotv.com:80/97887222/97887222/39540
 #EXTINF:-1 tvg-name="Rock Ent" tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280" group-title="Entertainment",Rock Ent
-http://iptvid.my.id/hmm/rock.m3u8
+http://pprotv.com:80/97887222/97887222/39491
 #EXTINF:-1 tvg-name="Rock Ext" tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280" group-title="Entertainment",Rock Ext
-http://iptvid.my.id/hmm/rockext.m3u8
+http://pprotv.com:80/97887222/97887222/39492
 #EXTINF:-1 tvg-name="K-Drama" group-title="Entertainment",K-Drama
 http://203.77.246.50:5000/udp/239.1.1.76:5000
 #EXTINF:-1 tvg-name="Dubai TV HD" group-title="Entertainment",Dubai TV HD
@@ -370,7 +368,7 @@ http://203.77.246.50:5000/udp/239.1.2.36:5000
 #EXTINF:-1 tvg-name="KBS Korea HD" group-title="Entertainment",KBS Korea HD
 http://203.77.246.50:5000/udp/239.1.2.38:5000
 #EXTINF:-1 tvg-name="AXN" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="Entertainment",AXN
-http://pprotv.com:80/asim1234/123456/39493
+http://pprotv.com:80/97887222/97887222/39493
 #EXTINF:-1 tvg-name="Sony One" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="Entertainment",Sony One
 http://203.77.246.50:5000/udp/239.1.2.144:5000
 #EXTINF:-1 tvg-name="GEM" group-title="Entertainment",GEM
@@ -382,13 +380,13 @@ http://203.77.246.50:5000/udp/239.1.2.156:5000
 #EXTINF:-1 tvg-name="Dragon TV" group-title="Entertainment",Dragon TV
 http://203.77.246.50:5000/udp/239.1.2.186:5000
 #EXTINF:-1 tvg-name="Paramount Network Asia" group-title="Entertainment",Paramount Network Asia
-http://iptvid.my.id/hmm/paramount.m3u8
+http://pprotv.com:80/97887222/97887222/102509
 #EXTINF:-1 tvg-name="Chinese_Drama" group-title="Entertainment",Chinese_Drama
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiRHdpz.png" group-title="Entertainment",Citra Drama
-#
+http://pprotv.com:80/97887222/97887222/39454
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="Entertainment",Citra Entertainment
-#
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xtt7582.png" group-title="Entertainment",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WS8GnIB.png" group-title="Entertainment",The Indonesia Channel
