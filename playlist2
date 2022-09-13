@@ -13,7 +13,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=72da7fd6d1302c0a159f6436d01e9eb0446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Local",GTV
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/19
-#EXTINF:-1 group-title="Local",MNC TV
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Local",MNC TV
 http://iptv12k.com:35461/17501083101/524668/2175
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/56f2ba8d1d05b475638d51b582eca051.png" group-title="Local",Net TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
@@ -35,7 +35,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 https://ms.digdaya.tv/live/digdayatv/chunklist_w1052587069.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X4RPowm.png" group-title="Local",JPM
 http://122.248.43.138:1935/ch6/myStream/chunklist.m3u8
-#EXTINF:-1 group-title="Local",Elshinta
+#EXTINF:-1 tvg-logo="http://elshintatv.co.id/public/assets/312f2-logo-elshinta.png" group-title="Local",Elshinta
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/75
 #EXTINF:-1 tvg-name="Daai TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/da-ai-tv-indonesia-tw-in.png" group-title="Local",Daai TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=889091ff744069cab08dc605d162a8d3446503011668def857b1c03bafabba51
@@ -54,7 +54,7 @@ http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-name="Champions TV 3" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="Sport",Champions TV 3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
 #EXTINF:-1 tvg-name="Champions TV Goal" tvg-logo="https://i.imgur.com/AcBSHlM.png" group-title="Sport",Champions TV Goal
-http://tvn.x10.mx/live/master-10.m3u8
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/48
 #EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="Sport",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1656208805~exp=9007200910949796~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=181053f73f2b60c4c09d07fcbee45eeb3603c78d966f9810f190f8b31574cba2
 #EXTINF:-1 tvg-name="SPOTV 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="Sport",SPOTV 2
@@ -62,7 +62,7 @@ https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/
 #EXTINF:-1 tvg-name="Useesport" tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="Sport",Useesport
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
 #EXTINF:-1 tvg-name="Useesport 2" tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="Sport",Useesport 2
-
+http://tvlive.my.id:25461/mat/mat/33
 #EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 1 HD
 http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=17501083101&password=524668&stream=656
 #EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 2 HD
@@ -167,10 +167,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="CNN Int" tvg-logo="https://i.imgur.com/SWDFKE2.png" group-title="News",CNN Int
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="News",HLN
-https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="News",CBS News
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/85
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/155_144.png" group-title="News",Sky News HD
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/800px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="News",HLN
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjkVGqY.png" group-title="News",NBC News Now
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="News",Newsmax TV
@@ -187,6 +189,8 @@ https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 http://203.77.246.50:5000/udp/239.1.3.74:5000
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
 http://203.77.246.50:5000/udp/239.1.3.76:5000
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BADmxNJKP4zZW9hbVqZLWSD78umQBKGpKg&usqp=CAU" group-title="Movies",FOX Movies
+http://webtv360.org:8000/mag00:1A:79:6B:8A:A0/6yG2rdMJeF/18518
 #EXTINF:-1 tvg-name="Galaxy" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg" group-title="Movies",Galaxy
 https://nonton.site:8443/mustakim/mustakim/29604
 #EXTINF:-1 tvg-name="Galaxy Premium" tvg-logo="https://i.imgur.com/w8pi4Ip.png" group-title="Movies",Galaxy Premium
@@ -211,6 +215,14 @@ http://210.210.155.35/qwr9ew/s/s32/index10.m3u8?app_type=web&userid=50n13N0v14nd
 http://rr1.dens.tv/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4DyH9pK.png" group-title="Movies",Star Movies Select
 http://103.179.246.243:8000/play/a00w
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWFo_QeYYLKOJ8B0nksq9xhtsW4buXpqKeHw&usqp=CAU" group-title="Movies",Amazon Prime Action HD
+http://humiptv.live:8080//live/500757885/3356646354/73855.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb7SjBSpFzV0nQhutsvDT2jU3tykeFAdDz3A&usqp=CAU" group-title="Movies",Amazon Prime Adventure
+http://humiptv.live:8080//live/500757885/3356646354/73854.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgLWnxzbtXsxG1dtMxuVgiELnOkxf8EZCSw&usqp=CAU" group-title="Movies",OSN Movie Action HD
+http://humiptv.live:8080//live/500757885/3356646354/9564.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/bfc325e2a7440d70f0c35b9d263e03c8.png" group-title="Movies",OSN Movies Hollywood
+http://king-tv.online:8080//live/gisle@/FDPWGufCmY/193147.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVH9Ehe.png" group-title="Movies",Movies Now
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862687&extension=ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="Movies",MN+
@@ -347,7 +359,7 @@ https://iptv-sniper.hehttp://fash1043.cloudycdn.services/slive/_definst_/ftv_par
 http://iptvid.my.id/hmm/hgtv.m3u8
 #EXTINF:-1 tvg-name="Lifetime" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/5be22eee185835440da0785681f85144.png" group-title="Lifestyle",Lifetime
 http://iptvid.my.id/hmm/lifetime.m3u8 
-#EXTINF:-1 tvg-name="TVN" group-title="Entertainment",TVN
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="Entertainment",TVN
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/69
 #EXTINF:-1 tvg-name="Rock Ent" tvg-logo="https://lh4.googleusercontent.com/c_C1GXpVRGgNbBzXTaHeYGp_emNHDlMPLqPJ6PF8vUCawVWz7GYPnPHBdP3LiYLQm6X_WxFT8QXydJ9AR5omOaI7udB1YP-arIii3m1SstIJdr5l3U9fo2Ce5v9rBMxM-Q=w1280" group-title="Entertainment",Rock Ent
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/61
@@ -390,7 +402,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KiRHdpz.png" group-title="Entertainment",Citra Drama
 http://tv.zonanime.my.id/vidio/citradrama.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ibh5oCE.png" group-title="Entertainment",Citra Entertainment
-
+http://tvn.x10.mx/live/master-12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xtt7582.png" group-title="Entertainment",Usee Prime
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WS8GnIB.png" group-title="Entertainment",The Indonesia Channel
@@ -489,583 +501,659 @@ http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
 http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="Radio",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] RCTI id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] RCTI id 8k
 http://iptv12k.com:35461/17501083101/524668/2185
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Trans TV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Trans TV id 8k
 http://iptv12k.com:35461/17501083101/524668/2183
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Trans 7 id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Trans 7 id 8k
 http://iptv12k.com:35461/17501083101/524668/2182
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] TV One id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] TV One id 8k
 http://iptv12k.com:35461/17501083101/524668/2181
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Metro TV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Metro TV id 8k
 http://iptv12k.com:35461/17501083101/524668/2180
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Kompas TV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Kompas TV id 8k
 http://iptv12k.com:35461/17501083101/524668/2179
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Berita Satu id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Berita Satu id 8k
 http://iptv12k.com:35461/17501083101/524668/2177
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] MNC TV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] MNC TV id 8k
 http://iptv12k.com:35461/17501083101/524668/2175
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] TVRI id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] TVRI id 8k
 http://iptv12k.com:35461/17501083101/524668/2172
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] IDX id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] IDX id 8k
 http://iptv12k.com:35461/17501083101/524668/2171
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Daai TV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Daai TV id 8k
 http://iptv12k.com:35461/17501083101/524668/2170
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Bali TV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Bali TV id 8k
 http://iptv12k.com:35461/17501083101/524668/2169
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] JakTV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] JakTV id 8k
 http://iptv12k.com:35461/17501083101/524668/2166
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] JTV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] JTV id 8k
 http://iptv12k.com:35461/17501083101/524668/2165
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] TV9 NU id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] TV9 NU id 8k
 http://iptv12k.com:35461/17501083101/524668/2163
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] RTV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] RTV id 8k
 http://iptv12k.com:35461/17501083101/524668/2161
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Entertainment id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Entertainment id 8k
 http://iptv12k.com:35461/17501083101/524668/2157
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Infotainment id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Infotainment id 8k
 http://iptv12k.com:35461/17501083101/524668/2156
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] MNC Shop Trendy id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] MNC Shop Trendy id 8k
 http://iptv12k.com:35461/17501083101/524668/2153
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] MNC Shop Smart id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] MNC Shop Smart id 8k
 http://iptv12k.com:35461/17501083101/524668/2152
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] DW (English) id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] DW (English) id 8k
 http://iptv12k.com:35461/17501083101/524668/2149
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] France 24 id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] France 24 id 8k
 http://iptv12k.com:35461/17501083101/524668/2148
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] KBS World id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] KBS World id 8k
 http://iptv12k.com:35461/17501083101/524668/2146
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] ABC Australia id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] ABC Australia id 8k
 http://iptv12k.com:35461/17501083101/524668/2145
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] NHK World Premium id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] NHK World Premium id 8k
 http://iptv12k.com:35461/17501083101/524668/2144
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Euro news id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Euro news id 8k
 http://iptv12k.com:35461/17501083101/524668/2143
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] BBC World News id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] BBC World News id 8k
 http://iptv12k.com:35461/17501083101/524668/2142
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] TRT World id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] TRT World id 8k
 http://iptv12k.com:35461/17501083101/524668/2140
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",Arirang id 8k
+#EXTINF:-1 group-title="Indonesia TV",Arirang id 8k
 http://iptv12k.com:35461/17501083101/524668/2136
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",RT English id 8k
+#EXTINF:-1 group-title="Indonesia TV",RT English id 8k
 http://iptv12k.com:35461/17501083101/524668/2135
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Celestial Movies id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Celestial Movies id 8k
 http://iptv12k.com:35461/17501083101/524668/2131
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Thrill id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Thrill id 8k
 http://iptv12k.com:35461/17501083101/524668/2128
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] AXN id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] AXN id 8k
 http://iptv12k.com:35461/17501083101/524668/2127
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Hits id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Hits id 8k
 http://iptv12k.com:35461/17501083101/524668/2126
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] KiX id 8k indo
+#EXTINF:-1 group-title="Indonesia TV",[ID] KiX id 8k indo
 http://iptv12k.com:35461/17501083101/524668/2125
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Cinema World id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Cinema World id 8k
 http://iptv12k.com:35461/17501083101/524668/2124
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Paramount channel id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Paramount channel id 8k
 http://iptv12k.com:35461/17501083101/524668/2123
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Hits Movies id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Hits Movies id 8k
 http://iptv12k.com:35461/17501083101/524668/2122
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] HBO id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] HBO id 8k
 http://iptv12k.com:35461/17501083101/524668/2121
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] HBO Family id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] HBO Family id 8k
 http://iptv12k.com:35461/17501083101/524668/2120
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] HBO Signature id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] HBO Signature id 8k
 http://iptv12k.com:35461/17501083101/524668/2118
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Warner TV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Warner TV id 8k
 http://iptv12k.com:35461/17501083101/524668/2115
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Cinemax id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Cinemax id 8k
 http://iptv12k.com:35461/17501083101/524668/2114
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Crime &amp; Investigation id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Crime &amp; Investigation id 8k
 http://iptv12k.com:35461/17501083101/524668/2111
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Lifetime id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Lifetime id 8k
 http://iptv12k.com:35461/17501083101/524668/2110
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] ZBioskop id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] ZBioskop id 8k
 http://iptv12k.com:35461/17501083101/524668/2107
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Vision Prime id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Vision Prime id 8k
 http://iptv12k.com:35461/17501083101/524668/2106
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] FMN id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] FMN id 8k
 http://iptv12k.com:35461/17501083101/524668/2105
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Jiangsu TV江苏卫视 id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Jiangsu TV江苏卫视 id 8k
 http://iptv12k.com:35461/17501083101/524668/2104
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Xing Kong TV星空卫视 id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Xing Kong TV星空卫视 id 8k
 http://iptv12k.com:35461/17501083101/524668/2101
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Animax id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Animax id 8k
 http://iptv12k.com:35461/17501083101/524668/2099
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Aniplus id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Aniplus id 8k
 http://iptv12k.com:35461/17501083101/524668/2098
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Boomerang id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Boomerang id 8k
 http://iptv12k.com:35461/17501083101/524668/2097
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] BeSmart id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] BeSmart id 8k
 http://iptv12k.com:35461/17501083101/524668/2096
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Cartoon Network id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Cartoon Network id 8k
 http://iptv12k.com:35461/17501083101/524668/2094
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Cbeebies id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Cbeebies id 8k
 http://iptv12k.com:35461/17501083101/524668/2093
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Disney Junior id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Disney Junior id 8k
 http://iptv12k.com:35461/17501083101/524668/2092
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Disney Channel id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Disney Channel id 8k
 http://iptv12k.com:35461/17501083101/524668/2090
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",Nick Jr. id 8k
+#EXTINF:-1 group-title="Indonesia TV",Nick Jr. id 8k
 http://iptv12k.com:35461/17501083101/524668/2088
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",Muslim TV
+#EXTINF:-1 group-title="Indonesia TV",Muslim TV
 http://iptv12k.com:35461/17501083101/524668/2087
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",Tawaf TV id 8k
+#EXTINF:-1 group-title="Indonesia TV",Tawaf TV id 8k
 http://iptv12k.com:35461/17501083101/524668/2086
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",EWTN id 8k
+#EXTINF:-1 group-title="Indonesia TV",EWTN id 8k
 http://iptv12k.com:35461/17501083101/524668/2084
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",Music TV id 8k
+#EXTINF:-1 group-title="Indonesia TV",Music TV id 8k
 http://iptv12k.com:35461/17501083101/524668/2081
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",FX id 8k
+#EXTINF:-1 group-title="Indonesia TV",FX id 8k
 http://iptv12k.com:35461/17501083101/524668/2080
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Dreamworks id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Dreamworks id 8k
 http://iptv12k.com:35461/17501083101/524668/2079
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Miao Mi id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Miao Mi id 8k
 http://iptv12k.com:35461/17501083101/524668/2074
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Nickelodeon id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Nickelodeon id 8k
 http://iptv12k.com:35461/17501083101/524668/2072
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Smithsonian Channel id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Smithsonian Channel id 8k
 http://iptv12k.com:35461/17501083101/524668/2070
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Love Nature 4K id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Love Nature 4K id 8k
 http://iptv12k.com:35461/17501083101/524668/2069
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] NatGeo Wild id 8k indo
+#EXTINF:-1 group-title="Indonesia TV",[ID] NatGeo Wild id 8k indo
 http://iptv12k.com:35461/17501083101/524668/2067
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] NatGeo id 8k   National Geographic
+#EXTINF:-1 group-title="Indonesia TV",[ID] NatGeo id 8k   National Geographic
 http://iptv12k.com:35461/17501083101/524668/2066
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] History id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] History id 8k
 http://iptv12k.com:35461/17501083101/524668/2065
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Animal Planet id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Animal Planet id 8k
 http://iptv12k.com:35461/17501083101/524668/2064
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Ochannel  Discovery Asia id 8k indo
+#EXTINF:-1 group-title="Indonesia TV",[ID] Ochannel  Discovery Asia id 8k indo
 http://iptv12k.com:35461/17501083101/524668/2063
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] BBC Earth id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] BBC Earth id 8k
 http://iptv12k.com:35461/17501083101/524668/2062
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] BBC Lifestyle id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] BBC Lifestyle id 8k
 http://iptv12k.com:35461/17501083101/524668/2061
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] HGTV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] HGTV id 8k
 http://iptv12k.com:35461/17501083101/524668/2059
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Asia Food Network id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Asia Food Network id 8k
 http://iptv12k.com:35461/17501083101/524668/2058
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] TLC id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] TLC id 8k
 http://iptv12k.com:35461/17501083101/524668/2057
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Waku-Waku Japan id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Waku-Waku Japan id 8k
 http://iptv12k.com:35461/17501083101/524668/2056
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] FashionTV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] FashionTV id 8k
 http://iptv12k.com:35461/17501083101/524668/2055
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Blue Ant Entertainment id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Blue Ant Entertainment id 8k
 http://iptv12k.com:35461/17501083101/524668/2053
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Blue Ant Extreme id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Blue Ant Extreme id 8k
 http://iptv12k.com:35461/17501083101/524668/2052
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] MTV Live id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] MTV Live id 8k
 http://iptv12k.com:35461/17501083101/524668/2042
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] TVMu id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] TVMu id 8k
 http://iptv12k.com:35461/17501083101/524668/2039
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",[ID] Makkah TV id 8k
+#EXTINF:-1 group-title="Indonesia TV",[ID] Makkah TV id 8k
 http://iptv12k.com:35461/17501083101/524668/2037
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",Fox Life id 8k
+#EXTINF:-1 group-title="Indonesia TV",Fox Life id 8k
 http://iptv12k.com:35461/17501083101/524668/2033
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",UK: MUTV 8k
+#EXTINF:-1 group-title="Indonesia TV",UK: MUTV 8k
 http://iptv12k.com:35461/17501083101/524668/1954
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",IN: STAR SPORTS 1 HD
+#EXTINF:-1 group-title="Indonesia TV",IN: STAR SPORTS 1 HD
 http://iptv12k.com:35461/17501083101/524668/1951
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",IN: STAR SPORTS 2 HD
+#EXTINF:-1 group-title="Indonesia TV",IN: STAR SPORTS 2 HD
 http://iptv12k.com:35461/17501083101/524668/1950
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",IN: Star sports  SELECT 1
+#EXTINF:-1 group-title="Indonesia TV",IN: Star sports  SELECT 1
 http://iptv12k.com:35461/17501083101/524668/1946
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",IN: STAR SPORTS SELECT 2 HD
+#EXTINF:-1 group-title="Indonesia TV",IN: STAR SPORTS SELECT 2 HD
 http://iptv12k.com:35461/17501083101/524668/1945
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",IN : Asianet HD
+#EXTINF:-1 group-title="Indonesia TV",IN : Asianet HD
 http://iptv12k.com:35461/17501083101/524668/1943
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",IN:  Sony Six SD
+#EXTINF:-1 group-title="Indonesia TV",IN:  Sony Six SD
 http://iptv12k.com:35461/17501083101/524668/1937
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-HBO MOVIE
+#EXTINF:-1 group-title="Indonesia TV",SIN-HBO MOVIE
 http://iptv12k.com:35461/17501083101/524668/1893
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",HBO HD MOVIE
+#EXTINF:-1 group-title="Indonesia TV",HBO HD MOVIE
 http://iptv12k.com:35461/17501083101/524668/1892
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-HBO Family MOVIE
+#EXTINF:-1 group-title="Indonesia TV",SIN-HBO Family MOVIE
 http://iptv12k.com:35461/17501083101/524668/1891
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",HBO Family MOVIE
+#EXTINF:-1 group-title="Indonesia TV",HBO Family MOVIE
 http://iptv12k.com:35461/17501083101/524668/1890
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-HBO Hits MOVIE
+#EXTINF:-1 group-title="Indonesia TV",SIN-HBO Hits MOVIE
 http://iptv12k.com:35461/17501083101/524668/1889
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",HBO Hits MOVIE
+#EXTINF:-1 group-title="Indonesia TV",HBO Hits MOVIE
 http://iptv12k.com:35461/17501083101/524668/1888
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-HBO Signature MOVIE
+#EXTINF:-1 group-title="Indonesia TV",SIN-HBO Signature MOVIE
 http://iptv12k.com:35461/17501083101/524668/1887
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",HBO SignatureMOVIE
+#EXTINF:-1 group-title="Indonesia TV",HBO SignatureMOVIE
 http://iptv12k.com:35461/17501083101/524668/1886
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-AXN MOVIE
+#EXTINF:-1 group-title="Indonesia TV",SIN-AXN MOVIE
 http://iptv12k.com:35461/17501083101/524668/1885
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",AXN HD MOVIE
+#EXTINF:-1 group-title="Indonesia TV",AXN HD MOVIE
 http://iptv12k.com:35461/17501083101/524668/1884
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-Cinemax MOVIE
+#EXTINF:-1 group-title="Indonesia TV",SIN-Cinemax MOVIE
 http://iptv12k.com:35461/17501083101/524668/1883
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",Cinemax HD MOVIE
+#EXTINF:-1 group-title="Indonesia TV",Cinemax HD MOVIE
 http://iptv12k.com:35461/17501083101/524668/1882
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",Cinema World HD MOVIE
+#EXTINF:-1 group-title="Indonesia TV",Cinema World HD MOVIE
 http://iptv12k.com:35461/17501083101/524668/1881
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-Warner TV MOVIE
+#EXTINF:-1 group-title="Indonesia TV",SIN-Warner TV MOVIE
 http://iptv12k.com:35461/17501083101/524668/1880
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",Warner TV MOVIE
+#EXTINF:-1 group-title="Indonesia TV",Warner TV MOVIE
 http://iptv12k.com:35461/17501083101/524668/1879
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-Hits MOVIE
+#EXTINF:-1 group-title="Indonesia TV",SIN-Hits MOVIE
 http://iptv12k.com:35461/17501083101/524668/1878
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-Hits MOVIE1
+#EXTINF:-1 group-title="Indonesia TV",SIN-Hits MOVIE1
 http://iptv12k.com:35461/17501083101/524668/1877
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-Kix MOVIE
+#EXTINF:-1 group-title="Indonesia TV",SIN-Kix MOVIE
 http://iptv12k.com:35461/17501083101/524668/1876
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-Celestial Movies MOVIE
+#EXTINF:-1 group-title="Indonesia TV",SIN-Celestial Movies MOVIE
 http://iptv12k.com:35461/17501083101/524668/1875
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-Celestial Movies MOVIE1
+#EXTINF:-1 group-title="Indonesia TV",SIN-Celestial Movies MOVIE1
 http://iptv12k.com:35461/17501083101/524668/1874
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-CCM MOVIE1
+#EXTINF:-1 group-title="Indonesia TV",SIN-CCM MOVIE1
 http://iptv12k.com:35461/17501083101/524668/1873
-#EXTINF:-1 tvg-logo="" group-title="Indonesia TV",SIN-CCM MOVIE
+#EXTINF:-1 group-title="Indonesia TV",SIN-CCM MOVIE
 http://iptv12k.com:35461/17501083101/524668/1872
-
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TVS
+#EXTINF:-1 group-title="Astro TV",TVS
 http://iptv12k.com:35461/17501083101/524668/745
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TA-DAA
+#EXTINF:-1 group-title="Astro TV",TA-DAA
 http://iptv12k.com:35461/17501083101/524668/744
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Awesome TV
+#EXTINF:-1 group-title="Astro TV",Awesome TV
 http://iptv12k.com:35461/17501083101/524668/743
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV1(a) TV 1
+#EXTINF:-1 group-title="Astro TV",TV1(a) TV 1
 http://iptv12k.com:35461/17501083101/524668/6505
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV1(c) TV 1
+#EXTINF:-1 group-title="Astro TV",TV1(c) TV 1
 http://iptv12k.com:35461/17501083101/524668/10015
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV1(b) TV 1
+#EXTINF:-1 group-title="Astro TV",TV1(b) TV 1
 http://iptv12k.com:35461/17501083101/524668/742
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV2(b)
+#EXTINF:-1 group-title="Astro TV",TV2(b)
 http://iptv12k.com:35461/17501083101/524668/741
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV2(a)
+#EXTINF:-1 group-title="Astro TV",TV2(a)
 http://iptv12k.com:35461/17501083101/524668/10014
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV3(a)
+#EXTINF:-1 group-title="Astro TV",TV3(a)
 http://iptv12k.com:35461/17501083101/524668/5072
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV3(b)
+#EXTINF:-1 group-title="Astro TV",TV3(b)
 http://iptv12k.com:35461/17501083101/524668/8267
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV3(c)
+#EXTINF:-1 group-title="Astro TV",TV3(c)
 http://iptv12k.com:35461/17501083101/524668/5073
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV3(d).
+#EXTINF:-1 group-title="Astro TV",TV3(d).
 http://50.7.252.250/live/tvtv3kb/s.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV3(e)
+#EXTINF:-1 group-title="Astro TV",TV3(e)
 http://iptv12k.com:35461/17501083101/524668/740
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",NTV7
+#EXTINF:-1 group-title="Astro TV",NTV7
 http://iptv12k.com:35461/17501083101/524668/739
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",8TV
+#EXTINF:-1 group-title="Astro TV",8TV
 http://iptv12k.com:35461/17501083101/524668/738
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV9
+#EXTINF:-1 group-title="Astro TV",TV9
 http://iptv12k.com:35461/17501083101/524668/737
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",tv9(b)
+#EXTINF:-1 group-title="Astro TV",tv9(b)
 http://iptv12k.com:35461/17501083101/524668/10210
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO 25
+#EXTINF:-1 group-title="Astro TV",ASTRO 25
 http://iptv12k.com:35461/17501083101/524668/736
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Ria(b)
+#EXTINF:-1 group-title="Astro TV",ASTRO Ria(b)
 http://iptv12k.com:35461/17501083101/524668/4354
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO RIA(c)
+#EXTINF:-1 group-title="Astro TV",ASTRO RIA(c)
 http://iptv12k.com:35461/17501083101/524668/4353
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Ria(a)
+#EXTINF:-1 group-title="Astro TV",ASTRO Ria(a)
 http://iptv12k.com:35461/17501083101/524668/735
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Astro prima(B)
+#EXTINF:-1 group-title="Astro TV",Astro prima(B)
 http://iptv12k.com:35461/17501083101/524668/5959
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Astro prima(C)
+#EXTINF:-1 group-title="Astro TV",Astro prima(C)
 http://iptv12k.com:35461/17501083101/524668/5958
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Prima (A)
+#EXTINF:-1 group-title="Astro TV",ASTRO Prima (A)
 http://iptv12k.com:35461/17501083101/524668/734
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",SG-Astro Warna SG
+#EXTINF:-1 group-title="Astro TV",SG-Astro Warna SG
 http://iptv12k.com:35461/17501083101/524668/4313
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",WARNA(a)
+#EXTINF:-1 group-title="Astro TV",WARNA(a)
 http://iptv12k.com:35461/17501083101/524668/5075
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",WARNA(b)
+#EXTINF:-1 group-title="Astro TV",WARNA(b)
 http://iptv12k.com:35461/17501083101/524668/5074
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",SG-Astro Warna
+#EXTINF:-1 group-title="Astro TV",SG-Astro Warna
 http://iptv12k.com:35461/17501083101/524668/212
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Hub.Astro Warna
+#EXTINF:-1 group-title="Astro TV",Hub.Astro Warna
 http://iptv12k.com:35461/17501083101/524668/9169
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Warna(c)
+#EXTINF:-1 group-title="Astro TV",ASTRO Warna(c)
 http://iptv12k.com:35461/17501083101/524668/733
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Oasis HD
+#EXTINF:-1 group-title="Astro TV",ASTRO Oasis HD
 http://iptv12k.com:35461/17501083101/524668/732
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Ceria HD Reparing
+#EXTINF:-1 group-title="Astro TV",ASTRO Ceria HD Reparing
 http://iptv12k.com:35461/17501083101/524668/730
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Rania HD
+#EXTINF:-1 group-title="Astro TV",ASTRO Rania HD
 http://iptv12k.com:35461/17501083101/524668/728
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",[SG] OKEY
+#EXTINF:-1 group-title="Astro TV",[SG] OKEY
 http://iptv12k.com:35461/17501083101/524668/727
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TV-AlHijrah
+#EXTINF:-1 group-title="Astro TV",TV-AlHijrah
 http://iptv12k.com:35461/17501083101/524668/726
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Aljazeera
+#EXTINF:-1 group-title="Astro TV",Aljazeera
 http://iptv12k.com:35461/17501083101/524668/725
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Awani HD
+#EXTINF:-1 group-title="Astro TV",ASTRO Awani HD
 http://iptv12k.com:35461/17501083101/524668/724
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Bernama News
+#EXTINF:-1 group-title="Astro TV",Bernama News
 http://iptv12k.com:35461/17501083101/524668/723
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",BOO
+#EXTINF:-1 group-title="Astro TV",BOO
 http://iptv12k.com:35461/17501083101/524668/722
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Citra (B)
+#EXTINF:-1 group-title="Astro TV",ASTRO Citra (B)
 http://iptv12k.com:35461/17501083101/524668/6608
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Citra(A)
+#EXTINF:-1 group-title="Astro TV",ASTRO Citra(A)
 http://iptv12k.com:35461/17501083101/524668/721
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Maah tv
+#EXTINF:-1 group-title="Astro TV",Maah tv
 http://iptv12k.com:35461/17501083101/524668/720
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Aura HD Malaysia
+#EXTINF:-1 group-title="Astro TV",ASTRO Aura HD Malaysia
 http://iptv12k.com:35461/17501083101/524668/3949
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",MY: ASTRO GO Shop Gaaya
+#EXTINF:-1 group-title="Astro TV",MY: ASTRO GO Shop Gaaya
 http://iptv12k.com:35461/17501083101/524668/3749
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",MY: ASTRO GO Shop Rumma
+#EXTINF:-1 group-title="Astro TV",MY: ASTRO GO Shop Rumma
 http://iptv12k.com:35461/17501083101/524668/3748
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",My-Astro Box Office Movies
+#EXTINF:-1 group-title="Astro TV",My-Astro Box Office Movies
 http://iptv12k.com:35461/17501083101/524668/1825
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",MY-Astro Go Shop China
+#EXTINF:-1 group-title="Astro TV",MY-Astro Go Shop China
 http://iptv12k.com:35461/17501083101/524668/1823
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Hello
+#EXTINF:-1 group-title="Astro TV",ASTRO Hello
 http://iptv12k.com:35461/17501083101/524668/719
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Tutor TV PT3
+#EXTINF:-1 group-title="Astro TV",ASTRO Tutor TV PT3
 http://iptv12k.com:35461/17501083101/524668/718
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Tutor TV UPSR
+#EXTINF:-1 group-title="Astro TV",ASTRO Tutor TV UPSR
 http://iptv12k.com:35461/17501083101/524668/717
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Tutor TV SPM
+#EXTINF:-1 group-title="Astro TV",ASTRO Tutor TV SPM
 http://iptv12k.com:35461/17501083101/524668/716
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",tvN Movies
+#EXTINF:-1 group-title="Astro TV",tvN Movies
 http://iptv12k.com:35461/17501083101/524668/715
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",tvN HD
+#EXTINF:-1 group-title="Astro TV",tvN HD
 http://iptv12k.com:35461/17501083101/524668/714
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",KBS World HD
+#EXTINF:-1 group-title="Astro TV",KBS World HD
 http://iptv12k.com:35461/17501083101/524668/713
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Oh!K HD
+#EXTINF:-1 group-title="Astro TV",ASTRO Oh!K HD
 http://iptv12k.com:35461/17501083101/524668/712
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",One HD
+#EXTINF:-1 group-title="Astro TV",One HD
 http://iptv12k.com:35461/17501083101/524668/711
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Quan Jia HD
+#EXTINF:-1 group-title="Astro TV",ASTRO Quan Jia HD
 http://iptv12k.com:35461/17501083101/524668/710
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",AEC ASTRO(b)
+#EXTINF:-1 group-title="Astro TV",AEC ASTRO(b)
 http://iptv12k.com:35461/17501083101/524668/4341
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO AEC HD
+#EXTINF:-1 group-title="Astro TV",ASTRO AEC HD
 http://iptv12k.com:35461/17501083101/524668/709
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO iQIYI HD
+#EXTINF:-1 group-title="Astro TV",ASTRO iQIYI HD
 http://iptv12k.com:35461/17501083101/524668/708
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Hua Hee Dai HD
+#EXTINF:-1 group-title="Astro TV",ASTRO Hua Hee Dai HD
 http://iptv12k.com:35461/17501083101/524668/707
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Shuang Xing HD双星
+#EXTINF:-1 group-title="Astro TV",ASTRO Shuang Xing HD双星
 http://iptv12k.com:35461/17501083101/524668/706
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO AOD 351 HD
+#EXTINF:-1 group-title="Astro TV",ASTRO AOD 351 HD
 http://iptv12k.com:35461/17501083101/524668/705
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO AOD 352 HD
+#EXTINF:-1 group-title="Astro TV",ASTRO AOD 352 HD
 http://iptv12k.com:35461/17501083101/524668/704
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO AOD 353 HD
+#EXTINF:-1 group-title="Astro TV",ASTRO AOD 353 HD
 http://iptv12k.com:35461/17501083101/524668/703
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO AOD 354 HD
+#EXTINF:-1 group-title="Astro TV",ASTRO AOD 354 HD
 http://iptv12k.com:35461/17501083101/524668/702
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO AOD 355 HD
+#EXTINF:-1 group-title="Astro TV",ASTRO AOD 355 HD
 http://iptv12k.com:35461/17501083101/524668/701
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Xiao Tai Yang HD
+#EXTINF:-1 group-title="Astro TV",ASTRO Xiao Tai Yang HD
 http://iptv12k.com:35461/17501083101/524668/700
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TVB Classic
+#EXTINF:-1 group-title="Astro TV",TVB Classic
 http://iptv12k.com:35461/17501083101/524668/699
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TVB Jade HD
+#EXTINF:-1 group-title="Astro TV",TVB Jade HD
 http://iptv12k.com:35461/17501083101/524668/698
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TVB E-News
+#EXTINF:-1 group-title="Astro TV",TVB E-News
 http://iptv12k.com:35461/17501083101/524668/697
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TVB Xing He HD
+#EXTINF:-1 group-title="Astro TV",TVB Xing He HD
 http://iptv12k.com:35461/17501083101/524668/696
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TVBS Asia HD
+#EXTINF:-1 group-title="Astro TV",TVBS Asia HD
 http://iptv12k.com:35461/17501083101/524668/695
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",CTI Asia 中天亚洲
+#EXTINF:-1 group-title="Astro TV",CTI Asia 中天亚洲
 http://iptv12k.com:35461/17501083101/524668/694
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",CCM
+#EXTINF:-1 group-title="Astro TV",CCM
 http://iptv12k.com:35461/17501083101/524668/693
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",[ID] Celestial Movies
+#EXTINF:-1 group-title="Astro TV",[ID] Celestial Movies
 http://iptv12k.com:35461/17501083101/524668/692
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Star Chinese Channel HD衛視中文
+#EXTINF:-1 group-title="Astro TV",Star Chinese Channel HD衛視中文
 http://iptv12k.com:35461/17501083101/524668/690
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Kix HD ind
+#EXTINF:-1 group-title="Astro TV",Kix HD ind
 http://iptv12k.com:35461/17501083101/524668/689
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ARENA(c)ASTRO
+#EXTINF:-1 group-title="Astro TV",ARENA(c)ASTRO
 http://iptv12k.com:35461/17501083101/524668/5943
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Arena(a)
+#EXTINF:-1 group-title="Astro TV",ASTRO Arena(a)
 http://iptv12k.com:35461/17501083101/524668/688
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Rugby Pass TV
+#EXTINF:-1 group-title="Astro TV",Rugby Pass TV
 http://iptv12k.com:35461/17501083101/524668/687
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Aniplus HD
+#EXTINF:-1 group-title="Astro TV",Aniplus HD
 http://iptv12k.com:35461/17501083101/524668/686
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",BollyOne HD
+#EXTINF:-1 group-title="Astro TV",BollyOne HD
 http://iptv12k.com:35461/17501083101/524668/685
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Cricket
+#EXTINF:-1 group-title="Astro TV",ASTRO Cricket
 http://iptv12k.com:35461/17501083101/524668/684
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Comedy Central
+#EXTINF:-1 group-title="Astro TV",Comedy Central
 http://iptv12k.com:35461/17501083101/524668/683
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ELTA綜合
+#EXTINF:-1 group-title="Astro TV",ELTA綜合
 http://iptv12k.com:35461/17501083101/524668/679
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",THANGATHIRAI
+#EXTINF:-1 group-title="Astro TV",THANGATHIRAI
 http://iptv12k.com:35461/17501083101/524668/678
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Vaanavil HD
+#EXTINF:-1 group-title="Astro TV",ASTRO Vaanavil HD
 http://iptv12k.com:35461/17501083101/524668/676
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO VINMEEN
+#EXTINF:-1 group-title="Astro TV",ASTRO VINMEEN
 http://iptv12k.com:35461/17501083101/524668/675
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Makkal TV
+#EXTINF:-1 group-title="Astro TV",Makkal TV
 http://iptv12k.com:35461/17501083101/524668/674
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Star Vijay HD
+#EXTINF:-1 group-title="Astro TV",ASTRO Star Vijay HD
 http://iptv12k.com:35461/17501083101/524668/673
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Sun TV HD MY
+#EXTINF:-1 group-title="Astro TV",Sun TV HD MY
 http://iptv12k.com:35461/17501083101/524668/672
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Sun Music
+#EXTINF:-1 group-title="Astro TV",Sun Music
 http://iptv12k.com:35461/17501083101/524668/671
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Sony SetMAX
+#EXTINF:-1 group-title="Astro TV",Sony SetMAX
 http://iptv12k.com:35461/17501083101/524668/670
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Sony SAB
+#EXTINF:-1 group-title="Astro TV",Sony SAB
 http://iptv12k.com:35461/17501083101/524668/669
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Zee Cinema
+#EXTINF:-1 group-title="Astro TV",Zee Cinema
 http://iptv12k.com:35461/17501083101/524668/668
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Zee TV HD
+#EXTINF:-1 group-title="Astro TV",Zee TV HD
 http://iptv12k.com:35461/17501083101/524668/667
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Colors HD
+#EXTINF:-1 group-title="Astro TV",Colors HD
 http://iptv12k.com:35461/17501083101/524668/666
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Colors Tamil
+#EXTINF:-1 group-title="Astro TV",ASTRO Colors Tamil
 http://iptv12k.com:35461/17501083101/524668/665
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Colors Cineplex
+#EXTINF:-1 group-title="Astro TV",Colors Cineplex
 http://iptv12k.com:35461/17501083101/524668/664
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Polimer news
+#EXTINF:-1 group-title="Astro TV",Polimer news
 http://iptv12k.com:35461/17501083101/524668/663
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Raj TV
+#EXTINF:-1 group-title="Astro TV",Raj TV
 http://iptv12k.com:35461/17501083101/524668/662
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Jaya Max
+#EXTINF:-1 group-title="Astro TV",Jaya Max
 http://iptv12k.com:35461/17501083101/524668/661
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Jaya TV
+#EXTINF:-1 group-title="Astro TV",Jaya TV
 http://iptv12k.com:35461/17501083101/524668/660
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASTRO Adithya
+#EXTINF:-1 group-title="Astro TV",ASTRO Adithya
 http://iptv12k.com:35461/17501083101/524668/659
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Chutti TV
+#EXTINF:-1 group-title="Astro TV",Chutti TV
 http://iptv12k.com:35461/17501083101/524668/658
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",UTV movies
+#EXTINF:-1 group-title="Astro TV",UTV movies
 http://iptv12k.com:35461/17501083101/524668/657
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASSP1(d) Astro Supersports Premier League 1
+#EXTINF:-1 group-title="Astro TV",ASSP1(d) Astro Supersports Premier League 1
 http://iptv12k.com:35461/17501083101/524668/656
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASSP2(d) Astro Supersports Premier League 2
+#EXTINF:-1 group-title="Astro TV",ASSP2(d) Astro Supersports Premier League 2
 http://iptv12k.com:35461/17501083101/524668/655
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASSP3(f)Astro Supersports Premier League 3
+#EXTINF:-1 group-title="Astro TV",ASSP3(f)Astro Supersports Premier League 3
 http://iptv12k.com:35461/17501083101/524668/654
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ASSP4(d)Astro Supersports Premier 4
+#EXTINF:-1 group-title="Astro TV",ASSP4(d)Astro Supersports Premier 4
 http://iptv12k.com:35461/17501083101/524668/653
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",WWE Network
+#EXTINF:-1 group-title="Astro TV",WWE Network
 http://iptv12k.com:35461/17501083101/524668/652
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Golf Channel HD
+#EXTINF:-1 group-title="Astro TV",Golf Channel HD
 http://iptv12k.com:35461/17501083101/524668/651
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Fox Sports 1
+#EXTINF:-1 group-title="Astro TV",Fox Sports 1
 http://iptv12k.com:35461/17501083101/524668/650
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Fox Sports 2
+#EXTINF:-1 group-title="Astro TV",Fox Sports 2
 http://iptv12k.com:35461/17501083101/524668/649
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Fox Sports 3
+#EXTINF:-1 group-title="Astro TV",Fox Sports 3
 http://iptv12k.com:35461/17501083101/524668/648
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Eurosport HD
+#EXTINF:-1 group-title="Astro TV",Eurosport HD
 http://iptv12k.com:35461/17501083101/524668/647
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",HGTV HD
+#EXTINF:-1 group-title="Astro TV",HGTV HD
 http://iptv12k.com:35461/17501083101/524668/641
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",AFC AFN
+#EXTINF:-1 group-title="Astro TV",AFC AFN
 http://iptv12k.com:35461/17501083101/524668/640
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",TLC HD
+#EXTINF:-1 group-title="Astro TV",TLC HD
 http://iptv12k.com:35461/17501083101/524668/639
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Asia Food Network
+#EXTINF:-1 group-title="Astro TV",Asia Food Network
 http://iptv12k.com:35461/17501083101/524668/638
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",E! HD
+#EXTINF:-1 group-title="Astro TV",E! HD
 http://iptv12k.com:35461/17501083101/524668/637
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",DMAX HD
+#EXTINF:-1 group-title="Astro TV",DMAX HD
 http://iptv12k.com:35461/17501083101/524668/636
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Travel Channel HD
+#EXTINF:-1 group-title="Astro TV",Travel Channel HD
 http://iptv12k.com:35461/17501083101/524668/635
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Crime Investigation
+#EXTINF:-1 group-title="Astro TV",Crime Investigation
 http://iptv12k.com:35461/17501083101/524668/634
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Animal Planet HD
+#EXTINF:-1 group-title="Astro TV",Animal Planet HD
 http://iptv12k.com:35461/17501083101/524668/633
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",NatGeo HD National Geographic
+#EXTINF:-1 group-title="Astro TV",NatGeo HD National Geographic
 http://iptv12k.com:35461/17501083101/524668/632
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",NatGeo Wild HD
+#EXTINF:-1 group-title="Astro TV",NatGeo Wild HD
 http://iptv12k.com:35461/17501083101/524668/630
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",History HD
+#EXTINF:-1 group-title="Astro TV",History HD
 http://iptv12k.com:35461/17501083101/524668/629
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Discovery Science HD
+#EXTINF:-1 group-title="Astro TV",Discovery Science HD
 http://iptv12k.com:35461/17501083101/524668/628
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Discovery HD
+#EXTINF:-1 group-title="Astro TV",Discovery HD
 http://iptv12k.com:35461/17501083101/524668/627
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Disney XD HD
+#EXTINF:-1 group-title="Astro TV",Disney XD HD
 http://iptv12k.com:35461/17501083101/524668/626
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",BBC Lifestyle
+#EXTINF:-1 group-title="Astro TV",BBC Lifestyle
 http://iptv12k.com:35461/17501083101/524668/625
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",BBC Earth HD
+#EXTINF:-1 group-title="Astro TV",BBC Earth HD
 http://iptv12k.com:35461/17501083101/524668/624
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",BBC News HD
+#EXTINF:-1 group-title="Astro TV",BBC News HD
 http://iptv12k.com:35461/17501083101/524668/623
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",DW HD
+#EXTINF:-1 group-title="Astro TV",DW HD
 http://iptv12k.com:35461/17501083101/524668/622
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Love Nature HD
+#EXTINF:-1 group-title="Astro TV",Love Nature HD
 http://iptv12k.com:35461/17501083101/524668/621
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Nick Jr
+#EXTINF:-1 group-title="Astro TV",Nick Jr
 http://iptv12k.com:35461/17501083101/524668/619
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Cartoon Network HD
+#EXTINF:-1 group-title="Astro TV",Cartoon Network HD
 http://iptv12k.com:35461/17501083101/524668/618
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Nickelodeon HD
+#EXTINF:-1 group-title="Astro TV",Nickelodeon HD
 http://iptv12k.com:35461/17501083101/524668/617
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Baby First
+#EXTINF:-1 group-title="Astro TV",Baby First
 http://iptv12k.com:35461/17501083101/524668/616
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Cbeebies
+#EXTINF:-1 group-title="Astro TV",Cbeebies
 http://iptv12k.com:35461/17501083101/524668/615
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Boomerang HD
+#EXTINF:-1 group-title="Astro TV",Boomerang HD
 http://iptv12k.com:35461/17501083101/524668/614
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Dreamworks HD
+#EXTINF:-1 group-title="Astro TV",Dreamworks HD
 http://iptv12k.com:35461/17501083101/524668/613
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",FOX Action Movies
+#EXTINF:-1 group-title="Astro TV",FOX Action Movies
 http://iptv12k.com:35461/17501083101/524668/612
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",FOX Family Movies
+#EXTINF:-1 group-title="Astro TV",FOX Family Movies
 http://iptv12k.com:35461/17501083101/524668/611
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",FOX HD
+#EXTINF:-1 group-title="Astro TV",FOX HD
 http://iptv12k.com:35461/17501083101/524668/609
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",AXN HD
+#EXTINF:-1 group-title="Astro TV",AXN HD
 http://iptv12k.com:35461/17501083101/524668/608
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Cinemax HD
+#EXTINF:-1 group-title="Astro TV",Cinemax HD
 http://iptv12k.com:35461/17501083101/524668/607
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Cinema World HD
+#EXTINF:-1 group-title="Astro TV",Cinema World HD
 http://iptv12k.com:35461/17501083101/524668/606
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Animax
+#EXTINF:-1 group-title="Astro TV",Animax
 http://iptv12k.com:35461/17501083101/524668/605
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Warner TV
+#EXTINF:-1 group-title="Astro TV",Warner TV
 http://iptv12k.com:35461/17501083101/524668/604
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Hits HD
+#EXTINF:-1 group-title="Astro TV",Hits HD
 http://iptv12k.com:35461/17501083101/524668/603
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Hits Movies HD
+#EXTINF:-1 group-title="Astro TV",Hits Movies HD
 http://iptv12k.com:35461/17501083101/524668/602
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Blue Ant Entertainment
+#EXTINF:-1 group-title="Astro TV",Blue Ant Entertainment
 http://iptv12k.com:35461/17501083101/524668/601
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Blue Ant Extreme
+#EXTINF:-1 group-title="Astro TV",Blue Ant Extreme
 http://iptv12k.com:35461/17501083101/524668/600
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",HBO HD
+#EXTINF:-1 group-title="Astro TV",HBO HD
 http://iptv12k.com:35461/17501083101/524668/599
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",HBO Hits
+#EXTINF:-1 group-title="Astro TV",HBO Hits
 http://iptv12k.com:35461/17501083101/524668/598
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",HBO Family
+#EXTINF:-1 group-title="Astro TV",HBO Family
 http://iptv12k.com:35461/17501083101/524668/597
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",HBO Signature
+#EXTINF:-1 group-title="Astro TV",HBO Signature
 http://iptv12k.com:35461/17501083101/524668/596
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Indosiar
+#EXTINF:-1 group-title="Astro TV",Indosiar
 http://iptv12k.com:35461/17501083101/524668/595
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",CNN HD
+#EXTINF:-1 group-title="Astro TV",CNN HD
 http://iptv12k.com:35461/17501083101/524668/594
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",CNBC
+#EXTINF:-1 group-title="Astro TV",CNBC
 http://iptv12k.com:35461/17501083101/524668/593
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",ABC Australia
+#EXTINF:-1 group-title="Astro TV",ABC Australia
 http://iptv12k.com:35461/17501083101/524668/592
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Sky News HD
+#EXTINF:-1 group-title="Astro TV",Sky News HD
 http://iptv12k.com:35461/17501083101/524668/591
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Bloomberg TV
+#EXTINF:-1 group-title="Astro TV",Bloomberg TV
 http://iptv12k.com:35461/17501083101/524668/590
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",France 24 HD
+#EXTINF:-1 group-title="Astro TV",France 24 HD
 http://iptv12k.com:35461/17501083101/524668/589
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Euro news my
+#EXTINF:-1 group-title="Astro TV",Euro news my
 http://iptv12k.com:35461/17501083101/524668/588
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",FOX NEWS
+#EXTINF:-1 group-title="Astro TV",FOX NEWS
 http://iptv12k.com:35461/17501083101/524668/587
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",MTV Live
+#EXTINF:-1 group-title="Astro TV",MTV Live
 http://iptv12k.com:35461/17501083101/524668/586
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",[ID] NHK World Premium
+#EXTINF:-1 group-title="Astro TV",[ID] NHK World Premium
 http://iptv12k.com:35461/17501083101/524668/585
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",OUTDOOR
+#EXTINF:-1 group-title="Astro TV",OUTDOOR
 http://iptv12k.com:35461/17501083101/524668/582
-#EXTINF:-1 tvg-logo="" group-title="Astro TV",Celestial Movies HD
+#EXTINF:-1 group-title="Astro TV",Celestial Movies HD
 http://iptv12k.com:35461/17501083101/524668/581
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Animax_Asia(Vietnamese Subs)
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BabyTV_Asia(Vietnamese dub)
+https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BBC Earth(Vietnamese dub)
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BBC Lifestyle Asia
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BBC World News Asia Pacific
+https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Boomerang South East Asia(Vietnamese dub) 
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",CBeebies Asia(Vietnamese dub)
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Cinemax_Asia(720p)
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",CNBC Asia(720p)
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",DaVinci Asia(1080p)
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Dreamworks_Channel Asia(Vietnamese dub)
+https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HBO_Asia
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HTV1
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HTV3
+https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HTV4
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Kix(1080p)
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",MTV Vietnam 
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Rock Entertainment(1080p)
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Rock Extreme(1080p)
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",SkyShop(720p)
+https://livecdn.fptplay.net/sda/skymart_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC1(720p)[Geo-blocked]
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC4(720p)
+https://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC5(576p)
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC6(576p)
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",National Geographic Asia(1080p)
+https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",National Geographic Wild Asia(1080p)
+https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL1 HD(720p)
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL2 HD(720p)
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL3 HD(720p)
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL4 HD(720p)
+https://vips-livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC2(720p)
+https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Cinema HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beIN Cinema HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257254.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Box Office 1 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",Box Office 1 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257255.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beiN MOVIES 1 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 1 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257256.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beiN MOVIES 2 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 2 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257257.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beiN MOVIES 3 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 3 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257258.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beiN MOVIES 4 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 4 HD
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257259.ts
+#EXTINF:-1 tvg-id="" tvg-name="AR: beiN FOX MOVIES ACTION" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",FOX MOVIES ACTION
+http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257260.ts
