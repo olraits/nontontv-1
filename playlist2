@@ -71,6 +71,8 @@ http://iptv12k.com:35461/17501083101/524668/655
 http://iptv12k.com:35461/17501083101/524668/654
 #EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 4 HD
 http://iptv12k.com:35461/17501083101/524668/653
+#EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 5 HD
+http://king-tv.online:8080/gisle@/FDPWGufCmY/379986.ts
 #EXTINF:-1 tvg-name="beINSPORTS 1 HD+" tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.pn" group-title="Sport",beINSPORTS 1 HD+
 http://2111.space:8080/live/hossam1/hossam1/42486.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 2 HD+
@@ -92,9 +94,9 @@ http://2111.space:8080/live/hossam1/hossam1/42494.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS PREMIUM 3 HD+
 http://2111.space:8080/live/hossam1/hossam1/42495.ts
 #EXTINF:-1 tvg-name="BeIN_Sport_XTRA_01" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Sport",beIN Sports Xtra 1
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/290037
+http://king-tv.online:8080/gisle@/FDPWGufCmY/267465.ts
 #EXTINF:-1 tvg-name="BeIN_Sport_XTRA_02" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Sport",beIN Sports Xtra 2
-http://quality-restream.com:8080/single-ed8969/6554d47b5f/283294
+http://king-tv.online:8080/gisle@/FDPWGufCmY/238033.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 1 HD
 http://2111.space:8080/live/hossam1/hossam1/39226.ts
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 2 HD
@@ -1079,81 +1081,79 @@ http://iptv12k.com:35461/17501083101/524668/585
 http://iptv12k.com:35461/17501083101/524668/582
 #EXTINF:-1 group-title="Astro TV",Celestial Movies HD
 http://iptv12k.com:35461/17501083101/524668/581
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Animax_Asia(Vietnamese Subs)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Animax_Asia(Vietnamese Subs)
 https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BabyTV_Asia(Vietnamese dub)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BabyTV_Asia(Vietnamese dub)
 https://livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BBC Earth(Vietnamese dub)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BBC Earth(Vietnamese dub)
 https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BBC Lifestyle Asia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BBC Lifestyle Asia
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BBC World News Asia Pacific
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",BBC World News Asia Pacific
 https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Boomerang South East Asia(Vietnamese dub) 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Boomerang South East Asia(Vietnamese dub) 
 https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",CBeebies Asia(Vietnamese dub)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",CBeebies Asia(Vietnamese dub)
 https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Cinemax_Asia(720p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Cinemax_Asia(720p)
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",CNBC Asia(720p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",CNBC Asia(720p)
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",DaVinci Asia(1080p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",DaVinci Asia(1080p)
 https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Dreamworks_Channel Asia(Vietnamese dub)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Dreamworks_Channel Asia(Vietnamese dub)
 https://livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HBO_Asia
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HBO_Asia
 https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HTV1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HTV1
 https://livecdn.fptplay.net/sdb/htv1_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HTV3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HTV3
 https://livecdn.fptplay.net/sdb/htv3_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HTV4
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",HTV4
 https://livecdn.fptplay.net/sdb/htv4_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Kix(1080p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Kix(1080p)
 https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",MTV Vietnam 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",MTV Vietnam 
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Rock Entertainment(1080p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Rock Entertainment(1080p)
 https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Rock Extreme(1080p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",Rock Extreme(1080p)
 https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",SkyShop(720p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",SkyShop(720p)
 https://livecdn.fptplay.net/sda/skymart_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC1(720p)[Geo-blocked]
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC1(720p)[Geo-blocked]
 https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC4(720p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC4(720p)
 https://livecdn.fptplay.net/sdc/vtc4_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC5(576p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC5(576p)
 https://livecdn.fptplay.net/sdb/vtc5_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC6(576p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC6(576p)
 https://livecdn.fptplay.net/sdb/vtc6_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",National Geographic Asia(1080p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",National Geographic Asia(1080p)
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",National Geographic Wild Asia(1080p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",National Geographic Wild Asia(1080p)
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL1 HD(720p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL1 HD(720p)
 https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL2 HD(720p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL2 HD(720p)
 https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL3 HD(720p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL3 HD(720p)
 https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL4 HD(720p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",THVL4 HD(720p)
 https://vips-livecdn.fptplay.net/hda3/vinhlong4hd_vhls.smil/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC2(720p)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC14dnvt/81539089-10216175828163573-1596420214138863616-o.jpg" group-title="Vietnam",VTC2(720p)
 https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Cinema HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beIN Cinema HD
+#EXTINF:-1 tvg-name="AR: beIN Cinema HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beIN Cinema HD
 http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257254.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Box Office 1 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",Box Office 1 HD
+#EXTINF:-1 tvg-name="AR: beIN Box Office 1 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",Box Office 1 HD
 http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257255.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beiN MOVIES 1 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 1 HD
+#EXTINF:-1 tvg-name="AR: beiN MOVIES 1 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 1 HD
 http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257256.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beiN MOVIES 2 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 2 HD
+#EXTINF:-1 tvg-name="AR: beiN MOVIES 2 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 2 HD
 http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257257.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beiN MOVIES 3 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 3 HD
+#EXTINF:-1 tvg-name="AR: beiN MOVIES 3 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 3 HD
 http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257258.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beiN MOVIES 4 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 4 HD
+#EXTINF:-1 tvg-name="AR: beiN MOVIES 4 HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",beiN MOVIES 4 HD
 http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257259.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR: beiN FOX MOVIES ACTION" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",FOX MOVIES ACTION
+#EXTINF:-1 tvg-name="AR: beiN FOX MOVIES ACTION" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="Arabia Premium",FOX MOVIES ACTION
 http://eu.bosstv.live:8080/live/ravtaruSVE5P/X9Y72s6PBdFr/257260.ts
