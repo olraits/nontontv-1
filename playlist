@@ -443,7 +443,7 @@ http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", Paramount
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/98
+https://nonton.site:8443/mustakim/mustakim/98
 http://iptvid.my.id/hmm/paramount.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -537,7 +537,9 @@ http://iptv12k.com:35461/17501083101/524668/728
 http://iptv12k.com:35461/17501083101/524668/710
 
 #EXTINF:-1 tvg-id="StarWorldIndia.in" tvg-logo="https://i.imgur.com/oe4Woe7.png" group-title="ENTERTAINMENT",Star World
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/381
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
+http://pprotv.com:80/fahad70/fahad70/61453
 https://nonton.site:8443/mustakim/mustakim/381
 
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/kBiWPbB.png" group-title="ENTERTAINMENT",Colors Infinity
@@ -550,9 +552,9 @@ http://iptv12k.com:35461/17501083101/524668/8911
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 http://iptv12k.com:35461/17501083101/524668/8615
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",K Drama
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/35769
 https://nonton.site:8443/mustakim/mustakim/35769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/mFdBZMM/chinese-drama-home-tv.png",Chinese Drama
@@ -1042,7 +1044,6 @@ https://on-load.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 http://pprotv.com:80/fahad70/fahad70/39516
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/780
 http://iptvid.my.id/hmm/starcm.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1102,7 +1103,8 @@ http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862618&extension=ts
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="https://i.ibb.co/4jctxxs/str.png" group-title="MOVIES",STAR MOVIES SELECT
-http://syok.tv:2082/588007/588007/1551
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
 http://humiptv.live:8080//live/500757885/3356646354/98843.ts
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
@@ -1206,10 +1208,9 @@ https://stream-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #EXTINF:-1 tvg-id="CITRADRAMA.id" tvg-logo="https://i.postimg.cc/Qxg3HpkS/citra-bioskop-logo.png" group-title="MOVIES", Citra Bioskop
 http://tvn.x10.mx/playlist/master-2.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bH4brzz/BIOSKOPINDONESIA.png" group-title="MOVIES", Bioskop Indonesia
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/908
-http://syok.tv:2082/588007/588007/1546
 http://pprotv.com:80/fahad70/fahad70/39446
 http://iptvid.my.id/hmm/biosid.m3u8?by_iptv_id
 
@@ -1217,8 +1218,8 @@ http://iptvid.my.id/hmm/biosid.m3u8?by_iptv_id
 http://203.77.246.50:5000/udp/239.1.1.74:5000
 
 #EXTINF:-1 tvg-id="" tvg-name="Flik" tvg-logo="https://i.ibb.co/mH15H33/flik.png" group-title="MOVIES",Flik
-http://syok.tv:2082/588007/588007/107
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/29592
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 http://pprotv.com:80/fahad70/fahad70/39508
 http://iptvid.my.id/hmm/flik.m3u8?by_iptv_id
 
@@ -1398,12 +1399,10 @@ http://tvn.x10.mx/playlist/master-10.m3u8
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/48
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Usee Sports 1
-http://syok.tv:2082/12345/54321/2551
 http://pprotv.com:80/fahad70/fahad70/39554
 http://iptvid.my.id/hmm/useetl1.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",Usee Sports 2
-http://syok.tv:2082/12345/54321/2552
 http://pprotv.com:80/fahad70/fahad70/39555
 http://iptvid.my.id/hmm/useetl2.m3u8
 
@@ -1539,7 +1538,6 @@ https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KhLF0W1/HORIZONSPORTS.png" group-title="SPORTS-2",Horizon Sports
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/46366
 http://iptvid.my.id/hmm/horisonsport.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
