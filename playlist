@@ -31,7 +31,7 @@ https://stream-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="NATIONAL TV", Indosiar
-http://tvn.x10.mx/playlist/master.m3u8
+https://www.dropbox.com/s/cf48856yikjsp9f/master.m3u8?dl=1
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -476,9 +476,7 @@ http://210.210.155.35/uq2663/h/h19/index10.m3u8?app_type=web&userid=50n13N0v14nd
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="ENTERTAINMENT",SBS
 http://222.109.117.27:9981/stream/channelid/2096368258
-http://iptv12k.com:35461/17501083101/524668/3232
-#EXTINF:0 tvg-logo="https://i.imgur.com/tzTx3Ta.png" group-title="ENTERTAINMENT",SBS UBC
-http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
+http://iptvtree.net:8080/ace2524d/15a571c413/284622
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="" group-title="ENTERTAINMENT", JTBC
 https://allanf181.github.io/adaptive-streams/streams/kr/JTBC.m3u8
@@ -502,14 +500,14 @@ https://stream-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 #EXTINF:-1 tvg-id="TV3.my" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/1920px-TV3_%28Malaysia%29.svg.png" group-title="ENTERTAINMENT",TV 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/5072
+http://iptvtree.net:8080/ace2524d/15a571c413/158360
 #EXTINF:-1 tvg-id="TV9.my" tvg-logo="https://i.imgur.com/smKCnNj.png" group-title="ENTERTAINMENT",TV 9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 
 #EXTINF:-1 tvg-id="AstroAEC.my" tvg-logo="https://i.imgur.com/kTEWNTp.png" group-title="ENTERTAINMENT",Astro AEC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/709
+http://51.79.82.208:16021
 
 #EXTINF:-1 tvg-id="RTMTVOkey.my" tvg-logo="https://i.imgur.com/pIQxNaY.png" group-title="ENTERTAINMENT",TV Okey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
@@ -524,17 +522,17 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/D
 #EXTINF:-1 tvg-id="AstroAura.my" tvg-logo="https://i.imgur.com/cyIsVd7.png" group-title="ENTERTAINMENT",Astro Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/3949
+http://shareext@xtv.ooo:8080/demo/demo123/229562
 
 #EXTINF:-1 tvg-id="AstroRania.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_Rania_NEW.png" group-title="ENTERTAINMENT",Astro Rania
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/728
+http://iptvtree.net:8080/ace2524d/15a571c413/171984
 
 #EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-logo="https://i.imgur.com/FTvi5XK.png" group-title="ENTERTAINMENT",Astro Quan Jia HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/710
+http://iptvtree.net:8080/ace2524d/15a571c413/247427
 
 #EXTINF:-1 tvg-id="StarWorldIndia.in" tvg-logo="https://i.imgur.com/oe4Woe7.png" group-title="ENTERTAINMENT",Star World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -545,17 +543,18 @@ https://nonton.site:8443/mustakim/mustakim/381
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/kBiWPbB.png" group-title="ENTERTAINMENT",Colors Infinity
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/8911
+http://pprotv.com:80/fahad70/fahad70/61462
 
 #EXTINF:-1 tvg-id="StarWorldIndia.in" tvg-logo="https://i.imgur.com/oe4Woe7.png" group-title="ENTERTAINMENT",Star Plus HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/8615
+http://iptvtree.net:8080/ace2524d/15a571c413/16091
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",K Drama
-https://nonton.site:8443/mustakim/mustakim/35769
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/35769
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/mFdBZMM/chinese-drama-home-tv.png",Chinese Drama
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
@@ -567,7 +566,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="ENTERTAINMENT",E!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/637
+http://iptvtree.net:8080/ace2524d/15a571c413/2306
 
 #EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="ENTERTAINMENT",USA Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -577,17 +576,17 @@ http://5gfksa.ltd:2052/991155/551199/173510
 #EXTINF:-1 tvg-id="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="ENTERTAINMENT",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/2110
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/866
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="ENTERTAINMENT",TBS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/5695
+http://iptvtree.net:8080/ace2524d/15a571c413/295674
 
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="ENTERTAINMENT",TNT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/1696
+http://iptvtree.net:8080/ace2524d/15a571c413/769
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TapTV-ph.png" group-title="ENTERTAINMENT",TAP TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -621,11 +620,10 @@ https://stream-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 https://stream-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQNqx-MAatDqHcaGMXpdyZjB7QWuPD9hAgUg&usqp=CAU" group-title="ENTERTAINMENT", Citra Drama
-http://tvn.x10.mx/playlist/master-3.m3u8
-https://nonton.site:8443/mustakim/mustakim/905
+https://www.dropbox.com/s/es2v8e2qlq047ht/master-3.m3u8?dl=1
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpKKTDDNWkcWF4-Eu_npO3umWKFXhu-DdgYQ&usqp=CAU" group-title="ENTERTAINMENT",Citra Entertainment
-http://tvn.x10.mx/playlist/master-12.m3u8
+https://www.dropbox.com/s/tshslrzzskzwfdc/master-12.m3u8?dl=1
 
 #EXTINF:-1 tvg-id="" tvg-name="Seru" tvg-logo="https://images.useetv.com/logo_seru_small.png" group-title="ENTERTAINMENT",Seru Channel
 http://iptvid.my.id/hmm/seru.m3u8?by_iptv_id
@@ -860,7 +858,7 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscoveryEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1920px-InvestigationDiscoveryLogo2020.svg.png" group-title="KNOWLEDGE",Investigation Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-http://iptv12k.com:35461/17501083101/524668/8792
+http://iptvtree.net:8080/ace2524d/15a571c413/8557
 
 #EXTINF:-1 tvg-logo="https://www.biznetnetworks.com/assets/list-logo/logo-large/biznet_logo.jpg" group-title="KNOWLEDGE", Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
@@ -868,7 +866,7 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 #EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="https://i.ibb.co/N3sSBtz/hjff.png" group-title="KNOWLEDGE ",DMAX
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-http://iptv12k.com:35461/17501083101/524668/279
+http://iptvtree.net:8080/ace2524d/15a571c413/158351
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE", LOVE NATURE 4K
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
@@ -882,7 +880,7 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="KNOWLEDGE",Discovery Science
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-http://iptv12k.com:35461/17501083101/524668/8862
+http://iptvtree.net:8080/ace2524d/15a571c413/157530
 
 #EXTINF:-1 tvg-id="KnowledgeChannel.ph" tvg-logo="https://i.imgur.com/YHJBfjd.png" group-title="KNOWLEDGE",Knowledge Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -973,15 +971,15 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HipHiphoree.id" tvg-logo="https://i.imgur.com/TMAQTQC.png" group-title="KIDS",Hip Hip Horee!
-http://tvn.x10.mx/playlist/master-4.m3u8
+https://www.dropbox.com/s/amr79k076z9yoog/master-4.m3u8?dl=1
 
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
-http://tvn.x10.mx/playlist/master-6.m3u8
+https://www.dropbox.com/s/st9imdoysb8wpg9/master-6.m3u8?dl=1
 
 #EXTINF:-1 tvg-id="TADAA.my" tvg-logo="https://i.imgur.com/EVNoaz5.png" group-title="KIDS",Ta-daa!
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-http://iptv12k.com:35461/17501083101/524668/744
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37445
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS",IndiKids
 http://iptvid.my.id/hmm/indikids.m3u8 
@@ -989,7 +987,7 @@ http://iptvid.my.id/hmm/indikids.m3u8
 #EXTINF:-1 tvg-id="AstroCeria.my" tvg-logo="https://i.imgur.com/8s1jRRh.png" group-title="KIDS",Astro Ceria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=39b114b7ebecd9d4a7f1c797dd885b10&key=8d2be29307bb382c8c6c286cc9cd07c6
-http://iptv12k.com:35461/17501083101/524668/730
+http://iptvtree.net:8080/ace2524d/15a571c413/157481
 
 
 ##########################MOVIES##########################
@@ -1022,7 +1020,7 @@ https://stream-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",FOX Movies
-http://iptv12k.com:35461/17501083101/524668/1753
+http://pprotv.com:80/fahad70/fahad70/3243
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
@@ -1103,12 +1101,12 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://i.imgur.com/AJbFTSr.png" group-title="MOVIES",Star Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-http://iptv12k.com:35461/17501083101/524668/2289
+http://iptvtree.net:8080/ace2524d/15a571c413/11511
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZtYQsB/flix-logo.png" group-title="MOVIES" tvg-id="flix.in" tvg-name="flix.in", & flix
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-http://iptv12k.com:35461/17501083101/524668/8975
+http://iptvtree.net:8080/ace2524d/15a571c413/45506
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HuJrZgT.png" group-title="MOVIES",& pictures
 http://qualityoverquantity.site:8880/play/live.php?mac=00:1A:79:35:B2:F6&stream=862617&extension=ts
@@ -1139,7 +1137,7 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",KR: OCN KR
-http://iptv12k.com:35461/17501083101/524668/3223
+#
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
@@ -1169,7 +1167,7 @@ http://103.179.246.243:8000/play/a01d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES", Colors Cineplex HD
-http://iptv12k.com:35461/17501083101/524668/664
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37455
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="MOVIES",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
@@ -1223,7 +1221,7 @@ https://stream-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/Indo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="CITRADRAMA.id" tvg-logo="https://i.postimg.cc/Qxg3HpkS/citra-bioskop-logo.png" group-title="MOVIES", Citra Bioskop
-http://tvn.x10.mx/playlist/master-2.m3u8
+https://www.dropbox.com/s/ufmzhqxm60jxuxv/master-2.m3u8?dl=1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
@@ -1249,17 +1247,17 @@ https://on-load.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 tvgv-id="StarGold.in" tvg-logo="https://i.imgur.com/bBwYVXE.png" group-title="MOVIES",Star Gold
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-http://iptv12k.com:35461/17501083101/524668/8563
+http://iptvtree.net:8080/ace2524d/15a571c413/1070
 
 #EXTINF:-1 tvg-id="AstroCitra.my" tvg-logo="https://i.imgur.com/Vmdbbo5.png" group-title="MOVIES",Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-http://iptv12k.com:35461/17501083101/524668/721
+http://shareext@xtv.ooo:8080/demo/demo123/229575
 
 #EXTINF:-1 tvg-id="ShowcaseMovies.my" tvg-logo="https://i.imgur.com/Uctv8BF.png" group-title="MOVIES",Showcase Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-http://iptv12k.com:35461/17501083101/524668/1826
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37428
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -1306,11 +1304,6 @@ http://190.2.155.162:8080/m6music/mpegts
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="MUSIC",MTV Vietnam
 https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="MUSIC",MTV East
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=73e84f91bd9ae20412e370f98fd3a110&key=d5b52aabca5afe002eb495804f8ec944
-http://iptv12k.com:35461/17501083101/524668/5735
 
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",MTV LOVE
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=b6e3&deviceDNT=0&deviceModel=0
@@ -1402,22 +1395,22 @@ https://dtaarjaj1diy9.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://stream-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="SPORTS",Champions TV 1
-http://tvn.x10.mx/playlist/master-7.m3u8
+https://www.dropbox.com/s/hocqh2gfyb23pxq/master-7.m3u8?dl=1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="SPORTS",Champions TV 2
-http://tvn.x10.mx/playlist/master-8.m3u8
+https://www.dropbox.com/s/axy9x9bt9mtdvbd/master-8.m3u8?dl=1
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="SPORTS",Champions TV 3
-http://tvn.x10.mx/playlist/master-9.m3u8
+https://www.dropbox.com/s/5yuv181c9dk0upx/master-9.m3u8?dl=1
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV4.id" tvg-logo="https://i.imgur.com/4J586mw.png" group-title="SPORTS",Champions TV 4
 #https://lnk.ec/shareext@juara4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AcBSHlM.png" group-title="SPORTS",Champions TV Goal
-http://tvn.x10.mx/playlist/master-10.m3u8
+https://www.dropbox.com/s/2bgmqsdhcki5t1e/master-10.m3u8?dl=1
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/48
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Usee Sports 1
@@ -1585,22 +1578,22 @@ http://king-tv.online:8080/gisle@/FDPWGufCmY/379990.ts
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="SPORTS-2",Astro Supersport
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-http://iptv12k.com:35461/17501083101/524668/656
+http://shareext@xtv.ooo:8080/demo/demo123/229522
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="SPORTS-2",Astro Supersport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-http://iptv12k.com:35461/17501083101/524668/655
+http://shareext@xtv.ooo:8080/demo/demo123/229523
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="SPORTS-2",Astro Supersport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-http://iptv12k.com:35461/17501083101/524668/654
+http://shareext@xtv.ooo:8080/demo/demo123/229524
 
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="SPORTS-2",Astro Supersport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-http://iptv12k.com:35461/17501083101/524668/653
+http://shareext@xtv.ooo:8080/demo/demo123/229525
 
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="SPORTS-2",Astro Supersport 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1613,7 +1606,7 @@ http://live.tvfix.org/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="SPORTS-2",Fox Sports 501
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-http://iptv12k.com:35461/17501083101/524668/3391
+http://bandookk.xyz:8000/cricket2022/cricket2022/17535
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/XvtCK9Zj/Fox-Sports502-HD.jpg" group-title="SPORTS-2", FOX SPORTS 502 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1863,49 +1856,53 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c476
 ##########################VIDIO##########################
 
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Champion_1(tvn_digital)
-http://tvn.x10.mx/playlist/master-7.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/hocqh2gfyb23pxq/master-7.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Champion_2(tvn_digital)
-http://tvn.x10.mx/playlist/master-8.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/axy9x9bt9mtdvbd/master-8.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Champion_3(tvn_digital)
-http://tvn.x10.mx/playlist/master-9.m3u8|User-Agent=android-12
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Champion_4(tvn_digital)
-http://tvn.x10.mx/playlist/master-10.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/5yuv181c9dk0upx/master-9.m3u8?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",ChampionGoal(tvn_digital)
+https://www.dropbox.com/s/2bgmqsdhcki5t1e/master-10.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Sctv_HD(tvn)
-http://tvn.x10.mx/playlist/master-1.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/7aobo95u1s8tp7t/master-1.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Citra_bioskop(tvn)
-http://tvn.x10.mx/playlist/master-2.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/ufmzhqxm60jxuxv/master-2.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Citra_drama(tvn)
-http://tvn.x10.mx/playlist/master-3.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/es2v8e2qlq047ht/master-3.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",HIP.HIP.Horee(tvn)
-http://tvn.x10.mx/playlist/master-4.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/amr79k076z9yoog/master-4.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Citra_Muslim(tvn)
-http://tvn.x10.mx/playlist/master-5.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/jnhzsp6pxzp4cpy/master-5.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",HOREE(tvn)
-http://tvn.x10.mx/playlist/master-6.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/st9imdoysb8wpg9/master-6.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Citra_Dangdut(tvn)
-http://tvn.x10.mx/playlist/master-11.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/bgpgw5oo7x746e7/master-11.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Citra_Entertaiment(tvn)
-http://tvn.x10.mx/playlist/master-12.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/tshslrzzskzwfdc/master-12.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",AjwaTv(tvn)
-http://tvn.x10.mx/playlist/master-14.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/17c2rgnc4bjpr6d/master-13.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",ANtv(tvn)
-http://tvn.x10.mx/playlist/master-15.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/omhppoi8b1uhgsk/master-15.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",RTV(tvn)
-http://tvn.x10.mx/playlist/master-16.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/yqyn0q7ixzjy4y2/master-29.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",ZOOMO(tvn)
-http://tvn.x10.mx/playlist/master-17.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/0r1es1255qolkhz/master-16.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",tvN(tvn)
-http://tvn.x10.mx/playlist/master-18.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/ap3tptq5kbywhui/master-17.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Zee.bioskop(tvn)
-http://tvn.x10.mx/playlist/master-19.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/gp57vmhuxefi0ln/master-18.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Musica(tvn)
-http://tvn.x10.mx/playlist/master-20.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/iq7dr12m632kblv/master-19.m3u8?dl=1
 #EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Radio.Nagaswara(tvn)
-http://tvn.x10.mx/playlist/master-21.m3u8|User-Agent=android-12
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",LFC(tvn)
-http://tvn.x10.mx/playlist/master-22.m3u8|User-Agent=android-12
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",MentariTV(tvn)
-http://tvn.x10.mx/playlist/master-23.m3u8|User-Agent=android-12
+https://www.dropbox.com/s/nvjn1aiagxjdyvx/master-20.m3u8?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",Radio.cakraFM_bandung(tvn_digital)
+https://www.dropbox.com/s/3is3csmw0aofg9o/master-21.m3u8?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",LFC(tvn_digital)
+https://www.dropbox.com/s/8yleas547p2zikh/master-28.m3u8?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",tvOne(tvn_digital)
+https://www.dropbox.com/s/kom1gk5d6138stp/master-25.m3u8?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VIDIO",MentariTV(tvn_digital)
+https://www.dropbox.com/s/cao7x0nsx3gloy6/master-22.m3u8?dl=1
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/cV7suiKWlj2Bj0Igw03BOf5VCvw=/112x112/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png" tvg-id=".SHINTA" tvg-name"[CODAY] SCTV _VIDIO" group-title="VIDIO",SCTV_VIDIO
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
