@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="Local",RCTI
-http://pprotv.com:80/fahad70/fahad70/22298
+http://54.151.201.145:5566/GG/Live/RcTi/mpegts
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://www.useetv.com/pimages/logo_sctv_small1.png" group-title="Local",SCTV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a4446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://www.useetv.com/pimages/logo_indosiar_small1.png" group-title="Local",Indosiar
@@ -14,7 +14,7 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Local",GTV
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/19
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Local",MNC TV
-http://iptv12k.com:35461/17501083101/524668/2175
+http://54.151.201.145:5566/GG/Live/MNCTV/mpegts
 #EXTINF:-1 tvg-name="Net TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/56f2ba8d1d05b475638d51b582eca051.png" group-title="Local",Net TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=4b0a59ddf11c58e7446c9df0da541a84446503011668def857b1c03bafabba51
 #EXTINF:-1 tvg-name="Magna_TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/magna-channel-id.png" group-title="Local",Magna_TV
@@ -48,69 +48,61 @@ http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2
 #EXTINF:-1 tvg-name="RRI Net" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="Local",RRI Net
 https://cdnrrinet.rri.co.id/rrinet/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Champions TV 1" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="Sport",Champions TV 1
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
+http://pprotv.com:80/fahad70/fahad70/39556
 #EXTINF:-1 tvg-name="Champions TV 2" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="Sport",Champions TV 2
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
 #EXTINF:-1 tvg-name="Champions TV 3" tvg-logo="https://i.imgur.com/26Jar5R.png" group-title="Sport",Champions TV 3
 http://tv.zonanime.my.id/vidio/championstv3.m3u8
 #EXTINF:-1 tvg-name="Champions TV Goal" tvg-logo="https://i.imgur.com/AcBSHlM.png" group-title="Sport",Champions TV Goal
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/48
+#
 #EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png" group-title="Sport",SPOTV
 https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1656208805~exp=9007200910949796~acl=/99545824f51f4c1592b35314c6ece3b0/*/profile_0/chunklist.m3u8*~hmac=181053f73f2b60c4c09d07fcbee45eeb3603c78d966f9810f190f8b31574cba2
 #EXTINF:-1 tvg-name="SPOTV 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png" group-title="Sport",SPOTV 2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_0/chunklist.m3u8?hdnea=st=1655715604~exp=9007200910456595~acl=/48eee16919834d3b97df1082a649bcfa/*/profile_0/chunklist.m3u8*~hmac=3d68badae101f8edfa354550208282166f263e165eb7df0cd9dac20a4d22759a
 #EXTINF:-1 tvg-name="Useesport" tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="Sport",Useesport
-http://stream.semerutv.link:7780/freebies/EOti98qsWH/49
+http://pprotv.com:80/fahad70/fahad70/39554
 #EXTINF:-1 tvg-name="Useesport 2" tvg-logo="https://images.useetv.com/logo_useeprime_big1.png?v=2.0.0.13" group-title="Sport",Useesport 2
 http://pprotv.com:80/fahad70/fahad70/39555
-#EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 1 HD
-http://iptv12k.com:35461/streaming/clients_live.php?extension=ts&username=17501083101&password=524668&stream=656
-#EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 2 HD
-http://iptv12k.com:35461/17501083101/524668/655
-#EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 3 HD
-http://iptv12k.com:35461/17501083101/524668/654
-#EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 4 HD
-http://iptv12k.com:35461/17501083101/524668/653
-#EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",ASTRO.SUPERSPORTS 5 HD
+#EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",Astro SuperSport 1
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52859
+#EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",Astro SuperSport 2
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52860
+#EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",Astro SuperSport 3
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52861
+#EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",Astro SuperSport 4
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52862
+#EXTINF:-1 tvg-name="ASTRO.SUPERSPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/Astro_Supersport_2015.png/revision/latest?cb=20210802132424" group-title="Sport",Astro SuperSport 5
 http://king-tv.online:8080/gisle@/FDPWGufCmY/379986.ts
-#EXTINF:-1 tvg-name="beINSPORTS 1 HD+" tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.pn" group-title="Sport",beINSPORTS 1 HD+
-http://2111.space:8080/live/hossam1/hossam1/42486.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 2 HD+
-http://2111.space:8080/live/hossam1/hossam1/42487.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 3 HD+
-http://2111.space:8080/live/hossam1/hossam1/42488.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 4 HD+
-http://2111.space:8080/live/hossam1/hossam1/42489.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 5 HD+
-http://2111.space:8080/live/hossam1/hossam1/42490.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 6 HD+
-http://2111.space:8080/live/hossam1/hossam1/42491.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS 7 HD+
-http://2111.space:8080/live/hossam1/hossam1/42492.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS PREMIUM 1 HD+
-http://2111.space:8080/live/hossam1/hossam1/42493.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS PREMIUM 2 HD+
-http://2111.space:8080/live/hossam1/hossam1/42494.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSPORTS PREMIUM 3 HD+
-http://2111.space:8080/live/hossam1/hossam1/42495.ts
+#EXTINF:-1 tvg-name="beINSPORTS 1 HD+" tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.pn" group-title="Sport",beINSports 1
+http://iptvtree.net:8080/ace2524d/15a571c413/100
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 2
+http://iptvtree.net:8080/ace2524d/15a571c413/101
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 3
+http://iptvtree.net:8080/ace2524d/15a571c413/102
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 4
+http://iptvtree.net:8080/ace2524d/15a571c413/103
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 5
+http://iptvtree.net:8080/ace2524d/15a571c413/104
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 6
+http://iptvtree.net:8080/ace2524d/15a571c413/105
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports 7
+http://iptvtree.net:8080/ace2524d/15a571c413/106
+#EXTINF:-1 group-title="Sport",beINSports English 1
+http://iptvtree.net:8080/ace2524d/15a571c413/110
+#EXTINF:-1 group-title="Sport",beINSports English 2
+http://iptvtree.net:8080/ace2524d/15a571c413/111
+#EXTINF:-1 group-title="Sport",beINSports English 3
+http://iptvtree.net:8080/ace2524d/15a571c413/267769
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports Premium 1
+http://iptvtree.net:8080/ace2524d/15a571c413/109
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports Premium 2
+http://iptvtree.net:8080/ace2524d/15a571c413/280145
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",beINSports Premium 3
+http://iptvtree.net:8080/ace2524d/15a571c413/280249
 #EXTINF:-1 tvg-name="BeIN_Sport_XTRA_01" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Sport",beIN Sports Xtra 1
 http://king-tv.online:8080/gisle@/FDPWGufCmY/267465.ts
 #EXTINF:-1 tvg-name="BeIN_Sport_XTRA_02" tvg-logo="https://i.postimg.cc/MTNqHbfs/Share-Ext-Multi-Sport.jpg" group-title="Sport",beIN Sports Xtra 2
 http://king-tv.online:8080/gisle@/FDPWGufCmY/238033.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 1 HD
-http://2111.space:8080/live/hossam1/hossam1/39226.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 2 HD
-http://2111.space:8080/live/hossam1/hossam1/39227.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 3 HD
-http://2111.space:8080/live/hossam1/hossam1/39228.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 4 HD
-http://2111.space:8080/live/hossam1/hossam1/39229.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 5 HD
-http://2111.space:8080/live/hossam1/hossam1/39230.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 6 HD
-http://2111.space:8080/live/hossam1/hossam1/39231.ts
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/3WMddFb2/ASTROTV-shareext-Group.png" group-title="Sport",SSC 7 HD
-http://2111.space:8080/live/hossam1/hossam1/39232.ts
 #EXTINF:-1 tvg-name="Fight Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bb9cc634e4ef4812034bbe9a4ddb655f.png" group-title="Sport",Fight Sport
 http://iptvtree.net:8080/ace2524d/15a571c413/157606
 #EXTINF:-1 tvg-name="Pace Sport" tvg-logo="https://www.peace-sport.org/wp-content/uploads/2018/09/logo_ps.png" group-title="Sport",Pace Sport
@@ -132,7 +124,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-name="Berita Satu" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c84e61a2f5f7eb96c56b28e2258b34f5.png" group-title="News",Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-name="MNC News" tvg-logo="https://i.imgur.com/gtiuZEf.png" group-title="News",MNC News
-http://iptvid.my.id/hmm/mncnews.m3u8
+http://iptvid.my.id/hmm/mncnews.m3u8 
 #EXTINF:-1 tvg-name="SEAToday" tvg-logo="https://i.imgur.com/F5tQVjS.png" group-title="News",SEAToday
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=6faa8040da20ef399b63a72d0e4ab575dfdded94c48ea6229c48edefa9ec1c9f
 #EXTINF:-1 tvg-name="IDX" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="News",IDX
@@ -180,19 +172,19 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nMN9xm.png" group-title="News",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 tvg-name="Inews" tvg-logo="https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8" group-title="News",Inews
-http://tvlive.my.id:25461/mat/mat/18
+http://54.151.201.145:5566/GG/Live/INEWS/mpegts
 #EXTINF:-1 tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies",HBO
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26595
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies",HBO Hits
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26596
+http://iptvtree.net:8080/ace2524d/15a571c413/196480
 #EXTINF:-1 tvg-name="Cinemax FHD" tvg-logo="https://i.ibb.co/jVhpB6v/CINEMAX.png" group-title="Movies",Cinemax
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/2156
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO Signature FHD" tvg-logo="https://i.imgur.com/iubUI1y.png" group-title="Movies",HBO Signature
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26597
+http://pprotv.com:80/fahad70/fahad70/39504
 #EXTINF:-1 tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies",HBO Family
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/26598
+http://iptvtree.net:8080/ace2524d/15a571c413/197055
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BADmxNJKP4zZW9hbVqZLWSD78umQBKGpKg&usqp=CAU" group-title="Movies",FOX Movies
-http://iptvtree.net:8080/ace2524d/15a571c413/281482
+http://pprotv.com:80/fahad70/fahad70/3243
 #EXTINF:-1 group-title="Movies",Fox Movies Action
 http://iptvtree.net:8080/ace2524d/15a571c413/157608
 #EXTINF:-1 group-title="Movies",Fox Family Movies
