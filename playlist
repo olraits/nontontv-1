@@ -1370,10 +1370,12 @@ https://dtaarjaj1diy9.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/ffWoTF9.png" group-title="SPORTS",Champions TV 1
+http://shareext@xtv.ooo:8080/live/demo/demo123/228341.ts
 http://tvn.x10.mx/1/master-7.m3u8?dl=1
 http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/r2aPCX8.png" group-title="SPORTS",Champions TV 2
+http://shareext@xtv.ooo:8080/live/demo/demo123/228244.ts
 http://tvn.x10.mx/1/master-8.m3u8?dl=1
 http://tv.zonanime.my.id/vidio/championstv2.m3u8
 
@@ -3064,314 +3066,44 @@ http://iptvid.my.id/hmm/prambors.m3u8
 http://iptvid.my.id/hmm/ikonser.m3u8
 
 
-##########################USA 720P##########################
+##########################MOVIES-2##########################
 
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : A&E
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53442
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : ACC NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53443
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : ACCU WEATHER
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53444
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : ACTION MAX
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53445
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : AMC
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53446
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : AMERICAN HEROES
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53447
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : ANIMAL PLANET
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53448
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : ASPIRE
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53449
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : AWE
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53450
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : AXS TV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53451
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : BABY FIRST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53452
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : BBC AMERICA
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53453
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : BBC WORLD NEWS
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53454
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : BET
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53455
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : BET HER
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53456
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : BIG TEN NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53457
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : BLOOMBERG TV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53458
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : BRAVO
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53459
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : C-SPAN
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53460
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : C-SPAN 2
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53461
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : CARTOON NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53462
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : CBS SPORTS NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53463
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : CHEDDAR BUSINESS
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53464
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : CINEMAX EAST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53465
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : CMT
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53466
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : CNBC
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53467
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : CNN
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53468
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : CNN EAST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53469
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : COMEDY CENTRAL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53470
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : COMEDY TV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53471
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : COOKING CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53472
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : CRIME & INVESTIGATION
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53473
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : DESTINATION AMERICA
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53474
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : DISCOVERY CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53475
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : DISCOVERY FAMILY CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53476
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : DISCOVERY LIFE
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53477
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : DISNEY CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53478
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : DISNEY JUNIOR
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53479
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : DISNEY XD
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53480
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : E!
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53482
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : EPIX
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53483
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : EPIX 2
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53484
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : EPIX HITS
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53485
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : ESPN
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53486
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : ESPN 2
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53487
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : ESPN DEPORTES
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53488
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : ESPN NEWS
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53489
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : ESPN U
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53490
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FM FUSE MUSIC
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53491
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FOOD NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53492
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FOX BUSINESS NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53493
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FOX DEPORTES
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53494
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FOX NEWS CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53495
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FOX SPORTS 1
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53496
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FOX SPORTS 2
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53497
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FREEFORM
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53498
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FUSE TV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53499
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FX
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53500
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FX MOVIE CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53501
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FXX
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53502
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : FYI
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53503
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : GALAVISION
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53504
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : GAME SHOW NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53505
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : GOLF CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53506
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : GOLTV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53507
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : GREAT AMERICAN COUNTRY
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53508
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HALLMARK CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53509
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HALLMARK DRAMA
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53510
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HALLMARK MOVIES & MYSTERIES
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53511
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HBO 2 EAST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53512
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HBO EAST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53513
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HBO FAMILY EAST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53514
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HBO LATINO
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53515
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HDNET MOVIES
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53516
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HGTV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53517
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HISTORY
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53518
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HISTORY EN ESPANOL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53519
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HLN
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53520
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : HOME SHOPPING NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53521
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : IFC
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53522
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : INVESTIGATION DISCOVERY
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53523
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : JUSTICE CENTRAL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53524
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : LIFETIME
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53525
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : LIFETIME MOVIE NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53526
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : LOGO TV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53527
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : MAGNOLIA NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53481
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : MLB NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53528
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : MOTORTREND
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53529
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : MSNBC
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53530
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : MTV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53531
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : MTV 2
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53532
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : MTV LIVE
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53533
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : NAT GEO WILD
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53534
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : NATIONAL GEOGRAPHIC CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53535
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : NBA TV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53536
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : NBC UNIVERSO
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53538
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : NHL NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53539
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : NICK JR
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53540
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : NICKELODEON EAST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53541
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : NICKTOONS
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53542
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : OLYMPIC CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53543
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : ONE AMERICAN NEWS NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53544
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : OVATION
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53545
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : OWN
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53546
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : OXYGEN
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53547
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : PARAMOUNT NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53548
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : POP
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53549
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : QVC
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53550
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : QVC 2
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53551
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : REELZ CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53552
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : REVOLT
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53553
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : RFD-TV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53554
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : SCIENCE
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53555
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : SEC NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53556
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : SHORTS TV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53557
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : SHOWTIME 2
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53558
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : SHOWTIME EAST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53559
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : SHOWTIME EXTREME
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53560
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : SMITHSONIAN CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53561
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : SPORTSMAN CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53562
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : STARZ EAST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53563
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : STARZ ENCORE ACTION
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53564
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : STARZ ENCORE BLACK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53565
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : STARZ ENCORE CLASSIC
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53566
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : STARZ ENCORE EAST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53567
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : STARZ ENCORE FAMILY
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53568
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : STARZ ENCORE SUSPENSE
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53569
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : STARZ ENCORE WEST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53570
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : STARZ ENCORE WESTERNS
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53571
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : STARZ KIDS & FAMILY
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53572
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : SUNDANCE TV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53573
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : SYFY
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53574
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TASTEMADE
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53575
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TBS
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53576
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TEEN NICK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53577
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TENNIS CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53578
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : THE WEATHER CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53579
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TLC
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53580
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TNT
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53581
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TRAVEL CHANNEL
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53582
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TRU TV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53583
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TUDN
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53584
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TURNER CLASSIC MOVIES
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53585
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TV LAND
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53586
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TV ONE
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53587
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : TVG
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53588
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : UNIVERSAL KIDS
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53589
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : UNIVISION EAST
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53590
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : UP
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53591
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : USA NETWORK
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53592
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : VH1
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53593
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : VICE
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53594
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="USA 720P",US-720 : WE TV
-http://n2086.securepoint.io:25461/Friendship/q60q1kVWvY/53595
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",HBO FHD MY
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/40763.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",Fox Movies HR
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/9009.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",HBO 3 HD HR
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/41390.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",HBO 2 FHD PL [Multi-Audio]
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/10406.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",HBO 3 FHD PL [Multi-Audio]
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/11497.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",HBO FHD PL [Multi-Audio]
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/10407.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",HBO Signature LAM
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/45799.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",HBO Plus LAM
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/45797.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",HBO Family LAM
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/45795.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",HBO 2 LAM
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/45793.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",HBO LAM
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/45791.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",Cinemax ActionMax HD US
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/11916.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",Cinemax East HD US
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/11903.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",MovieMax HD US
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/24685.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",Film HD TH 2 TH  [ENG]
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/115415.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",FILMASIA HD TH [Thai]
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/115665.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES-2",Fox Action TH
+http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/115420.m3u8
+
+
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="TV ID",ID: beIN SPORTS 1 HD
 http://king-tv.online:8080/gisle@/FDPWGufCmY/371694.ts
