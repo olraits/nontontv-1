@@ -3283,3 +3283,84 @@ http://stream.semerutv.link:7780/freebies/EOti98qsWH/141
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="SEMERU TV",BT Sport 3
 http://stream.semerutv.link:7780/freebies/EOti98qsWH/142
 
+
+############################# HINDI #############################
+
+#EXTINF:0 tvg-id="0-9-zeecinemahd" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257.png",Zee Cinema HD
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeecinemahd
+
+#EXTINF:0 tvg-id="0-9-zeecinemalu" group-title=" RanaPk - ZEE5* Movie Telugu" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x6581642453232.png" Zee Cinemalu HD
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeecinemalu
+
+#EXTINF:0 tvg-id="0-9-tvpictureshd" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" &Pictures HD
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-tvpictureshd
+
+#EXTINF:0 tvg-id="0-9-zeetalkies" group-title=" RanaPk - ZEE5* Movie Marathir" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658_483062857.png", Zee Talkies HD
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeetalkies
+
+#EXTINF:0 tvg-id="0-9-zeeanmolcinema" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeeanmolcinema
+
+#EXTINF:0 tvg-id="0-9-zeeclassic" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11.png",Zee Bollywood
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeeclassic
+
+#EXTINF:0 tvg-id="0-9-zeecinema" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654.png",Zee Cinema
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeecinema
+
+#EXTINF:0 tvg-id="0-9-pictures" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414.png"&Pictures
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-pictures
+
+#EXTINF:0 tvg-id="0-9-zeeaction" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347.png",Zee Action
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeeaction
+
+#EXTINF:0 tvg-id="0-9-privéhd" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-privéhd/channel_web/1170x658withlogo_375086496.png",&Prive HD
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-priv%C3%A9hd
+
+#EXTINF:0 tvg-id="0-9-channel_2105335046" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658_379547401.png",&flix HD
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-channel_2105335046
+
+#EXTINF:0 tvg-id="0-9-176" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-176/channel_web/1170x658d4d3573a17f24dcdb86c0da75e7208e8.png",Zee Classic
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-176
+
+#EXTINF:0 tvg-id="0-9-209" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080.png",&xplorHD
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-209
+
+#EXTINF:0 tvg-id="0-9-zeenews" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeenews/channel_web/zeenews117058a10e260ccf453885b0b866b6efcf8c.png",Zee News
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeenews
+
+#EXTINF:0 tvg-id="0-9-wion" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-wion/channel_web/wion117087793a1cce2d4dcaa4274d5bfc6d5a96.png",WION
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-wion
+
+#EXTINF:0 tvg-id="0-9-423" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-423/channel_web/1170x658_1426309917.png",Newsmax
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-423
+
+#EXTINF:0 tvg-id="0-9-tvhd_0" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&TV HD
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-tvhd_0
+
+#EXTINF:0 tvg-id="0-9-zeecafehd" group-title=" RanaPk - ZEE5* Entertainment English" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo_325698699.png",Zee Café HD
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeecafehd
+
+#EXTINF:0 tvg-id="0-9-zeetv" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeetv/channel_web/1170x658withlogo_200095097.png",Zee TV
+http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeetv
+
+
+###korea###
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/Z0t7zf8x/download.jpg" group-title="Korea", JTBC KR (H)
+https://makanja.xyz/korea/stream/jtbc/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/HLhFP9hB/24ad599fc686890d29b5e1b797a59fb3.jpg" group-title="Korea", TVN KR (H)
+https://makanja.xyz/korea/stream/tvn_kr/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/8khnhGNy/ab655ae0c04c5b0403d8ed48e42cae45-k-pop-korea.jpg" group-title="Korea", MNET KR (H)
+https://makanja.xyz/korea/stream/mnet/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/CMQdH37q/sbs-logo.jpg" group-title="Korea", SBS KR (H)
+https://makanja.xyz/korea/stream/sbs/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/BvmJZFwK/KBS-1-logo-svg.png" group-title="Korea", KBS KR 1 (H)
+https://makanja.xyz/korea/stream/kb1/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/L41hDybQ/download.png" group-title="Korea", KBS KR 2 (H)
+https://makanja.xyz/korea/stream/kb2/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/dt3HgyGf/download-1.jpg" group-title="Korea", ENA KR (H)
+https://makanja.xyz/korea/stream/ena/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/mDTVjzb8/download-1.png" group-title="Korea", YTN KR (H)
+https://makanja.xyz/korea/stream/ytn/playlist.m3u8
+#EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://i.postimg.cc/Hnh2T6bh/download-2.jpg" group-title="Korea", OCN KR (H)
+https://makanja.xyz/korea/stream/ocn/playlist.m3u8
+
