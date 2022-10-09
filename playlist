@@ -1427,7 +1427,6 @@ http://iptvid.my.id/hmm/useetl1.m3u8
 http://pprotv.com:80/fahad70/fahad70/39555
 http://iptvid.my.id/hmm/useetl2.m3u8
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
@@ -1455,6 +1454,22 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",TVRI_SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+
+#EXTINF:0 tvg-id="AstroSuperSport.my" tvg-logo="https://i.imgur.com/X2WVnWr.png" group-title="SPORTS",Astro Supersport FHD FHD (P)
+https://sportxmakanja.herokuapp.com/ddy1.m3u8?id=premium123 
+#EXTINF:0 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="SPORTS",Astro Supersport 2 FHD (P)
+https://sportxmakanja.herokuapp.com/ddy1.m3u8?id=premium124 
+#EXTINF:0 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="SPORTS",Astro Supersport 3 FHD (P)
+https://sportxmakanja.herokuapp.com/ddy1.m3u8?id=premium125 
+#EXTINF:0 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="SPORTS",Astro Supersport 4 FHD (P)
+https://sportxmakanja.herokuapp.com/ddy1.m3u8?id=premium126 
+#EXTINF:0 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="SPORTS",Astro Supersport 5 FHD (P)
+https://sportxmakanja.herokuapp.com/ddy1.m3u8?id=premium43 
+#EXTINF:0 tvg-id="" tvg-logo="https://rmvberantakan.com/logo/Beinsport1.png" group-title="SPORTS",Bein Sport 1 (E)
+https://rmvberantakan.com/sport/bein/bein1.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="https://i.imgur.com/NDp6TlM.png" group-title="SPORTS",Bein Sport 2 (E)
+https://rmvberantakan.com/sport/bein/bein2.m3u8
 
 
 ##############################################################
@@ -3295,7 +3310,7 @@ http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeecinemalu
 #EXTINF:0 tvg-id="0-9-tvpictureshd" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363.png" &Pictures HD
 http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-tvpictureshd
 
-#EXTINF:0 tvg-id="0-9-zeetalkies" group-title=" RanaPk - ZEE5* Movie Marathir" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658_483062857.png", Zee Talkies HD
+#EXTINF:0 tvg-id="0-9-zeetalkies" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658_483062857.png", Zee Talkies HD
 http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeetalkies
 
 #EXTINF:0 tvg-id="0-9-zeeanmolcinema" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png",Zee Anmol Cinema
@@ -3337,7 +3352,7 @@ http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-423
 #EXTINF:0 tvg-id="0-9-tvhd_0" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665.png",&TV HD
 http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-tvhd_0
 
-#EXTINF:0 tvg-id="0-9-zeecafehd" group-title=" RanaPk - ZEE5* Entertainment English" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo_325698699.png",Zee Café HD
+#EXTINF:0 tvg-id="0-9-zeecafehd" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo_325698699.png",Zee Café HD
 http://ranapk.1.mywebsites.link/zee5x/z5ranapk.php?c=0-9-zeecafehd
 
 #EXTINF:0 tvg-id="0-9-zeetv" group-title="HINDI" tvg-logo="https://akamaividz2.zee5x.com/image/upload/resources/0-9-zeetv/channel_web/1170x658withlogo_200095097.png",Zee TV
