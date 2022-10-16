@@ -3322,3 +3322,23 @@ http://ranapk.1.mywebsites.link/zee5x/Z5RanaxPk.php?c=0-9-zeetv
 
 
 
+#EXTINF:-1 tvg-id="GTV.id" status="online",GTV (720p)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+
+#EXTINF:-1 tvg-id="INews.id" status="online",iNews (720p)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" status="online",MNCTV (720p)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" status="error",MNCTV (1080p)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d1y5zdfadx9n48.cloudfront.net/MNCTV2022.m3u8
+
+#EXTINF:-1 tvg-id="RCTI.id" status="online",RCTI (720p)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+
