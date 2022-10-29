@@ -452,7 +452,6 @@ http://210.210.155.35/dr9445/h/h16/index10.m3u8?app_type=web&userid=50n13N0v14nd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", Paramount
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/98
 http://iptvid.my.id/hmm/paramount.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -509,7 +508,6 @@ https://stream-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQNqx-MAatDqHcaGMXpdyZjB7QWuPD9hAgUg&usqp=CAU" group-title="ENTERTAINMENT", Citra Drama
 http://tvn.x10.mx/1/master-1.m3u8?dl=1
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/905
 http://180.211.90.134:8000/play/a08n
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpKKTDDNWkcWF4-Eu_npO3umWKFXhu-DdgYQ&usqp=CAU" group-title="ENTERTAINMENT",Citra Entertainment
@@ -544,11 +542,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 http://222.109.117.27:9981/stream/channelid/2096368258
 http://iptvtree.net:8080/ace2524d/15a571c413/284622
 
-#EXTINF:-1 tvg-id="StarWorldIndia.in" tvg-logo="https://i.imgur.com/oe4Woe7.png" group-title="ENTERTAINMENT",Star World
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/381
-
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/kBiWPbB.png" group-title="ENTERTAINMENT",Colors Infinity
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
@@ -558,11 +551,6 @@ http://clientsportals.com:2095/sDxJCkFF/pJxGhpDp/136618
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="",K-Drama
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/35769
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/mFdBZMM/chinese-drama-home-tv.png",Chinese Drama
@@ -576,11 +564,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
 http://iptvtree.net:8080/ace2524d/15a571c413/2306
-
-#EXTINF:-1 tvg-id="LifetimeEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/1920px-Logo_Lifetime_2020.svg.png" group-title="ENTERTAINMENT",Lifetime
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=5886987a4cd069a764fb582186383810&key=8bf71b113d30e7edc53e2b55864fe039
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/866
 
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="ENTERTAINMENT",TBS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -980,11 +963,6 @@ https://bravo.kugo.id/spacetoon/udp.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Horee.id" tvg-logo="https://i.imgur.com/GCeS1xO.png" group-title="KIDS",Horee!
 http://180.211.90.134:8000/play/a076
 
-#EXTINF:-1 tvg-id="TADAA.my" tvg-logo="https://i.imgur.com/EVNoaz5.png" group-title="KIDS",Ta-daa!
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6b398595696c2d609a8a1c3dc27af710&key=cf14a926974812acaadcc2c986f7ed4d
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37445
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SU2QKXj.png" group-title="KIDS",IndiKids
 http://iptvid.my.id/hmm/indikids.m3u8 
 
@@ -1162,11 +1140,6 @@ http://humiptv.live:8080//live/500757885/3356646354/98843.ts
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/93.0.4577.82 Safari/537.36
 http://103.179.246.243:8000/play/a01d
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=fb764610dca2eaf4a4ea4fa216af8110&key=6a9fca876b7b999b1a7b414a0bd44b4e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rkTVdz5/DDRLdAm.png" group-title="MOVIES", Colors Cineplex HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37455
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="MOVIES",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="MOVIES",Rotana Cinema HD KSA
@@ -1246,13 +1219,36 @@ http://iptvid.my.id/hmm/flik.m3u8?by_iptv_id
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
 http://iptvtree.net:8080/ace2524d/15a571c413/1070
 
-#EXTINF:-1 tvg-id="ShowcaseMovies.my" tvg-logo="https://i.imgur.com/Uctv8BF.png" group-title="MOVIES",Showcase Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e95c72a41b5ea9957b07facd95542410&key=a5e0de041ca2766754a37952b3468eb2
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37428
-
 
 ##################################################################
+
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 BOX OFFICE 2022 1
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924692
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 BOX OFFICE 2022 2
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924693
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 BOX OFFICE 2022 4
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924695
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 BOX OFFICE 2022 5
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924696
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 BOX OFFICE 2022 3
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924694
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 BOX OFFICE 2022 6
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924697
+
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 HBO MAX 1
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924705
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 HBO MAX 2
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924706
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 HBO MAX 3
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924707
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 HBO MAX 4
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924708
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 HBO MAX 5
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924709
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 HBO MAX 6
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924710
+#EXTINF:-1 group-title="MOVIES 2",US| 24/7 HBO MAX 7
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/924711
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="MOVIES 2",HBO FHD MY
 http://clientsportals.com:80/live/sDxJCkFF/pJxGhpDp/40763.m3u8
@@ -1638,7 +1634,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&exten
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="SPORTS 2",Astro Supersport 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
-#
+http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/918982
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="SPORTS 2",Fox Sports 501
@@ -2696,60 +2692,7 @@ http://iptvid.my.id/hmm/uchannel.m3u8
 
 ########################## NONTON CH ##########################
 
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP5" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",ASSP_1
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/46413
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP5" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",ASSP_2
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/46414
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP5" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",ASSP_3
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/46415
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP5" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",ASSP_4
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/46416
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASSP5" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",Astro-Arena_2
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/46417
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO ARENA HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",ASTRO ARENA HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37422
-#EXTINF:-1 tvg-id="" tvg-name="MY - beIN SPORTS" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",MY-beINSPORTS
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37432
-#EXTINF:-1 tvg-id="" tvg-name="MY - bEIN MAX" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",MY-bEIN MAX
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37433
-#EXTINF:-1 tvg-id="" tvg-name="MY - EUROSPORT HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",MY-EUROSPORT HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37434
-#EXTINF:-1 tvg-id="" tvg-name="MY - WWE NETWORK" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",MY-WWE NETWORK
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37435
-#EXTINF:-1 tvg-id="" tvg-name="MY - GOLF CHANNEL HD" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",MY-GOLF CHANNEL HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37436
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO RUGBY PASS TV" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",ASTRO RUGBYPASS TV
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37437
-#EXTINF:-1 tvg-id="" tvg-name="MY - ASTRO CRICKET" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",ASTRO CRICKET
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37438
-#EXTINF:-1 tvg-id="" tvg-name="MY - SPOTV" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",MY-SPOTV
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37443
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BeIN Sport 1 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein1.jpg" group-title="NONTON CH",BeINSport 1 ID
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/728
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BeIN Sport 2 ID" tvg-logo="https://imgbbb.com/images/2019/04/30/bein2.jpg" group-title="NONTON CH",BeINSport 2 ID
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/729
-#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="ESPN" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",ESPN
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/499
-#EXTINF:-1 tvg-id="" tvg-name="FIGHT BOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwAM7tsGvgCbbv30YAXs2-QDPNkU4TNiQuQ7zAgrtcCA94ZWjd" group-title="NONTON CH",FIGHT BOX
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/501
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="https://imgbbb.com/images/2019/04/30/FightSportsLogo2x.png" group-title="NONTON CH",FightSports
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/784
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="SPOTV 1" tvg-logo="https://imgbbb.com/images/2019/04/30/foxsports.png" group-title="NONTON CH",SPOTV 1
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/51
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="Tennis Channel HD" tvg-logo="https://imgbbb.com/images/2019/04/30/fox-sport-21.png" group-title="NONTON CH",Tennis Channel HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/102
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="SPOTV 2" tvg-logo="https://imgbbb.com/images/2019/04/30/Fox_Sports_3_logo.png" group-title="NONTON CH",SPOTV 2
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/101
-#EXTINF:-1 tvg-id="" tvg-name="Golf Channel FHD" tvg-logo="https://imgbbb.com/images/2019/04/30/golfchannel.png" group-title="NONTON CH",Golf Channel FHD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/561
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-3_29.png" group-title="NONTON CH",NBA TV HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/3099
-#EXTINF:-1 tvg-id="" tvg-name="NBA TV HD US" tvg-logo="http://static1.squarespace.com/static/57d836b1c534a5e4e6e7bf6f/57e0489e440243c6a9a6445c/5991a1df03596e7caf6a2028/1502722826069/2017+NBA+TV+Logo.jpg?format=1000w" group-title="NONTON CH",NBA TV HD US
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/243
-#EXTINF:-1 tvg-id="US: AE" tvg-name="ESPN2" tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="NONTON CH",ESPN2
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/299
-#EXTINF:-1 tvg-id="" tvg-name="Horizon Sports HD" tvg-logo="https://i2.wp.com/www.horizonsports.com/wp-content/uploads/2018/06/logo-horizon_wellness-transp.png" group-title="NONTON CH",Horizon Sports HD
-https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/46366
+
 
 
 ########################## INDO CH ##########################
@@ -3630,3 +3573,193 @@ http://198.16.64.10:8278/cctv1/playlist.m3u8?tid=MB2B9826281798262817&ct=19225&t
 http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
 #EXTINF:-1 group-title="TAIWAN",AXNTW[1920*1080]
 http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
+
+
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",Bang U
+http://85.11.144.9:7766/bang?token=test
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",Hustler HD
+http://85.11.144.9:7766/HustlerHD?token=test
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",Eroxxx HD
+http://85.11.144.9:7766/EroxxxHD?token=test
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",Erox
+http://85.11.144.9:7766/EroxHD?token=test
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",Passion XXX
+http://85.11.144.9:7766/PassionXXX?token=test
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",Hot 1
+http://85.11.144.9:7766/SuperOneHD?token=test
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",Private HD
+http://85.11.144.9:7766/Private?token=test
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",XXL
+http://85.11.144.9:7766/XXL?token=test
+#EXTINF:-1 group-title="FOR ADULTS",PinkErotic 1
+http://54.36.123.36:8080/PinkErotic1/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",PinkErotic 2
+http://54.36.123.36:8080/PinkErotic2/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",PinkErotic 3
+http://54.36.123.36:8080/PinkErotic3/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",PinkErotic 4
+http://54.36.123.36:8080/PinkErotic4/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",PinkErotic 5
+http://54.36.123.36:8080/PinkErotic5/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",PinkErotic 6
+http://54.36.123.36:8080/PinkErotic6/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",PinkErotic 7
+http://54.36.123.36:8080/PinkErotic7/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",PinkErotic 8
+http://54.36.123.36:8080/PinkErotic8/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",REALITY KINGS
+http://195.154.185.179:80/xx_hustler_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",EVIL ANGEL HD
+http://195.154.185.179:80/xx_brazzers_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",BRAZZERS TV
+http://195.154.185.179:80/xx_xxl/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",BRAZZERS TV
+http://195.154.185.179:80/xx_passie_xxx/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",HUSTLER HD
+http://195.154.185.179:80/xx_hustler_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",REDLIGHT HD
+http://195.154.185.179:80/xx_redlight_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PENTHOUSE QUICKIES HD
+http://195.154.185.179:80/xx_penthouse_quickies_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PENTHOUSE GOLD HD
+http://195.154.185.179:80/xx_penthouse_gold_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PENTHOUSE GOLD
+http://195.154.185.179:80/xx_jasmin_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",SUPERONE HD
+http://195.154.185.179:80/xx_penthouse_passion_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",FANTAZZY TV
+http://195.154.185.179:80/xx_playboy_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PORNBOX HD
+http://195.154.185.179:80/xx_blue_hustler/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",DORCEL TV HD
+http://195.154.185.179:80/xx_dorcel_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",DORCEL XXX HD
+http://195.154.185.179:80/xx_dorcel_xxx_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",VIVID RED HD
+http://195.154.185.179:80/xx_vivid_red_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",HUSTLER TV
+http://195.154.185.179:80/xx_extasy_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PASSIONXXX
+http://195.154.185.179:80/xx_dusk/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",SEXTREME
+http://195.154.185.179:80/xx_prive_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",SEXY HOT
+http://195.154.185.179:80/xx_sexy_hot/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",VIXEN HD
+http://195.154.185.179:80/xx_stars_xxx_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",BEATE UHSE TV HD
+http://195.154.185.179:80/xx_playhouse/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PINK EROTIC 3
+http://195.154.185.179:80/xx_hot_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PINK EROTIC 4
+http://195.154.185.179:80/xx_venus_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PINK EROTIC 5
+http://195.154.185.179:80/xx_sextreme/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PINK EROTIC
+http://195.154.185.179:80/xx_pink_erotic/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PLAYBOY TV HD
+http://195.154.185.179:80/xx_pink_erotic_2/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PLAYBOY TV HD
+http://195.154.185.179:80/xx_pink_erotic_3/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",BLUE HUSTLER
+http://195.154.185.179:80/xx_pink_erotic_4/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",BLUE HUSTLER
+http://195.154.185.179:80/xx_pink_erotic_5/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",RUSSIAN NIGHTS
+http://195.154.185.179:80/xx_pink_erotic_6/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",BARELY LEGAL
+http://195.154.185.179:80/xx_pink_erotic_7/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",OLALA
+http://195.154.185.179:80/xx_pink_erotic_8/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",HOT XXL HD
+http://195.154.185.179:80/xx_barely_legal_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",X1
+http://195.154.185.179:80/xx_x1/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",HOT
+http://195.154.185.179:80/xx_reality_kings_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",NAUGHTY TV
+http://195.154.185.179:80/xx_nuart_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",VIVID TV
+http://195.154.185.179:80/xx_xy_plus_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",VIVID TOUCH
+http://195.154.185.179:80/xx_xy_max_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",DUSK TV
+http://195.154.185.179:80/xx_xy_mix_hd/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",BANG U
+http://195.154.185.179:80/xx_x_bizarre/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",RED XXX
+http://195.154.185.179:80/xx_zest_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",MEIDEN VAN HOLLAND
+http://195.154.185.179:80/xx_sct_classic/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",EMANUELLE
+http://195.154.185.179:80/xx_emanuelle/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",PINK O CLUB
+http://195.154.185.179:80/xx_milf_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",EXXOTICA HD
+http://195.154.185.179:80/xx_oldtimer/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",XDREAM TV
+http://195.154.185.179:80/xx_bang_u/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",XXX
+http://195.154.185.179:80/xx_x_desire/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",XXX2
+http://195.154.185.179:80/xx_x_bunga_bunga/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",BRAZZERS TV
+http://195.154.185.179:80/xx_passion_xxx/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",LUST PUR
+http://195.154.185.179:80/xx_net_xx/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",NUBILE FILMS
+http://195.154.185.179:80/xx_penthouse_black_tv/index.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Milf
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Livecams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Bigtits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Massage
+http://cdn.adultiptv.net/massage.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Japanese
+http://cdn.adultiptv.net/japanese.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Chinese
+http://cdn.adultiptv.net/chinese.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Vintage
+http://live.redtraffic.xyz/vintage.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Fetish
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Threesome
+http://live.redtraffic.xyz/threesome.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Russian
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | POV
+http://live.redtraffic.xyz/pov.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Latina
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | BDSM
+http://live.redtraffic.xyz/bdsm.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Bigass
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Cuckold
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Asian
+http://live.redtraffic.xyz/asian.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Ama
+http://live.redtraffic.xyz/ama.m3u8
+#EXTINF:-1 group-title="FOR ADULTS",ADULTS | Cohf
+http://live.redtraffic.xyz/cohf.m3u8
