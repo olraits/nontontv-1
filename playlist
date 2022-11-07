@@ -3574,6 +3574,7 @@ http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=1922
 #EXTINF:-1 group-title="TAIWAN",AXNTW[1920*1080]
 http://50.7.220.74:8278/axn_twn/playlist.m3u8?tid=MA1A8358225083582250&ct=19193&tsum=105511aaad1c3ff86d7489e83e18b209
 
+####################################### FOR ADULTS ################################
 
 #EXTINF:-1 group-title="FOR ADULTS" group-title="FOR ADULTS",Bang U
 http://85.11.144.9:7766/bang?token=test
@@ -3763,3 +3764,74 @@ http://live.redtraffic.xyz/asian.m3u8
 http://live.redtraffic.xyz/ama.m3u8
 #EXTINF:-1 group-title="FOR ADULTS",ADULTS | Cohf
 http://live.redtraffic.xyz/cohf.m3u8
+
+####################################### FILMS ################################
+
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",WELCOME_By.ShareextReborn
+https://www.dropbox.com/s/4rwbpj055sws4nm/savagelove_avengershareext.mp4?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Admin@Group
+https://www.dropbox.com/s/odrcf9c1jseu07a/ShareExt_adminGroup.mp4?dl=1
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",blackAdam_2022
+https://lnk.in.ua/qmfp2z?shareext@blackadam/mp4
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Thor.2022.sub.english
+https://stream07.emeskyu.workers.dev/0:/Thor.Love.And.Thunder.2022.V2.720p.HDTS.x264.mkv
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Lockdown.2022.sub.indo
+https://is.gd/uyg05s?shareext@lockdown2022sub.indo/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Doktor.stranger.2022
+https://is.gd/z62z4g?shareext@doctorStranger2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",ipMan.awakening.2022
+https://is.gd/wy7X0C?shareext@ipman:t.awakening2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",JeeperKeeper.2022_no.sub
+https://is.gd/G71o4i?shareext@JEEPERCREEPER2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",The.Batman(2022)
+https://is.gd/6ANUlt?shareext@t.batman2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",TopGun:Maverick(2022)
+https://is.gd/zkTZUr?shareext@maverick2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",RayDonovan:The Movie( 2022)No Sub
+https://is.gd/HFM1Zp?shareext@raydonovan2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Restless(2022)No Sub
+https://is.gd/GOBe7h?shareext@restless2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Rise of the Teenage Mutant Ninja Turtles:The Movie(2022)Select Sub
+https://is.gd/r4ijEq?shareext@tmnt2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Rogue.Agent(2022)No Sub
+https://is.gd/TtxM9F?shareext@rogueAgent2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Last Seen Alive(2022) No Sub
+https://is.gd/iFvw8F?shareext@lastseenAlive2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Mans Creed(2022) No Sub
+https://is.gd/JeWlAv?shareext@manscreed2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Memory(2022)
+https://is.gd/haN1OO?shareext@memory2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Morbius(2022)
+https://is.gd/Xz2qZj?shareext@morbius2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Mysteries From The Grave:Titanic(2022) No Sub
+https://is.gd/nRQrvz?shareext@titanic2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Munich:The Edge of War(2022) No Sub
+https://is.gd/Gdo586?shareext@t.edgeofwar2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Fantastic Beasts:The Secrets of Dumbledore(2022)
+https://is.gd/NDLDxS?shareext@t.secretsDumbledore2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",HALLOWEEN ENDS(2022)No Sub
+https://is.gd/FRtTE2?shareext@halloweenEnd2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Hotel Transylvania:Transformania(2022)
+https://is.gd/r8vhxW?shareext@transformania2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Ice Age:Adventures of Buck Wild(2022)
+https://is.gd/nCel7K?shareext@iceAge2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Jurassic World Dominion(2022)
+https://is.gd/BI1s5g?shareext@jwd2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",KungFu Ghost (2022)No Sub
+https://is.gd/IG9ljR?shareext@kungfughost2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",KungFu Zohra (2022)No Sub
+https://is.gd/AZCkGf?shareext@kungfuzohra2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Minions:The Rise Of Gru(2022)
+https://is.gd/CfLxXr?shareext@t.rise.of.gru2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Obi-Wan Kenobi:A Jedis Return(2022)Select Sub
+https://is.gd/oB4pwv?shareext@ajr2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Operation Overlord(2022)No Sub
+https://is.gd/KHrcWo?shareext@operationoverlord2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="VOD,Orphan:First Kill(2022)No Sub
+https://is.gd/JzNrUh?shareext@firstkill2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Panama(2022)No Sub
+https://is.gd/xMM20S?shareext@panama2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Pinocchio(2022)
+https://is.gd/WaDajx?shareext@pinocchio2022/ts
+#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="FILMS",Pursuit(2022)No Sub
+https://is.gd/19Or8o?shareext@pursuit2022/ts
