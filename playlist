@@ -2031,3 +2031,151 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCcUQycThieE9aTFJLeXpKaHFqVGJPektldXBFV3NlLXJVZzk0Z2ZaeHN1SVZoS080ZG5ZNlNQNXVqQ1dHS0JhU3NsaWgtQTZHaXZGSF9tMVgxOFRlU0dfZUw4NDd3RF94TlN3bS1BekMxdVZheDBndHFtVzh5U2VIazlqZjY3UXFGb1NhbWJxRVFabDJ2bmJyd1hQa2IzVFRMSU5yUE5sLXZnNl9BS1czaUoyVVI5T1diT1FZRURuREJjanBGSlhRTV9CYWNwdk1PcHFuQ01UVF9OMThfMkZRNlI4Nk1lRm41bW9LM2tkdHZzNjdRQlkzcFk5NG1uVFprZ1NFVnhOYXNyeVlDbXNmWGJyNXlwaFJGSUVfa1pIaFFhTkJTVVhZM2t1U1J6Z0tJSSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkJxRDJxOGJ4T1pMUkt5ekpocWpUYk96S2V1cEVXc2UtclVnOTRnZlp4c3VJVmhLTzRkblk2U1A1dWpDV0dLQmFTc2xpaC1BNkdpdkZIX20xWDE4VGVTR19lTDg0N3dEX3hOU3dtLUF6QzF1VmF4MGd0cW1XOHlTZUhrOWpmNjdRcUZvU2FtYnFFUVpsMnZuYnJ3WFBrYjNUVExJTnJQTmwtdmc2X0FLVzNpSjJVUjlPV2JPUVlFRG5EQmNqcEZKWFFNX0JhY3B2TU9wcW5DTVRUX04xOF8yRlE2Ujg2TWVGbjVtb0sza2R0dnM2N1FCWTNwWTk0bW5UWmtnU0VWeE5hc3J5WUNtc2ZYYnI1eXBoUkZJRV9rWkhoUWFOQlNVWFkza3VTUnpnS0lJIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=OFslnHowJKrt8EZ3GCoRQro%2b3l4%3d
 #EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://cdn.ksa.my.id/vasantham.png",Channel Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+
+####################################### RANDOM TV ################################
+
+#EXTINF:-1 group-title="RANDOM TV",TV01
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV02
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV03
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV04
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV05
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV06
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV07
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV08
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV09
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV10
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV11
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV12
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV13
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV14
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV15
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV16
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV17
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV18
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV19
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV20
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV22
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV23
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV25
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV26
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV27
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV28
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV29
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV30
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV31
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV32
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV33
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV34
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV35
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV36
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV37
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV38
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV39
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV40
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV41
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV42
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV43
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV44
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV45
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV46
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV47
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV48
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV49
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV50
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV51
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV52
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV53
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV54
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV55
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV56
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV57
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV58
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV59
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV60
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV61
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV62
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV63
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV64
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV65
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV66
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV67
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV68
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV69
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV70
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV71
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+#EXTINF:-1 group-title="RANDOM TV",TV72
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
