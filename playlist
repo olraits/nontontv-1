@@ -2183,5 +2183,23 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
 
 ####################################### VOD ################################
 
-#EXTINF:-1 group-title="VOD",Avatar
+#EXTINF:-1 group-title="VOD",Avatar 2022
 https://raw.githubusercontent.com/Iqbalbala/VOD/main/Avatar.m3u8
+#EXTINF:-1 group-title="VOD",Black Adam 2022
+https://raw.githubusercontent.com/Iqbalbala/VOD/main/Blackadam.m3u8
+#EXTINF:-1 group-title="VOD",Corrective Measures
+https://raw.githubusercontent.com/Iqbalbala/VOD/main/Correctivemeasures.m3u8
+#EXTINF:-1 group-title="VOD",Day Shift
+https://raw.githubusercontent.com/Iqbalbala/VOD/main/Dayshif.m3u8
+#EXTINF:-1 group-title="VOD",Eraser: Reborn 2022
+https://raw.githubusercontent.com/Iqbalbala/VOD/main/Eraserreborn.m3u8
+#EXTINF:-1 group-title="VOD",Savage Salvation
+https://raw.githubusercontent.com/Iqbalbala/VOD/main/Savagesalvation.m3u8
+#EXTINF:-1 group-title="VOD",The System 2022
+https://raw.githubusercontent.com/Iqbalbala/VOD/main/System.m3u8
+#EXTINF:-1 group-title="VOD",The Big 4
+https://raw.githubusercontent.com/Iqbalbala/VOD/main/Thebigfour.m3u8
+#EXTINF:-1 group-title="VOD",The Ledge 2022
+https://raw.githubusercontent.com/Iqbalbala/VOD/main/Theledge.m3u8
+#EXTINF:-1 group-title="VOD",Troll 2022
+https://raw.githubusercontent.com/Iqbalbala/VOD/main/Troll.m3u8
