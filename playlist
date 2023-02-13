@@ -681,7 +681,8 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=48714&extens
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE", LOVE NATURE TH (TH-ENG)
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115724&extension=ts&play_token=TQ6cftyhX8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NTRFMvw/TECHSTORM.png" group-title="KNOWLEDGE", TechStorm PH
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTRFMvw/TECHSTORM.png" group-title="KNOWLEDGE", TechStorm
+http://103.226.232.170:9002/play/a00d/index.m3u8
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=463663&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="KNOWLEDGE", Smithsonian
@@ -929,6 +930,7 @@ https://avi-live-channel-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicCh
 http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV Live
+http://103.226.232.170:9004/play/a00f
 http://103.167.167.5:8111/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV 90'
 http://103.167.167.5:8111/play/a018/index.m3u8
@@ -971,6 +973,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIC",Vevo Pop Europa
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Now 80'
+http://103.226.232.170:9008/play/a00v
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png" group-title="MUSIC",K Pop Channel
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
@@ -989,6 +994,10 @@ http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8?source:iptvmate
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngkit.com/png/full/104-1049976_media-retro-tv-logo.png",*Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",True Music
+http://103.226.232.170:9008/play/a024
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Jember 2 TV
+http://103.226.232.170:9004/play/a00r
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIC",POP MUSIK
@@ -1041,6 +1050,11 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
 #KODIPROP:inputstream.adaptive.license_key=http://203.194.113.31/test/rock.php?id=6786
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/uPRFvIIkgDkbWnzmPaUTTEBdbQU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png" group-title="SPORTS",Champions TV 5
+http://103.226.232.170:9008/play/a02w
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/uPRFvIIkgDkbWnzmPaUTTEBdbQU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png" group-title="SPORTS",Champions TV 6
+http://103.226.232.170:9008/play/a02x
+
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Usee Sports 1
 https://beetv.my.id/x/usee-useesport-masihsama.m3u8
 https://maper.info/UseeSport1-Shareext
@@ -1061,7 +1075,7 @@ http://alstv.xyz/usee/useesports2.mpd
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png?v=2.0.0.13" group-title="SPORTS", NBA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://203.194.113.31/test/rock.php?id=6717
-https://etslive-2-vidio-com.akamaized.net/drm/dash/6717_stream.mpd
+https://production-drm-vidio-com-nba.akamaized.net/out/v1/6cca0501a28e4ad78cd94cb695cb1162/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
