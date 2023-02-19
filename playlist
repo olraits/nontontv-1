@@ -407,9 +407,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 
 ##############################################################
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/BzqSUVF.png" group-title="ENTERTAINMENT",SBS
-http://222.109.117.27:9981/stream/channelid/2096368258
-
 #EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/kBiWPbB.png" group-title="ENTERTAINMENT",Colors Infinity
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dukun.masuk.id/drm/result.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
@@ -930,11 +927,9 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV Live
-http://103.226.232.170:9004/play/a00f
 http://103.167.167.5:8111/play/a00q/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV 90'
 http://103.167.167.5:8111/play/a018/index.m3u8
-http://myott.top/stream/P4H2M76YRH/88.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSIC", Musik Indo
 https://cdn09jtedge.indihometv.com/bumper/bumperlivestreaming/chunklist_w1994879223_b894100_sleng.m3u8
 
@@ -973,8 +968,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIC",Vevo Pop Europa
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",Now 80'
-http://103.226.232.170:9008/play/a00v
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png" group-title="MUSIC",K Pop Channel
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
@@ -994,10 +987,6 @@ http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8?source:iptvmate
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngkit.com/png/full/104-1049976_media-retro-tv-logo.png",*Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",True Music
-http://103.226.232.170:9008/play/a024
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",Jember 2 TV
-http://103.226.232.170:9004/play/a00r
 #EXTINF:-1 tvg-logo="" group-title="MUSIC",Maleo
 https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIC",POP MUSIK
@@ -1049,11 +1038,6 @@ https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/6686.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://203.194.113.31/test/rock.php?id=6786
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
-
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/uPRFvIIkgDkbWnzmPaUTTEBdbQU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png" group-title="SPORTS",Champions TV 5
-http://103.226.232.170:9008/play/a02w
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://thumbor.prod.vidiocdn.com/uPRFvIIkgDkbWnzmPaUTTEBdbQU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png" group-title="SPORTS",Champions TV 6
-http://103.226.232.170:9008/play/a02x
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Usee Sports 1
 https://beetv.my.id/x/usee-useesport-masihsama.m3u8
@@ -1561,18 +1545,6 @@ https://stream.zeehanzgadget.com/ria
 https://stream.zeehanzgadget.com/citra
 
 
-##################################### RCTI+ ########################################
-
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RCTI+", INEWS+_dec=auto
-https://nxanv-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8|User-Agent=android-R+
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RCTI+", RCTI+_dec=auto
-https://nxanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2.m3u8|User-Agent=android-R+
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RCTI+", MNCTV+_dec=auto
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8|user-agent=android-R+
-#EXTINF:-1   tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="RCTI+", GTV+_dec=auto
-https://nxanv-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8|user-agent=android-R+
-
-
 ####################################### SINGAPORE ################################
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1608,150 +1580,7 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 
 ####################################### RANDOM TV ################################
 
-#EXTINF:-1 group-title="RANDOM TV",TV01
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV02
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV03
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV04
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV05
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV06
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV07
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV08
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV09
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV10
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV11
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV12
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV13
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV14
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV15
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV16
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV17
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV18
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV19
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV20
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV1
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV22
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV23
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV24
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV25
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV26
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV27
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV28
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV29
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV30
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV31
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV32
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV33
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV34
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV35
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV36
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV37
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV38
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV39
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV40
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV41
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV42
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV43
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV44
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV45
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV46
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV47
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV48
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV49
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV50
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV51
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV52
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV53
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV54
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV55
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV56
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV57
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV58
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV59
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV60
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV61
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV62
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV63
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV64
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV65
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV66
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV67
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV68
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV69
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV70
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV71
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 group-title="RANDOM TV",TV72
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+
 
 
 ####################################### VOD ################################
@@ -1936,3 +1765,69 @@ http://91.233.215.250:7272/JkfGhb36Cvs7Fgz
 http://91.233.215.250:7272/KfbeysdY6Fva3sW
 #EXTINF:-1 group-title="RU UA LV LT TV" tvg-logo="", 360 Tune Box
 http://91.233.215.250:7272/eRtafx5E4P0z16g
+
+
+////KOREA TV
+
+#EXTINF:0 tvg-id="wavve|E01" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/EBS_1TV_Logo.png/revision/latest/scale-to-width-down/340?cb=20180626152424" group-title="KOREA TV",KBS 1
+#EXTVLCOPT:http-user-agent=Purple VLC Player
+http://139.99.61.187:8080/direct@hs/PT3jy5sqTK/156
+
+#EXTINF:0 tvg-id="wavve|E07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/EBS_2TV_Logo.svg/1200px-EBS_2TV_Logo.svg.png" group-title="KOREA TV",KBS 2
+#EXTVLCOPT:http-user-agent=Purple VLC Player
+http://139.99.61.187:8080/direct@hs/PT3jy5sqTK/157
+
+#EXTINF:0 tvg-id="172" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_01.png" group-title="KOREA TV",EBS+ 1
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:0 tvg-id="173" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png" group-title="KOREA TV",EBS+ 2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+
+#EXTINF:0 tvg-id="768" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Channels_IPTV_03.png/revision/latest/scale-to-width-down/340?cb=20180629204550" group-title="KOREA TV",EBSe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:0 tvg-id="761" tvg-logo="https://ww.namu.la/s/1323374c06d60b77f62ae95d70fe530878a21146758f9c6cd65aaddb42ddc95a8914c9e47264e8619fbf3a068478c017dfbd756bf58207fabde0ce74e9849e74442c508bf44a36a31bcd0147fa93467a7a5aab07e80f896de3431d49d065fcc9" group-title="KOREA TV",EBSKids
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F216B893F52240FE01C",Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png",JIBS SBS
+http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://blog.kakaocdn.net/dn/bpKQvB/btqD1q0BJj0/w3Vv2BKKJr8KAx031PuvOk/img.jpg",KBC 광주방송 (SBS 光州)
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/b7uMB9T.png",KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.kctv.co.kr/img/index/top_logo.png",KCTV 광주 CH05
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.rapidtvnews.com/images/2017/11/mbc_logo_-_14_nov_2017.jpg",MBC
+http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/QMDDHd1.gif",MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://i.imgur.com/loWf3B5.jpg",NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/KNN_logo.svg/120px-KNN_logo.svg.png",SBS KNN
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/8/8b/TJB_Logo.jpg",TJB 대전방송 (SBS 大田)
+http://1.245.74.5:1935/live/tv/.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/kr-tv-work-net-8165.jpg",TVWorkNet
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="http://gayotv.co.kr/image/logo.jpg",가요TV
+http://gayotv.net:1935/live/gayotv/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://www.futurekorea.co.kr/news/photo/202001/127326_129561_5346.jpg",국악방송
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/%ED%95%9C%EA%B5%AD%EC%84%A0%EA%B1%B0%EB%B0%A9%EC%86%A1ci.jpg",한국선거방송
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
