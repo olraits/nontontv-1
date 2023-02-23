@@ -1562,7 +1562,243 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 
 ####################################### RANDOM TV ################################
 
-
+#EXTINF:-1 group-title="RANDOM TV",setinews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@setinews/live
+#EXTINF:-1 group-title="RANDOM TV",globalnewstw
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@globalnewstw/live
+#EXTINF:-1 group-title="RANDOM TV",57ETFN
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@57ETFN/live
+#EXTINF:-1 group-title="RANDOM TV",momoch4812
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@momoch4812/live
+#EXTINF:-1 group-title="RANDOM TV",momoch3571
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@momoch3571/live
+#EXTINF:-1 group-title="RANDOM TV",EFTV01
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@EFTV01/live
+#EXTINF:-1 group-title="RANDOM TV",su3ej8xu1o
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@user-su3ej8xu1o/live
+#EXTINF:-1 group-title="RANDOM TV",dwnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/dwnews/live
+#EXTINF:-1 group-title="RANDOM TV",twctvnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@twctvnews/live
+#EXTINF:-1 group-title="RANDOM TV",MalaimurasuTv
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@MalaimurasuTv/live
+#EXTINF:-1 group-title="RANDOM TV",asianetnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@asianetnews/live
+#EXTINF:-1 group-title="RANDOM TV",cts_drama
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@cts_drama/live
+#EXTINF:-1 group-title="RANDOM TV",CtiAsia
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@CtiAsia/live
+#EXTINF:-1 group-title="RANDOM TV",aljazeera
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@aljazeera/live
+#EXTINF:-1 group-title="RANDOM TV",SaluranBeritaRTM123
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@SaluranBeritaRTM123/live
+#EXTINF:-1 group-title="RANDOM TV",thekpop
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@thekpop/live
+#EXTINF:-1 group-title="RANDOM TV",FTV_News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@FTV_News/live
+#EXTINF:-1 group-title="RANDOM TV",CH46 China
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=Z50JFuNgvB0
+#EXTINF:-1 group-title="RANDOM TV",sensengo2015
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=_Vlzn9qAHD4
+#EXTINF:-1 group-title="RANDOM TV",cctv-4
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=QTz6avPD4Ns
+#EXTINF:-1 group-title="RANDOM TV",haberturktv
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@haberturktv/live
+#EXTINF:-1 group-title="RANDOM TV",phoenixtvnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@phoenixtvnews7060/live
+#EXTINF:-1 group-title="RANDOM TV",NTDAPTV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@NTDAPTV/live
+#EXTINF:-1 group-title="RANDOM TV",ABCNews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@ABCNews/live
+#EXTINF:-1 group-title="RANDOM TV",TTV_NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TTV_NEWS/live
+#EXTINF:-1 group-title="RANDOM TV",CTSSHOW
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@CTSSHOW/live
+#EXTINF:-1 group-title="RANDOM TV",astroawani
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/astroawani/live
+#EXTINF:-1 group-title="RANDOM TV",ctitv
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/ctitv/live
+#EXTINF:-1 group-title="RANDOM TV",japan_walk
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@japan_walk/live
+#EXTINF:-1 group-title="RANDOM TV",DaAiVideo
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@DaAiVideo/liv
+#EXTINF:-1 group-title="RANDOM TV",TVBSNEWS01
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TVBSNEWS01/live
+#EXTINF:-1 group-title="RANDOM TV",setnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@setnews/live
+#EXTINF:-1 group-title="RANDOM TV",GBNewsOnline
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@GBNewsOnline/live
+#EXTINF:-1 group-title="RANDOM TV",ctvent_classic
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@ctvent_classic/live
+#EXTINF:-1 group-title="RANDOM TV",TITVNews16
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TITVNews16/live
+#EXTINF:-1 group-title="RANDOM TV",indiatoday
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/indiatoday/live
+#EXTINF:-1 group-title="RANDOM TV",euronews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@euronews/live
+#EXTINF:-1 group-title="RANDOM TV",France24_en
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@France24_en/live
+#EXTINF:-1 group-title="RANDOM TV",NBCNews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@NBCNews/live
+#EXTINF:-1 group-title="RANDOM TV",cnnnews18
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/cnnnews18/live
+#EXTINF:-1 group-title="RANDOM TV",plus8394
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@plus8394/live
+#EXTINF:-1 group-title="RANDOM TV",ctvmit
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/ctvmit/live
+#EXTINF:-1 group-title="RANDOM TV",phoenixtv1916
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@phoenixtv1916/live
+#EXTINF:-1 group-title="RANDOM TV",MediaoneTVLive
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@MediaoneTVLive/live
+#EXTINF:-1 group-title="RANDOM TV",tbsnewsdig
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@tbsnewsdig/live
+#EXTINF:-1 group-title="RANDOM TV",NewsTamil24X7TV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@NewsTamil24X7TV/live
+#EXTINF:-1 group-title="RANDOM TV",Daai2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=DTNkEm6jaqQ
+#EXTINF:-1 group-title="RANDOM TV",ANNnewsCH
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@ANNnewsCH/live
+#EXTINF:-1 group-title="RANDOM TV",ctitvnews52
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/user/ctitvnews52/live
+#EXTINF:-1 group-title="RANDOM TV",24OnLive
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/24OnLive/live
+#EXTINF:-1 group-title="RANDOM TV",KOREAarirangTV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@KOREAarirangTV/live
+#EXTINF:-1 group-title="RANDOM TV",channelnewsasia
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@channelnewsasia/live
+#EXTINF:-1 group-title="RANDOM TV",htbnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@htbnews/live
+#EXTINF:-1 group-title="RANDOM TV",Viva Tv
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=yuhgIlXwPh8
+#EXTINF:-1 group-title="RANDOM TV",Viva Tv
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=LEOat38Iuao
+#EXTINF:-1 group-title="RANDOM TV",parliamentarytv tw
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=4HysYHJ6GkY
+#EXTINF:-1 group-title="RANDOM TV",parliamentarytv tw
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@user-sr2ck1hq9z/live
+#EXTINF:-1 group-title="RANDOM TV",123golive
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@123golive/live
+#EXTINF:-1 group-title="RANDOM TV",aljazeeraenglish
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@aljazeeraenglish/live
+#EXTINF:-1 group-title="RANDOM TV",SBN 
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@user-np6rz4ug3i/live
+#EXTINF:-1 group-title="RANDOM TV",newskbs
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@newskbs/live
+#EXTINF:-1 group-title="RANDOM TV",abc6ch
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@abc6ch/live
+#EXTINF:-1 group-title="RANDOM TV",yoyotvebc
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/yoyotvebc/live
+#EXTINF:-1 group-title="RANDOM TV",PeppaPigChineseOfficial
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@PeppaPigChineseOfficial/live
+#EXTINF:-1 group-title="RANDOM TV",TalkingTom
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TalkingTom/live
+#EXTINF:-1 group-title="RANDOM TV",TalkingTomHeroes
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TalkingTomHeroes/live
+#EXTINF:-1 group-title="RANDOM TV",DaveAndAva
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@DaveAndAva/live
+#EXTINF:-1 group-title="RANDOM TV",Tayo
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@Tayo/live
+#EXTINF:-1 group-title="RANDOM TV",disneyjunior
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@disneyjunior/live
+#EXTINF:-1 group-title="RANDOM TV",mnews-tw
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@mnews-tw/live
+#EXTINF:-1 group-title="RANDOM TV",ctvchinatv
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@ctvchinatv/live
+#EXTINF:-1 group-title="RANDOM TV",faintv
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@user-ru4oy4fp1u/live
+#EXTINF:-1 group-title="RANDOM TV",Chu Ke-Liang's Return 24H
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@FTV_ZhuGeClub/live
+#EXTINF:-1 group-title="RANDOM TV",GTV DRAMA
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/channel/UCZ2EoLNz4EzAnAIKCGhiRzQ/live
+#EXTINF:-1 group-title="RANDOM TV",famoussongs657
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@famoussongs657/live
+#EXTINF:-1 group-title="RANDOM TV",formosa
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/channel/UCiMiEL1XRXANaypB2wEdr5w/live
+#EXTINF:-1 group-title="RANDOM TV",Lofi Girl
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow/live
+#EXTINF:-1 group-title="RANDOM TV",baishatun_tv
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@baishatun_tv/live
+#EXTINF:-1 group-title="RANDOM TV",TaiwanPlusLive
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
+https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TaiwanPlusLive/live
 
 
 ####################################### VOD ################################
