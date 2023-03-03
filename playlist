@@ -990,6 +990,11 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=20
 http://103.167.167.5:8111/play/a02m/index.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 
+#EXTINF:-1 tvg-id="beINSports1Indonesia.id" tvg-name="beINSports3Indonesia.id" tvg-logo="https://thumbor.prod.vidiocdn.com/fEnIWS90yBi4gKPhwkhOKgPsw-o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6299/d74f54.png" group-title="SPORTS",BeIN Sport 1 ALSTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://203.194.113.31/test/rock.php?id=6299
+https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 2
@@ -1000,6 +1005,11 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94482&extens
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",BeIn Sports 3 Indonesia
 http://103.167.167.5:8111/play/a02n/index.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:-1 tvg-id="beINSports3Indonesia.id" tvg-name="BeInSports1Indonesia.qa" tvg-logo="https://thumbor.prod.vidiocdn.com/c_w_GED5RwmvVMqOZXzRj1j9BLo=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6317/4a8762.png" group-title="SPORTS",BeIN Sport 3 ALSTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://203.194.113.31/test/rock.php?id=6317
+https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1032,6 +1042,11 @@ https://production-drm-vidio-com-ctv-5.akamaized.net/out/v1/6b83fda0adee41598d5e
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9183
 https://prod-drm-vidio-com-ctv-6.akamaized.net/out/v1/8ecc1b702b4a4871b51304a9cb82d561/index.mpd
+
+#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/Premier_League/Premier_League-Logo.wine.svg?v=2.0.0.13" group-title="SPORTS", Premiere League
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mooncang.my.id/api/vidio/drm.php?id=9353
+https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808db88b86c5de/index.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", Usee Sports 1
 https://beetv.my.id/x/usee-useesport-masihsama.m3u8
@@ -1082,6 +1097,12 @@ https://nxanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS",TVRI_SPORTS
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://kiwimelon46.000webhostapp.com/tv/motorvisiontv.png" group-title="SPORTS" ,MOTORVISIONTV
+http://210.210.155.35:80/uq2663/h/h09/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/18135.png" group-title="SPORTS",REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 
 ##############################################################
@@ -1197,25 +1218,50 @@ http://51.81.208.129:35461/7061m2d21007/838174756/965
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115615&extension=ts&play_token=TQ6cftyhX8
 
+#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-logo="https://i.ibb.co/FKbFB4W/Desain-tanpa-judul-4-modified.png" group-title="SPORTS 2",Astro SuperSport 1 (DAN)
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_astro.m3u8?id=assp1
+
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.imgur.com/AZQ0xgp.png" group-title="SPORTS 2",Astro Supersport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115616&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-logo="https://i.ibb.co/RCTSn6n/Desain-tanpa-judul-5-modified.png" group-title="SPORTS 2",Astro SuperSport 2 (DAN)
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_astro.m3u8?id=assp2
 
 #EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.imgur.com/cMYSM6e.png" group-title="SPORTS 2",Astro Supersport 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115617&extension=ts&play_token=TQ6cftyhX8
 
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-logo="https://i.ibb.co/N9BVfKB/Desain-tanpa-judul-6-modified.png" group-title="SPORTS 2",Astro SuperSport 3 (DAN)
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_astro.m3u8?id=assp3
+
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.imgur.com/PlwrDwx.png" group-title="SPORTS 2",Astro Supersport 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115618&extension=ts&play_token=TQ6cftyhX8
 
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-logo="https://i.ibb.co/tKj8ZG9/Desain-tanpa-judul-7-modified.png" group-title="SPORTS 2",Astro SuperSport 4 (DAN)
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_astro.m3u8?id=assp4
+
 #EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.imgur.com/FieopQP.png" group-title="SPORTS 2",Astro Supersport 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=40c958ab268862f44ca7169a0a634710&key=d83ccdb2a5a66a9653009dab9490e617
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/918982
+
+#EXTINF:-1 tvg-id="AstroSuperSport5.my" tvg-logo="https://i.ibb.co/dGvfNvs/Desain-tanpa-judul-8-modified.png" group-title="SPORTS 2",Astro SuperSport 5 (DAN)
+#EXTVLCOPT:http-user-agent=otto-aplikasi
+#EXTVLCOPT:http-referrer=https://streamservicehd.click/
+https://ott-navigator.my.id/000143-356212-936581/sportifitasku/btsports/master_astro.m3u8?id=assp5
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b7TO49Q.png" group-title="SPORTS 2",Fox Sports 501
 #KODIPROP:inputstream.adaptive.license_type=clearkey
