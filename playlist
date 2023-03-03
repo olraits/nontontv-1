@@ -1541,276 +1541,202 @@ https://stream.zeehanzgadget.com/citra
 
 ####################################### SINGAPORE ################################
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLa2Y4QUpGTWVsODdmc2pnYk9xUVZfSVhmc3pxcFZLMFNjaTUtS3ZaU2NiLUhwS25XWkhLd3FPdkhXX1hYc2V1cFRDc2NYRElZaDVnTThIZmRZSzJBSWVSeHpTRGJDZ21LQTFaUmpmeHlxMVl3NHNHRU40SWYwSE14cTdaNEstUlNKbExrSjA3ejlNd3NsdVNydndXSFNXem05U2hQenYwWDlIQkVMSVN5ZVd2S1BqLTJmcTJqUTc3clNoUXEzSUt4OV9CYU9wQ1JVVzBwaVp3SVFUcDV4YkRtR0R0NkxwS0V3U2otR2FlUTIzNXBoTWJha2ZyMEE1dnYteEExY0d2SUtJV2J5Y3dZUEVMNTNHbG5hc1NFS3pianNVb3hBQUVYc2JEU2xxUUJWcnU0WFRmdmpCSzMwV1JZb0xYVEFPYnc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZktrZjhBSkZNZWw4N2ZzamdiT3FRVl9JWGZzenFwVkswU2NpNS1LdlpTY2ItSHBLbldaSEt3cU92SFdfWFhzZXVwVENzY1hESVloNWdNOEhmZFlLMkFJZVJ4elNEYkNnbUtBMVpSamZ4eXExWXc0c0dFTjRJZjBITXhxN1o0Sy1SU0psTGtKMDd6OU13c2x1U3J2d1dIU1d6bTlTaFB6djBYOUhCRUxJU3llV3ZLUGotMmZxMmpRNzdyU2hRcTNJS3g5X0JhT3BDUlVXMHBpWndJUVRwNXhiRG1HRHQ2THBLRXdTai1HYWVRMjM1cGhNYmFrZnIwQTV2di14QTFjR3ZJS0lXYnljd1lQRUw1M0dsbmFzU0VLemJqc1VveEFBRVhzYkRTbHFRQlZydTRYVGZ2akJLMzBXUllvTFhUQU9idz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=In5TP1PHsXzrD02nxw7qyiTceeE%3d
 #EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://cdn.ksa.my.id/ch5.png",Channel 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFSXpNeFZPbkU1VlFCQWZuallvbVBFTzlEODlrdVA1cFJzOTc0YUZYc0R4WnRYalJuSmZOU1RaOUl4TXpTdWtUWFcxTUN0OFg2S0Y1d0wwbnlNWkdsTzlGZzVEakVmTEVmTW5mX0pRMXRYbThXeko0R1ppUjBqaXJ5MVZLTVRGVXJrd1h6WWx2QmlLQUpmSVgyZ01XT3Z3Wm5vdTdVQkhTX1d4aWVxRW0tVHZsLW5CNXBhc1BGbUtWMHZ2UzhFRUNjQU1PdnhWVkhPT0pUR2RJcTdjTkVLbjdJRjZJMmtvb0EzZTY1c252SGxFS3E0MFBOdWlGaTBzT2haNG81Sk1mR18zdUZZS0ZVczRFVlBoWHhEMDNHREFnOFU5dXp4Rlp6R3IwNXpRRDdNdFN4VkNXZEt2cWhGMEJNQ2ZFTXV1blE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkVJek14Vk9uRTVWUUJBZm5qWW9tUEVPOUQ4OWt1UDVwUnM5NzRhRlhzRHhadFhqUm5KZk5TVFo5SXhNelN1a1RYVzFNQ3Q4WDZLRjV3TDBueU1aR2xPOUZnNURqRWZMRWZNbmZfSlExdFhtOFd6SjRHWmlSMGppcnkxVktNVEZVcmt3WHpZbHZCaUtBSmZJWDJnTVdPdndabm91N1VCSFNfV3hpZXFFbS1UdmwtbkI1cGFzUEZtS1YwdnZTOEVFQ2NBTU92eFZWSE9PSlRHZElxN2NORUtuN0lGNkkya29vQTNlNjVzbnZIbEVLcTQwUE51aUZpMHNPaFo0bzVKTWZHXzN1RllLRlVzNEVWUGhYeEQwM0dEQWc4VTl1enhGWnpHcjA1elFEN010U3hWQ1dkS3ZxaEYwQk1DZkVNdXVuUT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=5SsmwJ6GI4kbTurbhe1%2fyrlaGPE%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMZkppYXlqTDFtX1hIS2N5bWE4TDlLc2hNQ2Z1T25UQzFZUEhIUHFzbjdjamFjMldpb2F5cVhvOElzQUlpM1ZQN3N6UnEwcTBuVl9DNmt1aUMtdlllZXJWa2FyaXhlUWJNZmNIYlRvWUlmWVpmTWEycjdTbExpcjEwRkttZjZnemZqcmVSWW84YlNHYTU3SWdJWGVkUVM4NzNuY1IzRUQ1eTdDak53NmFJUndBVWVmRy1wellkQW5GZG91bkhMNTVTc1ZMa1Z4UHFvUGI1alJzQTV3R0MxTEN0Y0JxTGluSENYZVh2YjRhNVlpQ25fVXhIYWQxM1JPLWZic05JWHhjR3FJS1ZQQkxiMkRBRENaQU9ZaW1lU3B1dzNiVHpqT2NveEpGQVV1MXlLN0lzVUEzdy1WZVduWFdDNTE4YUkxOWxsT2JRR0ZBOC1yZkZJNUZwZm5VdEU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTGZKaWF5akwxbV9YSEtjeW1hOEw5S3NoTUNmdU9uVEMxWVBISFBxc243Y2phYzJXaW9heXFYbzhJc0FJaTNWUDdzelJxMHEwblZfQzZrdWlDLXZZZWVyVmthcml4ZVFiTWZjSGJUb1lJZllaZk1hMnI3U2xMaXIxMEZLbWY2Z3pmanJlUllvOGJTR2E1N0lnSVhlZFFTODczbmNSM0VENXk3Q2pOdzZhSVJ3QVVlZkctcHpZZEFuRmRvdW5ITDU1U3NWTGtWeFBxb1BiNWpSc0E1d0dDMUxDdGNCcUxpbkhDWGVYdmI0YTVZaUNuX1V4SGFkMTNSTy1mYnNOSVh4Y0dxSUtWUEJMYjJEQURDWkFPWWltZVNwdXczYlR6ak9jb3hKRkFVdTF5SzdJc1VBM3ctVmVXblhXQzUxOGFJMTlsbE9iUUdGQTgtcmZGSTVGcGZuVXRFPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=MfX8Iz8KpMEp4eoNx8UCeNbcw0k%3d
 #EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://cdn.ksa.my.id/ch8.png",Channel 8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIQVJQQjhRcXZMNERVVng5U3hnS0lBeXIwVkNEMnRKR0NkOW1JWFVLLWxoQkt4MmtYdWJDZU1Jcmd4UHN4c0F4cXRTY0dVZUZOWUd1ZktRTTNPR2Roa2o1bDIzSkN0R2tnaGVRYkRrelBDX0pWYnZUNXJaZHVldDdPUnpwNDFzQmY4WXlVNkxoa0owRHR3NHpFamtxeVo3V0t0Wi1mQVdJclZtTUc0bW9RZkI0azNpNUt4TzF3aXhycXo1WG9lMGp6alJrZl9INDdaZ3FlWG1kVTR1aTNwNkt0M0hZeVZ0TWhrdjV4UmpiYUdpc0pPbFluQXMtdnlvZnVXZDN4NTFzbDZEU0VkTFNDdkkyZUdjZ3l2TGlDcmxVeE5XWnZoQU02Y19IcXNyUmdxWlR2cnFuOEZZLXdIa3pJLTl6NE83VktpcmtrWDd6WVhoXzlOZERmdExiUmxyX01td1ptczVJamVxQWhyQnBTNU4mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTI0IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDhfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZIQVJQQjhRcXZMNERVVng5U3hnS0lBeXIwVkNEMnRKR0NkOW1JWFVLLWxoQkt4MmtYdWJDZU1Jcmd4UHN4c0F4cXRTY0dVZUZOWUd1ZktRTTNPR2Roa2o1bDIzSkN0R2tnaGVRYkRrelBDX0pWYnZUNXJaZHVldDdPUnpwNDFzQmY4WXlVNkxoa0owRHR3NHpFamtxeVo3V0t0Wi1mQVdJclZtTUc0bW9RZkI0azNpNUt4TzF3aXhycXo1WG9lMGp6alJrZl9INDdaZ3FlWG1kVTR1aTNwNkt0M0hZeVZ0TWhrdjV4UmpiYUdpc0pPbFluQXMtdnlvZnVXZDN4NTFzbDZEU0VkTFNDdkkyZUdjZ3l2TGlDcmxVeE5XWnZoQU02Y19IcXNyUmdxWlR2cnFuOEZZLXdIa3pJLTl6NE83VktpcmtrWDd6WVhoXzlOZERmdExiUmxyX01td1ptczVJamVxQWhyQnBTNU4iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=3fN81kJYaj8bkW6aYqxJGtUFmxE%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZEZXAxQ016bGZsUi1kVjRDSWNUZXgzaFJNMkptMXBFTlRFbDh5Zk5yRmZhclRzQUQ3OFI1dVBVZXl4ZktENmgtN1k2Vjl3STItbThZVmRCZmZtRXgtX1lnUmxwS0tQVXkzYlptdnJwbFpqbXMyQzFLSG5qUXRpRUE5Yy1Qa3RWSm1Pd3pCSnk0V3VMakFLYmlmR25KbllEQXNGeXkzMDVhUnR4eV9rZzFPQk1NcmxPbW1ad1pMaXhwai1xU0xZNTRBZUQwUmdhbzM3T2ZQQzdwVTZQOXVBWWR4bzFYRTJncGpsbzNOVlJPV2FRTExoSG5EaGNjWVNhTHE3cTRBRlM0bUtiUU5ZZm1wNk80Nm9xd3VBTE5kYTktYk5fajczUlJvUGNZOFc3Nlh4ZWZOYUJ3TGVnOUk2Z1FIVFo1eFJQWHppbWdmNm9Id0Z5NkxOcjN1cDlrTjBQOTIwN0xYOGpqSjY1UjFGbDN6dHcmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTU3IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaFVfMjAyMl9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkRlcDFDTXpsZmxSLWRWNENJY1RleDNoUk0ySm0xcEVOVEVsOHlmTnJGZmFyVHNBRDc4UjV1UFVleXhmS0Q2aC03WTZWOXdJMi1tOFlWZEJmZm1FeC1fWWdSbHBLS1BVeTNiWm12cnBsWmptczJDMUtIbmpRdGlFQTljLVBrdFZKbU93ekJKeTRXdUxqQUtiaWZHbkpuWURBc0Z5eTMwNWFSdHh5X2tnMU9CTU1ybE9tbVp3WkxpeHBqLXFTTFk1NEFlRDBSZ2FvMzdPZlBDN3BVNlA5dUFZZHhvMVhFMmdwamxvM05WUk9XYVFMTGhIbkRoY2NZU2FMcTdxNEFGUzRtS2JRTllmbXA2TzQ2b3F3dUFMTmRhOS1iTl9qNzNSUm9QY1k4Vzc2WHhlZk5hQndMZWc5STZnUUhUWjV4UlBYemltZ2Y2b0h3Rnk2TE5yM3VwOWtOMFA5MjA3TFg4ampKNjVSMUZsM3p0dyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=iIAv%2bCII6VT0J7jtVPHUJi4tl%2b4%3d
 #EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://cdn.ksa.my.id/chu.png",Channel U
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBeHpXOFlNYmo3bGYybElaUGkwOXhqbnA1LXNDVlRtcHRJQ19JUkJTaFBEN21mb0hzdTdmVzhUdHdnNnQtZWhoTGZ1Y1I5SWQ0cVJWTzBTTkNlaXVvOERNWVdVU08ydXo3R2t3X29mcUpaMXQ4R3ZHYVF0RVl3SzFWLU91dGZXa3FYa2JsY295b3RKVEFfY0IzbnJSdXVfelh5SG9wYmVJMk1UWjdQV2V5LWRRRm5BNk5ha1NNaGN3c1IzRG00ZUZvd1JCY3psUkYycHhLX1cxc2JtbGZseUpFWVVXT0xZUnZCejQwVWhtMEZPV280a2NLX2FmYldlb3VJLWE5N3ZhMWx5VDBxOW9CRXJvRWJKNDBybEpLRmN0WWd6QWFZR05LdUpPcEZUT1pqbDJPdFlRRHNMY3QyMUFueHl6Vng5R2tqeUV2Qkp0NzhPUEpJNlptdXZsbVE9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmQXh6VzhZTWJqN2xmMmxJWlBpMDl4am5wNS1zQ1ZUbXB0SUNfSVJCU2hQRDdtZm9Ic3U3Zlc4VHR3ZzZ0LWVoaExmdWNSOUlkNHFSVk8wU05DZWl1bzhETVlXVVNPMnV6N0drd19vZnFKWjF0OEd2R2FRdEVZd0sxVi1PdXRmV2txWGtibGNveW90SlRBX2NCM25yUnV1X3pYeUhvcGJlSTJNVFo3UFdleS1kUUZuQTZOYWtTTWhjd3NSM0RtNGVGb3dSQmN6bFJGMnB4S19XMXNibWxmbHlKRVlVV09MWVJ2Qno0MFVobTBGT1dvNGtjS19hZmJXZW91SS1hOTd2YTFseVQwcTlvQkVyb0ViSjQwcmxKS0ZjdFlnekFhWUdOS3VKT3BGVE9aamwyT3RZUURzTGN0MjFBbnh5elZ4OUdranlFdkJKdDc4T1BKSTZabXV2bG1RPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=r%2fJnngmDBIpA6fFPNmLtFXKhQl0%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPX2Y4RExRYXJ4UDRxX0t2Q3BQbUdDV0dMMlplcUxFYTY5ZFBGbFI3dldxU2pacm8xQjlWS1ZxM3YyMHRkVjVnTGhaZTdrWDFFMk9DYUVXMjdLamN0eExBVnZ1N1FHd2dSeC0zR3l5V3R1Y2Q0bndmM3BlT2QxVXRqMUY0RnVXNEVid2ZjclFwbnVJTTZRV3RKVW13VTBBOWRCZFpsS0FNY3RGUmhOLV90TlVPbXhwemUwSkhfMEZrUmpsUlB4SVo4cFoyLVBiWEpHdFhYM2N0SmVwcVRHSnJ2Y09aLUpQZUxrcjJlRkVReGRzMFM4dDRWc1lOWDV3V0J4Mm1yRE1ZMHdlV2MzMmlEYkpVa2lYbWw3aDUtY29LRS1NLTBOR09LNXpNOWE1TW9hdk5YdnhQOVMwZWF0T2JROG9PMmxVMVQ5ekxtNl9pYUJHb1NWLUEyMVR0bXc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE0OSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk9fZjhETFFhcnhQNHFfS3ZDcFBtR0NXR0wyWmVxTEVhNjlkUEZsUjd2V3FTalpybzFCOVZLVnEzdjIwdGRWNWdMaFplN2tYMUUyT0NhRVcyN0tqY3R4TEFWdnU3UUd3Z1J4LTNHeXlXdHVjZDRud2YzcGVPZDFVdGoxRjRGdVc0RWJ3ZmNyUXBudUlNNlFXdEpVbXdVMEE5ZEJkWmxLQU1jdEZSaE4tX3ROVU9teHB6ZTBKSF8wRmtSamxSUHhJWjhwWjItUGJYSkd0WFgzY3RKZXBxVEdKcnZjT1otSlBlTGtyMmVGRVF4ZHMwUzh0NFZzWU5YNXdXQngybXJETVkwd2VXYzMyaURiSlVraVhtbDdoNS1jb0tFLU0tME5HT0s1ek05YTVNb2F2Tlh2eFA5UzBlYXRPYlE4b08ybFUxVDl6TG02X2lhQkdvU1YtQTIxVHRtdz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=KBp4RbjYb98E3KE1OVwP3K9BxL8%3d
 #EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://cdn.ksa.my.id/cna.png",CNA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCZGNMQ2FUQUh5RjVNdHFiT09pNU5NbDZBektGM2hQTEt1cm11QzF5TGlONk9wNTRLX3VmU1NGa3I2Z0VybnEzcDNBVzdSeVVyeU54eWFza3R5N1NJMXBpSGtVZ2RaSkNSZ2ZHTEo4ZWhqQ09rX1dtSkNmQ1MyUEFGYzZiT2RnMnNrYVRPc0xhSno5dDF5WDZQU2dpbWR1Z2RlNThxcVFFQ1dWWlBwYmJUc1pmdUh5aFpJR1dTcW4wSzNWRlB4S0dMNlVlOWwxa1hIN0dhcXYwazh6aEZqT0N6YzRhVVNyblFUTk5ReEFnTWNTQzhZT2Rhb2ZCZlgyWmE5eFhRWjdmMXlLSUxBdThjSkREZWhXMkhFV1I0UGxiQlBlR0Y5OGNsLUpqa0xaZzQ4VElKYXcwNC1sc2pzY2pYbFVaUXpHcWc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZCZGNMQ2FUQUh5RjVNdHFiT09pNU5NbDZBektGM2hQTEt1cm11QzF5TGlONk9wNTRLX3VmU1NGa3I2Z0VybnEzcDNBVzdSeVVyeU54eWFza3R5N1NJMXBpSGtVZ2RaSkNSZ2ZHTEo4ZWhqQ09rX1dtSkNmQ1MyUEFGYzZiT2RnMnNrYVRPc0xhSno5dDF5WDZQU2dpbWR1Z2RlNThxcVFFQ1dWWlBwYmJUc1pmdUh5aFpJR1dTcW4wSzNWRlB4S0dMNlVlOWwxa1hIN0dhcXYwazh6aEZqT0N6YzRhVVNyblFUTk5ReEFnTWNTQzhZT2Rhb2ZCZlgyWmE5eFhRWjdmMXlLSUxBdThjSkREZWhXMkhFV1I0UGxiQlBlR0Y5OGNsLUpqa0xaZzQ4VElKYXcwNC1sc2pzY2pYbFVaUXpHcWc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=n8qpAtMdzHzuYHSjxGJ0sk672MI%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPYTFjNjNEeFhBUFZQRmFQRDJsblB3U0tlUUdORVlMbFpheml2VHI5U19wZGF5TDZfNjJhSW5xY3BKNzQ5YVhnUFdzcVR5azY5R1ZmVnpHdGkzVEtOd2FJQ2NGbzEzaWFKZmdfUGNJemcyd1lqYzlnR05GS050bXd6M3gzSW5pX242YktfQnpKUkJmWFVGbFdYZmZ0MEhHeFRHazRWcTQxaUtlNThwSFlRWEtUbnRwX3BOV3Q5dkh3WnhNbVQ3dzBwSEtwWGc1OTRlWjJ0RHNGd1VjdUFrX1FvVURjZlN3X0d6OFdzRnVEa2dzcm1vWGhDV3RqSkh3cW9fY0FTVE8xa1hPVDZSYWpKcnVSaTF1TXZURzVUd3ozUjBJUFdfSkxKT19qTG1BdlNOeFI4aFktNVdHczZ3cEZzaVFGU2p0U2c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQwNjYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3N1cmlhX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmT2ExYzYzRHhYQVBWUEZhUEQybG5Qd1NLZVFHTkVZTGxaYXppdlRyOVNfcGRheUw2XzYyYUlucWNwSjc0OWFYZ1BXc3FUeWs2OUdWZlZ6R3RpM1RLTndhSUNjRm8xM2lhSmZnX1BjSXpnMndZamM5Z0dORktOdG13ejN4M0luaV9uNmJLX0J6SlJCZlhVRmxXWGZmdDBIR3hUR2s0VnE0MWlLZTU4cEhZUVhLVG50cF9wTld0OXZId1p4TW1UN3cwcEhLcFhnNTk0ZVoydERzRndVY3VBa19Rb1VEY2ZTd19HejhXc0Z1RGtnc3Jtb1hoQ1d0akpId3FvX2NBU1RPMWtYT1Q2UmFqSnJ1UmkxdU12VEc1VHd6M1IwSVBXX0pMSk9fakxtQXZTTnhSOGhZLTVXR3M2d3BGc2lRRlNqdFNnPT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=HktTZDe%2fr7gptvBUWzYZiDOGqUI%3d
 #EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://cdn.ksa.my.id/suria.png",Channel Suria
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGREFCT2kzM091cVA4T3kyREdnb1lIN19XcTlNMENHMHRmNVVUdEJUTkt6dmw4Mzg4eVR5WHZzekJtOVRWWGlFeGdNRGNTMUNzZ045TnJ0U2dyVERDRXpETlcyX2R5NXFqNUEzaWZqT0VUX1VvSVowYVJyaVkxNVRXZ2htRTh1SVk5R2hKalZ0bWZ3ZlRkVVdBWEJhVTFOQVpjUGdNcGlSdmo5REFJNHRSWjEySEFaYWhpbjJfdjhHbjBPeXRiMTk5ZEZDcUVqV2RfblFORkVkU3ozRFh4djFQZk8tdzBXZmpUNVVrVEpObjIwYnpRc3lyM1lHYW4zQmtSMVhBaUhVMWNxVkNocG5YU1EySUhiLWdYb0MwemhBMUdWbGlqZXlGS0dJQTNob2w0R3NpazNpYXRvQmZUMWV0TW90TGdGMmo3M2tGQXdsa1VoQ3FLVHhBdldQbWloTEhxdlc3ckJDaEYydl9VMVRCWEsmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MDY2IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9zdXJpYV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkZEQUJPaTMzT3VxUDhPeTJER2dvWUg3X1dxOU0wQ0cwdGY1VVR0QlROS3p2bDgzODh5VHlYdnN6Qm05VFZYaUV4Z01EY1MxQ3NnTjlOcnRTZ3JURENFekROVzJfZHk1cWo1QTNpZmpPRVRfVW9JWjBhUnJpWTE1VFdnaG1FOHVJWTlHaEpqVnRtZndmVGRVV0FYQmFVMU5BWmNQZ01waVJ2ajlEQUk0dFJaMTJIQVphaGluMl92OEduME95dGIxOTlkRkNxRWpXZF9uUU5GRWRTejNEWHh2MVBmTy13MFdmalQ1VWtUSk5uMjBielFzeXIzWUdhbjNCa1IxWEFpSFUxY3FWQ2hwblhTUTJJSGItZ1hvQzB6aEExR1ZsaWpleUZLR0lBM2hvbDRHc2lrM2lhdG9CZlQxZXRNb3RMZ0Yyajcza0ZBd2xrVWhDcUtUeEF2V1BtaWhMSHF2VzdyQkNoRjJ2X1UxVEJYSyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=bDPA9Hw58GGWfcgsMt9EEFgZiUk%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZCcUQycThieE9aTFJLeXpKaHFqVGJPektldXBFV3NlLXJVZzk0Z2ZaeHN1SVZoS080ZG5ZNlNQNXVqQ1dHS0JhU3NsaWgtQTZHaXZGSF9tMVgxOFRlU0dfZUw4NDd3RF94TlN3bS1BekMxdVZheDBndHFtVzh5U2VIazlqZjY3UXFGb1NhbWJxRVFabDJ2bmJyd1hQa2IzVFRMSU5yUE5sLXZnNl9BS1czaUoyVVI5T1diT1FZRURuREJjanBGSlhRTV9CYWNwdk1PcHFuQ01UVF9OMThfMkZRNlI4Nk1lRm41bW9LM2tkdHZzNjdRQlkzcFk5NG1uVFprZ1NFVnhOYXNyeVlDbXNmWGJyNXlwaFJGSUVfa1pIaFFhTkJTVVhZM2t1U1J6Z0tJSSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkJxRDJxOGJ4T1pMUkt5ekpocWpUYk96S2V1cEVXc2UtclVnOTRnZlp4c3VJVmhLTzRkblk2U1A1dWpDV0dLQmFTc2xpaC1BNkdpdkZIX20xWDE4VGVTR19lTDg0N3dEX3hOU3dtLUF6QzF1VmF4MGd0cW1XOHlTZUhrOWpmNjdRcUZvU2FtYnFFUVpsMnZuYnJ3WFBrYjNUVExJTnJQTmwtdmc2X0FLVzNpSjJVUjlPV2JPUVlFRG5EQmNqcEZKWFFNX0JhY3B2TU9wcW5DTVRUX04xOF8yRlE2Ujg2TWVGbjVtb0sza2R0dnM2N1FCWTNwWTk0bW5UWmtnU0VWeE5hc3J5WUNtc2ZYYnI1eXBoUkZJRV9rWkhoUWFOQlNVWFkza3VTUnpnS0lJIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=OFslnHowJKrt8EZ3GCoRQro%2b3l4%3d
 #EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://cdn.ksa.my.id/vasantham.png",Channel Vasantham
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZITl9wMlphbi1JX2hsVDBoeUdZVWJzMDNweWVya3E5T1hhbkF1eXctOFBUMnM1OEo3bHlPQzlZakZzSjlQMHNiVVNDaXFIY1NUVUphRXNQUmpiMDVOa0FJTHBqUEc2WW1RaXpKLXZaY0M5eDltN0Vvai1laVgydUp0LUpIeWZoVmE5U0VGMzlhZXk1SVQ5Uk5fUDFrY2U2Vnc2TVMwSHRyTDRPb01mVkdDZ25NOG9VaDJDODVvN09EMXQyai1oNTE4YThEMF93ZUF3bXNScE1aSzlsRW0tME9oVFdweGhsd2w4Vnh5YmxOMHhxLVZ1Z3dxUkJCM2p0Umt5MEJZRWlUSjlGZWhaS3lhakx6LWR0LXJVVDBQV1NtTmNJdTRvT2NJSFZOWWhscmJpU0lLbU94VnRiX24zNlowdjIwTllsVDNENHFmZHo0LWwyZnFxc2NTUEJZeHRsS01HdzJSZFFuUEV1YktPMk9Cb0kmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTA4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZITl9wMlphbi1JX2hsVDBoeUdZVWJzMDNweWVya3E5T1hhbkF1eXctOFBUMnM1OEo3bHlPQzlZakZzSjlQMHNiVVNDaXFIY1NUVUphRXNQUmpiMDVOa0FJTHBqUEc2WW1RaXpKLXZaY0M5eDltN0Vvai1laVgydUp0LUpIeWZoVmE5U0VGMzlhZXk1SVQ5Uk5fUDFrY2U2Vnc2TVMwSHRyTDRPb01mVkdDZ25NOG9VaDJDODVvN09EMXQyai1oNTE4YThEMF93ZUF3bXNScE1aSzlsRW0tME9oVFdweGhsd2w4Vnh5YmxOMHhxLVZ1Z3dxUkJCM2p0Umt5MEJZRWlUSjlGZWhaS3lhakx6LWR0LXJVVDBQV1NtTmNJdTRvT2NJSFZOWWhscmJpU0lLbU94VnRiX24zNlowdjIwTllsVDNENHFmZHo0LWwyZnFxc2NTUEJZeHRsS01HdzJSZFFuUEV1YktPMk9Cb0kiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=wBidb6MzgpVPmgATskjKQPA1Lq0%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
+
+#EXTINF:-1 group-title="SINGAPURA" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZESUhDVzlVRmE3TTBSN1ZydzVyV2I2V3diUFhSVDgwQ3FpckxpempfTzBQeG1LVjRmMHBpYTVQOG03ZExrUURDWTFrZk9EenNEdkVuRmpKVW9YRG5lajVqQjNJRzRURVZNNlVoOWFnWVhRRDJCRGFmbWNKUjJvZmVSYjl0T3NIWXRCWkc1Y0RBOHV2R04zZTRneTg1NDVGODNHMVozeXMtR1NqVk90M2ZRVjZUYXRYZ1M5MGMtNGJOZl9hUGJLZzg1VUktY192WUFQRkh6c3VJcWdTcXBkLVM1Z1ZjVFF2eUw2aVhyU1RKa2lYWjVydGdsdTVVdTlPTV9HbTJ2cmJ4NUJXcWNsOGs0SmpKMFRveDNlbE1MUVZvLWQtYnNDOWJ1c25iV0o0WjBGOTNpamtudS1qNEN1NGR4ZGZRRDdSX2dNMFREM19WRXVNZjlTN1RhYjRjVE09JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTIzNjYzMjAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2Nfb2t0b2xpZGF5c19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkRJSENXOVVGYTdNMFI3VnJ3NXJXYjZXd2JQWFJUODBDcWlyTGl6al9PMFB4bUtWNGYwcGlhNVA4bTdkTGtRRENZMWtmT0R6c0R2RW5GakpVb1hEbmVqNWpCM0lHNFRFVk02VWg5YWdZWFFEMkJEYWZtY0pSMm9mZVJiOXRPc0hZdEJaRzVjREE4dXZHTjNlNGd5ODU0NUY4M0cxWjN5cy1HU2pWT3QzZlFWNlRhdFhnUzkwYy00Yk5mX2FQYktnODVVSS1jX3ZZQVBGSHpzdUlxZ1NxcGQtUzVnVmNUUXZ5TDZpWHJTVEpraVhaNXJ0Z2x1NVV1OU9NX0dtMnZyYng1QldxY2w4azRKakowVG94M2VsTUxRVm8tZC1ic0M5YnVzbmJXSjRaMEY5M2lqa251LWo0Q3U0ZHhkZlFEN1JfZ00wVEQzX1ZFdU1mOVM3VGFiNGNUTT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=cEykAFUuVmqbpqBtdxn1JQg7tg8%3d
+https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/879237/assetType/media/assetFileId/12366320/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 
 ####################################### RANDOM TV ################################
 
 #EXTINF:-1 group-title="RANDOM TV",setinews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@setinews/live
 #EXTINF:-1 group-title="RANDOM TV",globalnewstw
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@globalnewstw/live
 #EXTINF:-1 group-title="RANDOM TV",57ETFN
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@57ETFN/live
 #EXTINF:-1 group-title="RANDOM TV",momoch4812
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@momoch4812/live
 #EXTINF:-1 group-title="RANDOM TV",momoch3571
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@momoch3571/live
 #EXTINF:-1 group-title="RANDOM TV",EFTV01
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@EFTV01/live
 #EXTINF:-1 group-title="RANDOM TV",su3ej8xu1o
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@user-su3ej8xu1o/live
 #EXTINF:-1 group-title="RANDOM TV",dwnews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/dwnews/live
 #EXTINF:-1 group-title="RANDOM TV",twctvnews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@twctvnews/live
 #EXTINF:-1 group-title="RANDOM TV",MalaimurasuTv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@MalaimurasuTv/live
 #EXTINF:-1 group-title="RANDOM TV",asianetnews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@asianetnews/live
 #EXTINF:-1 group-title="RANDOM TV",cts_drama
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@cts_drama/live
 #EXTINF:-1 group-title="RANDOM TV",CtiAsia
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@CtiAsia/live
 #EXTINF:-1 group-title="RANDOM TV",aljazeera
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@aljazeera/live
 #EXTINF:-1 group-title="RANDOM TV",SaluranBeritaRTM123
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@SaluranBeritaRTM123/live
 #EXTINF:-1 group-title="RANDOM TV",thekpop
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@thekpop/live
 #EXTINF:-1 group-title="RANDOM TV",FTV_News
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@FTV_News/live
 #EXTINF:-1 group-title="RANDOM TV",CH46 China
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=Z50JFuNgvB0
 #EXTINF:-1 group-title="RANDOM TV",sensengo2015
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=_Vlzn9qAHD4
 #EXTINF:-1 group-title="RANDOM TV",cctv-4
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=QTz6avPD4Ns
 #EXTINF:-1 group-title="RANDOM TV",haberturktv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@haberturktv/live
 #EXTINF:-1 group-title="RANDOM TV",phoenixtvnews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@phoenixtvnews7060/live
 #EXTINF:-1 group-title="RANDOM TV",NTDAPTV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@NTDAPTV/live
 #EXTINF:-1 group-title="RANDOM TV",ABCNews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@ABCNews/live
 #EXTINF:-1 group-title="RANDOM TV",TTV_NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TTV_NEWS/live
 #EXTINF:-1 group-title="RANDOM TV",CTSSHOW
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@CTSSHOW/live
 #EXTINF:-1 group-title="RANDOM TV",astroawani
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/astroawani/live
 #EXTINF:-1 group-title="RANDOM TV",ctitv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/ctitv/live
 #EXTINF:-1 group-title="RANDOM TV",japan_walk
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@japan_walk/live
 #EXTINF:-1 group-title="RANDOM TV",DaAiVideo
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@DaAiVideo/liv
 #EXTINF:-1 group-title="RANDOM TV",TVBSNEWS01
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TVBSNEWS01/live
 #EXTINF:-1 group-title="RANDOM TV",setnews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@setnews/live
 #EXTINF:-1 group-title="RANDOM TV",GBNewsOnline
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@GBNewsOnline/live
 #EXTINF:-1 group-title="RANDOM TV",ctvent_classic
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@ctvent_classic/live
 #EXTINF:-1 group-title="RANDOM TV",TITVNews16
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TITVNews16/live
 #EXTINF:-1 group-title="RANDOM TV",indiatoday
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/indiatoday/live
 #EXTINF:-1 group-title="RANDOM TV",euronews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@euronews/live
 #EXTINF:-1 group-title="RANDOM TV",France24_en
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@France24_en/live
 #EXTINF:-1 group-title="RANDOM TV",NBCNews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@NBCNews/live
 #EXTINF:-1 group-title="RANDOM TV",cnnnews18
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/cnnnews18/live
 #EXTINF:-1 group-title="RANDOM TV",plus8394
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@plus8394/live
 #EXTINF:-1 group-title="RANDOM TV",ctvmit
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/ctvmit/live
 #EXTINF:-1 group-title="RANDOM TV",phoenixtv1916
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@phoenixtv1916/live
 #EXTINF:-1 group-title="RANDOM TV",MediaoneTVLive
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@MediaoneTVLive/live
 #EXTINF:-1 group-title="RANDOM TV",tbsnewsdig
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@tbsnewsdig/live
 #EXTINF:-1 group-title="RANDOM TV",NewsTamil24X7TV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@NewsTamil24X7TV/live
 #EXTINF:-1 group-title="RANDOM TV",Daai2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=DTNkEm6jaqQ
 #EXTINF:-1 group-title="RANDOM TV",ANNnewsCH
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@ANNnewsCH/live
 #EXTINF:-1 group-title="RANDOM TV",ctitvnews52
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/user/ctitvnews52/live
 #EXTINF:-1 group-title="RANDOM TV",24OnLive
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/24OnLive/live
 #EXTINF:-1 group-title="RANDOM TV",KOREAarirangTV
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@KOREAarirangTV/live
 #EXTINF:-1 group-title="RANDOM TV",channelnewsasia
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@channelnewsasia/live
 #EXTINF:-1 group-title="RANDOM TV",htbnews
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@htbnews/live
 #EXTINF:-1 group-title="RANDOM TV",Viva Tv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=yuhgIlXwPh8
 #EXTINF:-1 group-title="RANDOM TV",Viva Tv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=LEOat38Iuao
 #EXTINF:-1 group-title="RANDOM TV",parliamentarytv tw
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/watch?v=4HysYHJ6GkY
 #EXTINF:-1 group-title="RANDOM TV",parliamentarytv tw
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@user-sr2ck1hq9z/live
 #EXTINF:-1 group-title="RANDOM TV",123golive
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@123golive/live
 #EXTINF:-1 group-title="RANDOM TV",aljazeeraenglish
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@aljazeeraenglish/live
 #EXTINF:-1 group-title="RANDOM TV",SBN 
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@user-np6rz4ug3i/live
 #EXTINF:-1 group-title="RANDOM TV",newskbs
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@newskbs/live
 #EXTINF:-1 group-title="RANDOM TV",abc6ch
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@abc6ch/live
 #EXTINF:-1 group-title="RANDOM TV",yoyotvebc
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/c/yoyotvebc/live
 #EXTINF:-1 group-title="RANDOM TV",PeppaPigChineseOfficial
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@PeppaPigChineseOfficial/live
 #EXTINF:-1 group-title="RANDOM TV",TalkingTom
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TalkingTom/live
 #EXTINF:-1 group-title="RANDOM TV",TalkingTomHeroes
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TalkingTomHeroes/live
 #EXTINF:-1 group-title="RANDOM TV",DaveAndAva
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@DaveAndAva/live
 #EXTINF:-1 group-title="RANDOM TV",Tayo
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@Tayo/live
 #EXTINF:-1 group-title="RANDOM TV",disneyjunior
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@disneyjunior/live
 #EXTINF:-1 group-title="RANDOM TV",mnews-tw
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@mnews-tw/live
 #EXTINF:-1 group-title="RANDOM TV",ctvchinatv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@ctvchinatv/live
 #EXTINF:-1 group-title="RANDOM TV",faintv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@user-ru4oy4fp1u/live
 #EXTINF:-1 group-title="RANDOM TV",Chu Ke-Liang's Return 24H
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@FTV_ZhuGeClub/live
 #EXTINF:-1 group-title="RANDOM TV",GTV DRAMA
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/channel/UCZ2EoLNz4EzAnAIKCGhiRzQ/live
 #EXTINF:-1 group-title="RANDOM TV",famoussongs657
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@famoussongs657/live
 #EXTINF:-1 group-title="RANDOM TV",formosa
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/channel/UCiMiEL1XRXANaypB2wEdr5w/live
 #EXTINF:-1 group-title="RANDOM TV",Lofi Girl
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV77.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/channel/UCSJ4gkVC6NrvII8umztf0Ow/live
 #EXTINF:-1 group-title="RANDOM TV",baishatun_tv
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@baishatun_tv/live
 #EXTINF:-1 group-title="RANDOM TV",TaiwanPlusLive
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
-https://solitary-dew-639f.iwenshan.workers.dev/?url=https://www.youtube.com/@TaiwanPlusLive/live
 
 
 ####################################### VOD ################################
