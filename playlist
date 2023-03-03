@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id-id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/qa-en/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/ph/clickthecity.com.epg.xml,https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/seezntv.com.epg.xml,https://iptv-org.github.io/epg/guides/fr/canalplus.com.epg.xml,https://iptv-org.github.io/epg/guides/fr/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.epg.xml,https://iptv-org.github.io/epg/guides/th/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/my/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/kr/wavve.com.epg.xml,https://iptv-org.github.io/epg/guides/it/guidatv.sky.it.epg.xml,https://iptv-org.github.io/epg/guides/uk/bt.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml,https://iptv-org.github.io/epg/guides/tr/digiturk.com.tr.epg.xml,https://iptv-org.github.io/epg/guides/gr/cosmote.gr.epg.xml,https://iptv-org.github.io/epg/guides/us/directv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/us-en/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/us-es/beinsports.com.epg.xml,https://iptv-org.github.io/epg/guides/mx/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/rs/tvarenasport.com.epg.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.epg.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/de/hd-plus.de.epg.xml,https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/br/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/hr/maxtv.hrvatskitelekom.hr.epg.xml,https://iptv-org.github.io/epg/guides/hk-en/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/hk-zh/nowplayer.now.com.epg.xml,https://iptv-org.github.io/epg/guides/es/movistarplus.es.epg.xml,https://iptv-org.github.io/epg/guides/qa-ar/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/qa-en/osn.com.epg.xml,https://iptv-org.github.io/epg/guides/ec/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/za/guide.dstv.com.epg.xml"
+#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 
 ########################## NATIONAL TV ##########################
 
@@ -291,11 +291,11 @@ https://nxanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/warner_tv.png",Warner TV Southeast Asia
 https://nxanv-live-cdn.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="ENTERTAINMENT",Rock_Extreme
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="ENTERTAINMENT",Rock Extreme
 http://103.167.167.5:8111/play/a00m/index.m3u8
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="ENTERTAINMENT",Rock_Enter
+#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueant_small.png" group-title="ENTERTAINMENT",Rock Entertainment
 http://103.167.167.5:8111/play/a01e/index.m3u8
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 
@@ -303,6 +303,7 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-logo="https://i.ibb.co/108ypnN/149-1496926-paramount-channel-france-png-download-paramount-channel-logo.png" group-title="ENTERTAINMENT" tvg-id="" tvg-name="", Paramount Network
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115498&extension=ts&play_token=TQ6cftyhX8
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941654&extension=ts&play_token=i6Ay41F1vn
 
 #EXTINF:-1 tvg-id="FoxLife.MACAN" tvg-logo="https://i.imgur.com/7B36dPh.png" group-title="ENTERTAINMENT", Paramount Alstv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -329,6 +330,9 @@ https://nxanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=kplus&type=drm
 http://alstv.xyz/usee/kplus.mpd
 http://rr.dens.tv/h/h08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1Xqf12P/Kplus.png?v=1.0.0.1" group-title="ENTERTAINMENT" tvg-id="K-Plus HD" tvg-name="K-Plus HD", Kplus PH
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=926172&extension=ts&play_token=sBLPHCcrUv
 
 #EXTINF:-1  tvg-id="ext" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -777,6 +781,9 @@ https://nxanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy
 https://nxanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",SCM
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=JJpHtZUvGn
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/celestial.png",Celestial Movies Indonesia
@@ -846,7 +853,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",ANIPLUS
-https://cdn09jtedge.indihometv.com/atemedvr/1675510027/0/ANIPLUS_AT/ANIPLUS_AT.mpd
 http://103.167.167.5:8111/play/a033/index.m3u8
 http://rr1.dens.tv/h/h02/index.m3u8
 
@@ -876,6 +882,11 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20213&extension=ts&
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://static.epg.best/in/AndPrive.in.png",Local Now Family Flix
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115239&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Tap Action Flix
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=926149&extension=ts&play_token=aNLdXPvmxg
+#EXTINF:-1 group-title="MOVIES" tvg-logo="",Tap Movie
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=926152&extension=ts&play_token=kKv5j71CJN
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
