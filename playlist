@@ -1941,3 +1941,29 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="KOREA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/%ED%95%9C%EA%B5%AD%EC%84%A0%EA%B1%B0%EB%B0%A9%EC%86%A1ci.jpg",한국선거방송
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+
+
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 1
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095496&extension=ts&play_token=SqYKzmUeS7
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 2
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095495&extension=ts&play_token=SqYKzmUeS7
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 3
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095494&extension=ts&play_token=SqYKzmUeS7
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 4
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095493&extension=ts&play_token=SqYKzmUeS7
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 5
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095492&extension=ts&play_token=SqYKzmUeS7
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 6
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095491&extension=ts&play_token=SqYKzmUeS7
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 7
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095490&extension=ts&play_token=SqYKzmUeS7
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 8
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095489&extension=ts&play_token=SqYKzmUeS7
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 9
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095488&extension=ts&play_token=SqYKzmUeS7
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 10
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095487&extension=ts&play_token=SqYKzmUeS7
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 11
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095486&extension=ts&play_token=SqYKzmUeS7
+#EXTINF:-1 group-title="HBO ORIGINAL" tvg-logo="", HBO Max Original 12
+http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095485&extension=ts&play_token=SqYKzmUeS7
