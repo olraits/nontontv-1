@@ -829,6 +829,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",ANIPLUS
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
 http://rr1.dens.tv/h/h02/index.m3u8
 
 
@@ -876,6 +877,20 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9XiSzoQ.png" group-title="MOVIES",Wowow Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",China Movie Channel
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156417&extension=ts&play_token=Rk1ga2rPdx
+
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemaaction.png" group-title="MOVIES",Sky Cinema Action
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79471&extension=ts&play_token=HMFfs8lHwd
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemagreats.png" group-title="MOVIES",Sky Cinema Great
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79466&extension=ts&play_token=0n75sKKzYx
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemahits.png" group-title="MOVIES",Sky Cinema Hits
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79465&extension=ts&play_token=5aeBQPEM9S
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemapremiere.png" group-title="MOVIES",Sky Cinema Premier
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79464&extension=ts&play_token=UVlDovg95s
+#EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemascifiandhorror.png" group-title="MOVIES",Sky Cinema SCI-FI
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79463&extension=ts&play_token=rf5b8r8qco
 
 
 ##################################################################
@@ -1377,23 +1392,18 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="RADIO",Hitz FM
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="RADIO",Hot FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7448.m3u8
 https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7004.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="RADIO",Ardan FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7184.m3u8
 http://listento.ardanradio.com:1059/;
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="RADIO",Phoenix Radio Bali
 https://live.phoenixradiobali.com:8250/phoenixradio
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="RADIO",MGTRADIO
 http://stream.radbdg.net:8000/mgtradio.mp3
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="RADIO",Elshinta FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7166.m3u8
 https://stream-ssl.arenastreaming.com:8000/jakarta
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="RADIO",I Radio
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7057.m3u8
 http://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="RADIO",Trax FM
 https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
@@ -1404,10 +1414,8 @@ http://202.147.199.100:8000/;stream.nsv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="RADIO",Hitz FM
 https://s2.radio.co/s6929cb202/listen
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="RADIO",Brava FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7054.m3u8
 http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="RADIO",Hard Rock FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7053.m3u8
 http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="RADIO",Hard Rock FM Bandung
 http://stream.radiojar.com/fnex9bkswk8uv
@@ -1424,37 +1432,28 @@ http://202.147.199.101:8000/;
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="RADIO",Motion Radio Jakarta
 https://streamingv2.shoutcast.com/motion-jakarta
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="RADIO",Female FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7130.m3u8
 http://onlineradiobox.com/json/id/female/play
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="RADIO",Delta FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7092.m3u8
 http://live.masima.cloud:9002/deltafm
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="RADIO",Bahana FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7091.m3u8
 http://stream.bahanafm.co.id:8100/;
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="RADIO",EBS FM
 http://streaming.suzanafm.com:8100/;stream.nsv
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="RADIO",Elgangga FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7169.m3u8
 http://onlineradiobox.com/json/id/sushi/play
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="RADIO",Geronimo FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7216.m3u8
 http://live2.indostreamserver.com:8018/;
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="RADIO",Gajah Mada FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7284.m3u8
 https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="RADIO",OZ Radio Jakarta
 https://s3.vinhostmedia.com:10995/;stream/1
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7443.m3u8
 http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM SBY
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7446.m3u8
 http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="RADIO",Magic 89.9
 https://stream.zeno.fm/fw1368t3vc9uv
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="RADIO",JAK FM
-https://seulangatv.com/YANG-NYURI-ANAK-DAJJAL/vidioHLS/7449.m3u8
 http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="RADIO",SLOW FM
 http://onlineradiobox.com/json/id/slow/play
@@ -1502,13 +1501,20 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-id="AstroAwaniHD.My" tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="MALAYSIA",Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAYSIA", Astro Warna HD
-https://stream.zeehanzgadget.com/warna
-EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="MALAYSIA",Astro Ria HD
-https://stream.zeehanzgadget.com/ria
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Citra_v1.png" group-title="MALAYSIA",Astro Citra HD
-https://stream.zeehanzgadget.com/citra
-
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAYSIA", Astro Warna
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=ADhoODj7kx
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Aura
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571257&extension=ts&play_token=SmctrtNg39
+#EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Rania
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571256&extension=ts&play_token=GcQdZc78Vt
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="MALAYSIA", Astro Ceria
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571241&extension=ts&play_token=P95ULA6A9w
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MALAYSIA", Astro Oasis
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571238&extension=ts&play_token=FUn2lUwTU1
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="MALAYSIA", Astro Prima
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571237&extension=ts&play_token=sVYWi5AJJe
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="MALAYSIA", Astro Ria
+http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=DvbUwd0jPo
 
 ####################################### SINGAPORE ################################
 
@@ -1712,26 +1718,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
 
 ####################################### VOD ################################
 
-#EXTINF:-1 group-title="VOD",Avatar 2022
-https://raw.githubusercontent.com/Iqbalbala/VOD/main/Avatar.m3u8
-#EXTINF:-1 group-title="VOD",Black Adam 2022
-https://raw.githubusercontent.com/Iqbalbala/VOD/main/Blackadam.m3u8
-#EXTINF:-1 group-title="VOD",Corrective Measures
-https://raw.githubusercontent.com/Iqbalbala/VOD/main/Correctivemeasures.m3u8
-#EXTINF:-1 group-title="VOD",Day Shift
-https://raw.githubusercontent.com/Iqbalbala/VOD/main/Dayshif.m3u8
-#EXTINF:-1 group-title="VOD",Eraser: Reborn 2022
-https://raw.githubusercontent.com/Iqbalbala/VOD/main/Eraserreborn.m3u8
-#EXTINF:-1 group-title="VOD",Savage Salvation
-https://raw.githubusercontent.com/Iqbalbala/VOD/main/Savagesalvation.m3u8
-#EXTINF:-1 group-title="VOD",The System 2022
-https://raw.githubusercontent.com/Iqbalbala/VOD/main/System.m3u8
-#EXTINF:-1 group-title="VOD",The Big 4
-https://raw.githubusercontent.com/Iqbalbala/VOD/main/Thebigfour.m3u8
-#EXTINF:-1 group-title="VOD",The Ledge 2022
-https://raw.githubusercontent.com/Iqbalbala/VOD/main/Theledge.m3u8
-#EXTINF:-1 group-title="VOD",Troll 2022
-https://raw.githubusercontent.com/Iqbalbala/VOD/main/Troll.m3u8
 
 
 ####################################### JAPAN ################################
