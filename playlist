@@ -818,6 +818,9 @@ https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
 https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="MOVIES",Flik
+https://beetv.my.id/x/usee-flik-masihsama.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
@@ -848,6 +851,9 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115675&exten
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",True Chinese More
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115420&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",Lotus Macau
+https://beetv.my.id/x/oxygen-lotusmacau-masihsama.m3u8
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="StarMoviesMiddleEast.hk" tvg-logo="https://raw.githubusercontent.com/AzeemHadzrie/iptv-asia/master/assets/StarMovies.png",Star Movies Middle East
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=20213&extension=ts&play_token=RfS1HRRyKs
@@ -912,10 +918,22 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="MUSIC",i-Konser
+https://beetv.my.id/x/usee-ikonser-masihsama.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="MUSIC",Prambors
+https://beetv.my.id/x/usee-pramborstv-masihsama.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC" tvg-logo="", Dens ShowBiz
 http://210.210.155.37/x6bnqe/s/s35/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC" tvg-logo="", Oxygen TV
+https://beetv.my.id/x/oxygen-oxygentv-masihsama.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC" tvg-logo="", V China
+https://beetv.my.id/x/oxygen-vchina-masihsama.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887384&extension=ts&play_token=nPfZ3JosuR
@@ -1387,82 +1405,170 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
 
+########################## VISUAL RADIO ##########################
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WVz0jk4.png" group-title="VISUAL RADIO",MG Radio Network
+https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1042457750_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8miEQe.png" group-title="VISUAL RADIO",Suara Surabaya
+https://ssfm.siar.us/ssfm/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rdLxnli.png" group-title="VISUAL RADIO",Buletin FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/BuletinFM.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wk5GZkZ.png" group-title="VISUAL RADIO",ERA FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/ERA.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMpqEvV.png" group-title="VISUAL RADIO",Fly FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/FlyFM.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="VISUAL RADIO",Hitz FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="VISUAL RADIO",Hot FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p88EiHn.png" group-title="VISUAL RADIO",Suria
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SuriaFM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",MolekFM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MolekFM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Radios
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Radios.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",SINAR.m3u8
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/SINAR.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Zayan.m3u8
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Zayan.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Gegar
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Gegar.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Lite
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Lite.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Mix
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/MIX.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",Melody
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Melody.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",8FM
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/8FM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="VISUAL RADIO",GoXuan
+https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/GoXuan.m3u8
+
+
 ########################## RADIO ##########################
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bGvJ6py.png" group-title="RADIO",Hitz FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Hitz.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w9WCFqr.png" group-title="RADIO",Hot FM
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/HotFM.m3u8
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7004.jpg" group-title="RADIO",Prambors
 https://playerservices.streamtheworld.com/api/livestream-redirect/PRAMBORS_FM.mp3?dist=onlineradiobox
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7184.jpg" group-title="RADIO",Ardan FM
 http://listento.ardanradio.com:1059/;
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u09ERA9.png" group-title="RADIO",Phoenix Radio Bali
 https://live.phoenixradiobali.com:8250/phoenixradio
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7188.jpg" group-title="RADIO",MGTRADIO
 http://stream.radbdg.net:8000/mgtradio.mp3
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7166.jpg" group-title="RADIO",Elshinta FM
 https://stream-ssl.arenastreaming.com:8000/jakarta
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7057.jpg" group-title="RADIO",I Radio
 http://stream.radiojar.com/4ywdgup3bnzuv
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7055.jpg" group-title="RADIO",Trax FM
 https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7056.jpg" group-title="RADIO",Cosmopolitan FM
 http://n02.radiojar.com/u7d8heq3bnzuv
+
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png" group-title="RADIO",V RADIO
 http://202.147.199.100:8000/;stream.nsv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VDOHWd0.png" group-title="RADIO",Hitz FM
 https://s2.radio.co/s6929cb202/listen
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7054.jpg" group-title="RADIO",Brava FM
 http://n07.radiojar.com/5k7t0rq3bnzuv.mp3?1613997585=&rj-tok=AAABd8nJ38EAguSD-Yi56JrhPA&rj-ttl=5
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7053.jpg" group-title="RADIO",Hard Rock FM
 http://n09.radiojar.com/7csmg90fuqruv.mp3?1619243440=&rj-tok=AAABeQJ3Ru4AgeQosVWIZQa5rg&rj-ttl=5
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vOliZ6Z.png" group-title="RADIO",Hard Rock FM Bandung
 http://stream.radiojar.com/fnex9bkswk8uv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MmFTrZK.png" group-title="RADIO",Hard Rock FM Surabaya
 http://stream.radiojar.com/yg8ne2v80k8uv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BwULFUI.png" group-title="RADIO",Hard Rock FM Bali
 http://stream.radiojar.com/9k28wsbu5k8uv
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Bali
 http://202.129.186.43:7028/stream
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/L8w4lBH.jpg" group-title="RADIO",Heartline Jakarta
 https://svara-stream.radioddns.net:8443/karawaci_heartline_stereo?ver=635710
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dpADolC.png" group-title="RADIO",MNC Trijaya FM Jakarta
 http://202.147.199.101:8000/;
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Crxg4DR.png" group-title="RADIO",Motion Radio Jakarta
 https://streamingv2.shoutcast.com/motion-jakarta
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7130.jpg" group-title="RADIO",Female FM
 http://onlineradiobox.com/json/id/female/play
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7092.jpg" group-title="RADIO",Delta FM
 http://live.masima.cloud:9002/deltafm
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7091.jpg" group-title="RADIO",Bahana FM
 http://stream.bahanafm.co.id:8100/;
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Xs4j9YI.png" group-title="RADIO",EBS FM
 http://streaming.suzanafm.com:8100/;stream.nsv
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7169.jpg" group-title="RADIO",Elgangga FM
 http://onlineradiobox.com/json/id/sushi/play
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7216.jpg" group-title="RADIO",Geronimo FM
 http://live2.indostreamserver.com:8018/;
+
 #EXTINF:-1 tvg-logo="http://choos.wap.sh/images/radio/7284.jpg" group-title="RADIO",Gajah Mada FM
 https://server.radioimeldafm.co.id/radio/8020/gajahmadafm
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zj6og3B.png" group-title="RADIO",OZ Radio Jakarta
 https://s3.vinhostmedia.com:10995/;stream/1
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM
 http://103.246.184.62:1935/noice_genfm/genfm/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/0cbwjhiv843lila/Gen_FM.png?dl=1" group-title="RADIO",Gen FM SBY
 http://103.246.184.62:1935/noice_genfmsby/gensbyic.stream/chunklist_w742138711.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1XVJfE5.png" group-title="RADIO",Magic 89.9
 https://stream.zeno.fm/fw1368t3vc9uv
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/fqdznsunlxtcgzs/JAKFM.png?dl=1" group-title="RADIO",JAK FM
 http://103.246.184.62:1935/noice_jakfm/jakfm/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/6/91316.v14.png" group-title="RADIO",SLOW FM
 http://onlineradiobox.com/json/id/slow/play
+
 #EXTINF:-1 tvg-logo="https://cdn.onlineradiobox.com/img/l/0/106040.v5.png" group-title="RADIO",KIS ROCK
 http://onlineradiobox.com/json/id/kisrock/play
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/qq9n8ojtec3m9fa/KIS-95.1-FM.jpg?dl=1" group-title="RADIO",KIS FM
 http://103.246.184.62:1935/noice_kisfm/kisfm/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/ehy1c45c2l8z543/MOSTRADIO.png?dl=1" group-title="RADIO",MOST RADIO
 http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
 
@@ -1499,6 +1605,12 @@ https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="unifiSports2.My" tvg-logo="https://cdn.ksa.my.id/unifisports2.png" group-title="MALAYSIA",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EZKtduz.png" group-title="MALAYSIA",Sensasi
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
+https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+
 #EXTINF:-1 tvg-id="AstroAwaniHD.My" tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="MALAYSIA",Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAYSIA", Astro Warna
@@ -1518,37 +1630,57 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&exten
 
 ####################################### SINGAPORE ################################
 
-#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5",Channel 5
+#EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://i.imgur.com/cmWAYhj.png" group-title="SINGAPORE",Channel 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+
+#EXTINF:-1 tvg-id="Ch 8" tvg-logo="https://i.imgur.com/7rrvBP9.png" group-title="SINGAPORE",Channel 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+
+#EXTINF:-1 tvg-id="Ch U" tvg-logo="https://i.imgur.com/FHso0Mp.png" group-title="SINGAPORE",Channel U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+
+#EXTINF:-1 tvg-id="Suria" tvg-logo="https://i.imgur.com/33m1Xqh.png" group-title="SINGAPORE",Suria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+
+#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPORE" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFQ0RJeDJPOFJGUEQxQlhnU25mVHZudlgtMkJhM2Vvdno1SzhMNXl1UUp1SDRxUUlBWHpFUGJPWUFwdE01VnJwbi1wOG9WTk5TYk9ZTklmcjZ0d2RwWmRSR3JxaFlUTkxYdm40NDRuVF9kYVNxeWZrcHZsWUxRSVJoNWNVTTU4a01McUp3MGJneGFwMDlCLVJsSVpwMV9Od0NUM1p5bHJ4TzZHbE9idGtxU1hncHB1cjN2WU9Lb0FOYTc5RDhXT09XZTBja3FfMGExOFF3RTNVNXdWRGlEU1plWlJvMUJQT1QxN2FDWWhXbjZ2SUs5MTFRdzl5X1pVUHZJb1RiRWM4QmhBQ0RvTDZEYnNabHZPMjcyRTBqbGw0T3ZKTW1OSmc1RzdGVWVTdlQzMDhwbkVWZmxQeFQ1OVFFcnZUQm8wbkpXOUZYeDF0ZVBSNU5uSkdPaXJtbjQ9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRUNESXgyTzhSRlBEMUJYZ1NuZlR2bnZYLTJCYTNlb3Z6NUs4TDV5dVFKdUg0cVFJQVh6RVBiT1lBcHRNNVZycG4tcDhvVk5OU2JPWU5JZnI2dHdkcFpkUkdycWhZVE5MWHZuNDQ0blRfZGFTcXlma3B2bFlMUUlSaDVjVU01OGtNTHFKdzBiZ3hhcDA5Qi1SbElacDFfTndDVDNaeWxyeE82R2xPYnRrcVNYZ3BwdXIzdllPS29BTmE3OUQ4V09PV2UwY2txXzBhMThRd0UzVTV3VkRpRFNaZVpSbzFCUE9UMTdhQ1loV242dklLOTExUXc5eV9aVVB2SW9UYkVjOEJoQUNEb0w2RGJzWmx2TzI3MkUwamxsNE92Sk1tTkpnNUc3RlVlU3ZUMzA4cG5FVmZsUHhUNTlRRXJ2VEJvMG5KVzlGWHgxdGVQUjVObkpHT2lybW40PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=uy7tyOwMbXOese3I3CkYq5%2fflcU%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
+#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPORE" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPNHFQUjNMMi1BWTFYR0lSM0xRQVN0Wm5PM1lvcFZ4dzItMzh2VjVQZTczRnZqSS1HLVZsdlprWW9McVMwU3gwR1diU1dMTlZEdFFOdElVRkgzLURqYTZ2NHZtamQ5Q1h5Tld6ZHh1SWcwcFJTLWtrYzB2ZkZUcnZhTk1VdjNNbVRnMEswY0tKb05XeWJPLVVZM2lhVEJON0ZiampIWVFSVncxcmg0RkFIZ3ItXzE3RDNObkpEenBVaHlsNXRvc0Z4N3FIQTlNZTEyVGFHN0lOZ2phdldFU0RYZm9OdUtDelhrUFk5UllBNnFQM01MXzZNcjJyWEF5NkpjRkdmOTBWRnRxT1FNWHBNaFdrWk52dWhtNWNhQ3RLQWI5ajdlVXp5aUxKYVY1ay1ldVQtOFM3dUhsMldXdXNCejEwTS1fdnU2VGdKQ1VUY2ozVm1keW1DTUZfYzA9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTzRxUFIzTDItQVkxWEdJUjNMUUFTdFpuTzNZb3BWeHcyLTM4dlY1UGU3M0Z2akktRy1WbHZaa1lvTHFTMFN4MEdXYlNXTE5WRHRRTnRJVUZIMy1EamE2djR2bWpkOUNYeU5XemR4dUlnMHBSUy1ra2MwdmZGVHJ2YU5NVXYzTW1UZzBLMGNLSm9OV3liTy1VWTNpYVRCTjdGYmpqSFlRUlZ3MXJoNEZBSGdyLV8xN0QzTm5KRHpwVWh5bDV0b3NGeDdxSEE5TWUxMlRhRzdJTmdqYXZXRVNEWGZvTnVLQ3pYa1BZOVJZQTZxUDNNTF82TXIyclhBeTZKY0ZHZjkwVkZ0cU9RTVhwTWhXa1pOdnVobTVjYUN0S0FiOWo3ZVV6eWlMSmFWNWstZXVULThTN3VIbDJXV3VzQnoxME0tX3Z1NlRnSkNVVGNqM1ZtZHltQ01GX2MwPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=amy2EsrDyK%2fyrsivkbr0HMETthU%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U
+#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPORE" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMS0pmRFFkRVNYRVJwQ2RlQjhCM3BLUUJrY3otYUZxYjJnMVlodHAtUkxTWDNXd1pUZjNXYVlUS3hvZm9QenhyZGxfVjJZaWQ3N3pnck4wX3kyUXRZU1c0Rkx2SEFCU0RLQzA2ZnhSQzVnSThyMG5QQXZQOEJhMXdtbWRMdmNYRmVOck16RFNOQnJ0Q3V2YXVJY1VVWHJMSDBSai1jdkNCYnhDN1VNZGRDeFNySEhzZjVKT3hka2xvYnc3ZkxhWldOcVNvanV0NnB5eG1WOW9Fd0VuVHFmUTlYTV8yZUloaGFkZkhDdGlNTkZJNWpBZ2c1ZW1ScDlsNFZmQk5hQTZuR2dVa2tjc2tNNGQxb0lDNXRLNklKMWVWNXdtdUxIb0N4ODFvU2wyb29OTEl3V1hHWDk5d3pZTVp2cDk3WVRxMFNZRGpwT09WUmIxYjc4a1lQZ3BxNFI3Ui1faEE5MVhXV0E3NmFBY3dYemJxZ1B0bXZYd0pOaVpzN0FReURkcGV3PT0mY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTU3IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaFVfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZMS0pmRFFkRVNYRVJwQ2RlQjhCM3BLUUJrY3otYUZxYjJnMVlodHAtUkxTWDNXd1pUZjNXYVlUS3hvZm9QenhyZGxfVjJZaWQ3N3pnck4wX3kyUXRZU1c0Rkx2SEFCU0RLQzA2ZnhSQzVnSThyMG5QQXZQOEJhMXdtbWRMdmNYRmVOck16RFNOQnJ0Q3V2YXVJY1VVWHJMSDBSai1jdkNCYnhDN1VNZGRDeFNySEhzZjVKT3hka2xvYnc3ZkxhWldOcVNvanV0NnB5eG1WOW9Fd0VuVHFmUTlYTV8yZUloaGFkZkhDdGlNTkZJNWpBZ2c1ZW1ScDlsNFZmQk5hQTZuR2dVa2tjc2tNNGQxb0lDNXRLNklKMWVWNXdtdUxIb0N4ODFvU2wyb29OTEl3V1hHWDk5d3pZTVp2cDk3WVRxMFNZRGpwT09WUmIxYjc4a1lQZ3BxNFI3Ui1faEE5MVhXV0E3NmFBY3dYemJxZ1B0bXZYd0pOaVpzN0FReURkcGV3PT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=ydc0WJQZ4X3P9QwZfaF1dIT1Ugw%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
+#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPORE" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPaHJmNEpCNFItRU0tcElSekdjcUhPWXE3eUhPdDFRelc2Z0c0V2UwMzZnVW9tVzFCU3RtQmI5YzZoX1Iyakh1blBVVHY4Mm9xV0ZYTG95N1ozRUJHQ1l5TGJCREl3Y21lSTNkcjcxcnBKejBmMC1vWGpzWUdZUmRkMWJnZmZNd3NvSHNENjRoX0pkNWtVR1hic1FuY1RSakotS0czUlpsaDJOc0lCeklPQzVxbHBLcGFjeDgtVV9wZDVLeFFUbjFhMG96ME80ckd5NGhVbmhrd3E4SEE5NlRuYlZKTWpWRU8yTlcxUUJSRkw2LUd1WkVMX1dOVlkxWkhrS0w5T1ZtZ2xsUl9NY0RMcjJvZVlBV1hyMzF4V19tMS1oaXhCa2I5NWhBR0lJTVlvUiZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZPaHJmNEpCNFItRU0tcElSekdjcUhPWXE3eUhPdDFRelc2Z0c0V2UwMzZnVW9tVzFCU3RtQmI5YzZoX1Iyakh1blBVVHY4Mm9xV0ZYTG95N1ozRUJHQ1l5TGJCREl3Y21lSTNkcjcxcnBKejBmMC1vWGpzWUdZUmRkMWJnZmZNd3NvSHNENjRoX0pkNWtVR1hic1FuY1RSakotS0czUlpsaDJOc0lCeklPQzVxbHBLcGFjeDgtVV9wZDVLeFFUbjFhMG96ME80ckd5NGhVbmhrd3E4SEE5NlRuYlZKTWpWRU8yTlcxUUJSRkw2LUd1WkVMX1dOVlkxWkhrS0w5T1ZtZ2xsUl9NY0RMcjJvZVlBV1hyMzF4V19tMS1oaXhCa2I5NWhBR0lJTVlvUiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=6EFGA5ZyXo4t6OKIu85I1hlquFY%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Suria
+#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPORE" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Suria
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZISHI0UXVuREVCZ05Oa2xWOHI1eXJQU3FOZkFWRFRzWmhKTGhkRXphTkJFZGNXVkk2cmI1UVJpTHdwUnRkN0k3THlSTUNUc0pDd2VZZEtTMVNac2xLamYwN01KYlJfUXExRFppSi03N3V1VktjWmpiaUtZVlduUG90YVdxS3ZUVHFLajZ1ZVNQYkF4ZkxMXzNLdGgyRVpqNFBoTm1ESFNkMU54dFExcm5VQmgxSVZkMkg1Y0JheEFMTVpnVlExelEyczRYdG13TmRJV1pzY1g4Wkl5YTZ0UzdLSjlrdjNQZGxrdkJVaDJyODZNVGVDdUJJRndqTUdkTkdvLW1DREx0QzctbExWdlBvVGEyWFNrb3RyVFpUZnNVa2RvN3pTWlMzeUxGemg0YlpBbDIzOHhTYld4Yk8tdFdUdVZ3Tl8zSEE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQwNjYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3N1cmlhX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmSEhyNFF1bkRFQmdOTmtsVjhyNXlyUFNxTmZBVkRUc1poSkxoZEV6YU5CRWRjV1ZJNnJiNVFSaUx3cFJ0ZDdJN0x5Uk1DVHNKQ3dlWWRLUzFTWnNsS2pmMDdNSmJSX1FxMURaaUotNzd1dVZLY1pqYmlLWVZXblBvdGFXcUt2VFRxS2o2dWVTUGJBeGZMTF8zS3RoMkVaajRQaE5tREhTZDFOeHRRMXJuVUJoMUlWZDJINWNCYXhBTE1aZ1ZRMXpRMnM0WHRtd05kSVdac2NYOFpJeWE2dFM3S0o5a3YzUGRsa3ZCVWgycjg2TVRlQ3VCSUZ3ak1HZE5Hby1tQ0RMdEM3LWxMVnZQb1RhMlhTa290clRaVGZzVWtkbzd6U1pTM3lMRnpoNGJaQWwyMzh4U2JXeGJPLXRXVHVWd05fM0hBPT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=tw%2bYhPitWOJ1h%2bF27XPtMu0rqYY%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPURA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
+#EXTINF:-1 tvg-id="Singapura" group-title="SINGAPORE" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel Vasantham
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKa3VoejZ4bm9mb01OUUw0QXcwcy15OFNNTzBYdnBNTGhFVHdaUi1NcEhvM1NFN09Kc1NaU1BTMnRJLXBkejR0a3VtTVE0ODY5X3NidWUxNTBNRmowMUxmR0lWRmZiQVk5UU1uT0RzRWRMSHRTOWRJZ2E5QXQ1bDctWWpIUmRfQXBNNDNFT29adVRBdFBCVkF2Wm45WTNLQUc1TXpiTnZsa0dfeERoVy1leEc4bkZPZkNiRVRfZlRhOU9tel9aN1JoaWFUc1R1dXQ0SHlQTE42QnB0eXg1SVRfZ0pXUEpZRzVfTUVWWExWYmJ5MVVLSkhoQWFSOUNfd2RCRlBFNVlkb21xMW5uUkhiSkJsMWpCN0stNjF2V3NyUURLTEhVYkI5YVc3cWlVM0V4Zmk2djNaVVJSXzlRN1JSa3k2cEd0ZmRYWGJIZ1NDcHREdFhHaXZYTEZMOTR3eTZET0o3dUs5Q09TUnROX0lQeHImY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTA4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZKa3VoejZ4bm9mb01OUUw0QXcwcy15OFNNTzBYdnBNTGhFVHdaUi1NcEhvM1NFN09Kc1NaU1BTMnRJLXBkejR0a3VtTVE0ODY5X3NidWUxNTBNRmowMUxmR0lWRmZiQVk5UU1uT0RzRWRMSHRTOWRJZ2E5QXQ1bDctWWpIUmRfQXBNNDNFT29adVRBdFBCVkF2Wm45WTNLQUc1TXpiTnZsa0dfeERoVy1leEc4bkZPZkNiRVRfZlRhOU9tel9aN1JoaWFUc1R1dXQ0SHlQTE42QnB0eXg1SVRfZ0pXUEpZRzVfTUVWWExWYmJ5MVVLSkhoQWFSOUNfd2RCRlBFNVlkb21xMW5uUkhiSkJsMWpCN0stNjF2V3NyUURLTEhVYkI5YVc3cWlVM0V4Zmk2djNaVVJSXzlRN1JSa3k2cEd0ZmRYWGJIZ1NDcHREdFhHaXZYTEZMOTR3eTZET0o3dUs5Q09TUnROX0lQeHIiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=tI%2bHsH34LdyWLENRQsrSgOtIQeY%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
-#EXTINF:-1 group-title="SINGAPURA" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFM1Bkd0JSb3JTVnRWc0FOaTRvbFBfbmpGVktWajVoT2FtVjlyX0dPeUY4aDZJWEpYYVdDdWVTVUNzNkZleE01cV9FVWNfYWtrM1VDeDBydXJHdGlaNFN0SllJX0RSYi1lbUptRVQ2SWRMc180dnloYVZJU2lDUlZvSmY5M3lTOHJjSFhvZVpnRmVtSlY4MDJOdkQ4djRWVXpYMC1NUm9IamEtNjV4c0I5TWdiajJjYktqcVNpcTFsNGIzdkszblpMQzBPNHE1R1pyeUJsTGt0cmw0VlZwdzlXTWtmakFua2RubmNiN1FGT0JhYzNkUUExLTBoVHlyOWZncFRhM3ZMRVhiOUlzaXVkeGVPMzRjMGZoN3EwaUUzWFpidGVTMkhFcV9wZkRqTHFKYkhQeHVCT0taSENodEJCMnVLYXdIX3pXV0tyVWRsd0hqRXhSSmtxalRTY1k9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTIzNjYzMjAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2Nfb2t0b2xpZGF5c19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkUzUGR3QlJvclNWdFZzQU5pNG9sUF9uakZWS1ZqNWhPYW1WOXJfR095RjhoNklYSlhhV0N1ZVNVQ3M2RmV4TTVxX0VVY19ha2szVUN4MHJ1ckd0aVo0U3RKWUlfRFJiLWVtSm1FVDZJZExzXzR2eWhhVklTaUNSVm9KZjkzeVM4cmNIWG9lWmdGZW1KVjgwMk52RDh2NFZVelgwLU1Sb0hqYS02NXhzQjlNZ2JqMmNiS2pxU2lxMWw0YjN2SzNuWkxDME80cTVHWnJ5QmxMa3RybDRWVnB3OVdNa2ZqQW5rZG5uY2I3UUZPQmFjM2RRQTEtMGhUeXI5ZmdwVGEzdkxFWGI5SXNpdWR4ZU8zNGMwZmg3cTBpRTNYWmJ0ZVMySEVxX3BmRGpMcUpiSFB4dUJPS1pIQ2h0QkIydUthd0hfeldXS3JVZGx3SGpFeFJKa3FqVFNjWT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=svvGdlwr%2faZdnbynLBUZ0GsGnSY%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/879237/assetType/media/assetFileId/12366320/contextType/PLAYBACK/isAltUrl/False/a.mpd
