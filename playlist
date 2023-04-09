@@ -355,7 +355,7 @@ http://rr.dens.tv/h/h08/index.m3u8
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=926172&extension=ts&play_token=sBLPHCcrUv
 
 #EXTINF:-1  tvg-id="ext" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM (FMX)
-https://github.com/mimipipi22/nontontv/raw/main/FMX/Gem.m3u8
+https://github.com/mimipipi22/nontontv/raw/main/FMX/gem.m3u8
 
 #EXTINF:-1  tvg-id="ext" group-title="ENTERTAINMENT" tvg-logo="https://i.imgur.com/rGTHbAM.png", Sony GEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
