@@ -1706,6 +1706,30 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
+#EXTINF:-1 group-title="MALAYSIA" group-logo="https://aqfadtv.xyz/images/unifitv_v2.png" ch-number="116" tvg-id="116" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",116 Sensasi
+https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
+#EXTINF:-1 group-title="MALAYSIA" group-logo="https://aqfadtv.xyz/images/unifitv_v2.png" ch-number="118" tvg-id="118" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155542159l9k.png",118 Inspirasi
+https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
+#EXTINF:-1 group-title="MALAYSIA" group-logo="https://aqfadtv.xyz/images/unifitv_v2.png" ch-number="120" tvg-id="120" ch-number="120" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png",120 DEGUP
+https://aqfadtv.xyz/live/unifitv/degup/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png", group-title="MALAYSIA",128 Dunia Sinema HD (A)
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
+#EXTINF:-1 group-title="MALAYSIA" group-logo="https://aqfadtv.xyz/images/movies.png" ch-number="128" tvg-id="128" ch-number="128" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",128 Dunia Sinema HD (B)
+https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
+
 #EXTINF:-1 tvg-id="AstroAwaniHD.My" tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="MALAYSIA",Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAYSIA", Astro Warna
