@@ -312,12 +312,12 @@ http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=9416
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115498&extension=ts&play_token=TQ6cftyhX8
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941654&extension=ts&play_token=i6Ay41F1vn
 
-#EXTINF:-1 tvg-id="FoxLife.MACAN" tvg-logo="https://i.imgur.com/7B36dPh.png" group-title="ENTERTAINMENT", Paramount Alstv
+#EXTINF:-1 tvg-id="Paramount.id" tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="ENTERTAINMENT",Paramount Network (MAX)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://alstv.xyz/proxy?live=paramount&type=drm
-//http://alstv.xyz/usee/paramount.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://maxstream.my.id/license-proxy-widevine/cenc/?specConform=true
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f092c2ba-4baa-4ebb-bd60-1cfb1af07da5)/manifest.mpd
 
-#EXTINF:-1 tvg-id="FoxLife.MACAN" tvg-logo="https://i.imgur.com/7B36dPh.png" group-title="ENTERTAINMENT", Paramount Alstv
+#EXTINF:-1 tvg-id="FoxLife.MACAN" tvg-logo="https://i.imgur.com/7B36dPh.png" group-title="ENTERTAINMENT", Paramount Network Alstv
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJiOTg0NDU2MS1kMjYzLTQyMGMtOWMyZi1hNzIwYTk2MTAwN2IiLCJzZXNzaW9uSWQiOiJZams0TkRRMU5qRXRaREkyTXkwME1qQmpMVGxqTW1ZdFlUY3lNR0U1TmpFd01EZGlMR052YlM1dFlYaHpkSEpsWVcwc1RWbFFURUZaVkZZc01UWTNOemMzTXpnM015eGhibVJ5YjJsayIsIm1lcmNoYW50IjoidGVsa29tc2VsIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -409,6 +409,9 @@ https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c68572841ba301729c921bc
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
+
+#EXTINF:-1 tvg-id="DigiOne.id" tvg-name="DigiOne" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="ENTERTAINMENT",Digione
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1065,6 +1068,18 @@ http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
+#EXTINF:-1 tvg-id="XITEROCK" tvg-name="XITEROCK" tvg-logo="" group-title="Music",XITE ROCK 
+https://i.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
+
+#EXTINF:-1 tvg-id="XITE80sFLASHBLACK" tvg-name="XITE80sFLASHBLACK " tvg-logo="" group-title="MUSIC",XITE 80s FLASHBLACK 
+https://d19xo51z4ig5jl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/80sFlashback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="XITE80sTHROWBLACK" tvg-name="XITE80sTHROWBACK " tvg-logo="" group-title="MUSIC",XITE 90s THROWBACK 
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-id="XITEROCKON" tvg-name="XITEROCKON " tvg-logo="" group-title="MUSIC",XITE ROCK ON
+https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
 
 ########################## SPORTS ##########################
 
@@ -1502,6 +1517,12 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
 
 ########################## VISUAL RADIO ##########################
 
+#EXTINF:-1 tvg-id="Iheart80s" tvg-name="Iheart80s" tvg-logo="" group-title="VISUAL RADIO", IHeart 80s
+https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="" group-title="VISUAL RADIO", IHeart 90s
+https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVz0jk4.png" group-title="VISUAL RADIO",MG Radio Network
 https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1042457750_b192000_sleng.m3u8
 
@@ -1798,11 +1819,6 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZKa3VoejZ4bm9mb01OUUw0QXcwcy15OFNNTzBYdnBNTGhFVHdaUi1NcEhvM1NFN09Kc1NaU1BTMnRJLXBkejR0a3VtTVE0ODY5X3NidWUxNTBNRmowMUxmR0lWRmZiQVk5UU1uT0RzRWRMSHRTOWRJZ2E5QXQ1bDctWWpIUmRfQXBNNDNFT29adVRBdFBCVkF2Wm45WTNLQUc1TXpiTnZsa0dfeERoVy1leEc4bkZPZkNiRVRfZlRhOU9tel9aN1JoaWFUc1R1dXQ0SHlQTE42QnB0eXg1SVRfZ0pXUEpZRzVfTUVWWExWYmJ5MVVLSkhoQWFSOUNfd2RCRlBFNVlkb21xMW5uUkhiSkJsMWpCN0stNjF2V3NyUURLTEhVYkI5YVc3cWlVM0V4Zmk2djNaVVJSXzlRN1JSa3k2cEd0ZmRYWGJIZ1NDcHREdFhHaXZYTEZMOTR3eTZET0o3dUs5Q09TUnROX0lQeHImY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTA4IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV92YXNhbnRoYW1fZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZKa3VoejZ4bm9mb01OUUw0QXcwcy15OFNNTzBYdnBNTGhFVHdaUi1NcEhvM1NFN09Kc1NaU1BTMnRJLXBkejR0a3VtTVE0ODY5X3NidWUxNTBNRmowMUxmR0lWRmZiQVk5UU1uT0RzRWRMSHRTOWRJZ2E5QXQ1bDctWWpIUmRfQXBNNDNFT29adVRBdFBCVkF2Wm45WTNLQUc1TXpiTnZsa0dfeERoVy1leEc4bkZPZkNiRVRfZlRhOU9tel9aN1JoaWFUc1R1dXQ0SHlQTE42QnB0eXg1SVRfZ0pXUEpZRzVfTUVWWExWYmJ5MVVLSkhoQWFSOUNfd2RCRlBFNVlkb21xMW5uUkhiSkJsMWpCN0stNjF2V3NyUURLTEhVYkI5YVc3cWlVM0V4Zmk2djNaVVJSXzlRN1JSa3k2cEd0ZmRYWGJIZ1NDcHREdFhHaXZYTEZMOTR3eTZET0o3dUs5Q09TUnROX0lQeHIiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=tI%2bHsH34LdyWLENRQsrSgOtIQeY%3d
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
-#EXTINF:-1 group-title="SINGAPORE" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFM1Bkd0JSb3JTVnRWc0FOaTRvbFBfbmpGVktWajVoT2FtVjlyX0dPeUY4aDZJWEpYYVdDdWVTVUNzNkZleE01cV9FVWNfYWtrM1VDeDBydXJHdGlaNFN0SllJX0RSYi1lbUptRVQ2SWRMc180dnloYVZJU2lDUlZvSmY5M3lTOHJjSFhvZVpnRmVtSlY4MDJOdkQ4djRWVXpYMC1NUm9IamEtNjV4c0I5TWdiajJjYktqcVNpcTFsNGIzdkszblpMQzBPNHE1R1pyeUJsTGt0cmw0VlZwdzlXTWtmakFua2RubmNiN1FGT0JhYzNkUUExLTBoVHlyOWZncFRhM3ZMRVhiOUlzaXVkeGVPMzRjMGZoN3EwaUUzWFpidGVTMkhFcV9wZkRqTHFKYkhQeHVCT0taSENodEJCMnVLYXdIX3pXV0tyVWRsd0hqRXhSSmtxalRTY1k9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTIzNjYzMjAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2Nfb2t0b2xpZGF5c19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkUzUGR3QlJvclNWdFZzQU5pNG9sUF9uakZWS1ZqNWhPYW1WOXJfR095RjhoNklYSlhhV0N1ZVNVQ3M2RmV4TTVxX0VVY19ha2szVUN4MHJ1ckd0aVo0U3RKWUlfRFJiLWVtSm1FVDZJZExzXzR2eWhhVklTaUNSVm9KZjkzeVM4cmNIWG9lWmdGZW1KVjgwMk52RDh2NFZVelgwLU1Sb0hqYS02NXhzQjlNZ2JqMmNiS2pxU2lxMWw0YjN2SzNuWkxDME80cTVHWnJ5QmxMa3RybDRWVnB3OVdNa2ZqQW5rZG5uY2I3UUZPQmFjM2RRQTEtMGhUeXI5ZmdwVGEzdkxFWGI5SXNpdWR4ZU8zNGMwZmg3cTBpRTNYWmJ0ZVMySEVxX3BmRGpMcUpiSFB4dUJPS1pIQ2h0QkIydUthd0hfeldXS3JVZGx3SGpFeFJKa3FqVFNjWT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=svvGdlwr%2faZdnbynLBUZ0GsGnSY%3d
-https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/879237/assetType/media/assetFileId/12366320/contextType/PLAYBACK/isAltUrl/False/a.mpd
 
 
 ####################################### RANDOM TV ################################
