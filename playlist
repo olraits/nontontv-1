@@ -754,6 +754,15 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V2n8iDR.png" group-title="KIDS",Spacetoon
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=111249&extension=ts&play_token=TQ6cftyhX8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Kids_Zone_logo.png/220px-Kids_Zone_logo.png" group-title="KIDS",Kids Zone+
+https://beetv.my.id/x/oxygen-kidszoneplus-masihsama.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_kids.png?9Tpyxz8Ik7Uc2HLzbkPo3KgJbuQ3tgrX&itok=kOfm7AMO" group-title="KIDS",EBS Kids
+https://beetv.my.id/x/oxygen-ebskids-masihsama.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS",Mentari TV
+https://beetv.my.id/x/oxygen-mentaritv-masihsama.m3u8
+
 
 ########################## MOVIES ##########################
 
@@ -1039,31 +1048,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIC",Vevo Pop Europa
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png" group-title="MUSIC",K Pop Channel
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1115906832449589250/rCRxo7F8_400x400.png" group-title="MUSIC",K Pop2 Channel
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
-
-#EXTINF:-1 group-title="MUSIC" tvg-id="KMTV.kr" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/misc/vod/kmtv-vod.png",KMTV
-https://kmtvnow-samsung-us.plex.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MyxUSA.us" tvg-logo="https://i.imgur.com/qyxbTj5.png" group-title="MUSIC",Myx USA
-https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-myxnola/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",Retro TV
-http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8?source:iptvmate.net
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.pngkit.com/png/full/104-1049976_media-retro-tv-logo.png",*Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",Maleo
-https://alfa.kugo.id/playout/maleo.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FRksPN7F/POP-MUSIK.png" group-title="MUSIC",POP MUSIK
-https://alfa.kugo.id/playout/pop.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MUSIC",KUGO 1
-http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
@@ -1079,6 +1069,15 @@ https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-id="XITEROCKON" tvg-name="XITEROCKON " tvg-logo="" group-title="MUSIC",XITE ROCK ON
 https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="303" group-title="Music",Kiss TV
+http://91.224.190.66:4242/bysid/7211
+#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="304 group-title="Music"",Magic TV
+http://91.224.190.66:4242/bysid/7207
+#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="306 group-title="Music"",NOW 80s
+http://91.224.190.66:4266/bysid/50306
+#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="308 group-title="Music"",MTV Music
+http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/11654
 
 
 ########################## SPORTS ##########################
@@ -1687,6 +1686,9 @@ http://103.246.184.62:1935/noice_mostfm/mostfm/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dropbox.com/s/5g6wgbq9xwgsrw8/MUSTANG.png?dl=1" group-title="RADIO",MUSTANG
 http://103.246.184.62:1935/noice_mustangfm/mustangfm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="RADIO",Magic UK
+http://91.224.190.66:4263/bysid/26624
 
 
 ########################## MALAYSIA ##########################
