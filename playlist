@@ -2244,3 +2244,9 @@ http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095487&extension
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095486&extension=ts&play_token=SqYKzmUeS7
 #EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 12
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095485&extension=ts&play_token=SqYKzmUeS7
+
+
+#KODIPROP:inputstream.adaptive.license_type=nagra.com.clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://www.nagra.com/key=13488&prm=eyJjb250ZW50SWQiOiIxMzQ4OCIsImtleUlkIjoiZTUyNDkxNzAtMjc3OC00ZjRhLWExYjgtM2I5OTM3YWJlYzZjIn0
+#EXTINF:-1 tvg-logo="" group-title="TEST", TEST
+https://github.com/mimipipi22/nontontv/raw/main/FMX/myzen.m3u8
