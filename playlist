@@ -999,6 +999,9 @@ https://beetv.my.id/x/usee-ikonser-masihsama.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="MUSIC",Prambors
 https://beetv.my.id/x/usee-pramborstv-masihsama.m3u8
 
+#EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="" group-title="MUSIC",Citra Dangdut
+http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC" tvg-logo="", Dens ShowBiz
@@ -1074,14 +1077,17 @@ https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="XITEROCKON" tvg-name="XITEROCKON " tvg-logo="" group-title="MUSIC",XITE ROCK ON
 https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 
-#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="303" group-title="Music",Kiss TV
+#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="303" group-title="MUSIC",Kiss TV
 http://91.224.190.66:4242/bysid/7211
-#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="304 group-title="Music"",Magic TV
+#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="304 group-title="MUSIC",Magic TV
 http://91.224.190.66:4242/bysid/7207
-#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="306 group-title="Music"",NOW 80s
+#EXTINF:0 tvg-id="c54e883f9d4156b9c1188f09b3a8e52a" tvg-chno="306 group-title="MUSIC",NOW 80s
 http://91.224.190.66:4266/bysid/50306
-#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="308 group-title="Music"",MTV Music
+#EXTINF:0 tvg-id="d8455973f6fb7ec80e2b5f7110428e65" tvg-chno="308 group-title="MUSIC",MTV Music
 http://iqtvplus.org:80/NZTGUZYZ6W/EYFYYCJVE8/11654
+
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="MUSIC",IMTV
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 
 ########################## SPORTS ##########################
@@ -1796,6 +1802,16 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cloudtv-playback.stackstaging.com/astrogo.com.my/live/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
+#EXTINF:-1 group-title="SINGAPORE" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
+https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
+
 #EXTINF:-1 tvg-id="Singapura" group-title="SINGAPORE" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOVUV1Q2RiRXNIU3VvN0ZyeW8xbVhrbmdSWks1MkZYZzRybENKZ3A3NkF6a2NMTUJleWV5dU5TRnZiV3pmS20xM3E5OVliUnVUQldmVzlEUmFGeEtXaEN1OGlZRWJ2UW9JQzgza1BicGs1Um5mWkluTERDekJ1N2RxemNrZWlUcmdPMHBZd0FOcEZRcW9rZldTLS1NeXJmZ190ajlDMUw2OVF0cVhRRHd6V0FaTHRVXzNtbWRtM0hZQ0Fnb0dFWFRBQzFqY3dYaHJKZTA4LVl3Qjd0Yjk1UmFOMVNSSE1kLXp3RFc1UUtGMzJWZHB6OVZmOV9kWm1CamZFbEpNbVN1UGVHRmtiNF80S2Q4YTFzOVVIUjdnQURqbE1SODR6RXRQNW9SV1dGZXhqYUpMNTFwT29ockJQY1JmVi01cXB4QUE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk5VRXVDZGJFc0hTdW83RnJ5bzFtWGtuZ1JaSzUyRlhnNHJsQ0pncDc2QXprY0xNQmV5ZXl1TlNGdmJXemZLbTEzcTk5WWJSdVRCV2ZXOURSYUZ4S1doQ3U4aVlFYnZRb0lDODNrUGJwazVSbmZaSW5MREN6QnU3ZHF6Y2tlaVRyZ08wcFl3QU5wRlFxb2tmV1MtLU15cmZnX3RqOUMxTDY5UXRxWFFEd3pXQVpMdFVfM21tZG0zSFlDQWdvR0VYVEFDMWpjd1hockplMDgtWXdCN3RiOTVSYU4xU1JITWQtendEVzVRS0YzMlZkcHo5VmY5X2RabUJqZkVsSk1tU3VQZUdGa2I0XzRLZDhhMXM5VUhSN2dBRGpsTVI4NHpFdFA1b1JXV0ZleGphSkw1MXBPb2hyQlBjUmZWLTVxcHhBQT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=snnaH8vRW8UMIyZPMrJakRYVL%2bk%3d
@@ -1989,11 +2005,42 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
 
 
-####################################### VOD ################################
+####################################### HONGKONG ################################
 
+#EXTINF:-1 tvg-id="ViuTVsix.hk" group-title="HONGKONG",ViuTVsix (1080p)
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://cdn.hklive.tv/xxxx/96/index.m3u8
 
+#EXTINF:-1 tvg-id="ViuTV.hk" group-title="HONGKONG",ViuTV (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/99/index.m3u8
+
+#EXTINF:-1 tvg-id="RTHKTV31.hk" group-title="HONGKONG",RTHK (港台電視31) (360p)
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+
+#EXTINF:-1 tvg-id="RTHKTV32.hk" group-title="HONGKONG",RTHK (港台電視32) (1080p)
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+
+#EXTINF:-1 tvg-id="HOYTV.hk" group-title="HONGKONG",HOY TV (720p)
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1 tvg-id="HKIBC.hk" group-title="HONGKONG",HKIBC
+http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBPEARL" group-title="HONGKONG",TVB Pearl (珍珠台) (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+
+#EXTINF:-1 tvg-id="TVBJADE" group-title="HONGKONG",TVB Jade (翡翠台) (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+
+#EXTINF:-1 tvg-id="TVBJ2" group-title="HONGKONG",TVB J2 (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+https://cdn.hklive.tv/xxxx/82/index.m3u8
 
 ####################################### JAPAN ################################
+
 
 #EXTINF:1 tvg-logo="https://i.postimg.cc/CLPr6gq6/IMG-20220828-165715.jpg" group-title="JAPAN",NHK°BS1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
