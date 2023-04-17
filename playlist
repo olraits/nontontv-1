@@ -282,6 +282,8 @@ http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a8
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/N0143g7Y/NEWSMAX.png " group-title="NEWS", Newsmax
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NEWS",OAN (1080p)
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 
 
 ########################## ENTERTAINMENT ##########################
@@ -436,6 +438,58 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-electricnow/CDN/master.m3u8
 
 ##############################################################
 
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://i.imgur.com/CmdxyXk.png" group-title="ENTERTAINMENT",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium310/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="EEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="ENTERTAINMENT",E! Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium315/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="HBOEast.us" tvg-logo="https://i.imgur.com/9v0WUqt.png" group-title="ENTERTAINMENT",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium321/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="OWNEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/OWN_2011_logo.svg/1920px-OWN_2011_logo.svg.png" group-title="ENTERTAINMENT",Oprah Winfrey Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium331/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="ENTERTAINMENT",TBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium336/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="ENTERTAINMENT",TNT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium338/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/1920px-2019_Disney_Channel_logo.svg.png" group-title="ENTERTAINMENT",Disney Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium312/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="USANetworkEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" group-title="ENTERTAINMENT",USA Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium343/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="GalavisionEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1024px-Galavision_Logo_2013.svg.png" group-title="ENTERTAINMENT",Galavisión
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium743/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-logo="https://i.imgur.com/71d2wEk.png" group-title="ENTERTAINMENT",Paramount Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium334/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="E4.uk" tvg-logo="https://i.imgur.com/yny6n9T.png" group-title="ENTERTAINMENT",E4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium363/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="VH1East.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1920px-VH1_logonew.svg.png" group-title="ENTERTAINMENT",VH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium344/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="MTVEast.us" tvg-logo="https://i.imgur.com/X7VxlBN.png" group-title="ENTERTAINMENT",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium371/index.m3u8?|referer=https://widevine.licenses4.me/
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="ENTERTAINMENT" tvg-id="SonyPix.in" tvg-name="SonyPix.in", Sony Pix
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
@@ -445,20 +499,6 @@ https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_pix_hd.smil/manife
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
 https://cdn-01.toffeelive.com/origin-08/live-origin/smil:sony_sab_hd.smil/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/E%21_Logo_2012.svg/320px-E%21_Logo_2012.svg.png" group-title="ENTERTAINMENT",E!
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=176882&extension=ts&play_token=Rl75m1FZQx
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=8257&extension=ts&play_token=TQ6cftyhX8
-
-#EXTINF:-1 tvg-id="TBSEast.us" tvg-logo="https://i.imgur.com/upM99h1.png" group-title="ENTERTAINMENT",TBS
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=10879&extension=ts&play_token=TQ6cftyhX8
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=553017&extension=ts&play_token=SdwKiLCoyV
-
-#EXTINF:-1 tvg-id="TNTEast.us" tvg-logo="https://i.imgur.com/umJbqNY.png" group-title="ENTERTAINMENT",TNT
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=11580&extension=ts&play_token=TQ6cftyhX8
-
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.epg.best/us/PopTV.us.png",POP (East)
-http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=158514&extension=ts&play_token=TQ6cftyhX8
 
 
 ########################## LIFESTYLE ##########################
@@ -756,13 +796,13 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=111249&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Kids_Zone_logo.png/220px-Kids_Zone_logo.png" group-title="KIDS",Kids Zone+
-https://beetv.my.id/x/oxygen-kidszoneplus-masihsama.m3u8
+https://beetv.my.id/x/oxygen-kidszoneplus-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_kids.png?9Tpyxz8Ik7Uc2HLzbkPo3KgJbuQ3tgrX&itok=kOfm7AMO" group-title="KIDS",EBS Kids
-https://beetv.my.id/x/oxygen-ebskids-masihsama.m3u8
+https://beetv.my.id/x/oxygen-ebskids-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS",Mentari TV
-https://beetv.my.id/x/oxygen-mentaritv-masihsama.m3u8
+https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
 
 
 ########################## MOVIES ##########################
@@ -802,7 +842,21 @@ https://nxanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPre
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_13.png",Galaxy
 https://nxanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO Plus (H265)" tvg-logo="http://assista.live:80/images/20bf67665416242e54de08f0616b0aec.png" group-title="MOVIES",HBO Plus (H265)
+http://assista.live:80/5527988492446/37592011/130603
+#EXTINF:-1 group-title="MOVIES",HBO
+http://208.115.225.174:14136
+#EXTINF:-1 group-title="MOVIES",HBO Extreme
+http://208.115.225.174:14165
+#EXTINF:-1 group-title="MOVIES",HBO2
+http://208.115.225.174:14140
+#EXTINF:-1 group-title="MOVIES",HBO Mundi
+http://208.115.225.174:14148
+#EXTINF:-1 group-title="MOVIES",HBO Signature
+http://208.115.225.174:14160
+
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",SCM
+http://23.237.10.66:16359
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941625&extension=ts&play_token=JJpHtZUvGn
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -891,7 +945,7 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="MOVIES",Flik
-https://beetv.my.id/x/usee-flik-masihsama.m3u8
+https://beetv.my.id/x/usee-flik-gojokkk.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -925,7 +979,7 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115675&exten
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115420&extension=ts&play_token=TQ6cftyhX8
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",Lotus Macau
-https://beetv.my.id/x/oxygen-lotusmacau-masihsama.m3u8
+http://107.151.203.111:2209/135/hk.php?id=amlh
 
 #EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="MY038:BOO" tvg-logo="" group-title="MOVIES",MY038:BOO
 http://kmkus.wanicelife.com:8880/stzzydBnCX/45fsJY9yYr/1697
@@ -940,6 +994,9 @@ http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115239&exten
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=926149&extension=ts&play_token=aNLdXPvmxg
 #EXTINF:-1 group-title="MOVIES" tvg-logo="",Tap Movie
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=926152&extension=ts&play_token=kKv5j71CJN
+
+#EXTINF:-1 group-title="MOVIES",STAR MOVIES
+http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=155727&extension=ts&play_token=zB1JWsM7AB
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hnVBUzT.png" group-title="MOVIES",Star 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -961,6 +1018,50 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",China Movie Channel
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156417&extension=ts&play_token=Rk1ga2rPdx
+
+#EXTINF:-1 tvg-id="SkyCinemaPremiere.uk" tvg-logo="https://i.imgur.com/j7IZ3V4.png" group-title="BRITISH MOVIES",Sky Cinema Premiere
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium671/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SkyCinemaSelect.uk" tvg-logo="https://i.imgur.com/JVSB82J.png" group-title="BRITISH MOVIES",Sky Cinema Select
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium672/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SkyCinemaHits.uk" tvg-logo="https://i.imgur.com/8VQcZbN.png" group-title="BRITISH MOVIES",Sky Cinema Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium673/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SkyCinemaGreats.uk" tvg-logo="https://i.imgur.com/MAL6AfI.png" group-title="BRITISH MOVIES",Sky Cinema Greats
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium674/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SkyCinemaAnimation.uk" tvg-logo="https://i.imgur.com/9ZqKNj4.png" group-title="BRITISH MOVIES",Sky Cinema Animation
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium675/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SkyCinemaFamily.uk" tvg-logo="https://i.imgur.com/zsJvGwG.png" group-title="BRITISH MOVIES",Sky Cinema Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium676/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SkyCinemaAction.uk" tvg-logo="https://i.imgur.com/UM58YA5.png" group-title="BRITISH MOVIES",Sky Cinema Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium677/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SkyCinemaComedy.uk" tvg-logo="https://i.imgur.com/aHKEIuP.png" group-title="BRITISH MOVIES",Sky Cinema Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium678/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SkyCinemaThriller.uk" tvg-logo="https://i.imgur.com/mXw0vCI.png" group-title="BRITISH MOVIES",Sky Cinema Thriller
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium679/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SkyCinemaDrama.uk" tvg-logo="https://i.imgur.com/Bm19MDI.png" group-title="BRITISH MOVIES",Sky Cinema Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium680/index.m3u8?|referer=https://widevine.licenses4.me/
+
+#EXTINF:-1 tvg-id="SkyCinemaSciFiHorror.uk" tvg-logo="https://i.imgur.com/RJ2AcaL.png" group-title="BRITISH MOVIES",Sky Cinema Sci-fi Horror
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://webudit.onlinewebtv.lol/lb/premium681/index.m3u8?|referer=https://widevine.licenses4.me/
 
 #EXTINF:-1 tvg-logo="http://logo.protv.cc/picons/logos/skycinemaaction.png" group-title="MOVIES",Sky Cinema Action
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=79471&extension=ts&play_token=HMFfs8lHwd
@@ -994,10 +1095,10 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="MUSIC",i-Konser
-https://beetv.my.id/x/usee-ikonser-masihsama.m3u8
+https://beetv.my.id/x/usee-ikonser-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD4fyZS.png" group-title="MUSIC",Prambors
-https://beetv.my.id/x/usee-pramborstv-masihsama.m3u8
+https://beetv.my.id/x/usee-pramborstv-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="CitraDangdut" tvg-logo="" group-title="MUSIC",Citra Dangdut
 http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFBC04238D28056F544DD703&profile=pass
@@ -1008,10 +1109,10 @@ http://103.102.15.12:1111/stream/channelid/2052624909?ticket=B8CE7A4386718673CFB
 http://210.210.155.37/x6bnqe/s/s35/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC" tvg-logo="", Oxygen TV
-https://beetv.my.id/x/oxygen-oxygentv-masihsama.m3u8
+https://beetv.my.id/x/oxygen-oxygentv-gojokkk.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="MUSIC" tvg-logo="", V China
-https://beetv.my.id/x/oxygen-vchina-masihsama.m3u8
+https://beetv.my.id/x/oxygen-vchina-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_small.png" group-title="MUSIC", MTV HD
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=887384&extension=ts&play_token=nPfZ3JosuR
