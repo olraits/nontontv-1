@@ -405,8 +405,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=cdrama
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=cdrama
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6r0QjKY.png" group-title="ENTERTAINMENT",Citra Entertainment
-https://github.com/mimipipi22/nontontv/blob/main/FMX/cment.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6r0QjKY.png" group-title="ENTERTAINMENT",Citra Entertainment (FMX)
+https://github.com/mimipipi22/nontontv/raw/main/FMX/cment.m3u8
 
 #EXTINF:-1 tvg-id="SeruChannel.id" tvg-logo="https://i.imgur.com/ozv1pBF.png" group-title="ENTERTAINMENT",Seru Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
