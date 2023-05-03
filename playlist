@@ -560,7 +560,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_eatgo_small1.png" group-title="LIFESTYLE",Eat & Go
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=eatgo
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=eatgo
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="LIFESTYLE",Fashion TV
@@ -965,7 +966,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_bioskopindonesia_small1.png" group-title="MOVIES",Bioskop Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=cdrama
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=bioskopindonesia
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YrsNEN9.png" group-title="MOVIES",Dunia Sinema
@@ -1000,7 +1002,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_aniplus_small1.png" group-title="MOVIES",Aniplus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=cdrama
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=aniplus
 http://rr1.dens.tv/h/h02/index.m3u8
 
