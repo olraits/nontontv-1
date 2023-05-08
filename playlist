@@ -333,7 +333,7 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/rockent.m3u8
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=731862&extension=ts&play_token=7omP0jxTJU
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="ENTERTAINMENT",Paramount
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_paramount_ver1.png" group-title="ENTERTAINMENT",Paramount (Usee)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=paramount
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=paramount
@@ -371,7 +371,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_0.png",TVN Premium Indonesia
 https://nxanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_kplus_small1.png" group-title="ENTERTAINMENT",Kplus
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_kplus_small1.png" group-title="ENTERTAINMENT",Kplus (Usee)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=kplus
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=kplus
@@ -413,7 +413,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png",Vision Prime
 https://nxanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mhgS8Nz.png" group-title="ENTERTAINMENT",Citra Drama
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mhgS8Nz.png" group-title="ENTERTAINMENT",Citra Drama (Usee)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=cdrama
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=cdrama
@@ -571,11 +571,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_90.png",Lifestyle & Fashion
 https://nxanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_eatgo_small1.png" group-title="LIFESTYLE",Eat & Go
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=eatgo
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=eatgo
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/warningfm/v3/master/img/LQqABbX.png?v=1.0.0.1" group-title="LIFESTYLE",Fashion TV
 https://fashs043.cloudycdn.services/scte/pg18/pg18_1080p_chunklist.m3u8
@@ -767,7 +762,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XD8Vr0d.jpg" group-title="KNOWLEDGE",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_dunialain_small.png" group-title="KNOWLEDGE",Dunia Lain
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_dunialain_small.png" group-title="KNOWLEDGE",Dunia Lain (Usee)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=dunialain
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=dunialain
@@ -847,8 +842,6 @@ https://beetv.my.id/x/oxygen-ebskids-gojokkk.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS",Mentari TV
 https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
-#EXTINF:-1 tvg-logo="https://images.useetv.com/logo_mentaritv_small.png" group-title="KIDS",Mentari TV (Usee)
-http://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=mentaritv
 
 
 ########################## MOVIES ##########################
@@ -985,10 +978,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/5Lh25lC.png" group-title="MOVIES",Citra Bioskop (FMX)
 http://edge.linknetott.swiftserve.com/channelgroup4/cg435production/ch376/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_bioskopindonesia_small1.png" group-title="MOVIES",Bioskop Indonesia
-#EXTVLCOPT:http-user-agent=stream
-http://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=bioskopindonesia
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YrsNEN9.png" group-title="MOVIES",Dunia Sinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/duniasinema/
@@ -997,7 +986,7 @@ https://aqfadtv.xyz/live/unifitv/duniasinema/index.mpd
 #EXTINF:-1 tvg-id="DuniaSinema.my" tvg-name="Dunia Sinema" tvg-logo="https://dl.dropboxusercontent.com/s/dh5ek8aw769ut0n/duniasinema.png" group-title="MOVIES",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_flik_small1.png" group-title="MOVIES",Flik
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_flik_small1.png" group-title="MOVIES",Flik (Usee)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=flik
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=flik
@@ -1021,9 +1010,6 @@ https://nxanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_aniplus_small1.png" group-title="MOVIES",Aniplus
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=cdrama
-https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=aniplus
 http://rr1.dens.tv/h/h02/index.m3u8
 
 
@@ -1160,7 +1146,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.
 #KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Wwa8KO.png" group-title="MUSIC",MTV Live
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7Wwa8KO.png" group-title="MUSIC",MTV Live (Usee)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=mtvlive
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=mtvlive
@@ -1168,7 +1154,7 @@ https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=mtvlive
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="MUSIC",i-Konser
 https://beetv.my.id/x/usee-ikonser-gojokkk.m3u8
 
-#EXTINF:-1 tvg-id="Prambors" tvg-logo="https://i.imgur.com/jayGghs.png" group-title="MUSIC",Prambors TV
+#EXTINF:-1 tvg-id="Prambors" tvg-logo="https://i.imgur.com/jayGghs.png" group-title="MUSIC",Prambors TV (Usee)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=pramborstv
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=pramborstv
@@ -1348,12 +1334,12 @@ https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=useesport
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=useesports2
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=useesports2
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_nba_ver1.png" group-title="SPORT",NBA (Usee)
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_nba_ver1.png" group-title="SPORTS",NBA (Usee)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=nba
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=nba
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_horizonsport_ver1.png" group-title="SPORT",Horizon Sport (Usee)
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_horizonsport_ver1.png" group-title="SPORTS",Horizon Sport (Usee)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mibitivi.xyz/sc/lic.php?tekon=skyactiv&a=horizonsport
 https://mibitivi.xyz/sc/play.mpd?tekon=skyactiv&channel=horizonsport
