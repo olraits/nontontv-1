@@ -1242,29 +1242,29 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png",HBO Signature Asia
 #https://nxanv-live-cdn.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/Cinemachi-logo.png" group-title="MOVIES",Cinemachi HD
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://medianet.mv/media/channel/236x0-icon.png" group-title="MOVIES",Cinemachi Action
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-max.png group-title="MOVIES",Cinemachi Max
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png",Cinemachi Max
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mimyuni.com/assets2020/images/logo-channel/cinemachi-xtra.png" group-title="MOVIES",Cinemachi Xtra
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png",Cinemachi Extra
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Cinemachi Kids
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu2jYfpybpWbGzxACF373fse2NeaglYRTNWA&usqp=CAU",Cinemachi Kids
 https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1480,21 +1480,6 @@ http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=348064&extension=ts
 
 #EXTINF:-1 tvg-logo="http://logo.mypanel.one/logos/LogoEVDTV/BeIN/Entertainment/FoxMovies.png" group-title="MOVIES" tvg-id="" tvg-name="",Fox Movies Action
 http://kungtv.net/play/live.php?mac=00:00:00:00:00:00&stream=14447&extension=ts&play_token=SzSdQEwOue
-
-#EXTINF:0  group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png",Cinemachi Kids
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683150&extension=m3u8&play_token=xdbt7BgLik
-
-#EXTINF:0  group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png",Cinemachi Max
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683151&extension=m3u8&play_token=xdbt7BgLik
-
-#EXTINF:0  group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_7.png",Cinemachi
-http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683152&extension=m3u8&play_token=xdbt7BgLik
-
-#EXTINF:0  group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png",Cinemachi Extra
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683156&extension=ts&play_token=knWmIQ2Sww
-
-#EXTINF:0  group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_8.png",Cinemachi Action
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683161&extension=ts&play_token=pvRYuIXU7r
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES" tvg-id="" tvg-name="",True Korean More
 http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=115422&extension=ts&play_token=TQ6cftyhX8
