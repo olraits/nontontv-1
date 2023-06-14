@@ -1,4 +1,10 @@
-#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U x-tvg-url="https://stavol.masuk.web.id/epg.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/weareblahs/epg/master/rtmklik.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml" 
+#EXTM3U x-url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
+#EXTM3U x-url-tvg="https://strimz.my.id/epg"
+#EXTM3U url-tvg="https://strimz.my.id/epg"
 
 ########################## NATIONAL TV ##########################
 
@@ -1094,8 +1100,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="", My Kidz
-http://210.210.155.35/uq2663/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD (D*)
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="KIDS" tvg-logo="", My Kidz (D*)
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880831
+http://210.210.155.37/uq2663/h/h191/index.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1122,13 +1129,19 @@ https://beetv.my.id/x/oxygen-kidszoneplus-gojokkk.m3u8
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022021/ebs_kids.png?9Tpyxz8Ik7Uc2HLzbkPo3KgJbuQ3tgrX&itok=kOfm7AMO" group-title="KIDS",EBS Kids
 https://beetv.my.id/x/oxygen-ebskids-gojokkk.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS",Mentari TV
-https://beetv.my.id/x/oxygen-mentaritv-gojokkk.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS",Mentari TV (M*)
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880796
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/012020/moonbug_kids_on_white.png?N15F03k4i.bbYpm4vkwIU0HwhRsSA4YX&itok=zAZIL7t_" group-title="KIDS",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF: -1 tvg-name="ABC ME" tvg-logo="https://logo.iptveditor.com/abcme.png" group-title="KIDS", ABC ME
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880823
+
+#EXTINF: -1 tvg-name="ABC Kids" tvg-logo="https://logo.iptveditor.com/abckids.png" group-title="KIDS", ABC Kids
+https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880822
 
 
 ########################## MOVIES ##########################
@@ -1661,7 +1674,7 @@ https://prod-drm-vidio-com-ctv-worldcup2.akamaized.net/out/v1/c8e8c362328d4b0fa9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 https://production-drm-vidio-com-plcs.akamaized.net/out/v1/323e0081ae1e471194808db88b86c5de/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/768px-DAZN_F1_logo.svg.png?20220719171020" group-title="📺|Vidio-ChampionsTV",F1_DAZN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/768px-DAZN_F1_logo.svg.png?20220719171020" group-title="SPORTS",F1_DAZN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=f1_dazn
