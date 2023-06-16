@@ -869,6 +869,12 @@ https://nxanv-live-cdn.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChanne
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_202.png",National Geographic (F*)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/natgeo.m3u8
 
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/natgeo.webp",_NAT-GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live4-ott.izzigo.tv/out/u/dash/NAT-GEO-HD/default.mpd
+
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/discovery_channel.png",Discovery Channel (F*)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/discovery.m3u8
 
@@ -899,6 +905,15 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/natgeow.m3u8
 
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_203.png",Animal Planet (F*)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/animalplanet.m3u8
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="19" tvg-logo="https://logo.iptveditor.com/animalplanet.png"  group-title="KNOWLEDGE",_ANIMAL PLANET HD
+https://live2-ott.izzigo.tv/out/u/dash/ANIMAL-PLANET-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="KNOWLEDGE", LOVE NATURE (F*)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/lovenature.m3u8
@@ -931,6 +946,18 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/ci.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_206.png",History Asia
 https://nxanv-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1142px-History_Logo.svg.png",_HISTORY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live5-ott.izzigo.tv/out/u/dash/HISTORY-CHANNEL-HD/default.mpd
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/500px-History2_logo_%282022%29.svg.png", History 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live3-ott.izzigo.tv/out/u/dash/HISTORY-2-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NTRFMvw/TECHSTORM.png" group-title="KNOWLEDGE", TechStorm (F*)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/techstorm.m3u8
@@ -1024,20 +1051,29 @@ https://nxanv-live-cdn.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetw
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cartoon_network.png",Cartoon Network Asia (F*)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/cn.m3u8
 
-#EXTINF:-1 tvg-id="CartoonNetworkUsa.sg" tvg-name="Cartoon Network Asia" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20667162_ico.png?ts=1659655700" group-title="KIDS",Cartoon Network USA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://webudit.salamus1.lol/lb/premium339/index.m3u8
+#EXTINF:-1 group-title="INFANTILES" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/cn.webp",_CARTOON NETWORK 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live4-ott.izzigo.tv/out/u/dash/CARTOON-NETWORK-HD/default.mpd
 
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel East" tvg-logo="https://dl.dropboxusercontent.com/s/3bmtm7171p7ccv4/disneychannel.png" group-title="KIDS",Disney Channel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium312/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="30" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s26089_dark_360w_270h.png"  group-title="KIDS",Cartoonito
+https://live2-ott.izzigo.tv/out/u/dash/BOOMERANG-HD/default.mpd
 
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-name="Disney XD East" tvg-logo="https://dl.dropboxusercontent.com/s/wnb8nzq51px6m0a/disneyxd.png" group-title="KIDS",Disney XD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
-https://webudit.salamus1.lol/lb/premium314/index.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="30" tvg-logo="https://i.imgur.com/6UTSdAi.png"  group-title="KIDS",_TOONCAST
+https://live5-ott.izzigo.tv/out/u/dash/TOONCAST-SD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1059,10 +1095,28 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickjr.jpg",Nick Jr Asia
 https://nxanv-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://logo.iptveditor.com/nickjr.png" _Nick Jr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live4-ott.izzigo.tv/out/u/dash/NICK-JR-HD/default.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/nickelodeon.png",Nickelodeon South East Asia
 https://nxanv-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://logo.iptveditor.com/nick.png",_NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live2-ott.izzigo.tv/out/u/dash/NICK-HD/default.mpd
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://cdn2.sfntv.xyz/webp/logos/optimized/diskids.webp",_Discovery Kids 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/DISCOVERY-KIDS-HD/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -1220,6 +1274,12 @@ http://208.115.225.174:14160
 #EXTINF:-1  group-title="MOVIES" tvg-logo="https://i.postimg.cc/L6TyP8kJ/20230519-230031.jpg",HBO*
 http://208.115.225.174:14136
 
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png",_HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live5-ott.izzigo.tv/out/u/dash/HBO-HD/default.mpd
+
 #EXTINF:-1  group-title="MOVIES" tvg-logo="https://i.postimg.cc/L6TyP8kJ/20230519-230031.jpg",HBO Extreme*
 http://208.115.225.174:14165
 
@@ -1264,6 +1324,42 @@ https://live5-ott.izzigo.tv/out/u/dash/HBO-POP-HD/default.mpd
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/m274Vmtj/20230526-204035.png",HBO+ HD**
 https://live5-ott.izzigo.tv/out/u/dash/HBO-PLUS-HD/default.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",_HBO FAMILY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live5-ott.izzigo.tv/out/u/dash/HBO-FAMILY-HD/default.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png",_SONY CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live3-ott.izzigo.tv/out/u/dash/SONY-HD/default.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.izzigo.tv/images/repository/11753180-LOGO-m.png",_UNIVERSAL CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+http://live2-ott.izzigo.tv/out/u/dash/UNIVERSAL-CINEMA-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="18" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s29017_dark_360w_270h.png"  group-title="MOVIES",STUDIO UNIVERSAL
+https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=Y2Q3ZDEwYjctZGYzNS0zYTdjLTlmMGETNDM4MjYwYWQ0OGVj
+#EXTVLCOPT:http-referrer=https://bgtv.site:
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTINF:-1 tvg-id="40" tvg-logo="https://logo.iptveditor.com/cinecanal.png"  group-title="MOVIES", CINECANAL
+https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -3083,3 +3179,198 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149653
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149654
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="", SYFY HD
 http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149655
+
+
+////SD CHANNEL
+
+#EXTINF:-1  group-title="SD CHANNEL", COMEDY CENTRAL
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL",  TOONCAST 
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", SPACE
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", PARAMOUNT 
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", DISCOVERY
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", ANTENA 3
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", FOX SPORTS mx
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", NICK JR
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", HOLA TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", PASIONES 
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", CINE CANAL
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", MULTIPREMIER
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", STUDIO UNIVERSAL 
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", CARTOON NETWORK 
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", WB TV
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", FOX SPORTS 2 mx
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", ESPN mx
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", ESPN 2 mx
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", SONY CHANEL 
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", NICK MUSIC
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", TELEMUNDO
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", TRU TV
+http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", CARTOONITO
+http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", STAR CHANNEL 
+http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", HISTORY
+http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", SYFY
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", BABY TV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", CNN
+http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", UNIVERSAL TV
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", UNIVERSO
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", ENI
+http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", ANIMAL PLANET
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", ZOO MOO
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", CANAL 12 SV
+http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", NAT GEO
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", KANAL D
+http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", DREAMWORKS
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", FOX DEPORTES
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", H&H
+http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", FOX SPORTS 3 mx
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", TURBO
+http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", NICK
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", ESPN 3 mx
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", FOX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", TVE
+http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", CANAL 11 GT
+http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", MODO CINE
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", GOLDEN
+http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", FILM & ART
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", TNT SPORTS CHI
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", ENLACE
+http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", HINSPAN TV
+http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", TELEMUNDO INTER
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", IVC
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", LIFETIME
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", E
+http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", HISTORY 2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+
+#EXTINF:-1  group-title="SD CHANNEL", A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
