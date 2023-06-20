@@ -1361,6 +1361,10 @@ https://live1-ott.izzigo.tv/out/u/dash/STUDIO-UNIVERSAL-HD/default.mpd
 #EXTINF:-1 tvg-id="40" tvg-logo="https://logo.iptveditor.com/cinecanal.png"  group-title="MOVIES", CINECANAL
 https://live4-ott.izzigo.tv/out/u/dash/CINECANAL-HD/default.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BADmxNJKP4zZW9hbVqZLWSD78umQBKGpKg&usqp=CAU" group-title="MOVIES" tvg-id="" tvg-name="", FOX Movies Arab
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://iptv.speedhd10.com:8080//live/698237333250315/2045118185/1591.ts
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_12.png",Galaxy Premium
@@ -3359,3 +3363,401 @@ http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
 
 #EXTINF:-1  group-title="SD CHANNEL", A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+
+
+/////ASTRO MY/////
+
+#EXTINF:-1 group-title="ASTRO MY", TV 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/61678
+#EXTINF:-1 group-title="ASTRO MY", TV 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/61679
+#EXTINF:-1 group-title="ASTRO MY", ASTRO CITRA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236208
+#EXTINF:-1 group-title="ASTRO MY", BOO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236209
+#EXTINF:-1 group-title="ASTRO MY", HBO HITS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236225
+#EXTINF:-1 group-title="ASTRO MY", PHOENIX NEWS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236228
+#EXTINF:-1 group-title="ASTRO MY", ASTRO PRIMA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236233
+#EXTINF:-1 group-title="ASTRO MY", ASTRO OASIS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236234
+#EXTINF:-1 group-title="ASTRO MY", ASTRO WARNA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236235
+#EXTINF:-1 group-title="ASTRO MY", TV ALHIJRAH
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236237
+#EXTINF:-1 group-title="ASTRO MY", COLORS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236238
+#EXTINF:-1 group-title="ASTRO MY", ASTRO Vaanavil
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236241
+#EXTINF:-1 group-title="ASTRO MY", SUN MUSIC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236243
+#EXTINF:-1 group-title="ASTRO MY", CHUTTI TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236244
+#EXTINF:-1 group-title="ASTRO MY", ZEE TAMIL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236246
+#EXTINF:-1 group-title="ASTRO MY", SUN TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236250
+#EXTINF:-1 group-title="ASTRO MY", ASTRO IQIYI
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236252
+#EXTINF:-1 group-title="ASTRO MY", ASTRO XIAO TAI YANG
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236254
+#EXTINF:-1 group-title="ASTRO MY", TVB 经典台
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236255
+#EXTINF:-1 group-title="ASTRO MY", ASTRO AEC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236256
+#EXTINF:-1 group-title="ASTRO MY", TVBJ
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236260
+#EXTINF:-1 group-title="ASTRO MY", TVB 星河
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236264
+#EXTINF:-1 group-title="ASTRO MY", TVBS ASIA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236265
+#EXTINF:-1 group-title="ASTRO MY", CCTV 4
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236268
+#EXTINF:-1 group-title="ASTRO MY", ASTRO AOD 352
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236269
+#EXTINF:-1 group-title="ASTRO MY", ASTRO AOD 354
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236271
+#EXTINF:-1 group-title="ASTRO MY", KBS WORLD
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236273
+#EXTINF:-1 group-title="ASTRO MY", ASTRO ONE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236274
+#EXTINF:-1 group-title="ASTRO MY", TVN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236276
+#EXTINF:-1 group-title="ASTRO MY", HITS MOVIES
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236277
+#EXTINF:-1 group-title="ASTRO MY", HBO
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236278
+#EXTINF:-1 group-title="ASTRO MY", CINEMAX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236279
+#EXTINF:-1 group-title="ASTRO MY", TVN MOVIES
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236280
+#EXTINF:-1 group-title="ASTRO MY", ASTRO AWANI
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236281
+#EXTINF:-1 group-title="ASTRO MY", BERNAMA NEWS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236282
+#EXTINF:-1 group-title="ASTRO MY", CGTN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236283
+#EXTINF:-1 group-title="ASTRO MY", CNN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236284
+#EXTINF:-1 group-title="ASTRO MY", BBC NEWS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236285
+#EXTINF:-1 group-title="ASTRO MY", SKY NEWS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236287
+#EXTINF:-1 group-title="ASTRO MY", CNA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236288
+#EXTINF:-1 group-title="ASTRO MY", CNBC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236289
+#EXTINF:-1 group-title="ASTRO MY", BLOOMBERG TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236290
+#EXTINF:-1 group-title="ASTRO MY", ABC AUSTRALIA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236291
+#EXTINF:-1 group-title="ASTRO MY", NAT GEO WILD
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236292
+#EXTINF:-1 group-title="ASTRO MY", DISCOVERY CHANEL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236294
+#EXTINF:-1 group-title="ASTRO MY", DISCOVERY SCIENCE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236296
+#EXTINF:-1 group-title="ASTRO MY", HISTORY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236297
+#EXTINF:-1 group-title="ASTRO MY", ANIMAL PLANET
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236298
+#EXTINF:-1 group-title="ASTRO MY", ASTRO CERIA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236303
+#EXTINF:-1 group-title="ASTRO MY", DISNEY XD
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236304
+#EXTINF:-1 group-title="ASTRO MY", DISNEY JR
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236305
+#EXTINF:-1 group-title="ASTRO MY", DISNEY CHANNEL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236306
+#EXTINF:-1 group-title="ASTRO MY", NICKELODEON
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236308
+#EXTINF:-1 group-title="ASTRO MY", NICK JR
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236309
+#EXTINF:-1 group-title="ASTRO MY", AXN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236310
+#EXTINF:-1 group-title="ASTRO MY", KIX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236312
+#EXTINF:-1 group-title="ASTRO MY", HITS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236313
+#EXTINF:-1 group-title="ASTRO MY", TLC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236314
+#EXTINF:-1 group-title="ASTRO MY", FOOD NETWORK
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236315
+#EXTINF:-1 group-title="ASTRO MY", AFN
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236316
+#EXTINF:-1 group-title="ASTRO MY", WARNER TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236318
+#EXTINF:-1 group-title="ASTRO MY", HGTV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236320
+#EXTINF:-1 group-title="ASTRO MY", DMAX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236321
+#EXTINF:-1 group-title="ASTRO MY", COMEDY CENTRAL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236322
+#EXTINF:-1 group-title="ASTRO MY", MTV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236323
+#EXTINF:-1 group-title="ASTRO MY", ASTRO ARENA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236326
+#EXTINF:-1 group-title="ASTRO MY", ASTRO SUPERSPORT 1
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236327
+#EXTINF:-1 group-title="ASTRO MY", ASTRO SUPERSPORT 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236328
+#EXTINF:-1 group-title="ASTRO MY", ASTRO SUPERSPORT 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236329
+#EXTINF:-1 group-title="ASTRO MY", FOX SPORTS 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236332
+#EXTINF:-1 group-title="ASTRO MY", BEIN SPORTS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236334
+#EXTINF:-1 group-title="ASTRO MY", EUROSPORT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236336
+#EXTINF:-1 group-title="ASTRO MY", WWE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236337
+#EXTINF:-1 group-title="ASTRO MY", GOLF CHANNEL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236338
+#EXTINF:-1 group-title="ASTRO MY", ASTRO RUGBY PASS TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236339
+#EXTINF:-1 group-title="ASTRO MY", ASTRO CRICKET
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236340
+#EXTINF:-1 group-title="ASTRO MY", ANIPLUS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236341
+#EXTINF:-1 group-title="ASTRO MY", ASTRO RIA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236342
+#EXTINF:-1 group-title="ASTRO MY", TV 1
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236348
+#EXTINF:-1 group-title="ASTRO MY", 8 TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236349
+#EXTINF:-1 group-title="ASTRO MY", TV 9
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236350
+#EXTINF:-1 group-title="ASTRO MY", NTV7
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236352
+#EXTINF:-1 group-title="ASTRO MY", BBC EARTH
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236354
+#EXTINF:-1 group-title="ASTRO MY", BBC LIFESTYLE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236355
+#EXTINF:-1 group-title="ASTRO MY", BOOMERANG
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236358
+#EXTINF:-1 group-title="ASTRO MY", CINEMA WORLD
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236359
+#EXTINF:-1 group-title="ASTRO MY", PARAMOUNT
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236371
+#EXTINF:-1 group-title="ASTRO MY", ASTRO RANIA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236383
+#EXTINF:-1 group-title="ASTRO MY", ASTRO AURA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236384
+#EXTINF:-1 group-title="ASTRO MY", PHOENIX CHINESE CHANNEL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236385
+#EXTINF:-1 group-title="ASTRO MY", TVS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236387
+#EXTINF:-1 group-title="ASTRO MY", ASTRO SUPERSPORT 5
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/260885
+#EXTINF:-1 group-title="ASTRO MY", BEIN SPORTS 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/301712
+#EXTINF:-1 group-title="ASTRO MY", BABY TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307962
+#EXTINF:-1 group-title="ASTRO MY", CRIME INVESTIGATION
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307964
+#EXTINF:-1 group-title="ASTRO MY", LIFETIME
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307974
+#EXTINF:-1 group-title="ASTRO MY", MOONBUG KIDS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307975
+#EXTINF:-1 group-title="ASTRO MY", PRIMETIME
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307977
+#EXTINF:-1 group-title="ASTRO MY", SPOTV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307978
+#EXTINF:-1 group-title="ASTRO MY", FRANCE 24
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/310613
+#EXTINF:-1 group-title="ASTRO MY", PHOENIX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349149
+#EXTINF:-1 group-title="ASTRO MY", GO SHOP 4
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349139
+#EXTINF:-1 group-title="ASTRO MY", DW
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349133
+#EXTINF:-1 group-title="ASTRO MY", CHANNEL NEWS ASIA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349131
+#EXTINF:-1 group-title="ASTRO MY", CBEEBIES
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349123
+#EXTINF:-1 group-title="ASTRO MY", ANIMAX
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349106
+#EXTINF:-1 group-title="ASTRO MY", HBO SIGNATURE
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/384427
+#EXTINF:-1 group-title="ASTRO MY", BEIN SPORTS 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/384424
+#EXTINF:-1 group-title="ASTRO MY", ASTRO SUPERSPORT 4
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/384456
+#EXTINF:-1 group-title="ASTRO MY", ASTRO ARENA 2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/384451
+#EXTINF:-1 group-title="ASTRO MY", GO SHOP
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/385979
+#EXTINF:-1 group-title="ASTRO MY", ASTRO AOD 311
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/385977
+#EXTINF:-1 group-title="ASTRO MY", eGG Network
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400178
+#EXTINF:-1 group-title="ASTRO MY", Viet
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400176
+#EXTINF:-1 group-title="ASTRO MY", VAANAVIL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400175
+#EXTINF:-1 group-title="ASTRO MY", Tv 8
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400172
+#EXTINF:-1 group-title="ASTRO MY", TVBS News
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400170
+#EXTINF:-1 group-title="ASTRO MY", TVB E-NEWS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400169
+#EXTINF:-1 group-title="ASTRO MY", SkyNet Zing
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400167
+#EXTINF:-1 group-title="ASTRO MY", STAR VIJAY
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400163
+#EXTINF:-1 group-title="ASTRO MY", SPOTV2
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400162
+#EXTINF:-1 group-title="ASTRO MY", RTB MALAYSIA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400160
+#EXTINF:-1 group-title="ASTRO MY", Nickledeon
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400158
+#EXTINF:-1 group-title="ASTRO MY", NAT GEO ASIA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400156
+#EXTINF:-1 group-title="ASTRO MY", Makkal TV
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400155
+#EXTINF:-1 group-title="ASTRO MY", K PLUS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400152
+#EXTINF:-1 group-title="ASTRO MY", GO SHOP 120 Gaya
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400149
+#EXTINF:-1 group-title="ASTRO MY", GNIX SPORTS
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400148
+#EXTINF:-1 group-title="ASTRO MY", COLORS TAMIL
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400146
+#EXTINF:-1 group-title="ASTRO MY", CELESTIAL MOVIES
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400143
+#EXTINF:-1 group-title="ASTRO MY", BBC World News
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400141
+#EXTINF:-1 group-title="ASTRO MY", beinsport 3
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400138
+#EXTINF:-1 group-title="ASTRO MY", ASTRO Star Vijay
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400137
+#EXTINF:-1 group-title="ASTRO MY", ASTRO FRANCE24
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400135
+#EXTINF:-1 group-title="ASTRO MY", ALJAZEERA
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400134
+#EXTINF:-1 group-title="ASTRO MY", SUN MUSIC
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/406859
+#EXTINF:-1 group-title="ASTRO MY", Prime time
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/407642
+#EXTINF:-1 group-title="ASTRO MY", Astro Vinmeen
+http://parkpay.live:8080/Whts1414/gkCjBHNgAP/410731
+
+
+/////HULU & MAX/////
+
+#EXTINF:-1 group-title="HULU & MAX", HBOMAX-MOVIES 1 HD
+http://humiptv.live:8080/live/9225387350/9272623816/135824.ts
+#EXTINF:-1 group-title="HULU & MAX", HBOMAX-MOVIES 2 HD
+http://humiptv.live:8080/live/9225387350/9272623816/135825.ts
+#EXTINF:-1 group-title="HULU & MAX", HBOMAX-MOVIES 3 HD
+http://humiptv.live:8080/live/9225387350/9272623816/135826.ts
+#EXTINF:-1 group-title="HULU & MAX", HBOMAX-MOVIES 4 HD
+http://humiptv.live:8080/live/9225387350/9272623816/135827.ts
+
+#EXTINF:-1 group-title="HULU & MAX", HULU-MOVIES 1 HD
+http://humiptv.live:8080/live/9225387350/9272623816/135846.ts
+#EXTINF:-1 group-title="HULU & MAX", HULU-MOVIES 2 HD
+http://humiptv.live:8080/live/9225387350/9272623816/135847.ts
+#EXTINF:-1 group-title="HULU & MAX", HULU-MOVIES 3 HD
+http://humiptv.live:8080/live/9225387350/9272623816/135848.ts
+#EXTINF:-1 group-title="HULU & MAX", HULU-MOVIES 4 HD
+http://humiptv.live:8080/live/9225387350/9272623816/135849.ts
+#EXTINF:-1 group-title="HULU & MAX", HULU-MOVIES 5 HD
+http://humiptv.live:8080/live/9225387350/9272623816/135850.ts
+
+
+/////INDIA/////
+
+#EXTINF:-1 group-title="INDIA", STAR PLUS FHD
+http://humiptv.live:8080/live/9225387350/9272623816/167.ts
+#EXTINF:-1 group-title="INDIA", STAR PLUS HD
+http://humiptv.live:8080/live/9225387350/9272623816/221.ts
+#EXTINF:-1 group-title="INDIA", STAR BHARAT HD
+http://humiptv.live:8080/live/9225387350/9272623816/199.ts
+#EXTINF:-1 group-title="INDIA", COLORS FHD
+http://humiptv.live:8080/live/9225387350/9272623816/195.ts
+#EXTINF:-1 group-title="INDIA", COLOR HD
+http://humiptv.live:8080/live/9225387350/9272623816/219.ts
+#EXTINF:-1 group-title="INDIA", SONY HD
+http://humiptv.live:8080/live/9225387350/9272623816/144.ts
+#EXTINF:-1 group-title="INDIA", SONY TV HD
+http://humiptv.live:8080/live/9225387350/9272623816/224.ts
+#EXTINF:-1 group-title="INDIA", SONY SAB HD
+http://humiptv.live:8080/live/9225387350/9272623816/145.ts
+#EXTINF:-1 group-title="INDIA", ZEE TV HD
+http://humiptv.live:8080/live/9225387350/9272623816/161.ts
+#EXTINF:-1 group-title="INDIA", ZEE TV FHD
+http://humiptv.live:8080/live/9225387350/9272623816/220.ts
+#EXTINF:-1 group-title="INDIA", & TV HD
+http://humiptv.live:8080/live/9225387350/9272623816/232.ts
+#EXTINF:-1 group-title="INDIA", SONY MAX HD
+http://humiptv.live:8080/live/9225387350/9272623816/151.ts
+#EXTINF:-1 group-title="INDIA", CINEPLEX HD
+http://humiptv.live:8080/live/9225387350/9272623816/867.ts
+#EXTINF:-1 group-title="INDIA", ZEE CINEMA HD
+http://humiptv.live:8080/live/9225387350/9272623816/230.ts
+#EXTINF:-1 group-title="INDIA", & PICTURES HD
+http://humiptv.live:8080/live/9225387350/9272623816/231.ts
+#EXTINF:-1 group-title="INDIA", STAR GOLD HD
+http://humiptv.live:8080/live/9225387350/9272623816/194.ts
+#EXTINF:-1 group-title="INDIA", STAR GOLD SELECT HD
+http://humiptv.live:8080/live/9225387350/9272623816/210.ts
+#EXTINF:-1 group-title="INDIA", &XPLOR HD
+http://humiptv.live:8080/live/9225387350/9272623816/4082.ts
+#EXTINF:-1 group-title="INDIA", MOVIES ACTIVE HD D2H
+http://humiptv.live:8080/live/9225387350/9272623816/7336.ts
+#EXTINF:-1 group-title="INDIA", B FLIX
+http://humiptv.live:8080/live/9225387350/9272623816/4081.ts
+#EXTINF:-1 group-title="INDIA", STAR MOVIES HD
+http://humiptv.live:8080/live/9225387350/9272623816/979.ts
+#EXTINF:-1 group-title="INDIA", STAR MOVIES SELECT HD
+http://humiptv.live:8080/live/9225387350/9272623816/218.ts
+#EXTINF:-1 group-title="INDIA", SONY PIX HD
+http://humiptv.live:8080/live/9225387350/9272623816/147.ts
+#EXTINF:-1 group-title="INDIA", MN PLUS
+http://humiptv.live:8080/live/9225387350/9272623816/178.ts
+#EXTINF:-1 group-title="INDIA", MNX HD
+http://humiptv.live:8080/live/9225387350/9272623816/191.ts
+#EXTINF:-1 group-title="INDIA", & PRIVE HD
+http://humiptv.live:8080/live/9225387350/9272623816/201.ts
+#EXTINF:-1 group-title="INDIA", & FLIX HD
+http://humiptv.live:8080/live/9225387350/9272623816/253.ts
+#EXTINF:-1 group-title="INDIA", HBO 2 HD
+http://humiptv.live:8080/live/9225387350/9272623816/185.ts
+#EXTINF:-1 group-title="INDIA", COLORS INFINITY HD
+http://humiptv.live:8080/live/9225387350/9272623816/187.ts
+#EXTINF:-1 group-title="INDIA", ZEECAFE HD
+http://humiptv.live:8080/live/9225387350/9272623816/196.ts
+#EXTINF:-1 group-title="INDIA", FYI TV18 HD
+http://humiptv.live:8080/live/9225387350/9272623816/152.ts
+#EXTINF:-1 group-title="INDIA", FOX LIFE
+http://humiptv.live:8080/live/9225387350/9272623816/2115.ts
+#EXTINF:-1 group-title="INDIA", HISTORY HD
+http://humiptv.live:8080/live/9225387350/9272623816/180.ts
+#EXTINF:-1 group-title="INDIA", HISTORY 18 (HINDI)
+http://humiptv.live:8080/live/9225387350/9272623816/5252.ts
+#EXTINF:-1 group-title="INDIA", DISCOVERY WORLD HD
+http://humiptv.live:8080/live/9225387350/9272623816/156.ts
+#EXTINF:-1 group-title="INDIA", NATIONAL GEOGRAPHIC INDIA
+http://humiptv.live:8080/live/9225387350/9272623816/7342.ts
+#EXTINF:-1 group-title="INDIA", NATIONAL GEOGRAPHIC
+http://humiptv.live:8080/live/9225387350/9272623816/7343.ts
+#EXTINF:-1 group-title="INDIA", NATGEO WILD HD
+http://humiptv.live:8080/live/9225387350/9272623816/7344.ts
+#EXTINF:-1 group-title="INDIA", SONY BBC EARTH HD (ENG)
+http://humiptv.live:8080/live/9225387350/9272623816/174.ts
+#EXTINF:-1 group-title="INDIA", SONY BBC EARTH HD (HINDI)
+http://humiptv.live:8080/live/9225387350/9272623816/7721.ts
+#EXTINF:-1 group-title="INDIA", SONY BBC EARTH HD (ENGLISH)
+http://humiptv.live:8080/live/9225387350/9272623816/190.ts
+#EXTINF:-1 group-title="INDIA", TRAVEL XP HD
+http://humiptv.live:8080/live/9225387350/9272623816/181.ts
+#EXTINF:-1 group-title="INDIA", TRAVEL XP HD
+http://humiptv.live:8080/live/9225387350/9272623816/1623.ts
+#EXTINF:-1 group-title="INDIA", ANIMAL PLANET HD
+http://humiptv.live:8080/live/9225387350/9272623816/182.ts
+#EXTINF:-1 group-title="INDIA", MTV BEATS HD
+http://humiptv.live:8080/live/9225387350/9272623816/153.ts
+
