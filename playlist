@@ -1595,7 +1595,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="MUSIC",i-Konser (K*)
-#http://kuchini.site:8080/ace2524d/e0749dc935/264760
+#http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264760
 
 #EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="MUSIC",ID: Citra Dangdut (K*)
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/247446
@@ -1688,10 +1688,10 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 ########################## SPORTS ##########################
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 (K*)
-http://kuchini.site:8080/ace2524d/e0749dc935/165105
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165105
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",BeIn Sports 3 (K*)
-http://kuchini.site:8080/ace2524d/e0749dc935/298506
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298506
 
 #EXTINF:-1 tvg-id="beINSports1Indonesia.id"  tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="SPORTS",Bein Sport 1 (V*)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1713,7 +1713,7 @@ https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b0
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV (K*)
-http://kuchini.site:8080/ace2524d/e0749dc935/298570
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298570
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1721,7 +1721,7 @@ http://kuchini.site:8080/ace2524d/e0749dc935/298570
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2 (K*)
-http://kuchini.site:8080/ace2524d/e0749dc935/298571
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298571
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="SPORTS",Champions TV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1731,7 +1731,7 @@ http://kuchini.site:8080/ace2524d/e0749dc935/298571
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="SPORTS",Champions TV 1 (K*)
-http://kuchini.site:8080/ace2524d/e0749dc935/298512
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298512
 
 #EXTINF: -1 tvg-name="Champions TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Champions_TV_1_HD_%282021%29.png" group-title="SPORTS", Champions TV 1 (M*)
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880724
@@ -1744,7 +1744,7 @@ https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880724
 https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="SPORTS",Champions TV 2 (K*)
-http://kuchini.site:8080/ace2524d/e0749dc935/298513
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298513
 
 #EXTINF: -1 tvg-name="Champions TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png" group-title="SPORTS", Champions TV 2 (M*)
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880725
@@ -1757,7 +1757,7 @@ https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880725
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="SPORTS",Champions TV 3 (K*)
-http://kuchini.site:8080/ace2524d/e0749dc935/298514
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298514
 
 #EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://i.imgur.com/xtRvoj9.png" group-title="SPORTS",Champions TV 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1803,7 +1803,7 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 https://github.com/mimipipi22/nontontv/raw/main/FMX/premiersport.m3u8
 
 #EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="SPORTS",Usee Sports (K*)
-http://kuchini.site:8080/ace2524d/e0749dc935/298577
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298577
 
 #EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="SPORTS", UsseSport 2 (M*)
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
@@ -2755,36 +2755,45 @@ http://91.224.190.66:4263/bysid/26624
 
 ########################## MALAYSIA ##########################
 
-#EXTINF:-1 tvg-id="TV1.My" tvg-logo="https://cdn.ksa.my.id/tv1.png" group-title="MALAYSIA",TV1
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
-#EXTINF:-1 tvg-id="TV2.My" tvg-logo="https://cdn.ksa.my.id/tv2.png" group-title="MALAYSIA",TV2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
+#EXTINF:-1 tvg-id="TV1.My" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDzI5hF_Ozo8eGzaKLK-yo2Rj_wQ2zCqB1Q&usqp=CAU" group-title="MALAYSIA",TV1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="TV2.My" tvg-logo="https://i.ytimg.com/vi/sxTDt5c4tCg/mqdefault.jpg" group-title="MALAYSIA",TV2
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 #EXTINF:-1 group-title="MALAYSIA" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3afe30ee4ea24a67fe5a2ef06e83db0b:27a2f71d87bf5eb105af096fb6605d97
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
 
+#EXTINF:-1 tvg-id="TV6.My" tvg-logo="https://cdn.ksa.my.id/tv6.png" group-title="MALAYSIA",TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/8tv/
+#EXTINF:-1 tvg-id="8TV.My" tvg-logo="https://alchetron.com/cdn/8tv-malaysia-00c80dd7-0785-409b-be41-fdc503aae1b-resize-750.jpg" group-title="MALAYSIA", 8TV
+https://aqfadtv.xyz/live/tv9/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/tv9/
+#EXTINF:-1 tvg-id="TV9.My" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGv3vegjeW4CUGpE-JAWz00FGVowDoA1TJrw&usqp=CAU" group-title="MALAYSIA", TV9
+https://aqfadtv.xyz/live/tv9/index.mpd
+
 #EXTINF:-1 tvg-id="Okey.My" tvg-logo="https://cdn.ksa.my.id/rtmokey.png" group-title="MALAYSIA",Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
+
 #EXTINF:-1 tvg-id="BertiaRTM.My" tvg-logo="https://cdn.ksa.my.id/bes.png" group-title="MALAYSIA",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
+
 #EXTINF:-1 tvg-id="SukanRTM.My" tvg-logo="https://cdn.ksa.my.id/sukanrtm.png" group-title="MALAYSIA",Sukan RTM
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
-#EXTINF:-1 tvg-id="TV6.My" tvg-logo="https://cdn.ksa.my.id/tv6.png" group-title="MALAYSIA",TV6
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
-#EXTINF:-1 tvg-id="DewanRakyat.My" tvg-logo="https://cdn.ksa.my.id/dewanrakyat.png" group-title="MALAYSIA",Dewan Rakyat
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
-#EXTINF:-1 tvg-id="DewanNegara.My" tvg-logo="https://cdn.ksa.my.id/dewannegara.png" group-title="MALAYSIA",Dewan Negara
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.ksa.my.id/dramasangat.png" group-title="MALAYSIA", Drama Sangat
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
 #EXTINF:-1 tvg-id="NTV7.My" tvg-logo="https://cdn.ksa.my.id/didiktvkpm.png" group-title="MALAYSIA", NTV7 (DidikTV KPM)
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
-#EXTINF:-1 tvg-id="8TV.My" tvg-logo="https://cdn.ksa.my.id/8tv.png" group-title="MALAYSIA", 8TV
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8 
-#EXTINF:-1 tvg-id="TV9.My" tvg-logo="https://cdn.ksa.my.id/tv9.png" group-title="MALAYSIA", TV9
-https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8 
+
 #EXTINF:-1 tvg-id="unifiSports1.My" tvg-logo="https://cdn.ksa.my.id/unifisports1.png" group-title="MALAYSIA",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="unifiSports2.My" tvg-logo="https://cdn.ksa.my.id/unifisports2.png" group-title="MALAYSIA",Unifi Sports 2
@@ -2793,11 +2802,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EZKtduz.png" group-title="MALAYSIA",Sensasi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-#EXTINF:-1 group-title="MALAYSIA" group-logo="https://aqfadtv.xyz/images/unifitv_v2.png" ch-number="116" tvg-id="116" tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202209/20220901/20220901155400159gcw.png",116 Sensasi
 https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2816,20 +2820,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-id="AstroAwaniHD.My" tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="MALAYSIA",Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png" group-title="MALAYSIA", Astro Warna
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571231&extension=ts&play_token=ADhoODj7kx
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Aura
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571257&extension=ts&play_token=SmctrtNg39
-#EXTINF:-1 tvg-logo="" group-title="MALAYSIA", Astro Rania
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571256&extension=ts&play_token=GcQdZc78Vt
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png" group-title="MALAYSIA", Astro Ceria
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571241&extension=ts&play_token=P95ULA6A9w
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png" group-title="MALAYSIA", Astro Oasis
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571238&extension=ts&play_token=FUn2lUwTU1
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/3_144.png" group-title="MALAYSIA", Astro Prima
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571237&extension=ts&play_token=sVYWi5AJJe
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/59/Astro_Ria.png/revision/latest/scale-to-width-down/80?cb=20180623060717" group-title="MALAYSIA", Astro Ria
-http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=571236&extension=ts&play_token=DvbUwd0jPo
+
 
 
 ####################################### SINGAPORE ################################
@@ -3111,34 +3102,6 @@ http://91.233.215.250:7272/eRtafx5E4P0z16g
 
 
 
-////HBO ORIGINAL FHD
-
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 1
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095496&extension=ts&play_token=SqYKzmUeS7
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 2
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095495&extension=ts&play_token=SqYKzmUeS7
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 3
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095494&extension=ts&play_token=SqYKzmUeS7
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 4
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095493&extension=ts&play_token=SqYKzmUeS7
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 5
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095492&extension=ts&play_token=SqYKzmUeS7
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 6
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095491&extension=ts&play_token=SqYKzmUeS7
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 7
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095490&extension=ts&play_token=SqYKzmUeS7
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 8
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095489&extension=ts&play_token=SqYKzmUeS7
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 9
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095488&extension=ts&play_token=SqYKzmUeS7
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 10
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095487&extension=ts&play_token=SqYKzmUeS7
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 11
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095486&extension=ts&play_token=SqYKzmUeS7
-#EXTINF:-1 group-title="HBO ORIGINAL FHD" tvg-logo="", HBO Max Original 12
-http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1095485&extension=ts&play_token=SqYKzmUeS7
-
-
 ////PREMIUM
 
 #EXTINF:-1 group-title="PREMIUM" tvg-logo="", A24 HD
@@ -3201,193 +3164,130 @@ http://playhispano.org:8080/TvPremiumNelson/uRucSYBC9L/149655
 
 #EXTINF:-1  group-title="SD CHANNEL", COMEDY CENTRAL
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL",  TOONCAST 
 http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", SPACE
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", PARAMOUNT 
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", TYC SPORTS
 http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", DISCOVERY
 http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", ANTENA 3
 http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", FOX SPORTS mx
 http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", NICK JR
 http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", HOLA TV
 http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", PASIONES 
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", CINE CANAL
 http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", MULTIPREMIER
 http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", STUDIO UNIVERSAL 
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", CARTOON NETWORK 
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", WB TV
 http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", FOX SPORTS 2 mx
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", ESPN mx
 http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", ESPN 2 mx
 http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", SONY CHANEL 
 http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", NICK MUSIC
 http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", TELEMUNDO
 http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", TRU TV
 http://168.227.22.18:1935/live/mobile-041/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", AXN
 http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", CARTOONITO
 http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", STAR CHANNEL 
 http://168.227.22.18:1935/live/mobile-057/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", HISTORY
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", SYFY
 http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", BABY TV
 http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", CNN
 http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", MTV
 http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", UNIVERSAL TV
 http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", UNIVERSO
 http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", ENI
 http://168.227.22.18:1935/live/mobile-067/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", ANIMAL PLANET
 http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", ZOO MOO
 http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", AMC
 http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", CANAL 12 SV
 http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", NAT GEO
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", HBO 2
 http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", KANAL D
 http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", DREAMWORKS
 http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", FOX DEPORTES
 http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", H&H
 http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", FOX SPORTS 3 mx
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", TURBO
 http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", NICK
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", ESPN 3 mx
 http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", FOX
 http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", TVE
 http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", CANAL 11 GT
 http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", MODO CINE
 http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", GOLDEN
 http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", FILM & ART
 http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", TNT SPORTS CHI
 http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", ENLACE
 http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", HINSPAN TV
 http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", TELEMUNDO INTER
 http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", IVC
 http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", LIFETIME
 http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", E
 http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", HISTORY 2
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
-
 #EXTINF:-1  group-title="SD CHANNEL", A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 
@@ -3395,304 +3295,408 @@ http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 /////ASTRO MY/////
 
 #EXTINF:-1 group-title="ASTRO MY", TV 2
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/61678
-#EXTINF:-1 group-title="ASTRO MY", TV 3
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/61679
-#EXTINF:-1 group-title="ASTRO MY", ASTRO CITRA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236208
-#EXTINF:-1 group-title="ASTRO MY", BOO
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236209
-#EXTINF:-1 group-title="ASTRO MY", HBO HITS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236225
-#EXTINF:-1 group-title="ASTRO MY", PHOENIX NEWS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236228
-#EXTINF:-1 group-title="ASTRO MY", ASTRO PRIMA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236233
-#EXTINF:-1 group-title="ASTRO MY", ASTRO OASIS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236234
-#EXTINF:-1 group-title="ASTRO MY", ASTRO WARNA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236235
-#EXTINF:-1 group-title="ASTRO MY", TV ALHIJRAH
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236237
-#EXTINF:-1 group-title="ASTRO MY", COLORS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236238
-#EXTINF:-1 group-title="ASTRO MY", ASTRO Vaanavil
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236241
-#EXTINF:-1 group-title="ASTRO MY", SUN MUSIC
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236243
-#EXTINF:-1 group-title="ASTRO MY", CHUTTI TV
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236244
-#EXTINF:-1 group-title="ASTRO MY", ZEE TAMIL
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236246
-#EXTINF:-1 group-title="ASTRO MY", SUN TV
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236250
-#EXTINF:-1 group-title="ASTRO MY", ASTRO IQIYI
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236252
-#EXTINF:-1 group-title="ASTRO MY", ASTRO XIAO TAI YANG
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236254
-#EXTINF:-1 group-title="ASTRO MY", TVB 经典台
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236255
-#EXTINF:-1 group-title="ASTRO MY", ASTRO AEC
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236256
-#EXTINF:-1 group-title="ASTRO MY", TVBJ
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236260
-#EXTINF:-1 group-title="ASTRO MY", TVB 星河
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236264
-#EXTINF:-1 group-title="ASTRO MY", TVBS ASIA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236265
-#EXTINF:-1 group-title="ASTRO MY", CCTV 4
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236268
-#EXTINF:-1 group-title="ASTRO MY", ASTRO AOD 352
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236269
-#EXTINF:-1 group-title="ASTRO MY", ASTRO AOD 354
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236271
-#EXTINF:-1 group-title="ASTRO MY", KBS WORLD
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236273
-#EXTINF:-1 group-title="ASTRO MY", ASTRO ONE
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236274
-#EXTINF:-1 group-title="ASTRO MY", TVN
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236276
-#EXTINF:-1 group-title="ASTRO MY", HITS MOVIES
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236277
-#EXTINF:-1 group-title="ASTRO MY", HBO
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236278
-#EXTINF:-1 group-title="ASTRO MY", CINEMAX
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236279
-#EXTINF:-1 group-title="ASTRO MY", TVN MOVIES
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236280
-#EXTINF:-1 group-title="ASTRO MY", ASTRO AWANI
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236281
-#EXTINF:-1 group-title="ASTRO MY", BERNAMA NEWS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236282
-#EXTINF:-1 group-title="ASTRO MY", CGTN
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236283
-#EXTINF:-1 group-title="ASTRO MY", CNN
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236284
-#EXTINF:-1 group-title="ASTRO MY", BBC NEWS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236285
-#EXTINF:-1 group-title="ASTRO MY", SKY NEWS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236287
-#EXTINF:-1 group-title="ASTRO MY", CNA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236288
-#EXTINF:-1 group-title="ASTRO MY", CNBC
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236289
-#EXTINF:-1 group-title="ASTRO MY", BLOOMBERG TV
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236290
-#EXTINF:-1 group-title="ASTRO MY", ABC AUSTRALIA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236291
-#EXTINF:-1 group-title="ASTRO MY", NAT GEO WILD
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236292
-#EXTINF:-1 group-title="ASTRO MY", DISCOVERY CHANEL
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236294
-#EXTINF:-1 group-title="ASTRO MY", DISCOVERY SCIENCE
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236296
-#EXTINF:-1 group-title="ASTRO MY", HISTORY
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236297
-#EXTINF:-1 group-title="ASTRO MY", ANIMAL PLANET
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236298
-#EXTINF:-1 group-title="ASTRO MY", ASTRO CERIA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236303
-#EXTINF:-1 group-title="ASTRO MY", DISNEY XD
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236304
-#EXTINF:-1 group-title="ASTRO MY", DISNEY JR
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236305
-#EXTINF:-1 group-title="ASTRO MY", DISNEY CHANNEL
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236306
-#EXTINF:-1 group-title="ASTRO MY", NICKELODEON
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236308
-#EXTINF:-1 group-title="ASTRO MY", NICK JR
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236309
-#EXTINF:-1 group-title="ASTRO MY", AXN
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236310
-#EXTINF:-1 group-title="ASTRO MY", KIX
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236312
-#EXTINF:-1 group-title="ASTRO MY", HITS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236313
-#EXTINF:-1 group-title="ASTRO MY", TLC
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236314
-#EXTINF:-1 group-title="ASTRO MY", FOOD NETWORK
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236315
-#EXTINF:-1 group-title="ASTRO MY", AFN
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236316
-#EXTINF:-1 group-title="ASTRO MY", WARNER TV
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236318
-#EXTINF:-1 group-title="ASTRO MY", HGTV
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236320
-#EXTINF:-1 group-title="ASTRO MY", DMAX
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236321
-#EXTINF:-1 group-title="ASTRO MY", COMEDY CENTRAL
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236322
-#EXTINF:-1 group-title="ASTRO MY", MTV
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236323
-#EXTINF:-1 group-title="ASTRO MY", ASTRO ARENA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236326
-#EXTINF:-1 group-title="ASTRO MY", ASTRO SUPERSPORT 1
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236327
-#EXTINF:-1 group-title="ASTRO MY", ASTRO SUPERSPORT 2
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236328
-#EXTINF:-1 group-title="ASTRO MY", ASTRO SUPERSPORT 3
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236329
-#EXTINF:-1 group-title="ASTRO MY", FOX SPORTS 2
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236332
-#EXTINF:-1 group-title="ASTRO MY", BEIN SPORTS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236334
-#EXTINF:-1 group-title="ASTRO MY", EUROSPORT
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236336
-#EXTINF:-1 group-title="ASTRO MY", WWE
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236337
-#EXTINF:-1 group-title="ASTRO MY", GOLF CHANNEL
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236338
-#EXTINF:-1 group-title="ASTRO MY", ASTRO RUGBY PASS TV
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236339
-#EXTINF:-1 group-title="ASTRO MY", ASTRO CRICKET
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236340
-#EXTINF:-1 group-title="ASTRO MY", ANIPLUS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236341
-#EXTINF:-1 group-title="ASTRO MY", ASTRO RIA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236342
-#EXTINF:-1 group-title="ASTRO MY", TV 1
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236348
-#EXTINF:-1 group-title="ASTRO MY", 8 TV
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236349
-#EXTINF:-1 group-title="ASTRO MY", TV 9
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236350
-#EXTINF:-1 group-title="ASTRO MY", NTV7
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236352
-#EXTINF:-1 group-title="ASTRO MY", BBC EARTH
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236354
-#EXTINF:-1 group-title="ASTRO MY", BBC LIFESTYLE
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236355
-#EXTINF:-1 group-title="ASTRO MY", BOOMERANG
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236358
-#EXTINF:-1 group-title="ASTRO MY", CINEMA WORLD
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236359
-#EXTINF:-1 group-title="ASTRO MY", PARAMOUNT
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236371
-#EXTINF:-1 group-title="ASTRO MY", ASTRO RANIA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236383
-#EXTINF:-1 group-title="ASTRO MY", ASTRO AURA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236384
-#EXTINF:-1 group-title="ASTRO MY", PHOENIX CHINESE CHANNEL
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236385
-#EXTINF:-1 group-title="ASTRO MY", TVS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/236387
-#EXTINF:-1 group-title="ASTRO MY", ASTRO SUPERSPORT 5
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/260885
-#EXTINF:-1 group-title="ASTRO MY", BEIN SPORTS 3
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/301712
-#EXTINF:-1 group-title="ASTRO MY", BABY TV
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307962
-#EXTINF:-1 group-title="ASTRO MY", CRIME INVESTIGATION
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307964
-#EXTINF:-1 group-title="ASTRO MY", LIFETIME
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307974
-#EXTINF:-1 group-title="ASTRO MY", MOONBUG KIDS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307975
-#EXTINF:-1 group-title="ASTRO MY", PRIMETIME
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307977
-#EXTINF:-1 group-title="ASTRO MY", SPOTV
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/307978
-#EXTINF:-1 group-title="ASTRO MY", FRANCE 24
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/310613
-#EXTINF:-1 group-title="ASTRO MY", PHOENIX
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349149
-#EXTINF:-1 group-title="ASTRO MY", GO SHOP 4
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349139
-#EXTINF:-1 group-title="ASTRO MY", DW
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349133
-#EXTINF:-1 group-title="ASTRO MY", CHANNEL NEWS ASIA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349131
-#EXTINF:-1 group-title="ASTRO MY", CBEEBIES
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349123
-#EXTINF:-1 group-title="ASTRO MY", ANIMAX
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/349106
-#EXTINF:-1 group-title="ASTRO MY", HBO SIGNATURE
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/384427
-#EXTINF:-1 group-title="ASTRO MY", BEIN SPORTS 2
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/384424
-#EXTINF:-1 group-title="ASTRO MY", ASTRO SUPERSPORT 4
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/384456
-#EXTINF:-1 group-title="ASTRO MY", ASTRO ARENA 2
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/384451
-#EXTINF:-1 group-title="ASTRO MY", GO SHOP
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/385979
-#EXTINF:-1 group-title="ASTRO MY", ASTRO AOD 311
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/385977
-#EXTINF:-1 group-title="ASTRO MY", eGG Network
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400178
-#EXTINF:-1 group-title="ASTRO MY", Viet
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400176
-#EXTINF:-1 group-title="ASTRO MY", VAANAVIL
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400175
-#EXTINF:-1 group-title="ASTRO MY", Tv 8
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400172
-#EXTINF:-1 group-title="ASTRO MY", TVBS News
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400170
-#EXTINF:-1 group-title="ASTRO MY", TVB E-NEWS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400169
-#EXTINF:-1 group-title="ASTRO MY", SkyNet Zing
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400167
-#EXTINF:-1 group-title="ASTRO MY", STAR VIJAY
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400163
-#EXTINF:-1 group-title="ASTRO MY", SPOTV2
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400162
-#EXTINF:-1 group-title="ASTRO MY", RTB MALAYSIA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400160
-#EXTINF:-1 group-title="ASTRO MY", Nickledeon
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400158
-#EXTINF:-1 group-title="ASTRO MY", NAT GEO ASIA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400156
-#EXTINF:-1 group-title="ASTRO MY", Makkal TV
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400155
-#EXTINF:-1 group-title="ASTRO MY", K PLUS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400152
-#EXTINF:-1 group-title="ASTRO MY", GO SHOP 120 Gaya
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400149
-#EXTINF:-1 group-title="ASTRO MY", GNIX SPORTS
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400148
-#EXTINF:-1 group-title="ASTRO MY", COLORS TAMIL
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400146
-#EXTINF:-1 group-title="ASTRO MY", CELESTIAL MOVIES
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400143
-#EXTINF:-1 group-title="ASTRO MY", BBC World News
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400141
-#EXTINF:-1 group-title="ASTRO MY", beinsport 3
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400138
-#EXTINF:-1 group-title="ASTRO MY", ASTRO Star Vijay
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400137
-#EXTINF:-1 group-title="ASTRO MY", ASTRO FRANCE24
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400135
-#EXTINF:-1 group-title="ASTRO MY", ALJAZEERA
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/400134
-#EXTINF:-1 group-title="ASTRO MY", SUN MUSIC
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/406859
-#EXTINF:-1 group-title="ASTRO MY", Prime time
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/407642
-#EXTINF:-1 group-title="ASTRO MY", Astro Vinmeen
-http://parkpay.live:8080/Whts1414/gkCjBHNgAP/410731
-
-
-/////HULU & MAX/////
-
-#EXTINF:-1 group-title="HULU & MAX", HBOMAX-MOVIES 1 HD
-http://humiptv.live:8080/live/9225387350/9272623816/135824.ts
-#EXTINF:-1 group-title="HULU & MAX", HBOMAX-MOVIES 2 HD
-http://humiptv.live:8080/live/9225387350/9272623816/135825.ts
-#EXTINF:-1 group-title="HULU & MAX", HBOMAX-MOVIES 3 HD
-http://humiptv.live:8080/live/9225387350/9272623816/135826.ts
-#EXTINF:-1 group-title="HULU & MAX", HBOMAX-MOVIES 4 HD
-http://humiptv.live:8080/live/9225387350/9272623816/135827.ts
-
-#EXTINF:-1 group-title="HULU & MAX", HULU-MOVIES 1 HD
-http://humiptv.live:8080/live/9225387350/9272623816/135846.ts
-#EXTINF:-1 group-title="HULU & MAX", HULU-MOVIES 2 HD
-http://humiptv.live:8080/live/9225387350/9272623816/135847.ts
-#EXTINF:-1 group-title="HULU & MAX", HULU-MOVIES 3 HD
-http://humiptv.live:8080/live/9225387350/9272623816/135848.ts
-#EXTINF:-1 group-title="HULU & MAX", HULU-MOVIES 4 HD
-http://humiptv.live:8080/live/9225387350/9272623816/135849.ts
-#EXTINF:-1 group-title="HULU & MAX", HULU-MOVIES 5 HD
-http://humiptv.live:8080/live/9225387350/9272623816/135850.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Colors Tamil
+http://humiptv.live:8080/live/9225387350/9272623816/142957.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV Alhijrah
+http://humiptv.live:8080/live/9225387350/9272623816/142958.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Comedy Central
+http://humiptv.live:8080/live/9225387350/9272623816/142959.ts
+#EXTINF:-1 group-title="ASTRO MY",MY WARNER TV
+http://humiptv.live:8080/live/9225387350/9272623816/142960.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Nat Geo Wild
+http://humiptv.live:8080/live/9225387350/9272623816/142961.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TVN
+http://humiptv.live:8080/live/9225387350/9272623816/142962.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TVN Movies
+http://humiptv.live:8080/live/9225387350/9272623816/142963.ts
+#EXTINF:-1 group-title="ASTRO MY",MY NHK_World_Japan
+http://humiptv.live:8080/live/9225387350/9272623816/142964.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Channel News Asia
+http://humiptv.live:8080/live/9225387350/9272623816/142965.ts
+#EXTINF:-1 group-title="ASTRO MY",MY ABC Australia
+http://humiptv.live:8080/live/9225387350/9272623816/142966.ts
+#EXTINF:-1 group-title="ASTRO MY",MY France24
+http://humiptv.live:8080/live/9225387350/9272623816/142967.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Baby TV
+http://humiptv.live:8080/live/9225387350/9272623816/142968.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro AEC (D)
+http://humiptv.live:8080/live/9225387350/9272623816/142969.ts
+#EXTINF:-1 group-title="ASTRO MY",MY BBC_Cbeebies
+http://humiptv.live:8080/live/9225387350/9272623816/142970.ts
+#EXTINF:-1 group-title="ASTRO MY",MY SCM
+http://humiptv.live:8080/live/9225387350/9272623816/142971.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Boomerang
+http://humiptv.live:8080/live/9225387350/9272623816/142972.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Cinema_World
+http://humiptv.live:8080/live/9225387350/9272623816/142973.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Nick JR
+http://humiptv.live:8080/live/9225387350/9272623816/142974.ts
+#EXTINF:-1 group-title="ASTRO MY",MY MTV Asia
+http://humiptv.live:8080/live/9225387350/9272623816/142975.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV9
+http://humiptv.live:8080/live/9225387350/9272623816/142976.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV8
+http://humiptv.live:8080/live/9225387350/9272623816/142977.ts
+#EXTINF:-1 group-title="ASTRO MY",MY NTV7
+http://humiptv.live:8080/live/9225387350/9272623816/142978.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV3
+http://humiptv.live:8080/live/9225387350/9272623816/142979.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV2 (D)
+http://humiptv.live:8080/live/9225387350/9272623816/142980.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV1
+http://humiptv.live:8080/live/9225387350/9272623816/142981.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Nat Geo Asia
+http://humiptv.live:8080/live/9225387350/9272623816/142982.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Animax
+http://humiptv.live:8080/live/9225387350/9272623816/142983.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Zee Cinema (D)
+http://humiptv.live:8080/live/9225387350/9272623816/142984.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Zee TV
+http://humiptv.live:8080/live/9225387350/9272623816/142985.ts
+#EXTINF:-1 group-title="ASTRO MY",MY BBC_Earth
+http://humiptv.live:8080/live/9225387350/9272623816/142986.ts
+#EXTINF:-1 group-title="ASTRO MY",MY LuxeTV
+http://humiptv.live:8080/live/9225387350/9272623816/142987.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Euronews
+http://humiptv.live:8080/live/9225387350/9272623816/142988.ts
+#EXTINF:-1 group-title="ASTRO MY",MY BBC World News
+http://humiptv.live:8080/live/9225387350/9272623816/142989.ts
+#EXTINF:-1 group-title="ASTRO MY",MY DW
+http://humiptv.live:8080/live/9225387350/9272623816/142990.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Sky News
+http://humiptv.live:8080/live/9225387350/9272623816/142991.ts
+#EXTINF:-1 group-title="ASTRO MY",MY HBO
+http://humiptv.live:8080/live/9225387350/9272623816/142992.ts
+#EXTINF:-1 group-title="ASTRO MY",MY HBO_RED
+http://humiptv.live:8080/live/9225387350/9272623816/142993.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Bollyone
+http://humiptv.live:8080/live/9225387350/9272623816/142994.ts
+#EXTINF:-1 group-title="ASTRO MY",MY BOLLYONE_HD_50fps
+http://humiptv.live:8080/live/9225387350/9272623816/142995.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Colors
+http://humiptv.live:8080/live/9225387350/9272623816/142996.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Colors Tamil
+http://humiptv.live:8080/live/9225387350/9272623816/142997.ts
+#EXTINF:-1 group-title="ASTRO MY",MY K+
+http://humiptv.live:8080/live/9225387350/9272623816/142998.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Phoenix
+http://humiptv.live:8080/live/9225387350/9272623816/142999.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Star Vijay
+http://humiptv.live:8080/live/9225387350/9272623816/143000.ts
+#EXTINF:-1 group-title="ASTRO MY",MY SUN TV
+http://humiptv.live:8080/live/9225387350/9272623816/143001.ts
+#EXTINF:-1 group-title="ASTRO MY",MY SUN Music
+http://humiptv.live:8080/live/9225387350/9272623816/143002.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TVB News
+http://humiptv.live:8080/live/9225387350/9272623816/143003.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Awesome TV
+http://humiptv.live:8080/live/9225387350/9272623816/143004.ts
+#EXTINF:-1 group-title="ASTRO MY",MY 8TV
+http://humiptv.live:8080/live/9225387350/9272623816/143005.ts
+#EXTINF:-1 group-title="ASTRO MY",MY ABC Australia
+http://humiptv.live:8080/live/9225387350/9272623816/143006.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Arena Bola
+http://humiptv.live:8080/live/9225387350/9272623816/143007.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Adithya
+http://humiptv.live:8080/live/9225387350/9272623816/143008.ts
+#EXTINF:-1 group-title="ASTRO MY",MY AFC
+http://humiptv.live:8080/live/9225387350/9272623816/143009.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Animal Planet
+http://humiptv.live:8080/live/9225387350/9272623816/143010.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Animax
+http://humiptv.live:8080/live/9225387350/9272623816/143011.ts
+#EXTINF:-1 group-title="ASTRO MY",MY beIN Sports 5
+http://humiptv.live:8080/live/9225387350/9272623816/143012.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro AOD 363
+http://humiptv.live:8080/live/9225387350/9272623816/143013.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro AOD 351
+http://humiptv.live:8080/live/9225387350/9272623816/143014.ts
+#EXTINF:-1 group-title="ASTRO MY",MY beIN Sports 4
+http://humiptv.live:8080/live/9225387350/9272623816/143015.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro AOD 353
+http://humiptv.live:8080/live/9225387350/9272623816/143016.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro AOD 362
+http://humiptv.live:8080/live/9225387350/9272623816/143017.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Arena 1
+http://humiptv.live:8080/live/9225387350/9272623816/143018.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Arena 2
+http://humiptv.live:8080/live/9225387350/9272623816/143019.ts
+#EXTINF:-1 group-title="ASTRO MY",MY ARENA_HD_50fps
+http://humiptv.live:8080/live/9225387350/9272623816/143020.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Arena (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143021.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Arena 2 (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143022.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Awani
+http://humiptv.live:8080/live/9225387350/9272623816/143023.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Awani (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143024.ts
+#EXTINF:-1 group-title="ASTRO MY",MY KTV
+http://humiptv.live:8080/live/9225387350/9272623816/143025.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Sun Life
+http://humiptv.live:8080/live/9225387350/9272623816/143026.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Box Office
+http://humiptv.live:8080/live/9225387350/9272623816/143027.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Ceria
+http://humiptv.live:8080/live/9225387350/9272623816/143028.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Citra
+http://humiptv.live:8080/live/9225387350/9272623816/143029.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Oasis
+http://humiptv.live:8080/live/9225387350/9272623816/143030.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Premier 1
+http://humiptv.live:8080/live/9225387350/9272623816/143031.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Prima
+http://humiptv.live:8080/live/9225387350/9272623816/143032.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Rania
+http://humiptv.live:8080/live/9225387350/9272623816/143033.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Ria
+http://humiptv.live:8080/live/9225387350/9272623816/143034.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Sensasi
+http://humiptv.live:8080/live/9225387350/9272623816/143035.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport 1 (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143036.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport 2 (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143037.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport 2_50fps
+http://humiptv.live:8080/live/9225387350/9272623816/143038.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport 3 (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143039.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport 3_50fps
+http://humiptv.live:8080/live/9225387350/9272623816/143040.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport 4 (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143041.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport UHD/4K
+http://humiptv.live:8080/live/9225387350/9272623816/143042.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport 4_50fps
+http://humiptv.live:8080/live/9225387350/9272623816/143043.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport 5
+http://humiptv.live:8080/live/9225387350/9272623816/143044.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport 5 (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143045.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport 5_50fps
+http://humiptv.live:8080/live/9225387350/9272623816/143046.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Supersport_50fps
+http://humiptv.live:8080/live/9225387350/9272623816/143048.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Tutor TV SK
+http://humiptv.live:8080/live/9225387350/9272623816/143049.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Tutor TV SMK
+http://humiptv.live:8080/live/9225387350/9272623816/143050.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Tutor TV UPSR
+http://humiptv.live:8080/live/9225387350/9272623816/143051.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Shuang Hing
+http://humiptv.live:8080/live/9225387350/9272623816/143052.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Vaanavil
+http://humiptv.live:8080/live/9225387350/9272623816/143053.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Vellithirai
+http://humiptv.live:8080/live/9225387350/9272623816/143054.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Aura
+http://humiptv.live:8080/live/9225387350/9272623816/143055.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Cricket
+http://humiptv.live:8080/live/9225387350/9272623816/143056.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Xiao Tai Yang
+http://humiptv.live:8080/live/9225387350/9272623816/143057.ts
+#EXTINF:-1 group-title="ASTRO MY",MY AXN
+http://humiptv.live:8080/live/9225387350/9272623816/143058.ts
+#EXTINF:-1 group-title="ASTRO MY",MY beIN Sports
+http://humiptv.live:8080/live/9225387350/9272623816/143059.ts
+#EXTINF:-1 group-title="ASTRO MY",MY beIN Sports 2 (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143060.ts
+#EXTINF:-1 group-title="ASTRO MY",MY beIN Sports 2 50fps (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143061.ts
+#EXTINF:-1 group-title="ASTRO MY",MY beIN Sports 3
+http://humiptv.live:8080/live/9225387350/9272623816/143062.ts
+#EXTINF:-1 group-title="ASTRO MY",MY beIN Sports 3 50fps (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143063.ts
+#EXTINF:-1 group-title="ASTRO MY",MY beIN Sports 50fps (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143064.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Bernama
+http://humiptv.live:8080/live/9225387350/9272623816/143065.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Bloomberg TV
+http://humiptv.live:8080/live/9225387350/9272623816/143067.ts
+#EXTINF:-1 group-title="ASTRO MY",MY BOO
+http://humiptv.live:8080/live/9225387350/9272623816/143068.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Boomerang
+http://humiptv.live:8080/live/9225387350/9272623816/143069.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Cartoon Network
+http://humiptv.live:8080/live/9225387350/9272623816/143070.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Celestial Classic Movies
+http://humiptv.live:8080/live/9225387350/9272623816/143071.ts
+#EXTINF:-1 group-title="ASTRO MY",MY CCTV4
+http://humiptv.live:8080/live/9225387350/9272623816/143072.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Celestial
+http://humiptv.live:8080/live/9225387350/9272623816/143073.ts
+#EXTINF:-1 group-title="ASTRO MY",MY CGTN
+http://humiptv.live:8080/live/9225387350/9272623816/143074.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Citra Entertainment
+http://humiptv.live:8080/live/9225387350/9272623816/143075.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Cinemax
+http://humiptv.live:8080/live/9225387350/9272623816/143076.ts
+#EXTINF:-1 group-title="ASTRO MY",MY CNA
+http://humiptv.live:8080/live/9225387350/9272623816/143077.ts
+#EXTINF:-1 group-title="ASTRO MY",MY CNBC
+http://humiptv.live:8080/live/9225387350/9272623816/143078.ts
+#EXTINF:-1 group-title="ASTRO MY",MY CNBC
+http://humiptv.live:8080/live/9225387350/9272623816/143079.ts
+#EXTINF:-1 group-title="ASTRO MY",MY CNN
+http://humiptv.live:8080/live/9225387350/9272623816/143080.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Crime Investigation
+http://humiptv.live:8080/live/9225387350/9272623816/143081.ts
+#EXTINF:-1 group-title="ASTRO MY",MY CTI Asia
+http://humiptv.live:8080/live/9225387350/9272623816/143082.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Discovery Channel
+http://humiptv.live:8080/live/9225387350/9272623816/143083.ts
+#EXTINF:-1 group-title="ASTRO MY",MY DISCOVERY ASIA (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143084.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Discovery Science
+http://humiptv.live:8080/live/9225387350/9272623816/143085.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Discovery Asia
+http://humiptv.live:8080/live/9225387350/9272623816/143086.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Disney Junior
+http://humiptv.live:8080/live/9225387350/9272623816/143087.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Dmax
+http://humiptv.live:8080/live/9225387350/9272623816/143088.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Egg (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143089.ts
+#EXTINF:-1 group-title="ASTRO MY",MY eGG_Network
+http://humiptv.live:8080/live/9225387350/9272623816/143090.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Eurosport
+http://humiptv.live:8080/live/9225387350/9272623816/143091.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Eurosport (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143092.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Food Network
+http://humiptv.live:8080/live/9225387350/9272623816/143093.ts
+#EXTINF:-1 group-title="ASTRO MY",MY France 24
+http://humiptv.live:8080/live/9225387350/9272623816/143094.ts
+#EXTINF:-1 group-title="ASTRO MY",MY GO Shop 4
+http://humiptv.live:8080/live/9225387350/9272623816/143095.ts
+#EXTINF:-1 group-title="ASTRO MY",MY GOLF_CHANNEL_HD_50fps
+http://humiptv.live:8080/live/9225387350/9272623816/143096.ts
+#EXTINF:-1 group-title="ASTRO MY",MY GO Shop
+http://humiptv.live:8080/live/9225387350/9272623816/143097.ts
+#EXTINF:-1 group-title="ASTRO MY",MY GO Shop 2
+http://humiptv.live:8080/live/9225387350/9272623816/143098.ts
+#EXTINF:-1 group-title="ASTRO MY",MY GO Shop 3
+http://humiptv.live:8080/live/9225387350/9272623816/143099.ts
+#EXTINF:-1 group-title="ASTRO MY",MY HBO
+http://humiptv.live:8080/live/9225387350/9272623816/143100.ts
+#EXTINF:-1 group-title="ASTRO MY",MY HBO Family
+http://humiptv.live:8080/live/9225387350/9272623816/143101.ts
+#EXTINF:-1 group-title="ASTRO MY",MY HBO Hits
+http://humiptv.live:8080/live/9225387350/9272623816/143102.ts
+#EXTINF:-1 group-title="ASTRO MY",MY HGTV
+http://humiptv.live:8080/live/9225387350/9272623816/143103.ts
+#EXTINF:-1 group-title="ASTRO MY",MY History
+http://humiptv.live:8080/live/9225387350/9272623816/143104.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Hits
+http://humiptv.live:8080/live/9225387350/9272623816/143105.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Hits Movies
+http://humiptv.live:8080/live/9225387350/9272623816/143106.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Hua Hee Dai
+http://humiptv.live:8080/live/9225387350/9272623816/143107.ts
+#EXTINF:-1 group-title="ASTRO MY",MY iQIYI
+http://humiptv.live:8080/live/9225387350/9272623816/143108.ts
+#EXTINF:-1 group-title="ASTRO MY",MY KBS World
+http://humiptv.live:8080/live/9225387350/9272623816/143110.ts
+#EXTINF:-1 group-title="ASTRO MY",MY KBS World (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143111.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Kix
+http://humiptv.live:8080/live/9225387350/9272623816/143112.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Lifetime
+http://humiptv.live:8080/live/9225387350/9272623816/143113.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Premier 2
+http://humiptv.live:8080/live/9225387350/9272623816/143114.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro SuperSport Events 3
+http://humiptv.live:8080/live/9225387350/9272623816/143115.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro SuperSport Events 4
+http://humiptv.live:8080/live/9225387350/9272623816/143116.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro SuperSport Events 5
+http://humiptv.live:8080/live/9225387350/9272623816/143117.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro SuperSport Events 6
+http://humiptv.live:8080/live/9225387350/9272623816/143118.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Moonbug Kids
+http://humiptv.live:8080/live/9225387350/9272623816/143119.ts
+#EXTINF:-1 group-title="ASTRO MY",MY MTV
+http://humiptv.live:8080/live/9225387350/9272623816/143120.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Nat Geo Wild
+http://humiptv.live:8080/live/9225387350/9272623816/143121.ts
+#EXTINF:-1 group-title="ASTRO MY",MY National Geographic
+http://humiptv.live:8080/live/9225387350/9272623816/143122.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Nick JR
+http://humiptv.live:8080/live/9225387350/9272623816/143123.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Nickelodeon
+http://humiptv.live:8080/live/9225387350/9272623816/143124.ts
+#EXTINF:-1 group-title="ASTRO MY",MY NTV7
+http://humiptv.live:8080/live/9225387350/9272623816/143125.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Sun News
+http://humiptv.live:8080/live/9225387350/9272623816/143126.ts
+#EXTINF:-1 group-title="ASTRO MY",MY One
+http://humiptv.live:8080/live/9225387350/9272623816/143127.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Paramount
+http://humiptv.live:8080/live/9225387350/9272623816/143128.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Phoenix News
+http://humiptv.live:8080/live/9225387350/9272623816/143129.ts
+#EXTINF:-1 group-title="ASTRO MY",MY PRIMEtime
+http://humiptv.live:8080/live/9225387350/9272623816/143130.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Quan Jia
+http://humiptv.live:8080/live/9225387350/9272623816/143131.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Rugby Pass
+http://humiptv.live:8080/live/9225387350/9272623816/143132.ts
+#EXTINF:-1 group-title="ASTRO MY",MY RUGBY_PASS_50fps
+http://humiptv.live:8080/live/9225387350/9272623816/143133.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Showcase Movies
+http://humiptv.live:8080/live/9225387350/9272623816/143134.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Sky News
+http://humiptv.live:8080/live/9225387350/9272623816/143135.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Sports SPO TV
+http://humiptv.live:8080/live/9225387350/9272623816/143136.ts
+#EXTINF:-1 group-title="ASTRO MY",MY SPOTV (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143137.ts
+#EXTINF:-1 group-title="ASTRO MY",MY SPOTV2
+http://humiptv.live:8080/live/9225387350/9272623816/143138.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TA-DAA!
+http://humiptv.live:8080/live/9225387350/9272623816/143139.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TLC
+http://humiptv.live:8080/live/9225387350/9272623816/143140.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV Okey
+http://humiptv.live:8080/live/9225387350/9272623816/143141.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV OKEY (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143142.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV2
+http://humiptv.live:8080/live/9225387350/9272623816/143143.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV3
+http://humiptv.live:8080/live/9225387350/9272623816/143144.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV9
+http://humiptv.live:8080/live/9225387350/9272623816/143145.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TVBS Asia
+http://humiptv.live:8080/live/9225387350/9272623816/143146.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TVBS News
+http://humiptv.live:8080/live/9225387350/9272623816/143147.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TVB Classic
+http://humiptv.live:8080/live/9225387350/9272623816/143148.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TVB E News
+http://humiptv.live:8080/live/9225387350/9272623816/143149.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TVB Jade
+http://humiptv.live:8080/live/9225387350/9272623816/143150.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TVB Xing He
+http://humiptv.live:8080/live/9225387350/9272623816/143151.ts
+#EXTINF:-1 group-title="ASTRO MY",MY tvN
+http://humiptv.live:8080/live/9225387350/9272623816/143152.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TVN (D)
+http://humiptv.live:8080/live/9225387350/9272623816/143153.ts
+#EXTINF:-1 group-title="ASTRO MY",MY tvN Movies
+http://humiptv.live:8080/live/9225387350/9272623816/143154.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TVS
+http://humiptv.live:8080/live/9225387350/9272623816/143155.ts
+#EXTINF:-1 group-title="ASTRO MY",MY TV Alhijrah
+http://humiptv.live:8080/live/9225387350/9272623816/143156.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Vinmeen
+http://humiptv.live:8080/live/9225387350/9272623816/143157.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Astro Warna
+http://humiptv.live:8080/live/9225387350/9272623816/143158.ts
+#EXTINF:-1 group-title="ASTRO MY",MY Warner TV
+http://humiptv.live:8080/live/9225387350/9272623816/143159.ts
+#EXTINF:-1 group-title="ASTRO MY",MY WWE Network
+http://humiptv.live:8080/live/9225387350/9272623816/143160.ts
 
 
 /////INDIA/////
