@@ -1380,7 +1380,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 http://edge.linknetott.swiftserve.com/channelgroup3/cg356production/ch242/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PPJLB5Z.png" group-title="MUSIC",i-Konser (K*)
-#http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264760
+#http://kuchini.site:8080/Raionew/2e1df8e7/264760
 
 #EXTINF:-1 tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="MUSIC", Citra Dangdut (F*)
 https://raw.githubusercontent.com/mimipipi22/nontontv/main/FMX/cdangdut.m3u8
@@ -1467,10 +1467,10 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 ########################## SPORTS ##########################
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-1.jpg",BeIn Sports 1 (K*)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165105
+http://kuchini.site:8080/Raionew/2e1df8e7/165105
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/beIN-2.jpg",BeIn Sports 3 (K*)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298506
+http://kuchini.site:8080/Raionew/2e1df8e7/298506
 
 #EXTINF:-1 tvg-id="beINSports1Indonesia.id"  tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg" group-title="SPORTS",Bein Sport 1 (V*)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1492,7 +1492,7 @@ https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b0
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_307.png",SPOTV (K*)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298570
+http://kuchini.site:8080/Raionew/2e1df8e7/298570
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1500,7 +1500,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298570
 https://nxanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2 (K*)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298571
+http://kuchini.site:8080/Raionew/2e1df8e7/298571
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="SPORTS",Champions TV 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1510,7 +1510,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298571
 https://production-drm-vidio-com-event-1.akamaized.net/out/v1/6ae0fdb0f6ee4b10b5497efc10f0ce03/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="SPORTS",Champions TV 1 (K*)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298512
+http://kuchini.site:8080/Raionew/2e1df8e7/298512
 
 #EXTINF: -1 tvg-name="Champions TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Champions_TV_1_HD_%282021%29.png" group-title="SPORTS", Champions TV 1 (M*)
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880724
@@ -1523,7 +1523,7 @@ https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880724
 https://production-drm-vidio-com-event-2.akamaized.net/out/v1/078b12e86d0a4f75b4c7ce1ed23d82d9/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="SPORTS",Champions TV 2 (K*)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298513
+http://kuchini.site:8080/Raionew/2e1df8e7/298513
 
 #EXTINF: -1 tvg-name="Champions TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png" group-title="SPORTS", Champions TV 2 (M*)
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880725
@@ -1536,7 +1536,7 @@ https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880725
 https://production-drm-vidio-com-event-3.akamaized.net/out/v1/ee66c2e0b8784d3d9f9585af6bdf9109/index.mpd
 
 #EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="SPORTS",Champions TV 3 (K*)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298514
+http://kuchini.site:8080/Raionew/2e1df8e7/298514
 
 #EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://i.imgur.com/xtRvoj9.png" group-title="SPORTS",Champions TV 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1582,7 +1582,7 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-016/stream.mpd
 https://github.com/mimipipi22/nontontv/raw/main/FMX/premiersport.m3u8
 
 #EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="SPORTS",Usee Sports (K*)
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298577
+http://kuchini.site:8080/Raionew/2e1df8e7/298577
 
 #EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="SPORTS", UsseSport 2 (M*)
 https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
@@ -3570,3 +3570,41 @@ http://humiptv.live:8080/live/9225387350/9272623816/1623.ts
 http://humiptv.live:8080/live/9225387350/9272623816/182.ts
 #EXTINF:-1 group-title="INDIA", MTV BEATS HD
 http://humiptv.live:8080/live/9225387350/9272623816/153.ts
+
+
+/////JAPAN/////
+
+#EXTINF:-1 group-title="JAPAN", NHK
+http://203.162.235.41:12091/
+#EXTINF:-1 group-title="JAPAN", NHK World Japan
+http://203.162.235.41:13092/
+#EXTINF:-1 group-title="JAPAN", NHK (no watermark)
+http://203.162.235.41:14093/
+#EXTINF:-1 group-title="JAPAN", Fuji TV
+http://203.162.235.41:15094/
+#EXTINF:-1 group-title="JAPAN", Nippon TV
+http://203.162.235.41:16095/
+#EXTINF:-1 group-title="JAPAN", TV Asahi
+http://203.162.235.41:17097/
+#EXTINF:-1 group-title="JAPAN", TBS
+http://203.162.235.41:18097/
+#EXTINF:-1 group-title="JAPAN", TV Tokyo
+http://203.162.235.41:19098/
+#EXTINF:-1 group-title="JAPAN", NHK BS1
+http://203.162.235.41:20099/
+#EXTINF:-1 group-title="JAPAN", BS Fuji TV
+http://203.162.235.41:22101/
+#EXTINF:-1 group-title="JAPAN", BS TV Tokyo
+http://203.162.235.41:23102/
+#EXTINF:-1 group-title="JAPAN", BS Nippon TV
+http://203.162.235.41:24103/
+#EXTINF:-1 group-title="JAPAN", NHK BS Premium (BSP)
+http://203.162.235.41:25104/
+#EXTINF:-1 group-title="JAPAN", BS-TBS
+http://203.162.235.41:26105/
+#EXTINF:-1 group-title="JAPAN", WOWOW Prime
+http://203.162.235.41:27106/
+#EXTINF:-1 group-title="JAPAN", Golf Network
+http://203.162.235.41:28107/
+#EXTINF:-1 group-title="JAPAN", BS Asahi
+http://203.162.235.41:29108/
