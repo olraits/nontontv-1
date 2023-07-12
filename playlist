@@ -554,7 +554,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Wb6y7nVb/20230519-231400.jpg" group-title="ENTERTAINMENT",TVN Premium Indonesia (D*)
 http://210.210.155.37/dr9445/h/h20/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-name="ID: K+" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="ENTERTAINMEN",ID: K+
+#EXTINF:-1 tvg-name="ID: K+" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="ENTERTAINMENT",ID: K+
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/197969
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Xqf12P/Kplus.png?v=1.0.0.1" group-title="ENTERTAINMENT" tvg-id="K-Plus HD" tvg-name="K-Plus HD", Kplus PH
@@ -2627,22 +2627,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 tvg-id="AstroAwaniHD.My" tvg-logo="https://cdn.ksa.my.id/awani.png" group-title="MALAYSIA",Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Unifi_Sensasi.png" group-title="MALAYSIA", Sensasi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/sensasi/
-https://aqfadtv.xyz/live/unifitv/sensasi/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Unifi_Inspirasi.png" group-title="MALAYSIA", Inspirasi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/inspirasi/
-https://aqfadtv.xyz/live/unifitv/inspirasi/index.mpd
-
-EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7047/CPS/images/universal/film/logo/202204/20220422/2022042207284940668e.png" group-title="MALAYSIA", Degup
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/unifitv/degup/
-https://aqfadtv.xyz/live/unifitv/degup/index.mpd
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live17.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/220px-Awesome_TV_Malaysia.png" group-title="MALAYSIA", Awesome TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
