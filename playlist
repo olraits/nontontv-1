@@ -1307,6 +1307,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 
 #EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://images.useetv.com/logo_flik_small1.png" group-title="MOVIES",Flik (K*)
 http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165095
+#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://images.useetv.com/logo_flik_small1.png" group-title="MOVIES",Flik (A*)
+https://axcestv.com:443/shukri/shukri/523
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/5Lh25lC.png" group-title="MOVIES",Citra Bioskop (F*)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/citrabioskop.m3u8
@@ -1342,6 +1344,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_aniplus_small1.png" group-title="MOVIES",Aniplus
+https://axcestv.com:443/shukri/shukri/549
 http://210.210.155.37/dr9445/h/h02/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png",Aniplus
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
@@ -1368,6 +1371,13 @@ http://208.115.225.174:14165
 http://208.115.225.174:14140
 #EXTINF:-1  group-title="MOVIES" tvg-logo="https://i.postimg.cc/L6TyP8kJ/20230519-230031.jpg",HBO Mundi*
 http://208.115.225.174:14148
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",Star Movie Select
+https://axcestv.com:443/shukri/shukri/513
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",&Flix HD
+https://axcestv.com:443/shukri/shukri/510
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",MN+ HD
+https://axcestv.com:443/shukri/shukri/650
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",China Movie Channel
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156417&extension=ts&play_token=Rk1ga2rPdx
