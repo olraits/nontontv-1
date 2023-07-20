@@ -302,7 +302,7 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be292d655725/38d70128854b459b87ca947e19c982f8.png" group-title="NATIONAL TV",ATV
 https://cdn09jtedge.indihometv.com/dvr/139/atv/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be292d655725/38d70128854b459b87ca947e19c982f8.png" group-title="NATIONAL TV",Antara TV
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="NATIONAL TV",Antara TV
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 
 #EXTINF:-1 group-title="NATIONAL TV" tvg-logo="https://i.postimg.cc/vB0WJftL/20230518-221238.png",Garuda TV (F*)
@@ -554,8 +554,8 @@ https://nxanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Wb6y7nVb/20230519-231400.jpg" group-title="ENTERTAINMENT",TVN Premium Indonesia (D*)
 http://210.210.155.37/dr9445/h/h20/index.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-name="ID: K+" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="ENTERTAINMENT",ID: K+
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/197969
+#EXTINF:-1 tvg-name="ID: K+" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="ENTERTAINMENT",ID: K+ (K*)
+http://kuchini.site:8080/Raionew/2e1df8e7/197969
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Xqf12P/Kplus.png?v=1.0.0.1" group-title="ENTERTAINMENT" tvg-id="K-Plus HD" tvg-name="K-Plus HD", Kplus PH
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=926172&extension=ts&play_token=sBLPHCcrUv
@@ -836,7 +836,7 @@ https://bit.ly/3pQq2LG?/playlist.m3u8
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNATIONAL TV",IFC East (720p)
 https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="Undefined",TVMax (720p)
+#EXTINF:-1 tvg-id="ext" group-title="INTERNATIONAL TV",TVMax (720p)
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="INTERNATIONAL TV",Télé-Québec (720p)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
@@ -1223,7 +1223,7 @@ http://210.210.155.37/dr9445/h/h15/index.m3u8
 https://aqfadtv.xyz/live/mewatch/rockaction/index.mpd
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/logo_blueantextreme_ver1.png" group-title="MOVIES",Rock Extreme (K*)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298566
+http://kuchini.site:8080/Raionew/2e1df8e7/298566
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1306,9 +1306,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 https://nxanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://images.useetv.com/logo_flik_small1.png" group-title="MOVIES",Flik (K*)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/165095
-#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://images.useetv.com/logo_flik_small1.png" group-title="MOVIES",Flik (A*)
-https://axcestv.com:443/shukri/shukri/523
+http://kuchini.site:8080/Raionew/2e1df8e7/165095
 
 #EXTINF:-1 tvg-id="CitraBioskop.id" tvg-logo="https://i.imgur.com/5Lh25lC.png" group-title="MOVIES",Citra Bioskop (F*)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/citrabioskop.m3u8
@@ -1353,13 +1351,13 @@ http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&exten
 ##############################################################
 
 #EXTINF:-1 tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES",ID: Etv Bioskop (K*)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298526
+http://kuchini.site:8080/Raionew/2e1df8e7/298526
 #EXTINF:-1 tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES",ID: Etv Bioskop 02 (K*)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298527
+http://kuchini.site:8080/Raionew/2e1df8e7/298527
 #EXTINF:-1 tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES",ID: Etv Bioskop 03 (K*)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298528
+http://kuchini.site:8080/Raionew/2e1df8e7/298528
 #EXTINF:-1 tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="MOVIES",ID: Etv Bioskop 04 (K*)
-http://kuchini.site:8080/iptvepic4/DzbGTtATy4DzmK8c/298529
+http://kuchini.site:8080/Raionew/2e1df8e7/298529
 
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.postimg.cc/LX1CgkvS/20230519-230522.jpg",HBO Signature* 
 http://208.115.225.174:14160
@@ -1371,13 +1369,6 @@ http://208.115.225.174:14165
 http://208.115.225.174:14140
 #EXTINF:-1  group-title="MOVIES" tvg-logo="https://i.postimg.cc/L6TyP8kJ/20230519-230031.jpg",HBO Mundi*
 http://208.115.225.174:14148
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",Star Movie Select
-https://axcestv.com:443/shukri/shukri/513
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",&Flix HD
-https://axcestv.com:443/shukri/shukri/510
-#EXTINF:-1 tvg-logo="" group-title="MOVIES",MN+ HD
-https://axcestv.com:443/shukri/shukri/650
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES",China Movie Channel
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=156417&extension=ts&play_token=Rk1ga2rPdx
