@@ -188,7 +188,7 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264765
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="Gaya Hidup",Ent
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/157581
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Fashion%20TV%20SD-FirstMedia-Chl-81.jpg" group-title="Gaya Hidup",Fashion TV
-http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298530
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Food%20Network%20HD-FirstMedia-Chl-355.jpg" group-title="Gaya Hidup",Food Network
 https://github.com/mimipipi22/lalajo/raw/main/foodnetwork.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/HGTV%20HD-FirstMedia-Chl-354.jpg" group-title="Gaya Hidup",HGTV
@@ -325,8 +325,12 @@ http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/282262
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/57018
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="Musik",Prambors
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/264761
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Festival%20HD-FirstMedia-Chl-344.jpg" group-title="Musik",Stingray Festival
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingrayfestival.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Djazz%20HD-FirstMedia-Chl-334.jpg" group-title="Musik",Stingray Jazz
 https://github.com/mimipipi22/lalajo/raw/main/stingrayjazz.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/main/logo%20fmx/Stringray%20Now4K%20HD-FM-Chl-345.jpg" group-title="Musik",Stingray Now
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/stingraynow.m3u8
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/12-SPORTS/Champions%20TV%201%20SD-FirstMedia-Chl-141.jpg" group-title="Olah Raga",Champion TV 1
 http://gamsgo.cyou:8080/adastream/J2DVrYWnpTu3Sk4W/298512
 #EXTINF:-1 tvg-logo="https://www.firstmedia.com/files/logos/channels/12-SPORTS/Champions%20TV%202%20SD-FirstMedia-Chl-142.jpg" group-title="Olah Raga",Champion TV 2
