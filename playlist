@@ -368,6 +368,9 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/balaikota.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/13/Bandungtv_2011.png/180px-Bandungtv_2011.png" group-title="NATIONAL TV",Balai Kota Bandung (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/balaikotabandung.m3u8
 
+#EXTINF:-1 group-title="NATIONAL TV" tvg-logo="",Jowo
+https://raw.githubusercontent.com/thefirefox12537/streams/master/jowo.m3u8
+
 
 ########################## NEWS ##########################
 
@@ -1397,7 +1400,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_22.png",Celestial Classic Movies
-https://nxanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1635,6 +1638,9 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=Inspirat
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="MUSIC",Nagaswara Dangdut
+https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
 
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="MUSIC",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
@@ -2447,6 +2453,17 @@ https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Iheart90s" tvg-name="Iheart90s" tvg-logo="" group-title="VISUAL RADIO", IHeart 90s
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISUAL RADIO", Aquarius Musikindo
+https://raw.githubusercontent.com/thefirefox12537/streams/master/akuarius.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISUAL RADIO", Musica Studios
+https://raw.githubusercontent.com/thefirefox12537/streams/master/musika.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISUAL RADIO", Nagaswara Koplo
+https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarakoplo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISUAL RADIO", Nagaswara Pop
+https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarapop.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVz0jk4.png" group-title="VISUAL RADIO",MG Radio Network
 https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1042457750_b192000_sleng.m3u8
 
@@ -3224,8 +3241,14 @@ http://203.162.235.41:24103/
 http://203.162.235.41:25104/
 #EXTINF:-1 group-title="JAPAN", BS-TBS
 http://203.162.235.41:26105/
-#EXTINF:-1 group-title="JAPAN", WOWOW Prime
+#EXTINF:-1 group-title="JAPAN", WOWOW
+https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowlaip.m3u8
+#EXTINF:-1 group-title="JAPAN", WOWOW Prime A
+https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowprem.m3u8
+#EXTINF:-1 group-title="JAPAN", WOWOW Prime B
 http://203.162.235.41:27106/
+#EXTINF:-1 group-title="JAPAN", WOWOW Sinema
+https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowsinema.m3u8
 #EXTINF:-1 group-title="JAPAN", Golf Network
 http://203.162.235.41:28107/
 #EXTINF:-1 group-title="JAPAN", BS Asahi
