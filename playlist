@@ -3301,6 +3301,70 @@ http://203.162.235.41:28107/
 http://203.162.235.41:29108/
 
 
+##########################TEMP##########################
+
+#EXTINF:-1 group-title="TEMP" tvg-logo="",ANTV HD
+http://103.166.27.2:800/play/a01g
+#EXTINF:-1 group-title="TEMP" tvg-logo="",Aswaja TV
+http://103.166.27.2:800/play/a020
+#EXTINF:-1 group-title="TEMP" tvg-logo="",BEIN3
+http://103.166.27.2:800/play/a02f
+#EXTINF:-1 group-title="TEMP" tvg-logo="",CINEMACHI
+http://103.166.27.2:800/play/a028
+#EXTINF:-1 group-title="TEMP" tvg-logo="",CINEMACHI ACTION
+http://103.166.27.2:800/play/a026
+#EXTINF:-1 group-title="TEMP" tvg-logo="",CINEMACHI KIDS
+http://103.166.27.2:800/play/a024
+#EXTINF:-1 group-title="TEMP" tvg-logo="",CINEMACHI MAX
+http://103.166.27.2:800/play/a029
+#EXTINF:-1 group-title="TEMP" tvg-logo="",CINEMACHI XTRA
+http://103.166.27.2:800/play/a025
+#EXTINF:-1 group-title="TEMP" tvg-logo="",CNBC INDONESIA HD
+http://103.166.27.2:800/play/a01e
+#EXTINF:-1 group-title="TEMP" tvg-logo="",CNN INDONESIA HD
+http://103.166.27.2:800/play/a01d
+#EXTINF:-1 group-title="TEMP" tvg-logo="",COMING SOON
+http://103.166.27.2:800/play/a02c
+#EXTINF:-1 group-title="TEMP" tvg-logo="",DREAMWORKS
+http://103.166.27.2:800/play/a027
+#EXTINF:-1 group-title="TEMP" tvg-logo="",Dangdut Tivi
+http://103.166.27.2:800/play/a01x
+#EXTINF:-1 group-title="TEMP" tvg-logo="",Hadi TV
+http://103.166.27.2:800/play/a01v
+#EXTINF:-1 group-title="TEMP" tvg-logo="",INDOSIAR HD
+http://103.166.27.2:800/play/a016
+#EXTINF:-1 group-title="TEMP" tvg-logo="",JTV
+http://103.166.27.2:800/play/a01s
+#EXTINF:-1 group-title="TEMP" tvg-logo="",KOMPASTV HD
+http://103.166.27.2:800/play/a019
+#EXTINF:-1 group-title="TEMP" tvg-logo="",LAGU TV
+http://103.166.27.2:800/play/a01u
+#EXTINF:-1 group-title="TEMP" tvg-logo="",MENTARI HD
+http://103.166.27.2:800/play/a018
+#EXTINF:-1 group-title="TEMP" tvg-logo="",MOJI HD
+http://103.166.27.2:800/play/a017
+#EXTINF:-1 group-title="TEMP" tvg-logo="",Madu TV Nusantara
+http://103.166.27.2:800/play/a01y
+#EXTINF:-1 group-title="TEMP" tvg-logo="",PARAMOUNT NETWORK
+http://103.166.27.2:800/play/a02a
+#EXTINF:-1 group-title="TEMP" tvg-logo="",RCTI
+http://103.166.27.2:800/play/a02e
+#EXTINF:-1 group-title="TEMP" tvg-logo="",RuaiTV
+http://103.166.27.2:800/play/a01w
+#EXTINF:-1 group-title="TEMP" tvg-logo="",SCTV HD
+http://103.166.27.2:800/play/a015
+#EXTINF:-1 group-title="TEMP" tvg-logo="",SPORTSTARS 4 HD
+http://103.166.27.2:800/play/a02d
+#EXTINF:-1 group-title="TEMP" tvg-logo="",TRANS 7 HD
+http://103.166.27.2:800/play/a01c
+#EXTINF:-1 group-title="TEMP" tvg-logo="",TRANS TV HD
+http://103.166.27.2:800/play/a01b
+#EXTINF:-1 group-title="TEMP" tvg-logo="",TV Tabalong
+http://103.166.27.2:800/play/a01z
+#EXTINF:-1 group-title="TEMP" tvg-logo="",TVONE
+http://103.166.27.2:800/play/a01h
+
+
 ##########################DENS TV##########################
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
