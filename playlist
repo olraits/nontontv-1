@@ -571,10 +571,10 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_167.jpg",Lifetime Asia
 https://nxanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://i.imgur.com/Na1vGXR.png" group-title="LIFESTYLE",Fashion TV (F*)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Na1vGXR.png" group-title="LIFESTYLE",Fashion TV (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/fashiontv.m3u8
 
-#EXTINF:-1 tvg-id="FashionTVAsia.fr" tvg-logo="https://i.imgur.com/Na1vGXR.png" group-title="LIFESTYLE",Fashion TV Midnight Secret(*)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Na1vGXR.png" group-title="LIFESTYLE",Fashion TV Midnight Secret(*)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -583,7 +583,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vid
 #KODIPROP:inputstream.adaptive.license_type=https://dcub.zhehacindo.workers.dev/dcub
 #KODIPROP:inputstream.adaptive.license_key=https://dcub.zhehacindo.workers.dev/dcub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="IFESTYLE",Eat N Go
+EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="LIFESTYLE",Eat N Go
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -1201,9 +1201,9 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" group-title="MOVIES", SONY PIX
 http://line.rs6ott.com:80/play/live.php?mac=00:1a:79:2e:9c:e7&stream=282631&extension=ts&play_token=8elHzUlVi6
 
-EXTINF:-1 tvg-logo="https://i.imgur.com/8kWnyqn.png" group-title="MOVIES",Star Movies 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8kWnyqn.png" group-title="MOVIES",Star Movies 
 http://shareex@195.26.87.217/live?channelId=198&deviceMac=00:1A:79:33:E9:41
-EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="MOVIES",Star Movies Select
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dpu3pd2.png" group-title="MOVIES",Star Movies Select
 http://shareex@195.26.87.217/live?channelId=199&deviceMac=00:1A:79:33:E9:41
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1211,8 +1211,8 @@ http://shareex@195.26.87.217/live?channelId=199&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Animax_150x150.png",Animax Asia
 https://nxanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png" group-title="MOVIES",Aniplus (A*)
-http://iptvtree.net:8080/adastream/J2DVrYWnpTu3Sk4W/298504
+#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png" group-title="MOVIES",Aniplus (*)
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298504
 #EXTINF:-1 group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png",Aniplus (*)
 http://line.gofast-tv.me/play/live.php?mac=00:1A:79:6F:5A:5D&stream=926202&extension=ts&play_token=crAdYarYaI
 
@@ -1238,6 +1238,9 @@ http://208.115.225.174:14165
 http://208.115.225.174:14140
 #EXTINF:-1  group-title="MOVIES" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/da07317e9ea0404617a799765f151c31.png",HBO Mundi*
 http://208.115.225.174:14148
+
+#EXTINF:-1  group-title="MOVIES" tvg-logo="",SCM (Xingwei)
+http://198.16.100.90:8278/xingwei_movie/playlist.m3u8?tid=MB7B3700339537003395&ct=19249&tsum=54d5231b311c4cd2b6716eafe88bb0dd
 
 
 
@@ -1340,8 +1343,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIC",Vevo Pop
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/31qkNEPIv1L.png" group-title="MUSIC",Vevo Pop Europa
-https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="MUSIC",K Pop Channel
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
@@ -1370,18 +1371,11 @@ https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 ########################## SPORTS ##########################
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/d53d914cf33a693725a0d427c0cbba1d.png",BeIn Sports 1 (K*)
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165105
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/165105
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/9795eb5b80ed3b3cde621f2a5c15275b.png",BeIn Sports 2 (True*)
-http://103.112.191.9:880/LAOSAT1078.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/088d0d06f0b43fe9529668eac174c903.png",BeIn Sports 3 (K*)
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298506
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png",Astro Supersport 2 (*)
-http://198.16.100.90:8278/Assp2/playlist.m3u8?tid=ME1E4056565440565654&ct=19249&tsum=1bf59bebb8a43a859eae9f1b3759f844
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png",Astro Supersport 3 (*)
-http://198.16.100.90:8278/Assp3/playlist.m3u8?tid=MB4B2552451125524511&ct=19249&tsum=f6cb45a995e37dfc7c40d515f29924e4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -1401,32 +1395,18 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/spotv2.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2 (K*)
 http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298571
 
-#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="SPORTS",Champions TV 1 (A*)
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298512
-##http://kuchini.site:8080/GenIptvLast/cGW7qTY5txZ3DOfz/298512
-#EXTINF: -1 tvg-name="Champions TV 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Champions_TV_1_HD_%282021%29.png" group-title="SPORTS", Champions TV 1 (M*)
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880724
-
-#EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="SPORTS",Champions TV 2 (A*)
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298513
-#EXTINF: -1 tvg-name="Champions TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/Champions_TV_2_HD.png" group-title="SPORTS", Champions TV 2 (M*)
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880725
-
-#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="SPORTS",Champions TV 3 (A*)
-http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/298514
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298514
 
 #EXTINF:-1 tvg-id="823.astro" tvg-logo="https://i.imgur.com/JLG1vd6.png" group-title="SPORTS", Premier Sports (F*)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/premiersport.m3u8
 
-#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="SPORTS",Usee Sports (M*)
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880727
-#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="SPORTS",Usee Sports (G*)
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298577
+#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="SPORTS",Usee Sports (*)
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298577
+#EXTINF:-1 tvg-id="UseeSports" tvg-logo="https://i.imgur.com/Wzd9tZR.png" group-title="SPORTS",Usee Sports (*)
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/29857
 
-#EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="SPORTS", UsseSport 2 (M*)
-https://m3u-editor.com/serve/dd4f39e0-c9c8-11ed-ac78-7b3f6297b90f/803880728
-#EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="SPORTS", UsseSport 2 (G*)
+#EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="SPORTS", UsseSport 2 (*)
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298578
+#EXTINF: -1 tvg-name="UsseSport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Usee_Sports.png" group-title="SPORTS", UsseSport 2 (*)
 http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/298578
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="Eurosport1.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDQEwgek2heV5XUV11xMyxx_byCQT5azVsfg&usqp=CAU" ,Eurosport (F*)
@@ -1555,7 +1535,7 @@ https://nxanv-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
-#EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="RELIGI",Khazanah (T*) 
+EXTINF:0 tvg-id="Khazanah.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f9/Khazanah_Transvision.png" group-title="RELIGI",Khazanah (T*) 
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856f08326c016f557be28131b9/manifest.mpd
 
 
@@ -3012,339 +2992,339 @@ http://50.7.238.114:8278/sanlixiju_twn/playlist.m3u8?tid=MBDB8405357084053570&ct
 =======================PREMIUM ID===========================================
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f4e0afcd338a74393b0c58d2c0a62f0e.png" group-title="PREMIUM-ID",ID: Animal Planet
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157532
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157532
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="PREMIUM-ID",ID: Animax
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165081
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165081
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/653e07e66e2d7efdb7b541e71569b63b.png" group-title="PREMIUM-ID",ID: AniPlus
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298504
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298504
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="PREMIUM-ID",ID: ANTV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165072
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165072
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="PREMIUM-ID",ID: Arirang
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/247447
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/247447
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="PREMIUM-ID",ID: Asian Food Network
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298503
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298503
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="PREMIUM-ID",ID: AXN
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165079
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165079
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="PREMIUM-ID",ID: Baby TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157605
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157605
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="PREMIUM-ID",ID: Bali TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/197962
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197962
 #EXTINF:-1 group-title="PREMIUM-ID",ID: Music Whatever
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/166409
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166409
 #EXTINF:-1 group-title="PREMIUM-ID",ID: Bandung TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/166416
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166416
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="PREMIUM-ID",ID: BBC Earth
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165106
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165106
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: BBC Lifestyle
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264747
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264747
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="PREMIUM-ID",ID: beIN Sports 1
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165105
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165105
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="PREMIUM-ID",ID: beIN Sports 3
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298506
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298506
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="PREMIUM-ID",ID: Berita Satu
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162513
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162513
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="PREMIUM-ID",ID: Berita Satu news
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287421
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/287421
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="PREMIUM-ID",ID: Berita Satu World
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162136
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162136
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="PREMIUM-ID",ID: Bioskop Indonesia
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264801
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264801
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="PREMIUM-ID",ID: Bloomberg TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157599
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157599
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="PREMIUM-ID",ID: Boomerang
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165109
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165109
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="PREMIUM-ID",ID: Boomerang EN
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298507
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298507
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="PREMIUM-ID",ID: Cartoon Network
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157593
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157593
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="PREMIUM-ID",ID: CBeebies
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/247448
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/247448
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="PREMIUM-ID",ID: CCM
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165103
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165103
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="PREMIUM-ID",ID: Celestial Movies
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165065
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165065
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="PREMIUM-ID",ID: CGTN
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298510
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298510
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="PREMIUM-ID",ID: CGTN Documentary
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298511
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298511
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="PREMIUM-ID",ID: Champion TV 1
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298512
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298512
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/62e36432e548966b8c3a4a2afe63ee7e.png" group-title="PREMIUM-ID",ID: Champion TV 2
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298513
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298513
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="PREMIUM-ID",ID: Champion TV 3
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298514
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298514
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="PREMIUM-ID",ID: Channel News Asia
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157602
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157602
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: Chinese Drama
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298516
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298516
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="PREMIUM-ID",ID: CinemaWorld
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165082
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165082
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="PREMIUM-ID",ID: Cinemax
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/197964
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197964
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="PREMIUM-ID",ID: Citra Bioskop
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298519
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298519
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="PREMIUM-ID",ID: Citra Dangdut
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/247446
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/247446
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="PREMIUM-ID",ID: Citra Drama
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264748
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264748
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png" group-title="PREMIUM-ID",ID: Citra Entertainment
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298520
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298520
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="PREMIUM-ID",ID: CNBC Indonesia
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165062
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165062
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="PREMIUM-ID",ID: CNN Indonesia
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162137
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162137
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/da42e92252317dddadd514f5c5b6e0dc.png" group-title="PREMIUM-ID",ID: CNN International
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264778
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264778
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/99f1a318b5c6b2ea16112188fe3641eb.svg" group-title="PREMIUM-ID",ID: Crime+ Investigation
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165052
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165052
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="PREMIUM-ID",ID: Da Ai TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165061
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165061
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e758a48ee4c9f4f226cf65764e549299.png" group-title="PREMIUM-ID",ID: Discovery Asia
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/197968
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197968
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="PREMIUM-ID",ID: Discovery World
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157597
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157597
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="PREMIUM-ID",ID: Disney Channel
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165075
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165075
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="PREMIUM-ID",ID: Disney Junior
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162511
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162511
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="PREMIUM-ID",ID: Disney XD
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/276564
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/276564
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="PREMIUM-ID",ID: DreamWorks
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157610
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157610
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="PREMIUM-ID",ID: Dunia Anak
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264753
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264753
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="PREMIUM-ID",ID: Dunia Lain
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298524
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298524
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="PREMIUM-ID",ID: Eat&Go
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264765
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264765
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="PREMIUM-ID",ID: Ent
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157581
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157581
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: Etv Bioskop
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298526
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298526
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: Etv Bioskop 02
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298527
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298527
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: Etv Bioskop 03
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298528
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298528
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: Etv Bioskop 04
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298529
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298529
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="PREMIUM-ID",ID: Fashion TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298530
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298530
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="PREMIUM-ID",ID: Fight Sport
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298531
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298531
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: FLIK
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165095
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165095
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="PREMIUM-ID",ID: FMN
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165057
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165057
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="PREMIUM-ID",ID: Fox Life
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165083
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165083
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="PREMIUM-ID",ID: Galaxy
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264773
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264773
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="PREMIUM-ID",ID: Galaxy Premium
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264774
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264774
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="PREMIUM-ID",ID: GEM
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298533
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298533
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: Golf
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298534
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298534
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="PREMIUM-ID",ID: GTV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157578
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157578
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="PREMIUM-ID",ID: HBO
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/197972
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197972
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="PREMIUM-ID",ID: HBO Family
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/197055
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197055
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="PREMIUM-ID",ID: HBO Hits
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/196480
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/196480
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="PREMIUM-ID",ID: HBO Signature
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/221948
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221948
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="PREMIUM-ID",ID: HGTV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298535
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298535
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="PREMIUM-ID",ID: Hip Hip Horee!
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298536
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298536
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="PREMIUM-ID",ID: History
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162519
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162519
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="PREMIUM-ID",ID: Hits
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165085
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165085
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="PREMIUM-ID",ID: Hits Movies
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/221947
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221947
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="PREMIUM-ID",ID: Horee!
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264750
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264750
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="PREMIUM-ID",ID: Hunan TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/247443
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/247443
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="PREMIUM-ID",ID: I AM Channel
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287423
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/287423
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: I Konser
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264760
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264760
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="PREMIUM-ID",ID: IDX
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157590
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157590
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/634a1f725799280bbeeb992c9d19fb8f.png" group-title="PREMIUM-ID",ID: Ie
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157582
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157582
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="PREMIUM-ID",ID: IMC
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264769
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264769
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: Indi Kids
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298539
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298539
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="PREMIUM-ID",ID: Indosiar
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162138
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162138
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="PREMIUM-ID",ID: INews
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157579
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157579
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: Infotainment
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298541
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298541
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="PREMIUM-ID",ID: Insert
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264766
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264766
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/9602d4376a3111f7a2fca2542480f8a1.png" group-title="PREMIUM-ID",ID: Izzah TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/275984
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/275984
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="PREMIUM-ID",ID: Jak TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157601
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157601
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="PREMIUM-ID",ID: JTV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165091
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165091
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="PREMIUM-ID",ID: K+
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/197969
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197969
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png" group-title="PREMIUM-ID",ID: KBS World
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/197053
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197053
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="PREMIUM-ID",ID: Kids TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162505
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162505
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="PREMIUM-ID",ID: KIX
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165068
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165068
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="PREMIUM-ID",ID: Kompas TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165060
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165060
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/81b0c7cdcd17b9278bd3314c401b9600.png" group-title="PREMIUM-ID",ID: Life
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157585
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157585
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="PREMIUM-ID",ID: Lifestyle & Fashion
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157592
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157592
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="PREMIUM-ID",ID: Lifetime
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298543
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298543
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" group-title="PREMIUM-ID",ID: Love Nature
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264756
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264756
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="PREMIUM-ID",ID: Mentari TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298546
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298546
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="PREMIUM-ID",ID: Metro TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165059
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165059
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/6dfb5c834dbf9a8ce7f257f63d9be322.png" group-title="PREMIUM-ID",ID: Miao Mi
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/266805
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/266805
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="PREMIUM-ID",ID: SindoNews
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165058
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165058
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="PREMIUM-ID",ID: MNC TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165054
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165054
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="PREMIUM-ID",ID: Moji
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298550
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298550
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: MQTV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298551
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298551
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="PREMIUM-ID",ID: MTA 7 Asia
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162522
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162522
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="PREMIUM-ID",ID: MTA TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298552
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298552
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="PREMIUM-ID",ID: Music TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165108
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165108
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="PREMIUM-ID",ID: My Cinema
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298553
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298553
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="PREMIUM-ID",ID: My Cinema Asia
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298554
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298554
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="PREMIUM-ID",ID: My Family
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298555
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298555
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="PREMIUM-ID",ID: My Kidz
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298556
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298556
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="PREMIUM-ID",ID: Nat Geo
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165094
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165094
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="PREMIUM-ID",ID: Nat Geo Wild
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/197967
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197967
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="PREMIUM-ID",ID: NBA TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298558
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298558
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="PREMIUM-ID",ID: Net
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/80292
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/80292
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="PREMIUM-ID",ID: NHK World
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298560
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298560
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="PREMIUM-ID",ID: Nick Jr
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165107
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165107
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="PREMIUM-ID",ID: Nick Jr EN
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298561
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298561
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="PREMIUM-ID",ID: nickelodeon
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162510
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162510
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="PREMIUM-ID",ID: Nusantara TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/166410
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166410
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="PREMIUM-ID",ID: OK TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/221956
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/221956
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="PREMIUM-ID",ID: ONE
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298563
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298563
 #EXTINF:-1 group-title="PREMIUM-ID",A12 TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162140
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162140
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="PREMIUM-ID",ID: Paramount Network
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298564
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298564
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="PREMIUM-ID",ID: Prambors
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264761
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264761
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="PREMIUM-ID",ID: Rajawali TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/196457
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/196457
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="PREMIUM-ID",ID: RCTI
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157591
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157591
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="PREMIUM-ID",ID: RCTI
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/299483
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/299483
 #EXTINF:-1 group-title="PREMIUM-ID",ID: Reformed 21
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/174574
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/174574
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="PREMIUM-ID",ID: Rock Action
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298490
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298490
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="PREMIUM-ID",ID: Rock Entertaiment
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298565
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298565
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="PREMIUM-ID",ID: Rodja TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264758
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264758
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/3fd36ee56651002d0195cd998d2d0f5b.png" group-title="PREMIUM-ID",ID: RRI Net
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/266816
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/266816
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="PREMIUM-ID",ID: SCTV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162141
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162141
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/66ccbde52f52776d0260f416549d914c.png" group-title="PREMIUM-ID",ID: SEA Today
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298568
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298568
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="PREMIUM-ID",ID: Sindonews TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/299485
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/299485
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="PREMIUM-ID",ID: Smithsonian Channel
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264767
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264767
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="PREMIUM-ID",ID: Sony One
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165077
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165077
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="PREMIUM-ID",ID: SpoTV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298570
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298570
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="PREMIUM-ID",ID: SpoTV 2
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298571
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298571
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="PREMIUM-ID",ID: Tech Storm
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298572
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298572
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="PREMIUM-ID",ID: Thrill
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157580
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157580
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="PREMIUM-ID",ID: TLC
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/165086
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/165086
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="PREMIUM-ID",ID: Trans 7
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162502
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162502
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="PREMIUM-ID",ID: Trans TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162503
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162503
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="PREMIUM-ID",ID: TV 9 Nusantara
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162509
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162509
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c670d341a55f851a059f320c0b831037.png" group-title="PREMIUM-ID",ID: TV Mu
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/196459
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/196459
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="PREMIUM-ID",ID: TV One
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/296214
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/296214
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="PREMIUM-ID",ID: TVKU
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/166709
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166709
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="PREMIUM-ID",ID: TVN
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/197965
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197965
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="PREMIUM-ID",ID: TVN Movies
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157596
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157596
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="PREMIUM-ID",ID: TVRI
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162504
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162504
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="PREMIUM-ID",ID: TVRI Sport
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/287433
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/287433
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="PREMIUM-ID",ID: TVRI Sport
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/166686
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/166686
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/ba768bd70edc3098433bdfaeacc616e6.jfif" group-title="PREMIUM-ID",ID: TVRI World
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/295291
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/295291
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c06fb1934479ecc6192471dee8b59a73.png" group-title="PREMIUM-ID",ID: U Channel
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162146
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162146
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="PREMIUM-ID",ID: Usee Prime
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/162524
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/162524
 #EXTINF:-1 group-title="PREMIUM-ID",ID: Usee Sport 1
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298577
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298577
 #EXTINF:-1 group-title="PREMIUM-ID",ID: Usee Sport 2
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/298578
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/298578
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="PREMIUM-ID",ID: Vision Prime
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/197958
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/197958
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="PREMIUM-ID",ID: Warner TV
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157594
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157594
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="PREMIUM-ID",ID: Zee Bioskop
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/157584
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/157584
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="PREMIUM-ID",ID: ZooMoo
-http://37.49.230.42:8080/supermediatv/kDV7uQaQKRW5XwQd/264751
+http://iptvtree.net:8080/resplice/BiD8iEiMv7js1OUL/264751
 
 
 ===============================CUBMU=================================================
