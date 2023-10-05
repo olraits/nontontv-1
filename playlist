@@ -96,6 +96,9 @@ https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
 
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.postimg.cc/2y4WwVhW/tvon.png",TVOne (Y*)
+https://ythls.onrender.com/video/yNKvkPJl-tg.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
@@ -1392,15 +1395,16 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf9
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zfkfJPft/the-kpop.png" group-title="MUSIC",K Pop Channel
-https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
-https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/887f87f5db4607fe06a5c084439cbf8c.jpg" group-title="MUSIC",Persiana Korea
-http://51.210.199.14/hls/stream.m3u8
+https://ythls.onrender.com/video/JVocS7Yftw8.m3u8
+#https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP.m3u8
+#https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
+#https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nhBzWLft/the-kpop2.png" group-title="MUSIC",K Pop2 Channel
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/887f87f5db4607fe06a5c084439cbf8c.jpg" group-title="MUSIC",Persiana Korea
+http://51.210.199.14/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-id="" group-title="MUSIC" tvg-logo="https://github.com/inspirationlinks/inspiration-1/raw/master/retromusic.png",Retro tv 🇨🇿
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=InspirationLinks
@@ -1408,8 +1412,16 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?wmsAuthSign=Inspirat
 #EXTINF:0 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="MUSIC",9XM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 
-#EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="MUSIC",Nagaswara Dangdut
-https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",UPROXX
+https://ythls.onrender.com/video/05689ErDUdM.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",VH+1
+#EXTVLCOPT:http-user-agent=aHR0cHM6Ly9xcmVhdGlma3UubXkuaWQgLSBwbGF5bGlzdCBxcmVhdGlma3V0dg==13)
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC",Nagaswara Dangdut
+https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswaradensdut.m3u8
 
 #EXTINF:-1 tvg-id="IMTV.id" tvg-logo="" group-title="MUSIC",IMTV
 https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
@@ -1595,15 +1607,20 @@ https://iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8
 https://iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISUAL RADIO", Aquarius Musikindo
-https://raw.githubusercontent.com/thefirefox12537/streams/master/akuarius.m3u8
+https://ythls.onrender.com/video/GXptC5aDvu4.m3u8
+#https://raw.githubusercontent.com/thefirefox12537/streams/master/akuarius.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISUAL RADIO", Musica Studios
 https://raw.githubusercontent.com/thefirefox12537/streams/master/musika.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISUAL RADIO", Nagaswara Koplo
-https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarakoplo.m3u8
+https://nagaswarakoplo.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarakoplo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISUAL RADIO", Nagaswara Pop
-https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarapop.m3u8
+https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
+#https://raw.githubusercontent.com/thefirefox12537/streams/master/nagaswarapop.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="VISUAL RADIO", NCS
+https://ythls.onrender.com/video/7tNtU5XFwrU.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WVz0jk4.png" group-title="VISUAL RADIO",MG Radio Network
 https://edge.medcom.id/live-edge/smil:mgradio.smil/chunklist_w1042457750_b192000_sleng.m3u8
@@ -3700,4 +3717,4 @@ EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/402
 https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6857fe540a1018060b2307340bd/manifest.mpd
 
 
-#EXTM3U billed-msg="😎 =Mimipipi22/nontontv= 😎"
+#EXTM3U billed-msg="😎 Mimipipi22/nontontv 😎"
